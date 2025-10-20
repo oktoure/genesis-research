@@ -142,15 +142,15 @@
     "chartPath": "/charts/Equities/bank-fragility-watch-zions-sits-on-the-61-8_2025-10-17.svg",
     "chartHeight": "350"
   },
-  {
-    "id": 14,
-    "date": "20-10-2025",
-    "category": "Technical",
-    "categoryColor": "bg-purple-600",
-    "title": "Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits",
-    "summary": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.**",
-    "fullContent": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.** The rebound follows our earlier short bias near the 76.4 % retracement (46 709) from the October 12 low (45 409), where we already booked partial profits. The high at 47 062 remains intact, keeping the tactical short setup technically valid — though momentum has firmed as equities and gold rally in tandem. The move underscores the market’s persistent “buy-the-dip” instinct and the resilience of animal spirits despite tightening conditions. The setup now evolves into a resilience test: if optimism around tariffs and policy progress fades, volatility will return quickly — and if negativities magnify, more vol and more bearishness will follow.",
-    "chartPath": "/charts/Technical/tactical-update-us30-retesting-the-76-4-fade-amid-renewed-animal-spirits_2025-10-20.svg",
-    "chartHeight": "350"
-  }
+{
+  "id": 14,
+  "date": "20-10-2025",
+  "category": "Technical",
+  "categoryColor": "bg-purple-600",
+  "title": "Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits",
+  "summary": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.**",
+  "fullContent": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.** The rebound follows our earlier short bias near the 76.4 % retracement (46 709) from the October 12 low (45 409), where we already booked partial profits. The high at 47 062 remains intact, keeping the tactical short setup technically valid — though momentum has firmed as equities and gold rally in tandem. The move underscores the market’s persistent “buy-the-dip” instinct and the resilience of animal spirits despite tightening conditions. **The setup now evolves into a resilience test: if optimism around tariffs and policy progress fades, volatility will return quickly — and if negativities magnify, more vol and more bearishness will follow.**",
+  "chartPath": "/charts/Technical/tactical-update-us30-retesting-the-76-4-fade-amid-renewed-animal-spirits_2025-10-20.svg",
+  "chartHeight": "350"
+}
 ]
