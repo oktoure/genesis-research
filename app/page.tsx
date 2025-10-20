@@ -1,103 +1,129 @@
-import Image from "next/image";
+'use client';
+
+import React, { useState } from 'react';
+import { ChevronDown } from 'lucide-react';
+import insightsData from './data/insights.json';
+
+interface Insight {
+  id: number;
+  date: string;
+  category: string;
+  categoryColor: string;
+  title: string;
+  summary: string;
+  fullContent: string;
+  chartPath: string;
+  chartHeight: string;
+}
 
 export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+  const [expandedInsight, setExpandedInsight] = useState<number | null>(null);
+  const insights: Insight[] = insightsData;
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+  const toggleExpand = (id: number) => {
+    setExpandedInsight(expandedInsight === id ? null : id);
+  };
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
+      {/* Premium Header */}
+      <header className="bg-slate-900 border-b border-slate-800">
+        <div className="max-w-7xl mx-auto px-8 py-8">
+          <div className="flex items-center justify-between">
+            <div>
+              <h1 className="text-3xl font-bold text-white tracking-tight">Genesis Research</h1>
+              <p className="text-slate-400 mt-2 text-sm">Research, timely insights, and transparent trade ideas</p>
+            </div>
+            <div className="text-right">
+              <div className="text-slate-400 text-sm">Last Updated</div>
+              <div className="text-white font-semibold">{new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      {/* Main Content */}
+      <main className="max-w-7xl mx-auto px-8 py-12">
+        <div className="mb-12">
+          <h2 className="text-4xl font-bold text-slate-900 mb-3">Daily Insights</h2>
+          <div className="h-1 w-24 bg-blue-600 rounded-full"></div>
+        </div>
+
+        {/* Insights Grid - 2x2 Pattern */}
+        <div className="space-y-12">
+          {insights.map((insight) => (
+            <div 
+              key={insight.id}
+              className="bg-white rounded-2xl shadow-lg overflow-hidden border border-slate-200 hover:shadow-xl transition-shadow duration-300"
+            >
+              {/* Header */}
+              <div className="bg-gradient-to-r from-slate-50 to-white px-8 py-6 border-b border-slate-200">
+                <div className="flex items-center justify-between mb-4">
+                  <span className={`${insight.categoryColor} text-white px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider`}>
+                    {insight.category}
+                  </span>
+                  <time className="text-slate-500 text-sm font-medium">
+                    {insight.date}
+                  </time>
+                </div>
+                <h3 className="text-2xl font-bold text-slate-900 leading-tight">
+                  {insight.title}
+                </h3>
+              </div>
+
+              {/* 2x2 Grid: Chart Left | Text Right */}
+              <div className="grid md:grid-cols-2 gap-0">
+                {/* LEFT: Chart */}
+                <div className="bg-slate-50 p-8 flex items-center justify-center border-r border-slate-200">
+                  <div className="w-full">
+                    <div 
+                      className="bg-white rounded-lg shadow-sm border border-slate-200 overflow-hidden flex items-center justify-center"
+                      style={{ height: `${insight.chartHeight}px` }}
+                    >
+                      <img 
+                        src={insight.chartPath} 
+                        alt={insight.title}
+                        className="w-full h-full object-contain"
+                      />
+                    </div>
+                    <p className="text-xs text-slate-400 mt-3 text-center">Source: Genesis Research</p>
+                  </div>
+                </div>
+
+                {/* RIGHT: Text Content */}
+                <div className="p-8 flex flex-col justify-between">
+                  <div>
+                    <p className="text-slate-700 leading-relaxed text-base">
+                      {expandedInsight === insight.id ? insight.fullContent : insight.summary}
+                    </p>
+                  </div>
+                  
+                  <div className="mt-6 pt-6 border-t border-slate-200">
+                    <button 
+                      onClick={() => toggleExpand(insight.id)}
+                      className="text-blue-600 hover:text-blue-700 font-semibold text-sm flex items-center group"
+                    >
+                      {expandedInsight === insight.id ? 'Show Less' : 'Read Full Analysis'}
+                      <ChevronDown 
+                        className={`w-4 h-4 ml-2 transition-transform ${expandedInsight === insight.id ? 'rotate-180' : ''}`}
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Footer CTA */}
+        <div className="mt-16 bg-slate-900 rounded-2xl p-12 text-center">
+          <h3 className="text-2xl font-bold text-white mb-4">Want More Insights?</h3>
+          <p className="text-slate-400 mb-6">Subscribe to receive daily market analysis and trade alerts</p>
+          <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-3 rounded-lg transition-colors">
+            Subscribe Now
+          </button>
         </div>
       </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
     </div>
   );
 }
