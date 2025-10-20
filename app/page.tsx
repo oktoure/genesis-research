@@ -2,11 +2,11 @@
 
 import React, { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
-import insightsData from './data/insights.json';
+import rawInsights from './data/insights.json';
 
 interface Insight {
   id: number;
-  date: string;
+  date: string; // dd-mm-YYYY
   category: string;
   categoryColor: string;
   title: string;
@@ -16,25 +16,36 @@ interface Insight {
   chartHeight: string;
 }
 
+function parseDDMMYYYY(d: string): number {
+  // returns a sortable timestamp
+  // expects "dd-mm-YYYY"
+  const [dd, mm, yyyy] = d.split('-').map(Number);
+  return new Date(yyyy, (mm || 1) - 1, dd || 1).getTime();
+}
+
 export default function Home() {
   const [expandedInsight, setExpandedInsight] = useState<number | null>(null);
-  const insights: Insight[] = insightsData;
+
+  // 1) sort newest-first. Choose ONE of these:
+
+  // A) by id (if id always increases with time)
+  const insights: Insight[] = [...(rawInsights as Insight[])].sort((a, b) => b.id - a.id);
+
+  // OR B) by date (if you prefer date)
+  // const insights: Insight[] = [...(rawInsights as Insight[])].sort(
+  //   (a, b) => parseDDMMYYYY(b.date) - parseDDMMYYYY(a.date)
+  // );
 
   const toggleExpand = (id: number) => {
     setExpandedInsight(expandedInsight === id ? null : id);
   };
 
-  // Enhanced parser with **custom bold** support
   const parseContentWithMarkdown = (text: string, isExpanded: boolean) => {
     if (!text) return null;
-
-    // Check if text has **custom bold** markers
     const hasCustomBold = text.includes('**');
 
     if (hasCustomBold) {
-      // Parse custom bold markers **text**
       const parts = text.split(/(\*\*.*?\*\*)/g);
-      
       return (
         <div className="text-justify">
           {parts.map((part, idx) => {
@@ -48,23 +59,16 @@ export default function Home() {
       );
     }
 
-    // Default: auto-bold first/last sentences
-    if (!isExpanded) {
-      return <p className="font-bold text-justify">{text}</p>;
-    }
+    if (!isExpanded) return <p className="font-bold text-justify">{text}</p>;
 
-    // Full content - first and last sentences bold
     const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
-    
     return (
       <div className="text-justify">
         {sentences.map((sentence, idx) => {
           const isFirst = idx === 0;
           const isLast = idx === sentences.length - 1;
-          const isBold = isFirst || isLast;
-          
           return (
-            <span key={idx} className={isBold ? 'font-bold' : ''}>
+            <span key={idx} className={isFirst || isLast ? 'font-bold' : ''}>
               {sentence}{' '}
             </span>
           );
@@ -93,7 +97,7 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Main Content */}
+      {/* Main */}
       <main className="max-w-7xl mx-auto px-6 py-10">
         <div className="mb-8">
           <h2 className="text-2xl font-bold text-slate-900 mb-2">Daily Insights</h2>
@@ -110,15 +114,14 @@ export default function Home() {
                   </span>
                   <time className="text-slate-500 text-xs font-bold">{insight.date}</time>
                 </div>
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  {insight.title}
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">{insight.title}</h3>
               </div>
 
               <div className="grid md:grid-cols-2 gap-6 items-start">
                 <div className="w-full">
-                  <img 
-                    src={insight.chartPath} 
+                  {/* 2) Encode URL to handle spaces/emdashes */}
+                  <img
+                    src={encodeURI(insight.chartPath)}
                     alt={insight.title}
                     className="w-full h-auto"
                     style={{ display: 'block' }}
@@ -132,13 +135,13 @@ export default function Home() {
                       expandedInsight === insight.id
                     )}
                   </div>
-                  
-                  <button 
+
+                  <button
                     onClick={() => toggleExpand(insight.id)}
                     className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start flex items-center gap-1.5 group mt-2"
                   >
                     {expandedInsight === insight.id ? 'Show Less' : 'Read Full Analysis'}
-                    <ChevronDown 
+                    <ChevronDown
                       className={`w-3.5 h-3.5 transition-transform ${expandedInsight === insight.id ? 'rotate-180' : ''}`}
                     />
                   </button>
