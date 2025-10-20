@@ -1,4 +1,4 @@
-[
+[ 
   {
     "id": 1,
     "date": "30-09-2025",
@@ -152,16 +152,5 @@
     "fullContent": "**The Dow reached our 61.8% retracement target at 45,922.99, securing partial profits from the 76.4% short near 46,675 before rebounding.** The bounce shows that buy-the-dip psychology remains alive, keeping this phase a test of equity resilience rather than a confirmed reversal. Momentum has yet to break decisively higher, but volatility is picking up — and if negativities magnify, more vol and more bearishness will follow. **The short bias stays tactical: valid while prices hold below 46,700 and MA200 flattens. A sustained break above 47,063 would invalidate the setup and reopen squeeze potential.**",
     "chartPath": "/charts/DJI INDEX_2025-10-19.svg",
     "chartHeight": "350"
-  },
-  {
-    "date": "20-10-2025",
-    "category": "Technical",
-    "categoryColor": "bg-purple-600",
-    "title": "Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits",
-    "summary": "**Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits** — Add summary here.",
-    "fullContent": "**Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits** — Add full content here. Edit insights.json to replace this placeholder.",
-    "chartPath": "/charts/Technical/Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits_2025-10-20.svg",
-    "chartHeight": "350",
-    "id": 15
   }
 ]
