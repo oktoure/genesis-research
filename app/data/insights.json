@@ -152,5 +152,17 @@
   "fullContent": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.** The rebound follows our earlier short bias near the 76.4 % retracement (46 709) from the October 12 low (45 409), where we already booked partial profits. The high at 47 062 remains intact, keeping the tactical short setup technically valid — though momentum has firmed as equities and gold rally in tandem. The move underscores the market’s persistent “buy-the-dip” instinct and the resilience of animal spirits despite tightening conditions. **The setup now evolves into a resilience test: if optimism around tariffs and policy progress fades, volatility will return quickly — and if negativities magnify, more vol and more bearishness will follow.**",
   "chartPath": "/charts/Technical/tactical-update-us30-retesting-the-76-4-fade-amid-renewed-animal-spirits_2025-10-20.svg",
   "chartHeight": "350"
+},
+{
+  "id": 15,
+  "date": "20-10-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold’s 61.8% Confluence: From Dip to New Highs",
+  "summary": "**Gold’s parabolic run briefly cracked on October 17, dropping $100 after breaking $4 278, but the retracement stopped precisely at the 61.8 % Fibonacci level (≈ $4 201) — perfectly aligning with its 1-hour MA 100.**",
+  "fullContent": "**Gold’s parabolic run briefly cracked on October 17, dropping $100 after breaking $4 278, but the retracement stopped precisely at the 61.8 % Fibonacci level (≈ $4 201) — perfectly aligning with its 1-hour MA 100.** That technical confluence drew aggressive dip-buyers, turning the flush into a springboard. By October 20, bullion had fully recouped losses, hovering near record resistance around $4 380. The sequence captures a textbook ‘trend-respect’ pattern: a parabolic move, a sharp profit-taking washout, then a measured rebound off structural support. The $4 200 zone now defines the bullish line-in-the-sand. As long as gold holds above its MA 100 and yields drift lower, the bias stays constructive — momentum traders continue treating dips as entries, not exits. **If negativities magnify, more vol and more bullish momentum will follow.**",
+  "chartPath": "/charts/Technical/gold-61-8-confluence-from-dip-to-new-highs_2025-10-20.svg",
+  "chartHeight": "350"
 }
+
 ]
