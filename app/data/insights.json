@@ -7,18 +7,7 @@
     "title": "Tactical Update — Dow Jones: Partial TP Hit, Market Tests Resilience",
     "summary": "The Dow reached our 61.8% retracement target at 45,922.99, securing partial profits from the 76.4% short near 46,675 before rebounding. The bounce shows that buy-the-dip psychology remains alive.",
     "fullContent": "The Dow reached our 61.8% retracement target at 45,922.99, securing partial profits from the 76.4% short near 46,675 before rebounding. The bounce shows that buy-the-dip psychology remains alive, keeping this phase a test of equity resilience rather than a confirmed reversal. Momentum has yet to break decisively higher, but volatility is picking up — and if negativities magnify, more vol and more bearishness will follow.",
-    "chartPath": "/charts/sample-chart-1.svg",
+    "chartPath": "/charts/DJI INDEX_2025-10-19.svg",
     "chartHeight": "350"
-  },
-  {
-    "id": 2,
-    "date": "16-10-2025",
-    "category": "Economics",
-    "categoryColor": "bg-emerald-600",
-    "title": "Philly Fed: Headline Craters, Internals Hold Up",
-    "summary": "The Philadelphia Fed Manufacturing Index collapsed to -12.8 in October, marking a 36-point swing into contraction, but the internals stayed firm.",
-    "fullContent": "The Philadelphia Fed Manufacturing Index collapsed to -12.8 in October (from 23.2, cons 10), marking a 36-point swing into contraction, but the internals stayed firm. New orders rose to 18.2, capex intentions jumped to 25.2, and the six-month outlook improved, signaling that underlying demand and investment remain alive even as the headline slumped.",
-    "chartPath": "/charts/sample-chart-2.svg",
-    "chartHeight": "700"
   }
 ]
