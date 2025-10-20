@@ -26,17 +26,17 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Clean Header */}
+      {/* Header - Matching Webflow */}
       <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-6xl mx-auto px-8 py-8">
+        <div className="max-w-7xl mx-auto px-6 py-6">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-white tracking-tight">Genesis Research</h1>
-              <p className="text-slate-400 mt-2 text-sm">Research, timely insights, and transparent trade ideas</p>
+              <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
+              <p className="text-slate-400 mt-1 text-xs">Research, timely insights, and transparent trade ideas</p>
             </div>
             <div className="text-right">
-              <div className="text-slate-400 text-sm">Last Updated</div>
-              <div className="text-white font-semibold">
+              <div className="text-slate-400 text-xs">Last Updated</div>
+              <div className="text-white text-sm font-semibold">
                 {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
               </div>
             </div>
@@ -45,57 +45,68 @@ export default function Home() {
       </header>
 
       {/* Main Content */}
-      <main className="max-w-6xl mx-auto px-8 py-16">
-        <div className="mb-16">
-          <h2 className="text-4xl font-light text-slate-900 mb-3">Daily Insights</h2>
-          <div className="h-0.5 w-20 bg-blue-600"></div>
+      <main className="max-w-7xl mx-auto px-6 py-10">
+        <div className="mb-8">
+          <h2 className="text-3xl font-bold text-slate-900 mb-2">Daily Insights</h2>
+          <div className="h-0.5 w-16 bg-blue-600"></div>
         </div>
 
-        {/* Insights - Super Clean Layout */}
-        <div className="space-y-16">
+        {/* Insights - Tight, Premium Layout */}
+        <div className="space-y-10">
           {insights.map((insight) => (
-            <article key={insight.id} className="border-b border-slate-100 pb-16 last:border-0">
-              {/* Metadata */}
-              <div className="flex items-center gap-4 mb-4">
-                <span className={`${insight.categoryColor} text-white px-3 py-1 rounded text-xs font-medium uppercase tracking-wide`}>
+            <article key={insight.id} className="border-b border-slate-100 pb-8 last:border-0">
+              {/* Compact Metadata */}
+              <div className="flex items-center gap-3 mb-3">
+                <span className={`${insight.categoryColor} text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}>
                   {insight.category}
                 </span>
-                <time className="text-slate-400 text-sm">{insight.date}</time>
+                <time className="text-slate-400 text-xs">{insight.date}</time>
               </div>
 
               {/* Title */}
-              <h3 className="text-2xl font-semibold text-slate-900 mb-8 leading-tight">
+              <h3 className="text-xl font-bold text-slate-900 mb-5 leading-snug">
                 {insight.title}
               </h3>
 
-              {/* Grid: Chart Left | Text Right */}
-              <div className="grid md:grid-cols-2 gap-12 items-start">
-                {/* LEFT: Chart - Clean White Background */}
+              {/* Grid: Chart Left | Text Right - Tighter */}
+              <div className="grid md:grid-cols-2 gap-6 items-start">
+                {/* LEFT: Chart - No extra padding */}
                 <div className="w-full">
-                  <div className="bg-white">
-                    <img 
-                      src={insight.chartPath} 
-                      alt={insight.title}
-                      className="w-full h-auto"
-                      style={{ display: 'block' }}
-                    />
-                  </div>
-                  <p className="text-xs text-slate-400 mt-3">Source: Genesis Research</p>
+                  <img 
+                    src={insight.chartPath} 
+                    alt={insight.title}
+                    className="w-full h-auto"
+                    style={{ display: 'block' }}
+                  />
                 </div>
 
-                {/* RIGHT: Text Content */}
+                {/* RIGHT: Text Content - Mixed formatting */}
                 <div className="flex flex-col justify-start">
-                  <p className="text-slate-700 leading-relaxed text-base mb-6">
-                    {expandedInsight === insight.id ? insight.fullContent : insight.summary}
-                  </p>
+                  <div className="text-slate-700 leading-relaxed text-[15px] mb-4 space-y-3">
+                    {expandedInsight === insight.id ? (
+                      // Parse full content for bold text
+                      insight.fullContent.split('.').map((sentence, idx) => {
+                        if (sentence.trim()) {
+                          // First sentence bold
+                          if (idx === 0) {
+                            return <p key={idx} className="font-semibold">{sentence.trim()}.</p>;
+                          }
+                          return <span key={idx}>{sentence.trim()}. </span>;
+                        }
+                        return null;
+                      })
+                    ) : (
+                      <p className="font-semibold">{insight.summary}</p>
+                    )}
+                  </div>
                   
                   <button 
                     onClick={() => toggleExpand(insight.id)}
-                    className="text-blue-600 hover:text-blue-700 text-sm font-medium self-start flex items-center gap-2 group"
+                    className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start flex items-center gap-1.5 group mt-2"
                   >
                     {expandedInsight === insight.id ? 'Show Less' : 'Read Full Analysis'}
                     <ChevronDown 
-                      className={`w-4 h-4 transition-transform ${expandedInsight === insight.id ? 'rotate-180' : ''}`}
+                      className={`w-3.5 h-3.5 transition-transform ${expandedInsight === insight.id ? 'rotate-180' : ''}`}
                     />
                   </button>
                 </div>
@@ -106,9 +117,9 @@ export default function Home() {
       </main>
 
       {/* Minimal Footer */}
-      <footer className="border-t border-slate-100 mt-20">
-        <div className="max-w-6xl mx-auto px-8 py-8">
-          <p className="text-slate-400 text-sm text-center">© 2025 Genesis Research</p>
+      <footer className="border-t border-slate-100 mt-12">
+        <div className="max-w-7xl mx-auto px-6 py-6">
+          <p className="text-slate-400 text-xs text-center">© 2025 Genesis Research</p>
         </div>
       </footer>
     </div>
