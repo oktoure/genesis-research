@@ -100,7 +100,7 @@ export default function Home() {
       {/* Main */}
       <main className="max-w-7xl mx-auto px-6 py-10">
         <div className="mb-8">
-          <h2 className="text-2xl font-bold text-slate-900 mb-2">Daily Insights</h2>
+          <h2 className="text-2xl font-bold text-slate-900 mb-2">Insights</h2>
           <div className="h-0.5 w-16 bg-blue-600"></div>
         </div>
 
