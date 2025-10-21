@@ -164,6 +164,7 @@
   "chartPath": "charts/Commodities/gold-tactical-play2-buying-the-dip-61-8-confluence_2025-10-20.svg",
   "chartHeight": "350"
 },
+
 {
   "id": 16,
   "date": "21-10-2025",
@@ -173,6 +174,20 @@
   "summary": "**Gold’s correction extended nearly 300 points but held the 61.8 % retracement near 4110, preserving the uptrend’s structural support.**",
   "fullContent": "**Gold’s correction extended nearly 300 points but held the 61.8 % retracement near 4110, preserving the uptrend’s structural support.** After a decisive break of the **MA 100** and a brief dip through the **MA 200**, price flushed to **4080** before defending the **Fibonacci 61.8 %** zone. Our **technical indicator**—gold’s deviation from its **1-hour MA 100** combined with **RSI**, standardized—sits near **–2 σ**, signaling **oversold** conditions **without stabilization** yet. That keeps this move framed as a **correction** rather than a breakdown, but confirmation requires momentum to base and reclaim the **4213** area. **Holding the 61.8 % pivot while the indicator stabilizes will confirm the buy-the-dip bias; a sustained break below 4080–4110 would flip the signal.**",
   "chartPath": "/charts/Commodities/gold-61-8-retracement-oversold-not-yet-confirmed_2025-10-21.svg",
+  "chartHeight": "700"
+},
+
+{
+  "id": 17,
+  "date": "21-10-2025",
+  "category": "Economics",
+  "categoryColor": "bg-blue-600",
+  "title": "Policy Risk > Market Risk: A Repricing Gap",
+  "summary": "**The 50-day average of policy uncertainty running above equity-market uncertainty signals a widening risk-pricing gap.**",
+  "fullContent": "**The 50-day average of policy uncertainty running above equity-market uncertainty signals a widening risk-pricing gap.** Either **equities are underpricing policy shocks** or policy news flow is overshooting tradeable risk. The backdrop makes it plausible: **tariffs** are showing **pass-through** to prices, and the **Fed** has flagged that such shocks can lift the price level and delay disinflation, complicating the reaction function. Hard activity data haven’t cracked, leaving room for **catch-up volatility** if earnings guidance or inflation prints confirm persistence. **Until data settle, treat calm equity vol as fragile.**",
+  "chartPath": "/charts/Economics/policy-vs-equity-uncertainty-repricing-risk_2025-10-21.svg",
   "chartHeight": "350"
 }
+
+
 ]
