@@ -158,11 +158,12 @@
   "date": "20-10-2025",
   "category": "Commodities",
   "categoryColor": "bg-yellow-600",
-  "title": "Gold’s 61.8% Confluence: From Dip to New Highs",
-  "summary": "**Gold’s parabolic run briefly cracked on October 17, dropping $100 after breaking $4 278, but the retracement stopped precisely at the 61.8 % Fibonacci level (≈ $4 201) — perfectly aligning with its 1-hour MA 100.**",
-  "fullContent": "**Gold’s parabolic run briefly cracked on October 17, dropping $100 after breaking $4 278, but the retracement stopped precisely at the 61.8 % Fibonacci level (≈ $4 201) — perfectly aligning with its 1-hour MA 100.** That technical confluence drew aggressive dip-buyers, turning the flush into a springboard. By October 20, bullion had fully recouped losses, hovering near record resistance around $4 380. The sequence captures a textbook ‘trend-respect’ pattern: a parabolic move, a sharp profit-taking washout, then a measured rebound off structural support. The $4 200 zone now defines the bullish line-in-the-sand. As long as gold holds above its MA 100 and yields drift lower, the bias stays constructive — momentum traders continue treating dips as entries, not exits. **If negativities magnify, more vol and more bullish momentum will follow subsequently to a risk off move that be in tandem with equities**",
-  "chartPath": "charts/Commodities/gold-61-8-confluence-from-dip-to-new-highs_2025-10-20.svg",
+  "title": "Gold Tactical Play 2 — Buying the Dip at the 61.8% Confluence",
+  "summary": "**Gold’s rebound from the October 17 flush confirmed the market’s buy-the-dip instinct, with a perfect technical alignment at the 61.8 % retracement and 1-hour MA 100.**",
+  "fullContent": "**Gold’s rebound from the October 17 flush confirmed the market’s buy-the-dip instinct, with a perfect technical alignment at the 61.8 % retracement and 1-hour MA 100.** The first setup (Play 1: 4089.97, 4201.24, 4381.25, 4561.26) delivered a clean rebound from the MA 100 touch, validating the confluence. Now, the focus shifts to Play 2 (4185.75, 4260.43, 4381.25, 4502.07), where the next 61.8 % level offers a new tactical entry point for dip buyers. Positioning there with a stop just below the MA-100 low keeps risk defined and trend exposure intact. The broader structure remains bullish as long as gold respects the MA-100 slope and higher-low pattern. **Buying dips within the 61.8 % confluence zone remains the strategy — and as long as momentum holds, pullbacks are opportunities, not warnings.**",
+  "chartPath": "/charts/Technical/gold-tactical-play2-buying-the-dip-61-8-confluence_2025-10-20.svg",
   "chartHeight": "350"
 }
+
 
 ]
