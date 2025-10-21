@@ -3,7 +3,7 @@
     "id": 1,
     "date": "30-09-2025",
     "category": "Commodities",
-    "categoryColor": "bg-amber-600",
+    "categoryColor": "bg-yellow-600",
     "title": "Gold Miners: From Capitulation to Conviction",
     "summary": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.**",
     "fullContent": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.** Extreme redemptions often mark exhaustion rather than the start of a new down-cycle. True to form, miners bottomed soon after, and momentum accelerated once gold prices broke through key technical levels. Year-to-date, the GDX index has surged more than 100%, with prices extending far above the 200-day moving average. **The move reflects both short-covering and renewed institutional demand, confirming that April's selling was not the end of the cycle but the reset before a breakout.**",
@@ -69,7 +69,7 @@
     "id": 7,
     "date": "11-10-2025",
     "category": "Commodities",
-    "categoryColor": "bg-amber-600",
+    "categoryColor": "bg-yellow-600",
     "title": "Gold and Geopolitics: From Relief to Resilience",
     "summary": "**Gold's post-FOMC rally peaked near $4,050 as Hamas accepted Trump's peace plan ending two years of war in Gaza,** briefly releasing geopolitical risk—but the metal's resilience held when new tensions emerged.",
     "fullContent": "**Gold's post-FOMC rally peaked near $4,050 as Hamas accepted Trump's peace plan ending two years of war in Gaza, briefly releasing geopolitical risk—but the metal's resilience held when new tensions emerged.** The Polymarket contract 'Will Hamas Release All Israeli Hostages by October 31' surged from below 30% to above 85% as peace headlines crossed, signaling fading conflict risk. Gold eased modestly on that relief but never reversed its broader advance. When Trump's tariff threat against China reignited policy and geopolitical uncertainty, equities plunged, yet gold barely pulled back—proving its defensive bid endures across risk regimes. **In this cycle, gold corrects on relief but rallies on renewed tension, confirming its role as the market's most consistent geopolitical hedge.**",
@@ -161,7 +161,7 @@
   "title": "Gold Tactical Play 2 — Buying the Dip at the 61.8% Confluence",
   "summary": "**Gold’s rebound from the October 17 flush confirmed the market’s buy-the-dip instinct, with a perfect technical alignment at the 61.8 % retracement and 1-hour MA 100.**",
   "fullContent": "**Gold’s rebound from the October 17 flush confirmed the market’s buy-the-dip instinct, with a perfect technical alignment at the 61.8 % retracement and 1-hour MA 100.** The first setup (Play 1: 4089.97, 4201.24, 4381.25, 4561.26) delivered a clean rebound from the MA 100 touch, validating the confluence. Now, the focus shifts to Play 2 (4185.75, 4260.43, 4381.25, 4502.07), where the next 61.8 % level offers a new tactical entry point for dip buyers. Positioning there with a stop just below the MA-100 low keeps risk defined and trend exposure intact. The broader structure remains bullish as long as gold respects the MA-100 slope and higher-low pattern. **Buying dips within the 61.8 % confluence zone remains the strategy — and as long as momentum holds, pullbacks are opportunities, not warnings.**",
-  "chartPath": "/charts/Technical/gold-tactical-play2-buying-the-dip-61-8-confluence_2025-10-20.svg",
+  "chartPath": "charts/Commodities/gold-tactical-play2-buying-the-dip-61-8-confluence_2025-10-20.svg",
   "chartHeight": "350"
 }
 
