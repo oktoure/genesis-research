@@ -163,7 +163,16 @@
   "fullContent": "**Gold’s rebound from the October 17 flush confirmed the market’s buy-the-dip instinct, with a perfect technical alignment at the 61.8 % retracement and 1-hour MA 100.** The first setup (Play 1: 4089.97, 4201.24, 4381.25, 4561.26) delivered a clean rebound from the MA 100 touch, validating the confluence. Now, the focus shifts to Play 2 (4185.75, 4260.43, 4381.25, 4502.07), where the next 61.8 % level offers a new tactical entry point for dip buyers. Positioning there with a stop just below the MA-100 low keeps risk defined and trend exposure intact. The broader structure remains bullish as long as gold respects the MA-100 slope and higher-low pattern. **Buying dips within the 61.8 % confluence zone remains the strategy — and as long as momentum holds, pullbacks are opportunities, not warnings.**",
   "chartPath": "charts/Commodities/gold-tactical-play2-buying-the-dip-61-8-confluence_2025-10-20.svg",
   "chartHeight": "350"
+},
+{
+  "id": 16,
+  "date": "21-10-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold: 61.8% Defense, Oversold Not Yet Confirmed",
+  "summary": "**Gold’s correction extended nearly 300 points but held the 61.8 % retracement near 4110, preserving the uptrend’s structural support.**",
+  "fullContent": "**Gold’s correction extended nearly 300 points but held the 61.8 % retracement near 4110, preserving the uptrend’s structural support.** After a decisive break of the **MA 100** and a brief dip through the **MA 200**, price flushed to **4080** before defending the **Fibonacci 61.8 %** zone. Our **technical indicator**—gold’s deviation from its **1-hour MA 100** combined with **RSI**, standardized—sits near **–2 σ**, signaling **oversold** conditions **without stabilization** yet. That keeps this move framed as a **correction** rather than a breakdown, but confirmation requires momentum to base and reclaim the **4213** area. **Holding the 61.8 % pivot while the indicator stabilizes will confirm the buy-the-dip bias; a sustained break below 4080–4110 would flip the signal.**",
+  "chartPath": "/charts/Commodities/gold-61-8-retracement-oversold-not-yet-confirmed_2025-10-21.svg",
+  "chartHeight": "350"
 }
-
-
 ]
