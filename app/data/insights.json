@@ -142,16 +142,16 @@
     "chartPath": "/charts/Equities/bank-fragility-watch-zions-sits-on-the-61-8_2025-10-17.svg",
     "chartHeight": "350"
   },
-  {
+{
   "id": 14,
-  "date": "17-10-2025",
+  "date": "21-10-2025",
   "category": "Economics",
   "categoryColor": "bg-blue-600",
-  "title": "Policy Risk > Market Risk: A Repricing Gap",
-  "summary": "**The 50-day average of policy uncertainty running above equity-market uncertainty signals a widening risk-pricing gap.**",
-  "fullContent": "**The 50-day average of policy uncertainty running above equity-market uncertainty signals a widening risk-pricing gap.** Either **equities are underpricing policy shocks** or policy news flow is overshooting tradeable risk. The backdrop makes it plausible: **tariffs** are not yet showing **pass-through** to prices, and the **Fed** has flagged that such shocks can lift the price level and delay disinflation, complicating the reaction function. Hard activity data haven’t cracked, leaving room for **catch-up volatility** if earnings guidance or inflation prints confirm persistence. **Until data settle, treat calm equity vol as fragile.**",
+  "title": "Policy Risk > Market Risk: Two-Speed Volatility",
+  "summary": "**Policy uncertainty’s 50-day average now sits above both monetary-policy and equity-market uncertainty, flagging a gap between headline risk and market pricing.**",
+  "fullContent": "**Policy uncertainty’s 50-day average now sits above both monetary-policy and equity-market uncertainty, flagging a gap between headline risk and market pricing.** The mix fits the tape: **tariff noise**, **China tensions**, and renewed **bank-fragility concerns** have kept policy uncertainty elevated even as the **Fed** advances on an easing path. Meanwhile, volatility diverged — the **VIX** spiked then cooled after Trump’s remarks, the **DJIA volatility index** stayed jumpier, and **gold volatility** rose alongside a parabolic price run, hinting at profit-taking risk. Equity calm can persist until data or earnings force a catch-up, but **cross-asset volatility is already stirring. Treat the gap as a repricing risk while policy noise remains high and gold vol keeps rising.**",
   "chartPath": "/charts/Economics/policy-vs-equity-uncertainty-repricing-risk_2025-10-21.svg",
-  "chartHeight": "350"
+  "chartHeight": "700"
 },
 {
   "id": 15,
