@@ -31,7 +31,7 @@
      inkscape:window-x="873"
      inkscape:window-y="62"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g154" />
+     inkscape:current-layer="g315" />
   <svg
      class="main-svg"
      width="600"
@@ -2375,11 +2375,11 @@
       <g
          class="annotation"
          data-index="3"
-         style="opacity: 1;"
-         id="g314">
+         style="opacity:1"
+         id="g314"
+         transform="translate(-0.70257611,3.5128806)">
         <g
            class="annotation-text-g"
-           transform="rotate(0,218,229.5)"
            id="g313">
           <g
              class="cursor-pointer"
@@ -2391,14 +2391,14 @@
                y="0.5"
                width="355"
                height="22"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
                id="rect311" />
             <text
                class="annotation-text"
                text-anchor="start"
                x="2"
                y="9"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
                id="text312"><tspan
                  class="line"
                  dy="0em"
