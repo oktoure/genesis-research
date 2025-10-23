@@ -79,7 +79,7 @@
   {
     "id": 8,
     "date": "11-10-2025",
-    "category": "Economics",
+    "category": "Equities",
     "categoryColor": "bg-emerald-600",
     "title": "Trump Shock: Tariff Risk Reprices, Sentiment Partially Rebounds",
     "summary": "**Donald Trump's threat of 'massive' tariffs on China triggered one of the sharpest equity sell-offs since April's Liberation Day shock,** but weekend prediction-market trading showed a partial sentiment rebound.",
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "date": "14-10-2025",
-    "category": "Technical",
+    "category": "Equities",
     "categoryColor": "bg-purple-600",
     "title": "Technicals Point To a Mild Pull Back vs Leg Down",
     "summary": "**Donald Trump's threat of 'massive' tariffs on China triggered one of the sharpest equity sell-offs since April's Liberation Day shock,** but volatility measures suggest the move was a transient shock rather than the start of a sustained downturn.",
@@ -112,7 +112,7 @@
   {
     "id": 11,
     "date": "15-10-2025",
-    "category": "Technical",
+    "category": "Equities",
     "categoryColor": "bg-purple-600",
     "title": "Dow Jones Fades the 76.4% Fibonacci",
     "summary": "**The Dow's rebound failed at the 76.4% retracement near 46,675, confirming a shift from 'buy-the-dip' to 'sell-the-rip'** and reinforcing the idea that markets have been choppy since the October 10 Trump announcement.",
@@ -156,12 +156,12 @@
 {
   "id": 15,
   "date": "20-10-2025",
-  "category": "Technical",
+  "category": "Equities",
   "categoryColor": "bg-purple-600",
   "title": "Tactical Update — US30: Retesting the 76.4% Fade Amid Renewed Animal Spirits",
   "summary": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.**",
   "fullContent": "**US30 rebounded sharply to start the week, rising more than 1 % alongside a 2 % surge in gold, as risk appetite returned on optimism over U.S.–China trade talks and a potential end to the government shutdown.** The rebound follows our earlier short bias near the 76.4 % retracement (46 709) from the October 12 low (45 409), where we already booked partial profits. The high at 47 062 remains intact, keeping the tactical short setup technically valid — though momentum has firmed as equities and gold rally in tandem. The move underscores the market’s persistent “buy-the-dip” instinct and the resilience of animal spirits despite tightening conditions. **The setup now evolves into a resilience test: if optimism around tariffs and policy progress fades, volatility will return quickly — and if negativities magnify, more vol and more bearishness will follow.**",
-  "chartPath": "/charts/Technical/tactical-update-us30-retesting-the-76-4-fade-amid-renewed-animal-spirits_2025-10-20.svg",
+  "chartPath": "/charts/Equities/tactical-update-us30-retesting-the-76-4-fade-amid-renewed-animal-spirits_2025-10-20.svg",
   "chartHeight": "350"
 },
 {
