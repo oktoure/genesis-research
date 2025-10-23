@@ -3,8 +3,6 @@
 import React, { Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import rawInsights from './data/insights.json';
-import ShareButton from './components/ShareButton';
-import { absoluteUrl } from './lib/site';
 
 export const dynamic = 'force-static';
 
@@ -32,27 +30,33 @@ function ClientHome() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
+  // Unfiltered main view
   const activeCatParam = searchParams.get('cat') || 'Insights';
 
+  // Newest-first by id
   const sortedInsights: Insight[] = React.useMemo(
     () => [...(rawInsights as Insight[])].sort((a, b) => b.id - a.id),
     []
   );
 
+  // Dynamic tabs from JSON + "Insights"
   const categories = React.useMemo(() => {
     const set = new Set<string>();
     (rawInsights as Insight[]).forEach(i => i.category && set.add(i.category));
     return ['Insights', ...Array.from(set)];
   }, []);
 
+  // Filter unless "Insights"
   const shownInsights: Insight[] =
     activeCatParam === 'Insights'
       ? sortedInsights
       : sortedInsights.filter(i => i.category === activeCatParam);
 
+  // Expand per card
   const [expandedId, setExpandedId] = React.useState<number | null>(null);
   const toggleExpand = (id: number) => setExpandedId(prev => (prev === id ? null : id));
 
+  // Render **bold** segments
   const renderText = (text?: string) => {
     if (!text) return null;
     if (text.includes('**')) {
@@ -74,6 +78,7 @@ function ClientHome() {
     return <>{text}</>;
   };
 
+  // Tab nav
   const goToCategory = (cat: string) => {
     if (cat === 'Insights') {
       router.push('/', { scroll: false });
@@ -82,6 +87,7 @@ function ClientHome() {
     }
   };
 
+  // Preserve where the user came from when opening a post
   const currentFilterPath = activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
 
   return (
@@ -110,7 +116,7 @@ function ClientHome() {
           <h2 className="text-2xl font-bold text-slate-900">Insights</h2>
         </div>
 
-        {/* Category Tabs */}
+        {/* Tabs */}
         <div className="mb-8 border-b border-slate-200">
           <nav className="flex flex-wrap gap-6">
             {categories.map((cat) => {
@@ -144,10 +150,10 @@ function ClientHome() {
               : (insight.summary ?? insight.fullContent ?? '');
 
             const detailHref = `/i/${insight.id}?from=${encodeURIComponent(currentFilterPath)}`;
-            const shareUrl = absoluteUrl(`/i/${insight.id}`);
 
             return (
-              <article key={insight.id} className="border-b border-slate-100 pb-8 last:border-0">
+              <article key={insight.id} className="relative border-b border-slate-100 pb-10 last:border-0">
+                {/* Meta */}
                 <div className="mb-5">
                   <div className="flex flex-wrap items-center gap-3 mb-3">
                     <span
@@ -158,21 +164,11 @@ function ClientHome() {
                       {insight.category}
                     </span>
                     {insight.date && <time className="text-slate-500 text-xs font-bold">{insight.date}</time>}
-
-                    {/* Actions */}
-                    <div className="ml-auto flex items-center gap-2">
-                      <a
-                        href={detailHref}
-                        className="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-900 text-slate-900 hover:bg-slate-900 hover:text-white"
-                      >
-                        Open post ↗
-                      </a>
-                      <ShareButton url={shareUrl} />
-                    </div>
                   </div>
                   <h3 className="text-xl font-bold text-slate-900 leading-snug">{insight.title}</h3>
                 </div>
 
+                {/* Content */}
                 <div className="grid md:grid-cols-2 gap-6 items-start">
                   {/* Chart */}
                   <div className="w-full">
@@ -190,14 +186,16 @@ function ClientHome() {
                     )}
                   </div>
 
-                  {/* Text + Toggle (no extra "Open full view" link) */}
-                  <div className="flex flex-col justify-start">
+                  {/* Text + Controls */}
+                  <div className="w-full h-full flex flex-col">
                     <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
                       {renderText(textToShow)}
                     </div>
+
+                    {/* Toggle */}
                     <button
                       onClick={() => toggleExpand(insight.id)}
-                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1 mt-2"
+                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1"
                     >
                       {isExpanded ? (
                         <>
@@ -209,6 +207,14 @@ function ClientHome() {
                         </>
                       )}
                     </button>
+
+                    {/* Minimal CTA in the bottom-right of the card */}
+                    <a
+                      href={detailHref}
+                      className="mt-auto self-end text-xs font-semibold px-2 py-1 rounded-md border border-slate-300 text-slate-600 hover:bg-slate-50"
+                    >
+                      Open post 
+                    </a>
                   </div>
                 </div>
               </article>
@@ -221,6 +227,7 @@ function ClientHome() {
         </div>
       </main>
 
+      {/* Footer */}
       <footer className="border-t border-slate-100 mt-12">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <p className="text-slate-400 text-xs text-center">© {new Date().getFullYear()} Genesis Research</p>
