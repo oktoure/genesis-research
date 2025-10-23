@@ -2,9 +2,11 @@
 
 import React, { Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import rawInsights from './data/insights.json'; // keep this file at app/data/insights.json
+import rawInsights from './data/insights.json'; // keep at app/data/insights.json
+import ShareButton from './components/ShareButton';
+import { absoluteUrl } from './lib/site';
 
-// (Optional) Keep route static; filtering happens client-side via query string
+// Keep route static; filtering happens client-side via query string
 export const dynamic = 'force-static';
 
 // --- Types aligned to your JSON structure ---
@@ -21,7 +23,7 @@ interface Insight {
 }
 
 export default function Page() {
-  // Local Suspense wrapper so this page also independently satisfies Next 15 requirement
+  // Local Suspense wrapper so this page satisfies Next 15 requirement
   return (
     <Suspense fallback={<div className="max-w-7xl mx-auto px-6 py-10 text-sm text-slate-500">Loading…</div>}>
       <ClientHome />
@@ -104,11 +106,7 @@ function ClientHome() {
             <div className="text-right">
               <div className="text-slate-400 text-xs">Last Updated</div>
               <div className="text-white text-sm font-bold">
-                {new Date().toLocaleDateString('en-US', {
-                  month: 'short',
-                  day: 'numeric',
-                  year: 'numeric',
-                })}
+                {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
               </div>
             </div>
           </div>
@@ -155,11 +153,14 @@ function ClientHome() {
               ? (insight.fullContent ?? insight.summary ?? '')
               : (insight.summary ?? insight.fullContent ?? '');
 
+            const detailHref = `/i/${insight.id}`;
+            const shareUrl = absoluteUrl(detailHref);
+
             return (
               <article key={insight.id} className="border-b border-slate-100 pb-8 last:border-0">
                 {/* Meta */}
                 <div className="mb-5">
-                  <div className="flex items-center gap-3 mb-3">
+                  <div className="flex flex-wrap items-center gap-3 mb-3">
                     <span
                       className={`${
                         insight.categoryColor || 'bg-slate-700'
@@ -170,6 +171,17 @@ function ClientHome() {
                     {insight.date && (
                       <time className="text-slate-500 text-xs font-bold">{insight.date}</time>
                     )}
+
+                    {/* Actions */}
+                    <div className="ml-auto flex items-center gap-2">
+                      <a
+                        href={detailHref}
+                        className="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-300 hover:bg-slate-50"
+                      >
+                        View
+                      </a>
+                      <ShareButton url={shareUrl} />
+                    </div>
                   </div>
                   <h3 className="text-xl font-bold text-slate-900 leading-snug">{insight.title}</h3>
                 </div>
@@ -183,9 +195,7 @@ function ClientHome() {
                         src={encodeURI(insight.chartPath)}
                         alt={insight.title}
                         className="w-full h-auto"
-                        style={
-                          insight.chartHeight ? { height: insight.chartHeight, objectFit: 'contain' } : {}
-                        }
+                        style={insight.chartHeight ? { height: insight.chartHeight, objectFit: 'contain' } : {}}
                       />
                     ) : (
                       <div className="w-full aspect-[16/9] border border-slate-200 rounded-lg grid place-items-center text-slate-400 text-xs">
@@ -200,20 +210,28 @@ function ClientHome() {
                       {renderText(textToShow)}
                     </div>
 
-                    <button
-                      onClick={() => toggleExpand(insight.id)}
-                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start flex items-center gap-1 mt-2"
-                    >
-                      {isExpanded ? (
-                        <>
-                          Show Less <span className="inline-block rotate-180">▾</span>
-                        </>
-                      ) : (
-                        <>
-                          Read Full Analysis <span className="inline-block">▾</span>
-                        </>
-                      )}
-                    </button>
+                    <div className="flex items-center gap-3">
+                      <button
+                        onClick={() => toggleExpand(insight.id)}
+                        className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1 mt-2"
+                      >
+                        {isExpanded ? (
+                          <>
+                            Show Less <span className="inline-block rotate-180">▾</span>
+                          </>
+                        ) : (
+                          <>
+                            Read Full Analysis <span className="inline-block">▾</span>
+                          </>
+                        )}
+                      </button>
+                      <a
+                        href={detailHref}
+                        className="text-slate-500 hover:text-slate-700 text-xs mt-2 underline"
+                      >
+                        Open as a standalone post →
+                      </a>
+                    </div>
                   </div>
                 </div>
               </article>
