@@ -2,28 +2,26 @@
 
 import React, { Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import rawInsights from './data/insights.json'; // keep at app/data/insights.json
+import rawInsights from './data/insights.json';
 import ShareButton from './components/ShareButton';
 import { absoluteUrl } from './lib/site';
 
 // Keep route static; filtering happens client-side via query string
 export const dynamic = 'force-static';
 
-// --- Types aligned to your JSON structure ---
 interface Insight {
   id: number;
-  date?: string;               // "DD-MM-YYYY"
-  category: string;            // "Economics", "Equities", etc.
-  categoryColor?: string;      // Tailwind bg-* class
+  date?: string;
+  category: string;
+  categoryColor?: string;
   title: string;
   summary?: string;
   fullContent?: string;
-  chartPath?: string;          // relative path to image/svg
-  chartHeight?: string;        // e.g., "420px"
+  chartPath?: string;
+  chartHeight?: string;
 }
 
 export default function Page() {
-  // Local Suspense wrapper so this page satisfies Next 15 requirement
   return (
     <Suspense fallback={<div className="max-w-7xl mx-auto px-6 py-10 text-sm text-slate-500">Loading…</div>}>
       <ClientHome />
@@ -35,33 +33,27 @@ function ClientHome() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
-  // "Insights" is the default (unfiltered) view
   const activeCatParam = searchParams.get('cat') || 'Insights';
 
-  // Ensure newest-first (higher id first), consistent with your current behavior
   const sortedInsights: Insight[] = React.useMemo(
     () => [...(rawInsights as Insight[])].sort((a, b) => b.id - a.id),
     []
   );
 
-  // Build category tabs dynamically from JSON, prefixed with "Insights"
   const categories = React.useMemo(() => {
     const set = new Set<string>();
     (rawInsights as Insight[]).forEach(i => i.category && set.add(i.category));
     return ['Insights', ...Array.from(set)];
   }, []);
 
-  // Filter by category unless "Insights" (unfiltered)
   const shownInsights: Insight[] =
     activeCatParam === 'Insights'
       ? sortedInsights
       : sortedInsights.filter(i => i.category === activeCatParam);
 
-  // Expand/collapse long content per card
   const [expandedId, setExpandedId] = React.useState<number | null>(null);
   const toggleExpand = (id: number) => setExpandedId(prev => (prev === id ? null : id));
 
-  // Lightweight markdown-ish bold handling for **text**
   const renderText = (text?: string) => {
     if (!text) return null;
     if (text.includes('**')) {
@@ -91,6 +83,9 @@ function ClientHome() {
     }
   };
 
+  // Build a “from” param so /i/[id] knows where to send the user back
+  const currentFilterPath = activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
+
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
@@ -99,9 +94,7 @@ function ClientHome() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
-              <p className="text-slate-400 mt-1 text-xs">
-                Research, timely insights, and transparent trade ideas
-              </p>
+              <p className="text-slate-400 mt-1 text-xs">Research, timely insights, and transparent trade ideas</p>
             </div>
             <div className="text-right">
               <div className="text-slate-400 text-xs">Last Updated</div>
@@ -115,7 +108,6 @@ function ClientHome() {
 
       {/* Main */}
       <main className="max-w-7xl mx-auto px-6 py-10">
-        {/* Page Title */}
         <div className="mb-4">
           <h2 className="text-2xl font-bold text-slate-900">Insights</h2>
         </div>
@@ -153,12 +145,11 @@ function ClientHome() {
               ? (insight.fullContent ?? insight.summary ?? '')
               : (insight.summary ?? insight.fullContent ?? '');
 
-            const detailHref = `/i/${insight.id}`;
-            const shareUrl = absoluteUrl(detailHref);
+            const detailHref = `/i/${insight.id}?from=${encodeURIComponent(currentFilterPath)}`;
+            const shareUrl = absoluteUrl(`/i/${insight.id}`);
 
             return (
               <article key={insight.id} className="border-b border-slate-100 pb-8 last:border-0">
-                {/* Meta */}
                 <div className="mb-5">
                   <div className="flex flex-wrap items-center gap-3 mb-3">
                     <span
@@ -168,17 +159,15 @@ function ClientHome() {
                     >
                       {insight.category}
                     </span>
-                    {insight.date && (
-                      <time className="text-slate-500 text-xs font-bold">{insight.date}</time>
-                    )}
+                    {insight.date && <time className="text-slate-500 text-xs font-bold">{insight.date}</time>}
 
                     {/* Actions */}
                     <div className="ml-auto flex items-center gap-2">
                       <a
                         href={detailHref}
-                        className="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-300 hover:bg-slate-50"
+                        className="text-xs font-semibold px-3 py-1.5 rounded-lg border border-slate-900 text-slate-900 hover:bg-slate-900 hover:text-white"
                       >
-                        View
+                        Open post ↗
                       </a>
                       <ShareButton url={shareUrl} />
                     </div>
@@ -186,7 +175,6 @@ function ClientHome() {
                   <h3 className="text-xl font-bold text-slate-900 leading-snug">{insight.title}</h3>
                 </div>
 
-                {/* Content */}
                 <div className="grid md:grid-cols-2 gap-6 items-start">
                   {/* Chart / Placeholder */}
                   <div className="w-full">
@@ -211,6 +199,12 @@ function ClientHome() {
                     </div>
 
                     <div className="flex items-center gap-3">
+                      <a
+                        href={detailHref}
+                        className="text-slate-500 hover:text-slate-700 text-xs mt-2 underline"
+                      >
+                        Open full view →
+                      </a>
                       <button
                         onClick={() => toggleExpand(insight.id)}
                         className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1 mt-2"
@@ -225,12 +219,6 @@ function ClientHome() {
                           </>
                         )}
                       </button>
-                      <a
-                        href={detailHref}
-                        className="text-slate-500 hover:text-slate-700 text-xs mt-2 underline"
-                      >
-                        Open as a standalone post →
-                      </a>
                     </div>
                   </div>
                 </div>
