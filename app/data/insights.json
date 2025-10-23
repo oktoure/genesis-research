@@ -1,17 +1,6 @@
 [
   {
     "id": 1,
-    "date": "30-09-2025",
-    "category": "Commodities",
-    "categoryColor": "bg-yellow-600",
-    "title": "Gold Miners: From Capitulation to Conviction",
-    "summary": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.**",
-    "fullContent": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.** Extreme redemptions often mark exhaustion rather than the start of a new down-cycle. True to form, miners bottomed soon after, and momentum accelerated once gold prices broke through key technical levels. Year-to-date, the GDX index has surged more than 100%, with prices extending far above the 200-day moving average. **The move reflects both short-covering and renewed institutional demand, confirming that April's selling was not the end of the cycle but the reset before a breakout.**",
-    "chartPath": "/charts/Commodities/gold-miners-from-capitulation-to-conviction_2025-09-30.svg",
-    "chartHeight": "350"
-  },
-  {
-    "id": 2,
     "date": "01-10-2025",
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
@@ -22,7 +11,7 @@
     "chartHeight": "700"
   },
   {
-    "id": 3,
+    "id": 2,
     "date": "03-10-2025",
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
@@ -31,6 +20,17 @@
     "fullContent": "**The September ISM Services survey showed a clear loss of momentum, with the headline PMI falling to 50.0 from 52.0 previously and slightly below the 51.7 expected — right at the edge of contraction.** Business Activity dropped sharply to 49.9 from 55.0, while New Orders slid to 50.4 from 56.0, confirming that demand is cooling faster than anticipated. On the inflation front, Prices Paid edged up to 69.4 from 69.2 and above the 68.9 consensus, a reminder that service-sector inflation remains sticky even as output slows. Employment improved modestly to 47.2 from 46.5 and just above 46.6 expected, yet still signals contraction. Firms are trimming staff and managing capacity while cost pressures persist. **The mix — soft activity and stubborn prices — reinforces a slow-disinflation regime in which policy easing will come with patience, not speed.**",
     "chartPath": "/charts/Economics/sticky-prices-cooling-demand_2025-10-03.svg",
     "chartHeight": "700"
+  },
+  {
+    "id": 3,
+    "date": "05-10-2025",
+    "category": "Commodities",
+    "categoryColor": "bg-yellow-600",
+    "title": "Gold Miners: From Capitulation to Conviction",
+    "summary": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.**",
+    "fullContent": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.** Extreme redemptions often mark exhaustion rather than the start of a new down-cycle. True to form, miners bottomed soon after, and momentum accelerated once gold prices broke through key technical levels. Year-to-date, the GDX index has surged more than 100%, with prices extending far above the 200-day moving average. **The move reflects both short-covering and renewed institutional demand, confirming that April's selling was not the end of the cycle but the reset before a breakout.**",
+    "chartPath": "/charts/Commodities/gold-miners-from-capitulation-to-conviction_2025-09-30.svg",
+    "chartHeight": "350"
   },
   {
     "id": 4,
