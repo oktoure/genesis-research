@@ -30,7 +30,7 @@
     "summary": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.**",
     "fullContent": "**Since April, when gold-mining ETFs saw one of their largest outflows since the 2020 COVID crash—a hallmark of capitulation—the setup has turned decisively bullish.** Extreme redemptions often mark exhaustion rather than the start of a new down-cycle. True to form, miners bottomed soon after, and momentum accelerated once gold prices broke through key technical levels. Year-to-date, the GDX index has surged more than 100%, with prices extending far above the 200-day moving average. **The move reflects both short-covering and renewed institutional demand, confirming that April's selling was not the end of the cycle but the reset before a breakout.**",
     "chartPath": "/charts/Commodities/gold-miners-from-capitulation-to-conviction_2025-09-30.svg",
-    "chartHeight": "350"
+    "chartHeight": "700"
   },
   {
     "id": 4,
@@ -74,7 +74,7 @@
     "summary": "**Gold's post-FOMC rally peaked near $4,050 as Hamas accepted Trump's peace plan ending two years of war in Gaza,** briefly releasing geopolitical risk—but the metal's resilience held when new tensions emerged.",
     "fullContent": "**Gold's post-FOMC rally peaked near $4,050 as Hamas accepted Trump's peace plan ending two years of war in Gaza, briefly releasing geopolitical risk—but the metal's resilience held when new tensions emerged.** The Polymarket contract 'Will Hamas Release All Israeli Hostages by October 31' surged from below 30% to above 85% as peace headlines crossed, signaling fading conflict risk. Gold eased modestly on that relief but never reversed its broader advance. When Trump's tariff threat against China reignited policy and geopolitical uncertainty, equities plunged, yet gold barely pulled back—proving its defensive bid endures across risk regimes. **In this cycle, gold corrects on relief but rallies on renewed tension, confirming its role as the market's most consistent geopolitical hedge.**",
     "chartPath": "/charts/Commodities/gold-and-geopolitics-from-relief-to-resilience_2025-10-11.svg",
-    "chartHeight": "350"
+    "chartHeight": "700"
   },
   {
     "id": 8,
@@ -96,7 +96,7 @@
     "summary": "**Donald Trump's threat of 'massive' tariffs on China triggered one of the sharpest equity sell-offs since April's Liberation Day shock,** but volatility measures suggest the move was a transient shock rather than the start of a sustained downturn.",
     "fullContent": "**Donald Trump's threat of 'massive' tariffs on China triggered one of the sharpest equity sell-offs since April's Liberation Day shock, but volatility measures suggest the move was a transient shock rather than the start of a sustained downturn.** The S&P 500's drawdown remained shallow, while the SKEW index—reflecting relative demand for tail hedges—quickly rebounded, showing that investors maintained appetite for crash protection rather than panic liquidation. Meanwhile, VVIX, the volatility-of-volatility index, spiked only modestly and retreated within days, signaling limited stress in the options market. Taken together, the three gauges imply that the October 10 tariff-driven drop was an event shock, not a trend shift. As long as drawdowns stay above the −10% threshold and VVIX holds near its average, markets appear resilient. **However, if future trade escalations drive SKEW lower and VVIX higher while drawdowns deepen, it would mark a transition from contained turbulence to systemic risk.**",
     "chartPath": "/charts/Equities/technicals-point-to-a-mild-pull-back-vs-leg-down_2025-10-14.svg",
-    "chartHeight": "700"
+    "chartHeight": "900"
   },
   {
     "id": 10,
@@ -196,7 +196,7 @@
   "summary": "**The Kansas City Fed’s Manufacturing Production Index surged to 15 — the strongest since April 2022 — outpacing the Composite Index (6) and signaling renewed regional strength in output momentum.**",
   "fullContent": "**The Kansas City Fed’s Manufacturing Production Index surged to 15 — the strongest since April 2022 — outpacing the Composite Index (6) and signaling renewed regional strength in output momentum.** The divergence between **production (15)** and **composite (6)** shows that while **factory output is rebounding**, the **breadth of the recovery** remains moderate. Gains were concentrated in **metal manufacturing** and **printing/paper**, while **export orders** softened and **price pressures** ticked slightly higher. Compared with **Philadelphia’s sharp contraction (–12.8)** and the still-sub-50 **ISM Manufacturing PMI (49.1)**, **Kansas stands out as a pocket of resilience rather than the start of a nationwide upturn.** Together with the **Empire State’s rebound**, the print suggests **manufacturing momentum is rotating westward**, adding a stabilizing note to the ISM outlook into Q4. **Regional normalization, not reacceleration, remains the base case.**",
   "chartPath": "/charts/Economics/kansas-fed-manufacturing-vs-ism_2025-10-23.svg",
-  "chartHeight": "700"
+  "chartHeight": "900"
 }
 
 
