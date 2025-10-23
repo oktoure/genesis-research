@@ -2,10 +2,9 @@
 
 import React, { Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
-import rawInsights from './data/insights.json'; // keep at app/data/insights.json
+import rawInsights from './data/insights.json'; // keep this file at app/data/insights.json
 
-// Optional: keep this route fully static; filtering happens on the client.
-// (Safe with Suspense + client hooks.)
+// (Optional) Keep route static; filtering happens client-side via query string
 export const dynamic = 'force-static';
 
 // --- Types aligned to your JSON structure ---
@@ -21,24 +20,10 @@ interface Insight {
   chartHeight?: string;        // e.g., "420px"
 }
 
-// This small wrapper satisfies Next 15's requirement:
-// the component that uses useSearchParams/useRouter is rendered inside <Suspense>.
 export default function Page() {
+  // Local Suspense wrapper so this page also independently satisfies Next 15 requirement
   return (
-    <Suspense
-      fallback={
-        <div className="min-h-screen bg-white">
-          <header className="bg-slate-900 border-b border-slate-800">
-            <div className="max-w-7xl mx-auto px-6 py-6">
-              <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
-            </div>
-          </header>
-          <main className="max-w-7xl mx-auto px-6 py-10">
-            <div className="text-sm text-slate-500">Loading…</div>
-          </main>
-        </div>
-      }
-    >
+    <Suspense fallback={<div className="max-w-7xl mx-auto px-6 py-10 text-sm text-slate-500">Loading…</div>}>
       <ClientHome />
     </Suspense>
   );
