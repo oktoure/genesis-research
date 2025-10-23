@@ -24,12 +24,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="364.637"
-     inkscape:cy="232.90398"
+     inkscape:cx="274.00469"
+     inkscape:cy="232.90399"
      inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="1368"
-     inkscape:window-y="47"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg339" />
   <svg
@@ -781,123 +781,6 @@
              id="path97" />
         </g>
         <g
-           class="xaxislayer-above"
-           id="g110">
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(123.21,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path98" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(206.34,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path99" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(289.53,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path100" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(372.71,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path101" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(455.84,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path102" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(539.02,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path103" />
-          <g
-             class="xtick"
-             id="g103">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(40.03,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text103">02 Jan 2008</text>
-          </g>
-          <g
-             class="xtick"
-             id="g104">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(123.21,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text104">20 Dec 2010</text>
-          </g>
-          <g
-             class="xtick"
-             id="g105">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(206.34,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text105">10 Dec 2013</text>
-          </g>
-          <g
-             class="xtick"
-             id="g106">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(289.53,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text106">30 Nov 2016</text>
-          </g>
-          <g
-             class="xtick"
-             id="g107">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(372.71,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text107">20 Nov 2019</text>
-          </g>
-          <g
-             class="xtick"
-             id="g108">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(455.84,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text108">09 Nov 2022</text>
-          </g>
-          <g
-             class="xtick"
-             id="g109">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(539.02,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text109">21 Oct 2025</text>
-          </g>
-        </g>
-        <g
            class="yaxislayer-above"
            id="g118">
           <path
@@ -1201,8 +1084,8 @@
          id="g157">
         <g
            class="annotation-text-g"
-           transform="rotate(0,120.5,32.550000000000004)"
-           id="g156">
+           id="g156"
+           transform="rotate(0,120.5,32.550000000000004)">
           <g
              class="cursor-pointer"
              transform="translate(106,28)"
@@ -1232,8 +1115,8 @@
          id="g160">
         <g
            class="annotation-text-g"
-           transform="rotate(0,122,38.92000000000001)"
-           id="g159">
+           id="g159"
+           transform="rotate(0,122,38.92000000000001)">
           <g
              class="cursor-pointer"
              transform="translate(106,34)"
@@ -1263,8 +1146,8 @@
          id="g163">
         <g
            class="annotation-text-g"
-           transform="rotate(0,122,45.28999999999999)"
-           id="g162">
+           id="g162"
+           transform="rotate(0,122,45.28999999999999)">
           <g
              class="cursor-pointer"
              transform="translate(106,40)"
@@ -1294,8 +1177,8 @@
          id="g166">
         <g
            class="annotation-text-g"
-           transform="rotate(0,47.5,21.5)"
-           id="g165">
+           id="g165"
+           transform="rotate(0,47.5,21.5)">
           <g
              class="cursor-pointer"
              transform="translate(42,15)"
@@ -1325,8 +1208,8 @@
          id="g169">
         <g
            class="annotation-text-g"
-           transform="rotate(0,556.5,21.5)"
-           id="g168">
+           id="g168"
+           transform="rotate(0,556.5,21.5)">
           <g
              class="cursor-pointer"
              transform="translate(551,15)"
@@ -1356,8 +1239,8 @@
          id="g174">
         <g
            class="annotation-text-g"
-           transform="rotate(0,244.2552,137.15632)"
-           id="g173">
+           id="g173"
+           transform="rotate(0,244.2552,137.15632)">
           <g
              class="cursor-pointer"
              transform="translate(153,115)"
