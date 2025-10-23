@@ -6,7 +6,6 @@ import rawInsights from './data/insights.json';
 import ShareButton from './components/ShareButton';
 import { absoluteUrl } from './lib/site';
 
-// Keep route static; filtering happens client-side via query string
 export const dynamic = 'force-static';
 
 interface Insight {
@@ -83,7 +82,6 @@ function ClientHome() {
     }
   };
 
-  // Build a “from” param so /i/[id] knows where to send the user back
   const currentFilterPath = activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
 
   return (
@@ -176,7 +174,7 @@ function ClientHome() {
                 </div>
 
                 <div className="grid md:grid-cols-2 gap-6 items-start">
-                  {/* Chart / Placeholder */}
+                  {/* Chart */}
                   <div className="w-full">
                     {insight.chartPath ? (
                       <img
@@ -192,34 +190,25 @@ function ClientHome() {
                     )}
                   </div>
 
-                  {/* Text + Toggle */}
+                  {/* Text + Toggle (no extra "Open full view" link) */}
                   <div className="flex flex-col justify-start">
                     <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
                       {renderText(textToShow)}
                     </div>
-
-                    <div className="flex items-center gap-3">
-                      <a
-                        href={detailHref}
-                        className="text-slate-500 hover:text-slate-700 text-xs mt-2 underline"
-                      >
-                        Open full view →
-                      </a>
-                      <button
-                        onClick={() => toggleExpand(insight.id)}
-                        className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1 mt-2"
-                      >
-                        {isExpanded ? (
-                          <>
-                            Show Less <span className="inline-block rotate-180">▾</span>
-                          </>
-                        ) : (
-                          <>
-                            Read Full Analysis <span className="inline-block">▾</span>
-                          </>
-                        )}
-                      </button>
-                    </div>
+                    <button
+                      onClick={() => toggleExpand(insight.id)}
+                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1 mt-2"
+                    >
+                      {isExpanded ? (
+                        <>
+                          Show Less <span className="inline-block rotate-180">▾</span>
+                        </>
+                      ) : (
+                        <>
+                          Read Full Analysis <span className="inline-block">▾</span>
+                        </>
+                      )}
+                    </button>
                   </div>
                 </div>
               </article>
@@ -232,7 +221,6 @@ function ClientHome() {
         </div>
       </main>
 
-      {/* Footer */}
       <footer className="border-t border-slate-100 mt-12">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <p className="text-slate-400 text-xs text-center">© {new Date().getFullYear()} Genesis Research</p>

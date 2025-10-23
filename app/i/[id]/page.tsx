@@ -19,7 +19,6 @@ type Insight = {
 
 export const dynamic = 'force-static';
 
-// Build static params from JSON (SEO + speed)
 export function generateStaticParams() {
   return (insights as Insight[]).map((i) => ({ id: String(i.id) }));
 }
@@ -36,15 +35,12 @@ function summarize(i: Insight, max = 160): string {
   return cleaned.length > max ? `${cleaned.slice(0, max - 1)}…` : cleaned;
 }
 
-// Normalize chart/image src to absolute-from-root if it was written as "charts/..."
-// This fixes your Commodities entries where some paths lack a leading "/".
 function normalizeSrc(path?: string): string | undefined {
   if (!path) return undefined;
   if (path.startsWith('http')) return path;
   return path.startsWith('/') ? path : `/${path}`;
 }
 
-// Convert **bold** segments into <strong> nodes (no external deps)
 function renderWithBold(text: string) {
   const parts = text.split(/(\*\*.*?\*\*)/g);
   return parts.map((part, idx) =>
@@ -58,7 +54,6 @@ function renderWithBold(text: string) {
   );
 }
 
-// Per-post metadata (Open Graph + Twitter)
 export async function generateMetadata(
   { params }: { params: { id: string } },
   _parent: ResolvingMetadata
@@ -100,10 +95,8 @@ export default function InsightPage({ params }: { params: { id: string } }) {
     <div className="min-h-screen bg-white">
       <header className="bg-slate-900 border-b border-slate-800">
         <div className="max-w-3xl mx-auto px-6 py-6">
-          <div className="flex items-center justify-between">
-            <BackLink fallback="/" />
-            <div />
-          </div>
+          {/* Single Back button, always visible on dark header */}
+          <BackLink fallback="/" variant="solidOnDark" />
 
           <h1 className="text-2xl font-bold text-white tracking-tight mt-3">{post.title}</h1>
           <div className="flex items-center gap-3 mt-2">
@@ -116,7 +109,7 @@ export default function InsightPage({ params }: { params: { id: string } }) {
       </header>
 
       <main className="max-w-3xl mx-auto px-6 py-8">
-        {/* Hero image / chart */}
+        {/* Chart */}
         <div className="mb-6">
           {chartSrc ? (
             <img
@@ -132,17 +125,12 @@ export default function InsightPage({ params }: { params: { id: string } }) {
           )}
         </div>
 
-        {/* Body with **bold** parsing */}
+        {/* Body */}
         <article className="prose prose-slate max-w-none">
           <p className="text-[15px] leading-relaxed text-slate-800 text-justify">
             {renderWithBold((post.fullContent || post.summary || '').trim())}
           </p>
         </article>
-
-        {/* Minimal footer actions (no copy-link button) */}
-        <div className="mt-8">
-          <BackLink fallback="/" />
-        </div>
       </main>
 
       <footer className="border-t border-slate-100 mt-12">
