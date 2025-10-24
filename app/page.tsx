@@ -152,7 +152,7 @@ function ClientHome() {
             const detailHref = `/i/${insight.id}?from=${encodeURIComponent(currentFilterPath)}`;
 
             return (
-              <article key={insight.id} className="relative border-b border-slate-100 pb-10 last:border-0">
+              <article key={insight.id} className="relative border-b border-slate-100 pb-8 last:border-0">
                 {/* Meta */}
                 <div className="mb-5">
                   <div className="flex flex-wrap items-center gap-3 mb-3">
@@ -166,7 +166,7 @@ function ClientHome() {
                     {insight.date && <time className="text-slate-500 text-xs font-bold">{insight.date}</time>}
                   </div>
 
-                  {/* TITLE IS NOW A LINK */}
+                  {/* Title is the link */}
                   <h3 className="text-xl font-bold leading-snug">
                     <a
                       href={detailHref}
@@ -196,13 +196,12 @@ function ClientHome() {
                     )}
                   </div>
 
-                  {/* Text + Controls */}
+                  {/* Text + Toggle */}
                   <div className="w-full h-full flex flex-col">
                     <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
                       {renderText(textToShow)}
                     </div>
 
-                    {/* Toggle */}
                     <button
                       onClick={() => toggleExpand(insight.id)}
                       className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1"
@@ -217,14 +216,6 @@ function ClientHome() {
                         </>
                       )}
                     </button>
-
-                    {/* Minimal CTA in the bottom-right of the card */}
-                    <a
-                      href={detailHref}
-                      className="mt-auto self-end text-xs font-semibold px-2 py-1 rounded-md border border-slate-300 text-slate-600 hover:bg-slate-50"
-                    >
-                      Open post ↗
-                    </a>
                   </div>
                 </div>
               </article>
