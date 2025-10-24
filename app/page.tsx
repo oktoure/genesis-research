@@ -165,7 +165,17 @@ function ClientHome() {
                     </span>
                     {insight.date && <time className="text-slate-500 text-xs font-bold">{insight.date}</time>}
                   </div>
-                  <h3 className="text-xl font-bold text-slate-900 leading-snug">{insight.title}</h3>
+
+                  {/* TITLE IS NOW A LINK */}
+                  <h3 className="text-xl font-bold leading-snug">
+                    <a
+                      href={detailHref}
+                      className="text-slate-900 hover:underline underline-offset-4 decoration-slate-300"
+                      aria-label={`Open post: ${insight.title}`}
+                    >
+                      {insight.title}
+                    </a>
+                  </h3>
                 </div>
 
                 {/* Content */}
@@ -213,7 +223,7 @@ function ClientHome() {
                       href={detailHref}
                       className="mt-auto self-end text-xs font-semibold px-2 py-1 rounded-md border border-slate-300 text-slate-600 hover:bg-slate-50"
                     >
-                      Open post 
+                      Open post ↗
                     </a>
                   </div>
                 </div>

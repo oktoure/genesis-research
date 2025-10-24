@@ -1,12 +1,11 @@
-'use client';
+// app/i/[id]/page.tsx
+import { notFound } from 'next/navigation';
+import insights from '../../data/insights.json';
+import type { Metadata, ResolvingMetadata } from 'next';
+import { absoluteUrl } from '../../lib/site';
+import BackLink from '../../components/BackLink';
 
-import React, { Suspense } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
-import rawInsights from './data/insights.json';
-
-export const dynamic = 'force-static';
-
-interface Insight {
+type Insight = {
   id: number;
   date?: string;
   category: string;
@@ -16,230 +15,126 @@ interface Insight {
   fullContent?: string;
   chartPath?: string;
   chartHeight?: string;
+};
+
+export const dynamic = 'force-static';
+
+export function generateStaticParams() {
+  return (insights as Insight[]).map((i) => ({ id: String(i.id) }));
 }
 
-export default function Page() {
-  return (
-    <Suspense fallback={<div className="max-w-7xl mx-auto px-6 py-10 text-sm text-slate-500">Loading…</div>}>
-      <ClientHome />
-    </Suspense>
+function findPost(id: string): Insight | undefined {
+  const num = Number(id);
+  if (Number.isNaN(num)) return undefined;
+  return (insights as Insight[]).find((p) => p.id === num);
+}
+
+function summarize(i: Insight, max = 160): string {
+  const text = i.summary || i.fullContent || '';
+  const cleaned = text.replace(/\s+/g, ' ').trim();
+  return cleaned.length > max ? `${cleaned.slice(0, max - 1)}…` : cleaned;
+}
+
+function normalizeSrc(path?: string): string | undefined {
+  if (!path) return undefined;
+  if (path.startsWith('http')) return path;
+  return path.startsWith('/') ? path : `/${path}`;
+}
+
+function renderWithBold(text: string) {
+  const parts = text.split(/(\*\*.*?\*\*)/g);
+  return parts.map((part, idx) =>
+    part.startsWith('**') && part.endsWith('**') ? (
+      <strong key={idx} className="font-bold">
+        {part.slice(2, -2)}
+      </strong>
+    ) : (
+      <span key={idx}>{part}</span>
+    )
   );
 }
 
-function ClientHome() {
-  const router = useRouter();
-  const searchParams = useSearchParams();
+export async function generateMetadata(
+  { params }: { params: { id: string } },
+  _parent: ResolvingMetadata
+): Promise<Metadata> {
+  const post = findPost(params.id);
+  if (!post) return {};
 
-  // Unfiltered main view
-  const activeCatParam = searchParams.get('cat') || 'Insights';
+  const title = post.title;
+  const description = summarize(post);
+  const normalized = normalizeSrc(post.chartPath);
+  const ogImage = normalized ? absoluteUrl(normalized) : absoluteUrl(`/i/${params.id}/opengraph-image`);
 
-  // Newest-first by id
-  const sortedInsights: Insight[] = React.useMemo(
-    () => [...(rawInsights as Insight[])].sort((a, b) => b.id - a.id),
-    []
-  );
-
-  // Dynamic tabs from JSON + "Insights"
-  const categories = React.useMemo(() => {
-    const set = new Set<string>();
-    (rawInsights as Insight[]).forEach(i => i.category && set.add(i.category));
-    return ['Insights', ...Array.from(set)];
-  }, []);
-
-  // Filter unless "Insights"
-  const shownInsights: Insight[] =
-    activeCatParam === 'Insights'
-      ? sortedInsights
-      : sortedInsights.filter(i => i.category === activeCatParam);
-
-  // Expand per card
-  const [expandedId, setExpandedId] = React.useState<number | null>(null);
-  const toggleExpand = (id: number) => setExpandedId(prev => (prev === id ? null : id));
-
-  // Render **bold** segments
-  const renderText = (text?: string) => {
-    if (!text) return null;
-    if (text.includes('**')) {
-      const parts = text.split(/(\*\*.*?\*\*)/g);
-      return (
-        <>
-          {parts.map((part, idx) =>
-            part.startsWith('**') && part.endsWith('**') ? (
-              <strong key={idx} className="font-bold">
-                {part.slice(2, -2)}
-              </strong>
-            ) : (
-              <span key={idx}>{part}</span>
-            )
-          )}
-        </>
-      );
-    }
-    return <>{text}</>;
+  return {
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      type: 'article',
+      url: absoluteUrl(`/i/${params.id}`),
+      images: [{ url: ogImage }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [ogImage],
+    },
   };
+}
 
-  // Tab nav
-  const goToCategory = (cat: string) => {
-    if (cat === 'Insights') {
-      router.push('/', { scroll: false });
-    } else {
-      router.push(`/?cat=${encodeURIComponent(cat)}`, { scroll: false });
-    }
-  };
+export default function InsightPage({ params }: { params: { id: string } }) {
+  const post = findPost(params.id);
+  if (!post) return notFound();
 
-  // Preserve where the user came from when opening a post
-  const currentFilterPath = activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
+  const chartSrc = normalizeSrc(post.chartPath);
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Header */}
       <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-7xl mx-auto px-6 py-6">
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
-              <p className="text-slate-400 mt-1 text-xs">Research, timely insights, and transparent trade ideas</p>
-            </div>
-            <div className="text-right">
-              <div className="text-slate-400 text-xs">Last Updated</div>
-              <div className="text-white text-sm font-bold">
-                {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-              </div>
-            </div>
+        <div className="max-w-3xl mx-auto px-6 py-6">
+          {/* Single Back button, always visible on dark header */}
+          <BackLink fallback="/" variant="solidOnDark" />
+
+          <h1 className="text-2xl font-bold text-white tracking-tight mt-3">{post.title}</h1>
+          <div className="flex items-center gap-3 mt-2">
+            <span className={`${post.categoryColor || 'bg-slate-700'} text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}>
+              {post.category}
+            </span>
+            {post.date && <time className="text-slate-400 text-xs font-bold">{post.date}</time>}
           </div>
         </div>
       </header>
 
-      {/* Main */}
-      <main className="max-w-7xl mx-auto px-6 py-10">
-        <div className="mb-4">
-          <h2 className="text-2xl font-bold text-slate-900">Insights</h2>
-        </div>
-
-        {/* Tabs */}
-        <div className="mb-8 border-b border-slate-200">
-          <nav className="flex flex-wrap gap-6">
-            {categories.map((cat) => {
-              const isActive = cat === activeCatParam;
-              return (
-                <button
-                  key={cat}
-                  onClick={() => goToCategory(cat)}
-                  className={`relative py-2 text-sm font-semibold transition-colors ${
-                    isActive ? 'text-slate-900' : 'text-slate-500 hover:text-slate-700'
-                  }`}
-                >
-                  {cat}
-                  <span
-                    className={`absolute left-0 right-0 -bottom-[1px] h-0.5 ${
-                      isActive ? 'bg-blue-600' : 'bg-transparent'
-                    }`}
-                  />
-                </button>
-              );
-            })}
-          </nav>
-        </div>
-
-        {/* Feed */}
-        <div className="space-y-10">
-          {shownInsights.map((insight) => {
-            const isExpanded = expandedId === insight.id;
-            const textToShow = isExpanded
-              ? (insight.fullContent ?? insight.summary ?? '')
-              : (insight.summary ?? insight.fullContent ?? '');
-
-            const detailHref = `/i/${insight.id}?from=${encodeURIComponent(currentFilterPath)}`;
-
-            return (
-              <article key={insight.id} className="relative border-b border-slate-100 pb-10 last:border-0">
-                {/* Meta */}
-                <div className="mb-5">
-                  <div className="flex flex-wrap items-center gap-3 mb-3">
-                    <span
-                      className={`${
-                        insight.categoryColor || 'bg-slate-700'
-                      } text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}
-                    >
-                      {insight.category}
-                    </span>
-                    {insight.date && <time className="text-slate-500 text-xs font-bold">{insight.date}</time>}
-                  </div>
-
-                  {/* TITLE IS NOW A LINK */}
-                  <h3 className="text-xl font-bold leading-snug">
-                    <a
-                      href={detailHref}
-                      className="text-slate-900 hover:underline underline-offset-4 decoration-slate-300"
-                      aria-label={`Open post: ${insight.title}`}
-                    >
-                      {insight.title}
-                    </a>
-                  </h3>
-                </div>
-
-                {/* Content */}
-                <div className="grid md:grid-cols-2 gap-6 items-start">
-                  {/* Chart */}
-                  <div className="w-full">
-                    {insight.chartPath ? (
-                      <img
-                        src={encodeURI(insight.chartPath)}
-                        alt={insight.title}
-                        className="w-full h-auto"
-                        style={insight.chartHeight ? { height: insight.chartHeight, objectFit: 'contain' } : {}}
-                      />
-                    ) : (
-                      <div className="w-full aspect-[16/9] border border-slate-200 rounded-lg grid place-items-center text-slate-400 text-xs">
-                        Chart coming soon
-                      </div>
-                    )}
-                  </div>
-
-                  {/* Text + Controls */}
-                  <div className="w-full h-full flex flex-col">
-                    <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
-                      {renderText(textToShow)}
-                    </div>
-
-                    {/* Toggle */}
-                    <button
-                      onClick={() => toggleExpand(insight.id)}
-                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1"
-                    >
-                      {isExpanded ? (
-                        <>
-                          Show Less <span className="inline-block rotate-180">▾</span>
-                        </>
-                      ) : (
-                        <>
-                          Read Full Analysis <span className="inline-block">▾</span>
-                        </>
-                      )}
-                    </button>
-
-                    {/* Minimal CTA in the bottom-right of the card */}
-                    <a
-                      href={detailHref}
-                      className="mt-auto self-end text-xs font-semibold px-2 py-1 rounded-md border border-slate-300 text-slate-600 hover:bg-slate-50"
-                    >
-                      Open post ↗
-                    </a>
-                  </div>
-                </div>
-              </article>
-            );
-          })}
-
-          {shownInsights.length === 0 && (
-            <div className="text-slate-500 text-sm">No posts in this category yet.</div>
+      <main className="max-w-3xl mx-auto px-6 py-8">
+        {/* Chart */}
+        <div className="mb-6">
+          {chartSrc ? (
+            <img
+              src={encodeURI(chartSrc)}
+              alt={post.title}
+              className="w-full h-auto"
+              style={post.chartHeight ? { height: post.chartHeight, objectFit: 'contain' } : {}}
+            />
+          ) : (
+            <div className="w-full aspect-[16/9] border border-slate-200 rounded-lg grid place-items-center text-slate-400 text-xs">
+              Chart coming soon
+            </div>
           )}
         </div>
+
+        {/* Body */}
+        <article className="prose prose-slate max-w-none">
+          <p className="text-[15px] leading-relaxed text-slate-800 text-justify">
+            {renderWithBold((post.fullContent || post.summary || '').trim())}
+          </p>
+        </article>
       </main>
 
-      {/* Footer */}
       <footer className="border-t border-slate-100 mt-12">
-        <div className="max-w-7xl mx-auto px-6 py-6">
+        <div className="max-w-3xl mx-auto px-6 py-6">
           <p className="text-slate-400 text-xs text-center">© {new Date().getFullYear()} Genesis Research</p>
         </div>
       </footer>
