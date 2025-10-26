@@ -197,8 +197,19 @@
   "fullContent": "**The Kansas City Fed’s Manufacturing Production Index surged to 15 — the strongest since April 2022 — outpacing the Composite Index (6) and signaling renewed regional strength in output momentum.** The divergence between **production (15)** and **composite (6)** shows that while **factory output is rebounding**, the **breadth of the recovery** remains moderate. Gains were concentrated in **metal manufacturing** and **printing/paper**, while **export orders** softened and **price pressures** ticked slightly higher. Compared with **Philadelphia’s sharp contraction (–12.8)** and the still-sub-50 **ISM Manufacturing PMI (49.1)**, **Kansas stands out as a pocket of resilience rather than the start of a nationwide upturn.** Together with the **Empire State’s rebound**, the print suggests **manufacturing momentum is rotating westward**, adding a stabilizing note to the ISM outlook into Q4. **Regional normalization, not reacceleration, remains the base case.**",
   "chartPath": "/charts/Economics/kansas-fed-manufacturing-vs-ism_2025-10-23.svg",
   "chartHeight": "900"
-}
+},
 
+{
+  "id": 19,
+  "date": "24-10-2025",
+  "category": "Economics",
+  "categoryColor": "bg-blue-600",
+  "title": "Inflation Psychology: Core Cools, Belief Lags",
+  "summary": "**Households and markets diverged: core inflation cooled to 3.0 % while headline edged up to 3.0 %, Michigan 1-yr held at 4.6 % and 5-yr rose to 3.9 %, but the market’s 5y-5y eased to 2.18 %.**",
+  "fullContent": "**Households and markets diverged: core inflation cooled to 3.0 % while headline edged up to 3.0 %, Michigan 1-yr held at 4.6 % and 5-yr rose to 3.9 %, but the market’s 5y-5y eased to 2.18 %.** September’s prints confirm disinflation beneath a mild headline uptick (0.2 % core m/m; 0.3 % headline m/m). Mechanically, households anchor to salient prices and wages, so 1-yr steadied and 5-yr crept higher; markets price the policy path, pulling 5y-5y toward the Fed’s target as tariff/energy shocks look cyclical, not structural. **Equities:** constructive but cautious—softer core supports multiples, yet elevated household 5-yr argues for consolidation rather than a breakout. **Gold:** dip-buying bias remains—policy patience and anchored 5y-5y support it as a hedge against policy hesitation more than against accelerating inflation. **Until expectations follow the data, treat calm equity vol as fragile and favor quality-led risk with gold as a tactical hedge.**",
+  "chartPath": "/charts/Economics/inflation-psychology-data-vs-belief_2025-10-24.svg",
+  "chartHeight": "900"
+}
 
 
 
