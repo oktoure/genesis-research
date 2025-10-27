@@ -60,7 +60,7 @@
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
     "title": "Confidence Slips, Momentum Risks Ahead",
-    "summary": "**October's Michigan survey came in at 55.0, unchanged from 55.1 previously and slightly above the 54.2 expected, showing confidence has plateaued.",
+    "summary": "**October's Michigan survey came in at 55.0, unchanged from 55.1 previously and slightly above the 54.2 expected, showing confidence has plateaued.**",
     "fullContent": "**October's Michigan survey came in at 55.0, unchanged from 55.1 previously and slightly above the 54.2 expected, showing confidence has plateaued.** Current Conditions rose to 61.0 from 60.4 and above the 60.0 consensus, suggesting households feel modestly better about jobs and finances today. Expectations eased to 51.2 from 51.7, missing forecasts and revealing lingering caution about the outlook. The pattern fits history: optimism about current conditions often peaks before spending slows. Consumers remain employed and solvent, but high borrowing costs and fading savings are making them more defensive. GDP growth near 3.8% is still solid, yet softer sentiment warns that demand momentum will cool. **For investors, this argues for patience over cyclicals — growth is resilient, not roaring.**",
     "chartPath": "/charts/Economics/confidence-slips-momentum-risks-ahead_2025-10-10.svg",
     "chartHeight": "700"
@@ -209,7 +209,19 @@
   "fullContent": "**Core inflation cooled to 3.0 % while headline missed consensus, giving the Fed room to ease even as tariffs and ISM prices hint at latent pressure.** The September data confirmed a ‘controlled but not conquered’ inflation setup: **core slowed to 0.2 % m/m and 3.0 % y/y**, while **headline rose to 3.0 % y/y** but stayed **below the 3.1 % consensus**. Tariff-related and ISM cost pressures have not yet materialized in realized inflation, keeping **policy cuts on the table**. Markets responded accordingly—**the Dow hit a new all-time high**, with the **5y5y inflation swap near 2.18 %**, signaling that investors still **trust the Fed’s credibility**. Households, however, remain cautious: the **Michigan 1-yr stayed at 4.6 % and 5-yr rose to 3.9 %**, suggesting **inflation fatigue, not panic**. **Equities** lean risk-on as long as inflation remains contained; **gold** holds as a hedge against policy hesitation rather than inflation itself. **Unless core services or long-term expectations re-accelerate, the next 25 bp cut is effectively a formality.**",
   "chartPath": "/charts/Economics/inflation-cooling-enough-to-cut-hot-enough-to-worry_2025-10-24.svg",
   "chartHeight": "900"
+},
+{
+  "id": 20,
+  "date": "27-10-2025",
+  "category": "Economics",
+  "categoryColor": "bg-blue-600",
+  "title": "Dallas Fed: Weak Pulse, Strong Signal",
+  "summary": "**Texas manufacturing is stabilizing, but the message is less about momentum and more about fragility.**",
+  "fullContent": "**Texas manufacturing is stabilizing, but the message is less about momentum and more about fragility.** The Dallas Fed’s headline improved to **–5.0**, but stayed negative, underscoring that the **U.S. factory cycle remains in repair mode, not revival**. Production held at **5.2**, showing output is alive — yet new orders (–1.7) and capacity use (–1.1) point to a demand side that still hesitates. What’s striking is not the weakness itself, but its **composition**: output steady, employment barely positive (**2.0**), while uncertainty surged (**22.2**) — a textbook case of firms producing cautiously while watching costs and policy headlines.  \n\nAcross regionals, the pattern rhymes: **Kansas and New York are rebounding**, **Philly collapsed**, and **Dallas straddles the middle**, confirming that **manufacturing is oscillating rather than accelerating**. The inflation narrative mirrors that: input and wage pressures eased sharply, echoing **ISM’s “sticky but softening”** dynamic.  \n\n**Macro takeaway:** This is a late-cycle normalization — activity flat, prices cooling, and uncertainty elevated — a setup where the **Fed can cut without conviction** and where **risk assets trade choppily, not directionally**. The fact that the **Dow hit new highs even as factories tread water** says it all: **markets are leaning on liquidity, not production.**",
+  "chartPath": "/charts/Economics/dallas-fed-weak-pulse-strong-signal_2025-10-28.svg",
+  "chartHeight": "350"
 }
+
 
 
 
