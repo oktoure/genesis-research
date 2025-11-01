@@ -213,7 +213,7 @@
 
 {
   "id": 20,
-  "date": "28-10-2025",
+  "date": "27-10-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "Dallas Fed: Weak Pulse, Strong Signal",
@@ -231,6 +231,18 @@
   "summary": "**The Richmond Fed’s rebound to −4 from −17 marked the softest pessimism since March, signaling that factory sentiment is stabilizing as demand improves.**",
   "fullContent": "**The Richmond Fed’s rebound to −4 from −17 marked the softest pessimism since March, signaling that factory sentiment is stabilizing as demand improves.** **Shipments turned positive at 4**, **new orders rose to −6**, and **backlogs eased**, showing early signs of recovery in the Fifth District. **Employment remained weak (−10)**, but **input and output prices cooled**, giving firms room to breathe. **Expectations for shipments and orders turned optimistic**, suggesting that activity may firm into year-end. **Richmond’s improvement joins Kansas and New York’s gains**, offsetting **Dallas’s stagnation and Philadelphia’s volatility**, hinting at a broader pattern of regional normalization. **Together, the data suggest the next ISM print could hover near 50 — a fragile but genuine sign of stabilization as cost pressures ease and the Fed stays on track to cut.**",
   "chartPath": "/charts/Economics/richmond-fed-pessimism-fades-recovery-broadens_2025-10-28.svg",
+  "chartHeight": "350"
+},
+
+{
+  "id": 22,
+  "date": "01-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "ISM Manufacturing Tracker: Regional Firming Points to a Flat-to-Slightly-Higher ISM",
+  "summary": "**Our standardized “ISM Manufacturing Tracker” — the average of New York, Philadelphia, Kansas City, Dallas, and Richmond — turned higher in October, signaling a shift from contraction scare to cautious stabilization.**",
+  "fullContent": "**Our standardized “ISM Manufacturing Tracker” — the average of New York, Philadelphia, Kansas City, Dallas, and Richmond — turned higher in October, signaling a shift from contraction scare to cautious stabilization.** The mix is consistent: **New York rebounded (10.7)**, **Kansas production jumped (15)**, **Richmond improved (–4 vs –14 consensus)**, while **Dallas stayed soft (–5)** and **Philadelphia’s headline slumped (–12.8) but internals held firm**. Mechanically, averaging standardized surprises reduces diffusion noise and emphasizes breadth; October breadth improved, led by **orders and shipments** and milder **price pressures**, with **employment still lagging**. Historically, this composite leads the **ISM Manufacturing PMI** by one month and signals **turning points** rather than levels. The current read argues for an **ISM near the 50 line** — stabilization rather than reacceleration — with **upside skew if orders momentum persists and prices continue to cool.** **Net: expect a flat-to-slightly-higher ISM print, consistent with late-cycle normalization and gradual policy easing.**",
+  "chartPath": "/charts/Economics/ism-manufacturing-tracker-regional-firming_2025-11-01.svg",
   "chartHeight": "350"
 }
 
