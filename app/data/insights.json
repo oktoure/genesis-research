@@ -244,7 +244,19 @@
   "fullContent": "**Our standardized “ISM Manufacturing Tracker” — the average of New York, Philadelphia, Kansas City, Dallas, and Richmond — turned higher in October, signaling a shift from contraction scare to cautious stabilization.** The mix is consistent: **New York rebounded (10.7)**, **Kansas production jumped (15)**, **Richmond improved (–4 vs –14 consensus)**, while **Dallas stayed soft (–5)** and **Philadelphia’s headline slumped (–12.8) but internals held firm**. Mechanically, averaging standardized surprises reduces diffusion noise and emphasizes breadth; October breadth improved, led by **orders and shipments** and milder **price pressures**, with **employment still lagging**. Historically, this composite leads the **ISM Manufacturing PMI** by one month and signals **turning points** rather than levels. The current read argues for an **ISM near the 50 line** — stabilization rather than reacceleration — with **upside skew if orders momentum persists and prices continue to cool.** **Net: expect a flat-to-slightly-higher ISM print, consistent with late-cycle normalization and gradual policy easing.**",
   "chartPath": "/charts/Economics/ism-manufacturing-tracker-regional-firming_2025-11-01.svg",
   "chartHeight": "350"
+},
+{
+  "id": 23,
+  "date": "29-10-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "FOMC: The Cut Was Dovish, The Read Was Hawkish",
+  "summary": "**The Fed cut 25 bp to 3.75–4.00 %, but markets priced it hawkish: DXY firmed, the 10-year rebounded toward 4 %, and December cut odds slid to ~67 % from ~90 %.**",
+  "fullContent": "**The Fed cut 25 bp to 3.75–4.00 %, but markets priced it hawkish: DXY firmed, the 10-year rebounded toward 4 %, and December cut odds slid to ~67 % from ~90 %.** Chair Powell said a December cut is “**not a foregone conclusion**,” and a split **10–2** vote underscored internal debate. Mechanically, policy is easing into an economy with a **positive output gap (~1.68 %)** and **core PCE ~** **2.74 %**, so the cut looked more like **insurance** than a **pivot**. Financial conditions failed to loosen because the market trusts the data more than the dots: easing amid above-potential growth risks re-anchoring inflation expectations. In this frame, the first panel (Fed funds, **10-year**, **DXY**) captures the **hawkish reaction**, while the second (output gap vs **PCE**) explains it. **Bottom line: policy turned, but credibility hasn’t — the cut was real, the pivot was not.**",
+  "chartPath": "/charts/Economics/fomc-cut-markets-hawkish-read_2025-10-29.svg",
+  "chartHeight": "700"
 }
+
 
 
 
