@@ -255,7 +255,20 @@
   "fullContent": "**The Fed cut 25 bp to 3.75–4.00 %, but markets priced it hawkish: DXY firmed, the 10-year rebounded toward 4 %, and December cut odds slid to ~67 % from ~90 %.** Chair Powell said a December cut is “**not a foregone conclusion**,” and a split **10–2** vote underscored internal debate. Mechanically, policy is easing into an economy with a **positive output gap (~1.68 %)** and **core PCE ~** **2.74 %**, so the cut looked more like **insurance** than a **pivot**. Financial conditions failed to loosen because the market trusts the data more than the dots: easing amid above-potential growth risks re-anchoring inflation expectations. In this frame, the first panel (Fed funds, **10-year**, **DXY**) captures the **hawkish reaction**, while the second (output gap vs **PCE**) explains it. **Bottom line: policy turned, but credibility hasn’t — the cut was real, the pivot was not.**",
   "chartPath": "/charts/Economics/fomc-cut-markets-hawkish-read_2025-10-29.svg",
   "chartHeight": "700"
+},
+{
+  "id": 24,
+  "date": "31-10-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold Reclaims 4,000 as the 78.6% Pivot Holds",
+  "summary": "**Gold defended the 78.6% retracement near 3,915 — aligned with the 4-hour MA200 — marking a second successful defense of structural support.**",
+  "fullContent": "**Gold defended the 78.6% retracement near 3,915 — aligned with the 4-hour MA200 — marking a second successful defense of structural support.** After the **FOMC’s hawkish tone** triggered a brief retest of this zone, the **confluence once again held**, propelling prices back above **4,000** into month-end. This repeated defense mirrors the earlier **61.8% rebound pattern** and reinforces that the **bullish bias remains technically valid** despite tightening macro conditions. The **MA200 (4H)** and **78.6% retracement** now act as the new floor: as long as gold holds this confluence, it retains upside potential toward the prior range highs. Yet, the **rising dollar** and firm **yields** could cap momentum unless the **easing cycle narrative** regains traction. Structurally, the setup recalls **2017**, when gold based amid **dollar consolidation** before a broad “Santa-rally” across assets. **Holding 3,915–3,940 keeps the structural uptrend alive; losing it opens a path toward the daily MA50 and a deeper retracement.**",
+  "chartPath": "/charts/Commodities/gold-reclaims-4000-78-6-pivot-holds_2025-10-31.svg",
+  "chartHeight": "350"
 }
+
+
 
 
 
