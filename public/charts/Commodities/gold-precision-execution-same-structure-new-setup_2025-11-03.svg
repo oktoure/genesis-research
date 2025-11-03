@@ -30,7 +30,7 @@
      inkscape:window-x="244"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g11049" />
+     inkscape:current-layer="svg11051" />
   <rect
      x="0"
      y="0"
@@ -38,6 +38,18 @@
      height="350"
      style="fill: rgb(255, 255, 255); fill-opacity: 1;"
      id="rect1" />
+  <path
+     d="m 195.10518,267.58245 -10.31009,36.23656 -0.65223,-0.11251 10.10388,-35.51183 m -1.30442,-0.22514 3.48635,-6.24119 -0.22524,6.80394"
+     id="path2-3-1-8-03"
+     style="stroke-width:0.704198"
+     inkscape:transform-center-x="-2.8103044"
+     inkscape:transform-center-y="-6.323185" />
+  <path
+     d="m 328.25974,234.6691 -10.31009,36.23656 -0.65223,-0.11251 10.10388,-35.51183 m -1.30442,-0.22514 3.48635,-6.24119 -0.22524,6.80394"
+     id="path2-3-1-8-08"
+     style="stroke-width:0.704198"
+     inkscape:transform-center-x="-2.8103044"
+     inkscape:transform-center-y="-6.323185" />
   <path
      d="m 538.90165,139.92384 -30.86072,-21.61021 0.31992,-0.5794 30.24355,21.17801 m 0.63994,-1.15874 4.755,5.33827 -6.35484,-2.44137"
      id="path2-3-2-7"
