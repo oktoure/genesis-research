@@ -30,7 +30,7 @@
      inkscape:window-x="1327"
      inkscape:window-y="94"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g11009" />
+     inkscape:current-layer="svg11009" />
   <rect
      x="0"
      y="0"
@@ -63,6 +63,13 @@
      rx="6.2499962"
      cy="275.69373"
      cx="227.16452" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-3-2"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="147.39397"
+     cx="327.70551" />
   <path
      d="m 368.19848,173.25703 -19.58724,-32.1827 0.52565,-0.4022 19.1955,31.53906 m 1.05136,-0.80428 2.21152,6.79826 -4.83989,-4.78747"
      id="path2-3"
