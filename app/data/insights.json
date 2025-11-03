@@ -277,7 +277,19 @@
   "fullContent": "**Gold reclaimed 4,000 after twice defending the 78.6% retracement (3,915–3,940) aligned with the 4-hour MA200, keeping the uptrend alive despite a hawkish FOMC reaction.** The confluence of the 4h-200 and the 78.6% Fibonacci remains the market’s structural floor, validated twice within a week. Beyond the charts, the macro tone still favors gold’s resilience: **Michigan 1-year expectations at 4.6% and 5-year at 3.9%**, alongside a **5y5y inflation swap near 2.18%**, confirm that **inflation anxiety has eased without disappearing**—a setup that supports gradual Fed easing and preserves gold’s strategic bid. Technically, **3,965** and **3,941** (dual 61.8% zones) define the tactical buy-the-dip area; **3,915–3,940** remains the structural line in the sand. A sustained hold above the confluence reopens room toward prior highs, while a break would expose **3,818** (daily MA50). **Bias: mildly bullish while 3,915–3,940 holds — the structure remains intact despite the dollar’s strength.**",
   "chartPath": "/charts/Commodities/gold-4h-200ma-78-6-confluence_2025-11-02.svg",
   "chartHeight": "350"
+},
+{
+  "id": 26,
+  "date": "03-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "ISM Prices Ease, Employment Stabilizes — Soft Landing Reaffirmed",
+  "summary": "**The ISM Manufacturing PMI slipped to 48.7 in October, but the more important signal was beneath the headline: prices eased sharply while employment stabilized — a mix fully consistent with a soft-landing backdrop.**",
+  "fullContent": "**The ISM Manufacturing PMI slipped to 48.7 in October, but the more important signal was beneath the headline: prices eased sharply while employment stabilized — a mix fully consistent with a soft-landing backdrop.** ISM **Prices Paid fell to 58.0 from 61.9**, showing that input-cost pressure is cooling again and that the latest tariff headlines are, for now, being treated as a **transitory inflationary shock** rather than the start of a persistent upswing. At the same time, **ISM Employment improved to 46.0 from 45.3**, suggesting firms are managing demand softness without accelerating layoffs. That combination — softer prices, steady labor — reinforces the idea that the Fed’s **slightly hawkish tone is a form of insurance**, not a shift back to tightening, and that policy rates are hovering near their **natural** level. **Net: this environment gives a green pass for earnings to stay the main bullish driver for equities at all-time highs, while gold remains supported as a hedge against policy and geopolitical noise.**",
+  "chartPath": "/charts/Economics/ism-prices-employment-soft-landing_2025-11-03.svg",
+  "chartHeight": "350"
 }
+
 
 
 
