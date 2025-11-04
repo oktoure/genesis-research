@@ -303,14 +303,15 @@
 {
   "id": 28,
   "date": "03-11-2025",
-  "category": "Commodities",
-  "categoryColor": "bg-yellow-600",
-  "title": "Gold: Precision Execution, Same Structure, New Setup",
-  "summary": "**Our initial gold position was perfectly executed — 400 pips in profit, partial profits taken, and the remaining position moved to break-even, keeping the setup risk-free.**",
-  "fullContent": "**Our initial gold position was perfectly executed — 400 pips in profit, partial profits taken, and the remaining position moved to break-even, keeping the setup risk-free.** From the 3,965 swing low, gold extended to 4,030 before pulling back, and the current retracement toward **3,989.10** aligns with the **61.8 % Fibonacci level** and the **rising 4-hour MA200**. The pullback is seen as **rotation, not reversal** — part of a healthy consolidation within the broader bullish structure. The macro backdrop remains consistent: inflation expectations are contained, policy easing is gradual, and the dollar’s strength looks tactical, not structural. With a new position added at 3,989.10 and the stop aligned with the prior entry, even in a full stop-out scenario the net outcome remains a **+2 % gain overall**. **Structure intact, risk defined, conviction sustained.**",
-  "chartPath": "/charts/Commodities/gold-precision-execution-same-structure-new-setup_2025-11-03.svg",
-  "chartHeight": "350"
-},
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Oil’s Drop Offsets Tariff Inflation — Reinforcing the Soft-Landing Path",
+  "summary": "**Falling oil prices are offsetting tariff-driven inflation, preserving the disinflation narrative and reinforcing the Fed’s soft-landing path ahead of the next CPI print.**",
+  "fullContent": "**Falling oil prices are offsetting tariff-driven inflation, preserving the disinflation narrative and reinforcing the Fed’s soft-landing path ahead of the next CPI print.** Brent has broken below **$65/bbl**, and **WTI is down ~16 % year-on-year**, providing a meaningful drag on goods inflation just as wage and services pressures ease. With **ISM manufacturing prices** trending lower, energy is again acting as a **counterweight to tariff pass-through**, limiting second-round inflation effects. Macro-wise, this **energy softness strengthens the Fed’s case for measured easing** — demand-pull inflation is fading faster than supply shocks can sustain it, and a cooling labor market amplifies the disinflationary tilt. Our second panel — **ISM prices (adv. 6M) vs CPI** — shows inflation should stay **range-bound**, not re-accelerate, meaning the next CPI release is unlikely to derail **rate-cut expectations**. **Net: oil weakness is not a risk signal — it’s the missing link keeping inflation under control and the easing path credible.**",
+  "chartPath": "/charts/Economics/oil-drop-offsets-tariff-inflation-soft-landing-path_2025-11-03.svg",
+  "chartHeight": "700"
+}
+
 
 
 
