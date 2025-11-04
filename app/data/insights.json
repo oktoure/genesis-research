@@ -327,12 +327,13 @@
   "date": "04-11-2025",
   "category": "Equities",
   "categoryColor": "bg-purple-600",
-  "title": "S&P 500 Seasonality: Year-End Bid vs. Valuation Angst",
-  "summary": "**Even as the Dow tests the top of its 2022 up-channel, the S&P 500’s Nov–Dec seasonality argues the year-end bid still has the burden of proof.**",
-  "fullContent": "**Even as the Dow tests the top of its 2022 up-channel, the S&P 500’s Nov–Dec seasonality argues the year-end bid still has the burden of proof.** When we rebase 2025 to 100 and stack it against 2021–2025 paths, a pattern shows up: post-November the index has tended to finish flat-to-higher even in noisy macro years — 2021 liquidity, 2023 AI, 2024 tariff scare, and even 2022’s tightening shock didn’t deliver a late-year collapse. That tells us valuation worries, narrow breadth, or a hawkish-read Fed typically need a **bigger catalyst** to overpower seasonality, easing in place, and still-decent earnings. This time the upside is probably smaller — but the default is still “support into year-end,” not “air pocket.” **Unless data or policy deliver a genuine negative surprise, the seasonal bid remains the path of least resistance.**",
-  "chartPath": "/charts/Equities/sp500-seasonality-2021-2025-vs-2025-rebased_2025-11-04.svg",
+  "title": "Seasonality and the Dollar: A Familiar Year-End Setup",
+  "summary": "**Even as the Dow tests its 2022 up-channel and the dollar stalls near its July peak, cross-market seasonality argues that year-end support remains the base case.**",
+  "fullContent": "**Even as the Dow tests its 2022 up-channel and the dollar stalls near its July peak, cross-market seasonality argues that year-end support remains the base case.** When the S&P 500 is rebased to 2025 and compared with 2021–2025 paths, post-November performance has consistently finished flat-to-higher—even through tightening, tariffs, and valuation scares. Meanwhile, the **DXY’s election-year pattern** adds context: in both **2017** and **2025**, a mid-year peak preceded a multi-month dollar drawdown that eased global financial conditions. If that analogue holds, **a weaker dollar into year-end** should mechanically support equities and precious metals while offsetting policy tightening fears. The message across assets is the same: **seasonality and easing liquidity trends remain allies for risk markets, unless data or policy shocks break the pattern.**",
+  "chartPath": "/charts/Equities/seasonality-and-dollar-familiar-year-end-setup_2025-11-04.svg",
   "chartHeight": "350"
 }
+
 
 
 
