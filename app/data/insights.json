@@ -299,7 +299,19 @@
   "fullContent": "**Our initial gold position was perfectly executed — 400 pips in profit, partial profits taken, and the remaining position moved to break-even, keeping the setup risk-free.** From the 3,965 swing low, gold extended to 4,030 before pulling back, and the current retracement toward **3,989.10** aligns with the **61.8 % Fibonacci level** and the **rising 4-hour MA200**. The pullback is seen as **rotation, not reversal** — part of a healthy consolidation within the broader bullish structure. The macro backdrop remains consistent: inflation expectations are contained, policy easing is gradual, and the dollar’s strength looks tactical, not structural. With a new position added at 3,989.10 and the stop aligned with the prior entry, even in a full stop-out scenario the net outcome remains a **+2 % gain overall**. **Structure intact, risk defined, conviction sustained.**",
   "chartPath": "/charts/Commodities/gold-precision-execution-same-structure-new-setup_2025-11-03.svg",
   "chartHeight": "350"
+},
+{
+  "id": 28,
+  "date": "03-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Oil Disinflation Is Doing the Fed’s Work",
+  "summary": "**Falling oil prices are pulling ISM manufacturing prices lower, helping to offset tariff-related cost pressure and keeping the disinflation narrative intact ahead of the next CPI print.**",
+  "fullContent": "**Falling oil prices are pulling ISM manufacturing prices lower, helping to offset tariff-related cost pressure and keeping the disinflation narrative intact ahead of the next CPI print.** With WTI down roughly 16 % year-on-year and ISM prices easing again, energy is acting as a counterweight just as tariffs, soft manufacturing and a cooling labor market could have complicated the Fed’s job. Our second panel — ISM prices advanced six months versus CPI — still points to contained, range-bound inflation, meaning the upcoming release is unlikely to overshoot in a way that would derail Fed-cut expectations. **Net: oil is buying the Fed time, reinforcing the soft-landing/easing path and reducing the odds of a hawkish inflation surprise.**",
+  "chartPath": "/charts/Economics/oil-disinflation-is-doing-the-feds-work_2025-11-03.svg",
+  "chartHeight": "700"
 }
+
 
 
 
