@@ -321,7 +321,19 @@
   "fullContent": "**The Dow has reached the upper bound of its ascending channel from the 2022 lows, a trendline that perfectly connects three years of cyclical higher-lows and higher-highs — but also defines exhaustion risk.** This test comes as **AI-driven valuations stretch**, with **Palantir’s 700x P/E** and the **S&P 500’s forward multiple near 23x — levels last seen in 2000.** Earnings beats have kept the bull case intact, yet the market’s breadth is narrowing sharply: fewer stocks are driving new highs while leadership is clustered around mega-cap tech. Technically, the Dow’s advance toward the **upper trendline (~47,000)** suggests momentum is peaking; a pullback toward the **midline (45,000–45,200)** would be natural within the channel. Macro-wise, **Fed Governor Cook’s remarks** that December’s decision depends on tariff and inflation data highlight how close policy is to “neutral,” leaving markets more sensitive to valuation risk. **Goldman Sachs and Morgan Stanley both flagged 10–20% correction odds** — not panic, but a reminder that soft landings often come with air pockets. **Net: The trend is intact, but stretched — strength deserves respect, not complacency.**",
   "chartPath": "/charts/Equities/dow-jones-at-the-channel-top-soft-landing-or-overstretch_2025-11-04.svg",
   "chartHeight": "700"
+},
+{
+  "id": 30,
+  "date": "04-11-2025",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "S&P 500 Seasonality: Year-End Bid vs. Valuation Angst",
+  "summary": "**Even as the Dow tests the top of its 2022 up-channel, the S&P 500’s Nov–Dec seasonality argues the year-end bid still has the burden of proof.**",
+  "fullContent": "**Even as the Dow tests the top of its 2022 up-channel, the S&P 500’s Nov–Dec seasonality argues the year-end bid still has the burden of proof.** When we rebase 2025 to 100 and stack it against 2021–2025 paths, a pattern shows up: post-November the index has tended to finish flat-to-higher even in noisy macro years — 2021 liquidity, 2023 AI, 2024 tariff scare, and even 2022’s tightening shock didn’t deliver a late-year collapse. That tells us valuation worries, narrow breadth, or a hawkish-read Fed typically need a **bigger catalyst** to overpower seasonality, easing in place, and still-decent earnings. This time the upside is probably smaller — but the default is still “support into year-end,” not “air pocket.” **Unless data or policy deliver a genuine negative surprise, the seasonal bid remains the path of least resistance.**",
+  "chartPath": "/charts/Equities/sp500-seasonality-2021-2025-vs-2025-rebased_2025-11-04.svg",
+  "chartHeight": "350"
 }
+
 
 
 
