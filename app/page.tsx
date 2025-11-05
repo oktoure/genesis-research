@@ -1,3 +1,4 @@
+// app/page.tsx
 'use client';
 
 import React, { Suspense } from 'react';
@@ -25,6 +26,46 @@ export default function Page() {
     </Suspense>
   );
 }
+
+/** ---- Inline text helpers (same behavior as post page) ---- */
+function renderBold(text: string): React.ReactNode[] {
+  const parts = text.split(/(\*\*.*?\*\*)/g);
+  return parts.map((part, idx) =>
+    part.startsWith('**') && part.endsWith('**') ? (
+      <strong key={`b${idx}`} className="font-bold">
+        {part.slice(2, -2)}
+      </strong>
+    ) : (
+      <span key={`t${idx}`}>{part}</span>
+    )
+  );
+}
+
+function renderInline(text?: string): React.ReactNode {
+  if (!text) return null;
+  const linkRe = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]+)\)/g;
+  const out: React.ReactNode[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+
+  while ((m = linkRe.exec(text)) !== null) {
+    const [full, label, href] = m;
+    if (m.index > last) out.push(...renderBold(text.slice(last, m.index)));
+    out.push(
+      <a
+        key={`a${m.index}`}
+        href={href}
+        className="underline underline-offset-2 hover:opacity-80"
+      >
+        {label}
+      </a>
+    );
+    last = m.index + full.length;
+  }
+  if (last < text.length) out.push(...renderBold(text.slice(last)));
+  return <>{out}</>;
+}
+/** --------------------------------------------------------- */
 
 function ClientHome() {
   const router = useRouter();
@@ -55,28 +96,6 @@ function ClientHome() {
   // Expand per card
   const [expandedId, setExpandedId] = React.useState<number | null>(null);
   const toggleExpand = (id: number) => setExpandedId(prev => (prev === id ? null : id));
-
-  // Render **bold** segments
-  const renderText = (text?: string) => {
-    if (!text) return null;
-    if (text.includes('**')) {
-      const parts = text.split(/(\*\*.*?\*\*)/g);
-      return (
-        <>
-          {parts.map((part, idx) =>
-            part.startsWith('**') && part.endsWith('**') ? (
-              <strong key={idx} className="font-bold">
-                {part.slice(2, -2)}
-              </strong>
-            ) : (
-              <span key={idx}>{part}</span>
-            )
-          )}
-        </>
-      );
-    }
-    return <>{text}</>;
-  };
 
   // Tab nav
   const goToCategory = (cat: string) => {
@@ -199,7 +218,7 @@ function ClientHome() {
                   {/* Text + Toggle */}
                   <div className="w-full h-full flex flex-col">
                     <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
-                      {renderText(textToShow)}
+                      {renderInline(textToShow?.trim())}
                     </div>
 
                     <button

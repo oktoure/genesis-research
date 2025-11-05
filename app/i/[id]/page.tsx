@@ -42,7 +42,7 @@ function normalizeSrc(path?: string): string | undefined {
   return path.startsWith('/') ? path : `/${path}`;
 }
 
-/** Preserve your existing **bold** behavior */
+/** Keep **bold** behavior */
 function renderBold(text: string): React.ReactNode[] {
   const parts = text.split(/(\*\*.*?\*\*)/g);
   return parts.map((part, idx) =>
@@ -56,7 +56,7 @@ function renderBold(text: string): React.ReactNode[] {
   );
 }
 
-/** Minimal inline links: supports [label](url) with absolute or relative hrefs, plus **bold** inside non-link spans */
+/** Minimal inline links + bold: supports [label](url) (absolute or root-relative) */
 function renderInline(text: string): React.ReactNode[] {
   const linkRe = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]+)\)/g;
   const out: React.ReactNode[] = [];
