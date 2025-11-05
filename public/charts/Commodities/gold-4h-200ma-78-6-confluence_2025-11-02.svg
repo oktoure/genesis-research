@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="303.51289"
+     inkscape:cx="104.33256"
      inkscape:cy="284.89462"
      inkscape:window-width="976"
      inkscape:window-height="1186"
      inkscape:window-x="1327"
-     inkscape:window-y="38"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g11001" />
+     inkscape:current-layer="g10976" />
   <rect
      x="0"
      y="0"
@@ -55099,12 +55099,13 @@
       <g
          class="shape-group"
          data-index="1"
-         id="g10974">
+         id="g10974"
+         transform="matrix(1.1851564,0,0,0.99087089,-13.194107,0.31997536)">
         <path
            data-index="1"
            fill-rule="evenodd"
-           d="M71.44,38.71600000000001H97.64V31.384000000000004H71.44Z"
-           style="opacity: 1; stroke: rgb(69, 90, 100); stroke-opacity: 1; fill: rgb(69, 90, 100); fill-opacity: 1; stroke-width: 0.8px;"
+           d="m 71.44,38.716 h 26.2 v -7.332 h -26.2 z"
+           style="opacity:1;fill:#455a64;fill-opacity:1;stroke:#455a64;stroke-width:0.8px;stroke-opacity:1"
            id="path10973" />
       </g>
       <g
@@ -55159,9 +55160,9 @@
           <text
              class="annotation-text"
              text-anchor="start"
-             x="2"
+             x="6.215457"
              y="7"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+             style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
              id="text10981">GOLD*</text>
         </g>
       </g>
