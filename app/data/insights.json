@@ -343,7 +343,19 @@
   "fullContent": "**ADP employment rose 42,000 in October, beating the 25,000 consensus and reversing September’s –29,000, but the 3-month hiring pulse is still drifting lower.** On a 3-month moving-average of the 3-month change, ADP is not re-accelerating — it’s stabilizing at a lower gear. That aligns with our broader read from ISM, regional Fed surveys, and inflation: the U.S. economy is **cooling in an orderly way**, not falling into a labor recession. With the BLS payrolls report offline because of the shutdown, this ADP print matters more than usual — and it points to a labor market the Fed can **ease into**, not one that forces an emergency pivot. **Net: good enough for equities, not scary for bonds — the soft-landing narrative remains intact.**",
   "chartPath": "/charts/Economics/adp-vs-nfp-3m-ma-momentum-cooling-not-cracking_2025-11-05.svg",
   "chartHeight": "350"
+},
+{
+  "id": 32,
+  "date": "05-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "ISM Services: Inflation Floor, Not a Pivot",
+  "summary": "**The ISM Services PMI jumped to 52.4, but the inflation floor stayed firm — prices surged to 70.0 while employment lingered below 50, showing demand’s back but cost pressure isn’t gone.**",
+  "fullContent": "**The ISM Services PMI jumped to 52.4, but the inflation floor stayed firm — prices surged to 70.0 while employment lingered below 50, showing demand’s back but cost pressure isn’t gone.** New orders climbed to 56.2 and business activity to 54.3, confirming a broad re-acceleration after September’s soft patch. The problem is where the strength sits: on demand, not on disinflation. That divergence mirrors the manufacturing–services split we’ve tracked — goods prices are easing with oil, but services inflation is sticky and tariff-sensitive. Employment at 48.2 (from 47.2) signals cautious hiring, not layoffs — exactly what the Fed wants. Yet with prices at a three-year high, policymakers can’t pivot dovish too fast. **Net: solid growth, persistent service inflation — a textbook soft-landing mix that justifies “slow cuts, not no cuts,” keeps equities supported through earnings, and sustains gold as a quiet hedge against policy delay.**",
+  "chartPath": "/charts/Economics/ism-services-prices-vs-employment_2025-11-05.svg",
+  "chartHeight": "350"
 }
+
 
 
 
