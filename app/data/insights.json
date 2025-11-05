@@ -373,10 +373,22 @@
   "categoryColor": "bg-purple-600",
   "title": "Dow: Tactical Short Zone Defined — Between 47,465 and 47,599",
   "summary": "**After touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase, with 47,464–47,599 marking the short zone against stretched valuations.**",
-  "fullContent": "**Dow: Tactical Short Zone Defined — Between 47,465 and 47,599**  \nAfter touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase. The hawkish FOMC tone coincided with the rejection at the structural top (~47,800), sending prices back toward the 4-hour MA 200 and the 61.8% retracement drawn from the 46,433.21 low to the 48,074.43 high — a textbook reaction zone for trend validation.  \n\nFrom that floor, the rebound is now testing the bearish retracement cluster at **47,464–47,599**, which defines the tactical short area consistent with stretched valuations and fading breadth. Macro tone reinforces the setup: labor data remain solid, keeping Fed cuts distant, while earnings optimism and elevated multiples limit further upside.  \n\n**Net: 47,464–47,599 is where risk-reward tilts back to the downside — the channel remains intact, but upside momentum is losing force.**",
+  "fullContent": "**Dow: Tactical Short Zone Defined — Between 47,465 and 47,599** After touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase. The hawkish FOMC tone coincided with the rejection at the structural top (~47,800), sending prices back toward the 4-hour MA 200 and the 61.8% retracement drawn from the 46,433.21 low to the 48,074.43 high — a textbook reaction zone for trend validation. From that floor, the rebound is now testing the bearish retracement cluster at **47,464–47,599**, which defines the tactical short area consistent with stretched valuations and fading breadth. Macro tone reinforces the setup: labor data remain solid, keeping Fed cuts distant, while earnings optimism and elevated multiples limit further upside.  **Net: 47,464–47,599 is where risk-reward tilts back to the downside — the channel remains intact, but upside momentum is losing force.**",
   "chartPath": "/charts/Equities/dowjones-4h-ma200-fib-61-8-short-zone_2025-11-05.svg",
   "chartHeight": "350"
+},
+{
+  "id": 35,
+  "date": "05-11-2025",
+  "category": "FX",
+  "categoryColor": "bg-sky-600",
+  "title": "Dollar at the Crossroads — Technical Exhaustion Meets Seasonal Softness",
+  "summary": "**The dollar’s advance since the spring peak now looks exhausted as the DXY stalls at 104.68, where the 50% retracement and daily MA 200 converge — a resistance cluster consistent with seasonal weakness.**",
+  "fullContent": "**Dollar at the Crossroads — Technical Exhaustion Meets Seasonal Softness**  \nThe dollar’s advance since the spring peak now looks exhausted. The DXY failed to sustain momentum above **104.68**, aligning with the **50% retracement** of the 104.68–96.22 range and the **daily MA 200**, forming a strong resistance cluster that has capped upside since July.  \n\nSeasonality adds weight to the bearish bias: in both **2017 and 2025**, the dollar peaked midyear before entering a multi-month decline, easing financial conditions into year-end. With the Fed pivoting toward gradual easing, inflation contained, and risk appetite recovering, the setup argues for a softer dollar through December.  \n\nA sustained break below **100.25** would confirm the turn, opening the path toward **96.20**. **Net: the dollar’s cyclical tailwind has faded — seasonal, policy, and technical forces all align for a bearish phase.**",
+  "chartPath": "/charts/Currencies/dxy-daily-ma200-fib-50-seasonality_2025-11-05.svg",
+  "chartHeight": "350"
 }
+
 
 
 
