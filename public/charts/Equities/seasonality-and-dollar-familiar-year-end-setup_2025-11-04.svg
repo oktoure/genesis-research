@@ -22,12 +22,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.42"
-     inkscape:cx="242.95775"
+     inkscape:cx="243.30986"
      inkscape:cy="177.8169"
      inkscape:window-width="1784"
      inkscape:window-height="1186"
-     inkscape:window-x="244"
-     inkscape:window-y="25"
+     inkscape:window-x="495"
+     inkscape:window-y="83"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg166" />
   <rect
@@ -201,6 +201,24 @@
        height="282"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0"
        id="rect10" />
+  </g>
+  <g
+     id="svg171-6-79"
+     transform="matrix(-0.05718036,-1.229469,0.83152369,-0.17723995,137.31962,855.59664)"
+     inkscape:transform-center-x="8.5829479"
+     inkscape:transform-center-y="14.771545">
+    <path
+       d="m 571.47893,172.12702 -21.06363,-25.80226 0.51604,-0.42128 20.64236,25.28623 m 1.0321,-0.84254 2.50134,5.69757 -5.08157,-3.59121"
+       id="path2-3-0"
+       style="stroke-width:0.666164" />
+  </g>
+  <g
+     id="svg171-6-7"
+     transform="matrix(0.61995839,-0.0326564,0.02022105,1.0012148,-134.60198,-4.0815281)">
+    <path
+       d="m 571.47893,172.12702 -21.06363,-25.80226 0.51604,-0.42128 20.64236,25.28623 m 1.0321,-0.84254 2.50134,5.69757 -5.08157,-3.59121"
+       id="path2-3-3"
+       style="stroke-width:0.666164" />
   </g>
   <g
      class="layer-below"
@@ -974,6 +992,13 @@
       </g>
     </g>
   </g>
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-8"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="128.1825"
+     cx="207.13026" />
   <g
      class="infolayer"
      id="g166">
@@ -1754,6 +1779,13 @@
        class="subplot xy2"
        id="g95-4" />
   </g>
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-8-9"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="263.77405"
+     cx="467.04578" />
   <g
      class="polarlayer"
      id="g97"
@@ -2106,5 +2138,13 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     id="svg171-6"
+     transform="matrix(0.83404498,-0.12784328,0.12171658,0.87602731,-4.1301688,194.67111)">
+    <path
+       d="m 571.47893,172.12702 -21.06363,-25.80226 0.51604,-0.42128 20.64236,25.28623 m 1.0321,-0.84254 2.50134,5.69757 -5.08157,-3.59121"
+       id="path2-3"
+       style="stroke-width:0.666164" />
   </g>
 </svg>
