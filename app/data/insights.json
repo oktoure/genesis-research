@@ -350,11 +350,12 @@
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "ISM Services: Inflation Floor, Not a Pivot",
-  "summary": "**The ISM Services PMI jumped to 52.4, but the inflation floor stayed firm — prices surged to 70.0 while employment lingered below 50, showing demand’s back but cost pressure isn’t gone.**",
-  "fullContent": "**The ISM Services PMI jumped to 52.4, but the inflation floor stayed firm — prices surged to 70.0 while employment lingered below 50, showing demand’s back but cost pressure isn’t gone.** New orders climbed to 56.2 and business activity to 54.3, confirming a broad re-acceleration after September’s soft patch. The problem is where the strength sits: on demand, not on disinflation. That divergence mirrors the manufacturing–services split we’ve tracked — goods prices are easing with oil, but services inflation is sticky and tariff-sensitive. Employment at 48.2 (from 47.2) signals cautious hiring, not layoffs — exactly what the Fed wants. Yet with prices at a three-year high, policymakers can’t pivot dovish too fast. **Net: solid growth, persistent service inflation — a textbook soft-landing mix that justifies “slow cuts, not no cuts,” keeps equities supported through earnings, and sustains gold as a quiet hedge against policy delay.**",
+  "summary": "**ISM Services beat across the board — 52.4 vs 50.8 cons and 50.0 prior — but prices surprised higher to 70.0, keeping the inflation floor in place.**",
+  "fullContent": "**ISM Services beat across the board — 52.4 vs 50.8 consensus and 50.0 prior — but prices surprised higher to 70.0, keeping the inflation floor in place.** The upside was broad: business activity rose to 54.3 vs 50.2 cons (49.9 prior) and new orders jumped to 56.2 vs 51.0 cons (50.4 prior), showing services demand re-engaged after September’s soft patch. But the inflation detail went the wrong way: prices paid hit 70.0 vs 68.0 expected and 69.4 prior, confirming that service-side, tariff-sensitive costs remain sticky. Employment improved to 48.2 vs 47.6 cons and 47.2 prior, but still below 50, so firms are cautious on hiring rather than cutting aggressively. **Net: growth is better than feared, disinflation is slower than hoped — a soft-landing mix that argues for slow Fed cuts, equities supported by earnings, and gold still valid as policy insurance.**",
   "chartPath": "/charts/Economics/ism-services-prices-vs-employment_2025-11-05.svg",
   "chartHeight": "350"
 }
+
 
 
 
