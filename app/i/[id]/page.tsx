@@ -4,6 +4,7 @@ import insights from '../../data/insights.json';
 import type { Metadata, ResolvingMetadata } from 'next';
 import { absoluteUrl } from '../../lib/site';
 import BackLink from '../../components/BackLink';
+import React from 'react';
 
 type Insight = {
   id: number;
@@ -41,17 +42,43 @@ function normalizeSrc(path?: string): string | undefined {
   return path.startsWith('/') ? path : `/${path}`;
 }
 
-function renderWithBold(text: string) {
+/** Preserve your existing **bold** behavior */
+function renderBold(text: string): React.ReactNode[] {
   const parts = text.split(/(\*\*.*?\*\*)/g);
   return parts.map((part, idx) =>
     part.startsWith('**') && part.endsWith('**') ? (
-      <strong key={idx} className="font-bold">
+      <strong key={`b${idx}`} className="font-bold">
         {part.slice(2, -2)}
       </strong>
     ) : (
-      <span key={idx}>{part}</span>
+      <span key={`t${idx}`}>{part}</span>
     )
   );
+}
+
+/** Minimal inline links: supports [label](url) with absolute or relative hrefs, plus **bold** inside non-link spans */
+function renderInline(text: string): React.ReactNode[] {
+  const linkRe = /\[([^\]]+)\]\((https?:\/\/[^\s)]+|\/[^\s)]+)\)/g;
+  const out: React.ReactNode[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+
+  while ((m = linkRe.exec(text)) !== null) {
+    const [full, label, href] = m;
+    if (m.index > last) out.push(...renderBold(text.slice(last, m.index)));
+    out.push(
+      <a
+        key={`a${m.index}`}
+        href={href}
+        className="underline underline-offset-2 hover:opacity-80"
+      >
+        {label}
+      </a>
+    );
+    last = m.index + full.length;
+  }
+  if (last < text.length) out.push(...renderBold(text.slice(last)));
+  return out;
 }
 
 export async function generateMetadata(
@@ -64,7 +91,9 @@ export async function generateMetadata(
   const title = post.title;
   const description = summarize(post);
   const normalized = normalizeSrc(post.chartPath);
-  const ogImage = normalized ? absoluteUrl(normalized) : absoluteUrl(`/i/${params.id}/opengraph-image`);
+  const ogImage = normalized
+    ? absoluteUrl(normalized)
+    : absoluteUrl(`/i/${params.id}/opengraph-image`);
 
   return {
     title,
@@ -100,10 +129,14 @@ export default function InsightPage({ params }: { params: { id: string } }) {
 
           <h1 className="text-2xl font-bold text-white tracking-tight mt-3">{post.title}</h1>
           <div className="flex items-center gap-3 mt-2">
-            <span className={`${post.categoryColor || 'bg-slate-700'} text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}>
+            <span
+              className={`${post.categoryColor || 'bg-slate-700'} text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}
+            >
               {post.category}
             </span>
-            {post.date && <time className="text-slate-400 text-xs font-bold">{post.date}</time>}
+            {post.date && (
+              <time className="text-slate-400 text-xs font-bold">{post.date}</time>
+            )}
           </div>
         </div>
       </header>
@@ -128,14 +161,16 @@ export default function InsightPage({ params }: { params: { id: string } }) {
         {/* Body */}
         <article className="prose prose-slate max-w-none">
           <p className="text-[15px] leading-relaxed text-slate-800 text-justify">
-            {renderWithBold((post.fullContent || post.summary || '').trim())}
+            {renderInline((post.fullContent || post.summary || '').trim())}
           </p>
         </article>
       </main>
 
       <footer className="border-t border-slate-100 mt-12">
         <div className="max-w-3xl mx-auto px-6 py-6">
-          <p className="text-slate-400 text-xs text-center">© {new Date().getFullYear()} Genesis Research</p>
+          <p className="text-slate-400 text-xs text-center">
+            © {new Date().getFullYear()} Genesis Research
+          </p>
         </div>
       </footer>
     </div>
