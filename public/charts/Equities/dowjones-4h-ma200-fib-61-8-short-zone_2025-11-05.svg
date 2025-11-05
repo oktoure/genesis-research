@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300.00001"
-     inkscape:cy="175.29274"
+     inkscape:cx="89.227168"
+     inkscape:cy="171.07729"
      inkscape:window-width="1272"
      inkscape:window-height="1316"
      inkscape:window-x="1284"
-     inkscape:window-y="34"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6055" />
+     inkscape:current-layer="svg6055" />
   <rect
      x="0"
      y="0"
@@ -30390,12 +30390,13 @@
       <g
          class="shape-group"
          data-index="6"
-         id="g6034">
+         id="g6034"
+         transform="matrix(1.1851535,0,0,0.99105072,-13.193857,3.0716235)">
         <path
            data-index="6"
            fill-rule="evenodd"
-           d="M71.44,32.94400000000001H97.64V25.456000000000003H71.44Z"
-           style="opacity: 1; stroke: rgb(69, 90, 100); stroke-opacity: 1; fill: rgb(69, 90, 100); fill-opacity: 1; stroke-width: 0.8px;"
+           d="m 71.44,32.944 h 26.2 v -7.488 h -26.2 z"
+           style="opacity:1;fill:#455a64;fill-opacity:1;stroke:#455a64;stroke-width:0.8px;stroke-opacity:1"
            id="path6033" />
       </g>
       <g
@@ -30454,7 +30455,7 @@
        id="g6044">
       <g
          class="annotation-text-g"
-         transform="rotate(0,165.308,29.200000000000006)"
+         transform="translate(4.9180329,3.5128806)"
          id="g6043">
         <g
            class="cursor-pointer"
@@ -30466,7 +30467,7 @@
              y="0.5"
              width="127"
              height="9"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
              id="rect6041" />
           <text
              class="annotation-text"
