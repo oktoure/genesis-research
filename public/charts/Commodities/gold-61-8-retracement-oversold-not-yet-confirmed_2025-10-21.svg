@@ -54421,8 +54421,8 @@
           <path
              data-index="4"
              fill-rule="evenodd"
-             d="m 71.44,34.916 h 26.2 v -4.732 h -26.2 z"
-             style="opacity:1;fill:#455a64;fill-opacity:1;stroke:#455a64;stroke-width:0.8px;stroke-opacity:1"
+             d="m 72.1706,33.482824 h 30.35941 V 28.806872 H 72.1706 Z"
+             style="opacity:1;fill:#455a64;fill-opacity:1;stroke:#455a64;stroke-width:0.856049px;stroke-opacity:1"
              id="path10822" />
         </g>
         <g
@@ -54480,7 +54480,8 @@
          class="annotation"
          data-index="0"
          style="opacity:1"
-         id="g10835">
+         id="g10835"
+         transform="translate(4.2154568,-1.4051523)">
         <g
            class="annotation-text-g"
            id="g10834">
@@ -54750,14 +54751,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="140.16394"
+       inkscape:cx="337.23654"
        inkscape:cy="328.45434"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg11021" />
+       inkscape:current-layer="svg10846" />
     <rect
        x="0"
        y="0"
