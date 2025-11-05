@@ -354,7 +354,19 @@
   "fullContent": "**ISM Services beat across the board — 52.4 vs 50.8 consensus and 50.0 prior — but prices surprised higher to 70.0, keeping the inflation floor in place.** The upside was broad: business activity rose to 54.3 vs 50.2 cons (49.9 prior) and new orders jumped to 56.2 vs 51.0 cons (50.4 prior), showing services demand re-engaged after September’s soft patch. But the inflation detail went the wrong way: prices paid hit 70.0 vs 68.0 expected and 69.4 prior, confirming that service-side, tariff-sensitive costs remain sticky. Employment improved to 48.2 vs 47.6 cons and 47.2 prior, but still below 50, so firms are cautious on hiring rather than cutting aggressively. **Net: growth is better than feared, disinflation is slower than hoped — a soft-landing mix that argues for slow Fed cuts, equities supported by earnings, and gold still valid as policy insurance.**",
   "chartPath": "/charts/Economics/ism-services-prices-vs-employment_2025-11-05.svg",
   "chartHeight": "350"
+},
+{
+  "id": 33,
+  "date": "05-11-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold: Deeper Dip, Same Bullish Structure",
+  "summary": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.**",
+  "fullContent": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.** Price twice respected the same confluence: the deeper 61.8% retracement of the consolidation, the trendline retest from the last breakout, and the intraday moving averages sitting just below. That we got a bid there on a day when payrolls beat and rate-cut odds fell shows gold is still benefiting from valuation-driven risk aversion and tariff uncertainty, not only from the Fed path. We continue to treat 3,886.35 as the key downside pivot — above it, this is rotation inside a bullish frame, not trend failure. **As long as 3,944–3,965 keeps getting defended, buy-the-dip remains the operative strategy.**",
+  "chartPath": "/charts/Commodities/gold-intraday-consolidation-holds-61-8_2025-11-05.svg",
+  "chartHeight": "350"
 }
+
 
 
 
