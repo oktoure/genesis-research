@@ -365,7 +365,19 @@
   "fullContent": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.** Price twice respected the same confluence: the deeper 61.8% retracement of the consolidation, the trendline retest from the last breakout, and the intraday moving averages sitting just below. That we got a bid there on a day when payrolls beat and rate-cut odds fell shows gold is still benefiting from valuation-driven risk aversion and tariff uncertainty, not only from the Fed path. We continue to treat 3,886.35 as the key downside pivot — above it, this is rotation inside a bullish frame, not trend failure. **As long as 3,944–3,965 keeps getting defended, buy-the-dip remains the operative strategy.**",
   "chartPath": "/charts/Commodities/gold-intraday-consolidation-holds-61-8_2025-11-05.svg",
   "chartHeight": "350"
+},
+{
+  "id": 34,
+  "date": "05-11-2025",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "Dow: Tactical Short Zone Defined — Between 47,465 and 47,599",
+  "summary": "**After touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase, with 47,464–47,599 marking the short zone against stretched valuations.**",
+  "fullContent": "**After touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase. The hawkish FOMC tone coincided with the rejection at the structural top (~47,800), sending prices back toward the 4-hour MA 200 and the 61.8 % retracement drawn from the 46,433.21 low to the 48,074.43 high — a textbook reaction zone for trend validation. From that floor, the rebound is now testing the bearish retracement cluster at 47,464–47,599, which defines the tactical short area consistent with stretched valuations and fading breadth. Macro tone reinforces the setup: labor data remain solid, keeping Fed cuts distant, while earnings optimism and elevated multiples limit further upside. **Net: 47,464–47,599 is where risk-reward tilts back to the downside — the channel remains intact, but upside momentum is losing force.**",
+  "chartPath": "/charts/Equities/dowjones-4h-ma200-fib-61-8-short-zone_2025-11-05.svg",
+  "chartHeight": "350"
 }
+
 
 
 
