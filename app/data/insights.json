@@ -357,39 +357,6 @@
 },
 {
   "id": 33,
-  "date": "05-11-2025",
-  "category": "Commodities",
-  "categoryColor": "bg-yellow-600",
-  "title": "Gold: Deeper Dip, Same Bullish Structure",
-  "summary": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.**",
-  "fullContent": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.** Price twice respected the same confluence: the deeper 61.8% retracement of the consolidation, the trendline retest from the last breakout, and the intraday moving averages sitting just below. That we got a bid there on a day when payrolls beat and rate-cut odds fell shows gold is still benefiting from valuation-driven risk aversion and tariff uncertainty, not only from the Fed path. We continue to treat 3,886.35 as the key downside pivot — above it, this is rotation inside a bullish frame, not trend failure. **As long as 3,944–3,965 keeps getting defended, buy-the-dip remains the operative strategy.**",
-  "chartPath": "/charts/Commodities/gold-intraday-consolidation-holds-61-8_2025-11-05.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 34,
-  "date": "05-11-2025",
-  "category": "Equities",
-  "categoryColor": "bg-purple-600",
-  "title": "Dow: Tactical Short Zone Defined — Between 47,465 and 47,599",
-  "summary": "**After touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase, with 47,464–47,599 marking the short zone against stretched valuations.**",
-  "fullContent": "**After touching the upper of its long-term ascending channel, the Dow Jones has entered a tactical correction phase, with 47,464–47,599 marking the short zone against stretched valuations.** \n\nThe hawkish FOMC tone coincided with the rejection at the structural [top](/i/29) (~47,800), sending prices back toward the 4-hour MA 200 and the 61.8% retracement drawn from the 46,433.21 low to the 48,074.43 high — a textbook reaction zone for trend validation. From that floor, the rebound is now testing the bearish retracement cluster at **47,464–47,599**, which defines the tactical short area consistent with stretched valuations and fading breadth. Macro tone reinforces the setup: labor data remain solid, keeping Fed cuts distant, while earnings optimism and elevated multiples limit further upside. \n\n**47,464–47,599 is where risk-reward tilts back to the downside — the channel remains intact, but upside momentum is losing force.**",
-  "chartPath": "/charts/Equities/dowjones-4h-ma200-fib-61-8-short-zone_2025-11-05.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 35,
-  "date": "05-11-2025",
-  "category": "Currencies",
-  "categoryColor": "bg-sky-600",
-  "title": "Dollar at the Crossroads — Short Limit at 100.25 Confirms the Turn",
-  "summary": "**The DXY rejected 100.25 — the 50% retracement of the 104.68–96.22 range — confirming that the dollar’s rebound has stalled at the same confluence that capped upside since midyear.**",
-  "fullContent": "**The DXY rejected 100.25 — the 50% retracement of the 104.68–96.22 range — confirming that the dollar’s rebound has stalled at the same confluence that capped upside since midyear.** The setup aligns technically and also considering [Seasonality](/i/30): 100.25 sits exactly on the daily MA200 and mirrors the mid-year resistance zone that repeatedly rejected follow-through attempts since July. Our short limit order was executed there, consistent with the view that the dollar’s recovery is tactical, not structural.  \n\nSeasonality strengthens the case. In both **2017** and **2025**, a mid-year peak gave way to a multi-month decline into year-end, easing financial conditions across assets. With the **Fed easing gradually**, **inflation contained**, and **risk sentiment improving**, the macro backdrop supports a weaker dollar phase.  \n\nA confirmed break below **99.70–99.50** would validate the setup and reopen the **96.20** target zone. **The dollar’s cyclical tailwind has faded — this rejection at 100.25 marks the transition from recovery to rotation.**",
-  "chartPath": "/charts/Currencies/dxy-daily-ma200-fib-50-seasonality_2025-11-05.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 36,
   "date": "06-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
@@ -400,7 +367,7 @@
   "chartHeight": "350"
 },
 {
-  "id": 37,
+  "id": 34,
   "date": "06-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
@@ -408,6 +375,39 @@
   "summary": "**Services activity is re-accelerating just as the earlier drop in long-term yields — advanced 18 months — said it would, keeping the U.S. in a 1–2% Goldilocks growth band even as hiring lags.**",
   "fullContent": "**Services activity is re-accelerating just as the earlier drop in long-term yields — advanced 18 months — said it would, keeping the U.S. in a 1–2% Goldilocks growth band even as hiring lags.**  \n\nThe ISM Services headline rose to **52.4** in October and, more importantly, **Business Activity jumped to 54.3 from 49.9**, matching the historical pattern in our chart: when the **annual change in the 10-year Treasury yield (inverted) is pushed forward 18 months**, services activity tends to firm with a lag. In plain English: the easing in long rates we saw a year and a half ago is what’s feeding through to today’s better services tone.  \n\nThat makes the latest ISM print less of a “surprise strength” and more of a **rate-transmission story** — financial conditions loosened, and services are now showing it. It also squares with our earlier read that policy is **easy enough** while growth is **not hot**: activity improves, but the labor sub-index stays below 50 (**employment 48.2**), reminding us that firms prefer to meet demand with productivity and hours, not new hires.  \n\nFor markets, the signal is constructive: a still-positive services pulse argues against hard-landing narratives, supports earnings, and allows the Fed to stay on a **measured-easing path** rather than re-tighten on the back of one stronger report. The only live risk is if services strength persists while prices stay high — as we noted in [ISM Services: Inflation Floor, Not a Pivot](/i/32) — but on growth alone, the yield-lead says the backdrop into 2026 is better than the shutdown-distorted data suggest.",
   "chartPath": "/charts/Economics/ism-services-business-activity-vs-10y-adv18m_2025-11-06.svg",
+  "chartHeight": "350"
+},
+{
+  "id": 35,
+  "date": "05-11-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold: Deeper Dip, Same Bullish Structure",
+  "summary": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.**",
+  "fullContent": "**Gold absorbed a deeper intraday flush than we first mapped — breaking 3,989.10 and tagging the 61.8% of the consolidation near 3,944 — but the structure held and dip-buying returned even after a stronger ADP.** Price twice respected the same confluence: the deeper 61.8% retracement of the consolidation, the trendline retest from the last breakout, and the intraday moving averages sitting just below. That we got a bid there on a day when payrolls beat and rate-cut odds fell shows gold is still benefiting from valuation-driven risk aversion and tariff uncertainty, not only from the Fed path. We continue to treat 3,886.35 as the key downside pivot — above it, this is rotation inside a bullish frame, not trend failure. **As long as 3,944–3,965 keeps getting defended, buy-the-dip remains the operative strategy.**",
+  "chartPath": "/charts/Commodities/gold-intraday-consolidation-holds-61-8_2025-11-05.svg",
+  "chartHeight": "350"
+},
+{
+  "id": 36,
+  "date": "05-11-2025",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "Dow: Tactical Short Zone Defined — Between 47,465 and 47,599",
+  "summary": "**After touching the upper boundary of its long-term ascending channel, the Dow Jones has entered a tactical correction phase, with 47,464–47,599 marking the short zone against stretched valuations.**",
+  "fullContent": "**After touching the upper of its long-term ascending channel, the Dow Jones has entered a tactical correction phase, with 47,464–47,599 marking the short zone against stretched valuations.** \n\nThe hawkish FOMC tone coincided with the rejection at the structural [top](/i/29) (~47,800), sending prices back toward the 4-hour MA 200 and the 61.8% retracement drawn from the 46,433.21 low to the 48,074.43 high — a textbook reaction zone for trend validation. From that floor, the rebound is now testing the bearish retracement cluster at **47,464–47,599**, which defines the tactical short area consistent with stretched valuations and fading breadth. Macro tone reinforces the setup: labor data remain solid, keeping Fed cuts distant, while earnings optimism and elevated multiples limit further upside. \n\n**47,464–47,599 is where risk-reward tilts back to the downside — the channel remains intact, but upside momentum is losing force.**",
+  "chartPath": "/charts/Equities/dowjones-4h-ma200-fib-61-8-short-zone_2025-11-05.svg",
+  "chartHeight": "350"
+},
+{
+  "id": 37,
+  "date": "05-11-2025",
+  "category": "Currencies",
+  "categoryColor": "bg-sky-600",
+  "title": "Dollar at the Crossroads — Short Limit at 100.25 Confirms the Turn",
+  "summary": "**The DXY rejected 100.25 — the 50% retracement of the 104.68–96.22 range — confirming that the dollar’s rebound has stalled at the same confluence that capped upside since midyear.**",
+  "fullContent": "**The DXY rejected 100.25 — the 50% retracement of the 104.68–96.22 range — confirming that the dollar’s rebound has stalled at the same confluence that capped upside since midyear.** The setup aligns technically and also considering [Seasonality](/i/30): 100.25 sits exactly on the daily MA200 and mirrors the mid-year resistance zone that repeatedly rejected follow-through attempts since July. Our short limit order was executed there, consistent with the view that the dollar’s recovery is tactical, not structural.  \n\nSeasonality strengthens the case. In both **2017** and **2025**, a mid-year peak gave way to a multi-month decline into year-end, easing financial conditions across assets. With the **Fed easing gradually**, **inflation contained**, and **risk sentiment improving**, the macro backdrop supports a weaker dollar phase.  \n\nA confirmed break below **99.70–99.50** would validate the setup and reopen the **96.20** target zone. **The dollar’s cyclical tailwind has faded — this rejection at 100.25 marks the transition from recovery to rotation.**",
+  "chartPath": "/charts/Currencies/dxy-daily-ma200-fib-50-seasonality_2025-11-05.svg",
   "chartHeight": "350"
 }
 
