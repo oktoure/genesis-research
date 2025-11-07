@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="89.227168"
+     inkscape:cx="411.00704"
      inkscape:cy="171.07729"
      inkscape:window-width="1272"
      inkscape:window-height="1316"
      inkscape:window-x="1284"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6055" />
+     inkscape:current-layer="g6055" />
   <rect
      x="0"
      y="0"
@@ -39,8 +39,12 @@
      style="fill: rgb(255, 255, 255); fill-opacity: 1;"
      id="rect1" />
   <path
-     d="m 555.89368,129.08821 -8.96548,-36.59244 0.6225,-0.224878 8.78617,35.860608 m 1.24501,-0.44963 0.0575,7.1487 -3.17006,-6.02454"
+     d="m 550.27846,130.15991 -2.34433,-37.60175 0.65248,-0.111098 2.29745,36.849728 m 1.30495,-0.22208 -1.20924,7.04593 -2.05319,-6.49067"
      id="path2-3-5"
+     style="stroke-width:0.704198" />
+  <path
+     d="m 553.83145,175.16952 -2.34433,-37.60175 0.65248,-0.1111 2.29745,36.84973 m 1.30495,-0.22208 -1.20924,7.04593 -2.05319,-6.49067"
+     id="path2-3-5-8"
      style="stroke-width:0.704198" />
   <path
      d="m 542.72564,96.547 -3.57258,37.50497 -0.66183,0.008 3.50113,-36.75489 m -1.32363,0.015 2.29761,-6.76965 1.0115,6.7321"
@@ -30515,7 +30519,7 @@
        data-index="2"
        style="opacity:1"
        id="g6051"
-       transform="translate(-0.70257611,5.6206089)">
+       transform="translate(-40.749415,54.098362)">
       <g
          class="annotation-text-g"
          id="g6050">
