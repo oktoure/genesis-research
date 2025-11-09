@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="411.00704"
+     inkscape:cx="461.59252"
      inkscape:cy="171.07729"
      inkscape:window-width="1272"
      inkscape:window-height="1316"
      inkscape:window-x="1284"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6055" />
+     inkscape:current-layer="svg6055" />
   <rect
      x="0"
      y="0"
@@ -43,9 +43,9 @@
      id="path2-3-5"
      style="stroke-width:0.704198" />
   <path
-     d="m 553.83145,175.16952 -2.34433,-37.60175 0.65248,-0.1111 2.29745,36.84973 m 1.30495,-0.22208 -1.20924,7.04593 -2.05319,-6.49067"
+     d="m 553.83145,172.13609 -2.34433,-34.57726 0.65248,-0.10216 2.29745,33.88573 m 1.30495,-0.20422 -1.20924,6.47919 -2.05319,-5.96859"
      id="path2-3-5-8"
-     style="stroke-width:0.704198" />
+     style="stroke-width:0.675283" />
   <path
      d="m 542.72564,96.547 -3.57258,37.50497 -0.66183,0.008 3.50113,-36.75489 m -1.32363,0.015 2.29761,-6.76965 1.0115,6.7321"
      id="path2-3"
@@ -30323,12 +30323,13 @@
          class="shape-group"
          data-index="0"
          clip-path="url(#clip07fcf4y)"
-         id="g6028">
+         id="g6028"
+         transform="translate(0.70257613,-6.3231852)">
         <path
            data-index="0"
            fill-rule="evenodd"
-           d="M40,184.5L564,184.5"
-           style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.6px;"
+           d="M 40,184.5 H 564"
+           style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.6px;stroke-opacity:1"
            id="path6027" />
       </g>
       <g
