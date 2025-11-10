@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300"
-     inkscape:cy="238.52459"
+     inkscape:cx="121.19438"
+     inkscape:cy="238.5246"
      inkscape:window-width="1152"
      inkscape:window-height="1186"
      inkscape:window-x="244"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg290" />
+     inkscape:current-layer="g263" />
   <svg
      class="main-svg"
      width="600"
@@ -1967,17 +1967,6 @@
              d="M40,149.32999999999998L564,149.32999999999998"
              style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.6px;"
              id="path260" />
-        </g>
-        <g
-           class="shape-group"
-           data-index="1"
-           id="g262">
-          <path
-             data-index="1"
-             fill-rule="evenodd"
-             d="M71.44,32.550000000000004L102.88,32.550000000000004"
-             style="opacity: 1; stroke: rgb(69, 90, 100); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
-             id="path261" />
         </g>
       </g>
     </g>
