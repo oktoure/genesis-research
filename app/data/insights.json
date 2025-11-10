@@ -415,12 +415,13 @@
   "date": "07-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Michigan Slumps to 50.3; Spending Risks Build",
-  "summary": "**Michigan sentiment fell to 50.3 in November (from 53.6, vs 53.2) — a near-record low that points to softer spending ahead.**",
-  "fullContent": "**Michigan sentiment fell to 50.3 in November (from 53.6, vs 53.2) — a near-record low that points to softer spending ahead.** Confidence weakened broadly as **Current Conditions** dropped to an all-time low and **Expectations** eased to a six-month low. Households across most groups turned down together, while the top-third stock-owning cohort bucked the trend with an ~11 % rise supported by **equities strength**. Inflation expectations split as the **1-year** ticked up to 4.7 % while the **5-year** eased to 3.6 %, signaling short-term price anxiety but steadier long-run views. Recent **GDP** and **real consumer spending** were firm, yet sentiment usually bites first as households trim discretionary outlays before essentials. With **rates** still elevated and credit costs tight, the bias is to protect balance sheets, delay big-ticket purchases, and slow travel and leisure. Income is the hinge because soft **GDI** with expensive borrowing weakens the spending impulse even if jobs hold. The release aligns with our positioning: a weaker growth pulse supports **[gold](/i/35)** on dips, argues for caution near the **[Dow short zone](/i/36)**, and keeps the **[dollar turn](/i/37)** tactical rather than structural. Traders should expect tighter financial conditions to transmit through confidence before production, with consumption cooling first and margins feeling the squeeze next. **We expect consumption to cool and growth to drift toward the low 1–2 % band into early 2026 while we stay long-bias gold on defended confluences, respect the Dow’s tactical short zone, and keep the USD short below 100.25.**",
-  "chartPath": "/charts/Economics/michigan-sentiment-spending-risk_2025-11-07.svg",
-  "chartHeight": "900"
+  "title": "Confidence Crack — Consumption Next, Risk Tightens",
+  "summary": "**Michigan sentiment fell to 50.3 (from 53.6, vs 53.2 expected), signaling a confidence crack that precedes slower consumption and tighter risk appetite.**",
+  "fullContent": "**Michigan sentiment fell to 50.3 (from 53.6, vs 53.2 expected), signaling a confidence crack that precedes slower consumption and tighter risk appetite.** **Current Conditions dropped to 52.3 (record low) and Expectations to 49.0, confirming stress at the household level even as Q3 real GDP and GDI both ran at 3.8%.** **The sequence is classic late-cycle: confidence turns first, consumption follows, production lags.** **Goods-side pressures are easing per [manufacturing prices](/i/26), while sticky services costs in [services prices](/i/32) slow the last mile of disinflation despite an energy cushion.** **That mix implies softer Q4 consumption, mild margin pressure, and tighter financial conditions without an immediate growth scare.** **Positioning stays unchanged: buy gold on dips, respect the Dow [short zone](/i/36), and treat DXY strength as a tactical [turn](/i/37), not a new bull trend.** **We expect confidence to transmit tightening into spending first and margins next—supportive of gold on dips, cautious near the Dow short zone, and tactical rather than structural on the dollar.**",
+  "chartPath": "/charts/Economics/umich-confidence-vs-growth_2025-11-07.svg",
+  "chartHeight": "700"
 }
+
 
 
 
