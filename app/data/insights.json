@@ -420,7 +420,20 @@
   "fullContent": "**Michigan sentiment fell to 50.3 from 53.6 and below the 53.2 expected, signaling a confidence crack that precedes slower consumption and a near-term wobble in risk appetite.** The decline is broad-based: **Current Conditions** dropped to 52.3, a new series low, and **Expectations** slid to 49.0, revealing household stress even as **Q3 real GDP and GDI ran at 3.8%**. The late-cycle sequence holds: **confidence turns first**, **consumption** follows, **production** lags. Goods-side price pressure is fading, aligned with [manufacturing prices](/i/26), while **sticky services costs** slow the last mile of disinflation, consistent with [services prices](/i/32), and the **energy cushion** in [oil](/i/27) helps cap pass-through. The immediate market read tightened risk temporarily, but with policy **cuts** in place and growth momentum cooling, **financial conditions should ease** as yields drift lower into Q4–Q1 and liquidity transmission improves. Positioning stays disciplined: buy **gold** on dips, be cautious into the **Dow** short zone via the [short setup](/i/36), and treat **DXY** strength as **tactical** rather than structural per the [dollar setup](/i/37). The confidence shock is the lead indicator; spending moderates next, margins feel pressure after, while the rate path gradually loosens overall conditions. **We expect consumption to cool, margins to compress modestly, and financial conditions to ease as cuts transmit—buy gold on dips, be cautious near the Dow short zone, and keep the dollar view tactical, not structural.**",
   "chartPath": "/charts/Economics/umich-confidence-vs-growth_2025-11-07.svg",
   "chartHeight": "700"
+},
+{
+  "id": 39,
+  "date": "07-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Inflation Expectations Split: Short-Term Up, Long-Term Down",
+  "summary": "**Inflation expectations split in November: Michigan 1-year rose to 4.7 (from 4.6, vs 4.6), Michigan 5-year eased to 3.6 (from 3.9, vs 3.9), and NY Fed 1-year fell to 3.2 (from 3.4).**",
+  "fullContent": "**Inflation expectations split in November: Michigan 1-year rose to 4.7 (from 4.6, vs 4.6), Michigan 5-year eased to 3.6 (from 3.9, vs 3.9), and NY Fed 1-year fell to 3.2 (from 3.4).** Long-run views remain **anchored**, while the market’s 5y5y drifted from 2.41 in late July toward ~2.19, blending cooler inflation risk with a budding **growth scare** after strong Q3 GDP/GDI at 3.8%. The cross-checks line up: goods-side relief in [manufacturing prices](/i/26) contrasts with a **sticky floor** in services captured by [services prices](/i/32), and the **oil cushion** in [oil](/i/27) caps pass-through without signaling deflation. Confidence deteriorated in tandem, as mapped in [confidence crack](/i/38), reinforcing the late-cycle sequence where sentiment turns first, consumption cools next, and production lags. With policy **cuts** in place, term premia and mortgage rates should ease progressively as transmission improves, even if front-end jitters pop on hawkish soundbites. Positioning stays consistent with our map: buy **gold** on dips as real-rate drift softens, keep **discipline** into stretched Dow strength, and treat **DXY** rebounds as tactical while long-run expectations soften and growth concerns temper the market’s inflation premium. **We stay constructive on gold on dips, cautious into Dow strength, and treat dollar bounces as tactical as progressive easing and softer long-run expectations guide easier conditions.**",
+  "chartPath": "/charts/Economics/inflation-expectations-split_2025-11-07.svg",
+  "chartHeight": "700"
 }
+
+
 
 
 
