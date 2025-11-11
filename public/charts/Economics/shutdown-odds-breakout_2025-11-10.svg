@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300"
+     inkscape:cx="300.00001"
      inkscape:cy="175.29274"
      inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="244"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g109" />
+     inkscape:current-layer="svg131" />
   <rect
      x="0"
      y="0"
@@ -846,30 +846,15 @@
           <text
              class="annotation-text"
              text-anchor="middle"
-             x="115.734375"
+             x="115.73438"
              y="9"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
              id="text125"><tspan
                class="line"
-               dy="0em"
-               x="115.734375"
+               dy="0em 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+               x="115.73438"
                y="9"
-               id="tspan122">DRIFT TURNED TO DECISION: A SENATE TEST VOTE</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="115.734375"
-               y="9"
-               id="tspan123">SPARKED A CLEAN BREAKOUT → ODDS LEFT THE RANGE.</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="115.734375"
-               y="9"
-               id="tspan124">HOLD ABOVE INTO NOV 15 AND “YES” DOMINATES; LOSE</tspan><tspan
-               class="line"
-               dy="3.9000000000000004em"
-               x="115.734375"
-               y="9"
-               id="tspan125">IT AND THE MOVE WAS NOISE.</tspan></text>
+               id="tspan122">DRIFT TURNED TO DECISION: A SENATE TEST VOTE SPARKED A CLEAN BREAKOUT </tspan></text>
         </g>
       </g>
     </g>
