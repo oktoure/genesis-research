@@ -476,73 +476,75 @@
   "chartPath": "/charts/Commodities/gold-breakout-above-4100_2025-11-10.svg",
   "chartHeight": "350"
 },
-{
-  "id": 44,
-  "date": "17-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "NY Empire State Surges — Output Heals, Prices Still Firm",
-  "summary": "**NY Empire State rose to 18.7 in November (from 10.7, vs 6), confirming a stronger factory rebound than expected.**",
-  "fullContent": "**NY Empire State rose to 18.7 in November (from 10.7, vs 6), confirming a stronger factory rebound than expected.** Momentum built on the October rebound we flagged in [our prior update](/i/10): new orders and shipments improved again, employment stabilized, and delivery times lengthened modestly—signals of firmer demand and mild supply tension. Price dynamics stayed nuanced. **Prices paid** remained elevated and **prices received** firmed, aligning with the national **manufacturing prices** pulse in [recent work](/i/26), but still well below 2022 extremes—supportive of a “slow-grind” disinflation rather than a re-acceleration. The broader late-cycle map holds: sentiment is softer in [confidence](/i/38), goods activity is off the floor, and services carry the last-mile of stickiness.\n\nPolicy inference: one strong regional beat does not by itself reset the December–Q1 easing path; it argues for measured cuts rather than a pivot. Market inference: a firmer goods pulse can aid cyclical relief, but the easing channel should continue to flow first through a softer dollar and tighter spreads before term yields fully follow. We keep watching the mix of new orders, prices received, and hiring as the tell on margin risk into Q4–Q1.\n\n**Takeaway: output is healing faster than prices are cooling, but not enough to derail steady easing—respect cyclical relief while staying disciplined on levels and inflation internals.**",
-  "chartPath": "/charts/Economics/ny-empire-state-rebound-continues_2025-11-17.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 45,
-  "date": "20-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Claims Split: Flow Cools, Stock Builds — Labor Loosens at the Margins",
-  "summary": "**Initial claims fell to 220k (from 229k, vs 262k) while continuing claims rose to 1.974M (from 1.946M, vs 1.970M), signaling a loosening labor market via slower hiring and longer job finding—not a break.**",
-  "fullContent": "**Initial claims fell to 220k (from 229k, vs 262k) while continuing claims rose to 1.974M (from 1.946M, vs 1.970M), signaling a loosening labor market via slower hiring and longer job finding—not a break.** The reopened data show a clear split between **flow** and **stock**: the 4-week average of initial claims is edging lower, but the pool of people still on benefits is drifting higher toward 2.0M. That pattern is consistent with the late-cycle sequence already flagged by softer household [confidence](/i/38): sentiment weakens first, hiring frays at the margins next, and spending momentum cools as job-finding times lengthen. Wage pressure tends to moderate with a lag, keeping services disinflation gradual even as goods prices stay benign—an alignment we also see in long-run [inflation expectations](/i/39) easing. The mix argues for slower growth rather than contraction: hours and hiring soften without an abrupt spike in separations, and income growth decelerates but remains positive.\n\nTracking signals are straightforward. A sustained rise of continuing claims through 2.0M would mark a more material loosening in labor utilization, while a stall in the 4-week initial claims downtrend would warn the hiring flow is turning decisively. In the meantime, the claims profile supports a glide-path: cooler consumption, slower nominal income, and incremental progress on disinflation without a sudden jobs shock.\n\n**Baseline: continuing claims grind higher and initial claims drift sideways-to-lower, consistent with cooling consumption and gradual disinflation—not a break in the labor market.**",
-  "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-20.svg",
-  "chartHeight": "350"
+[
+  {
+    "id": 44,
+    "date": "17-11-2025",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "NY Empire State Surges — Output Heals, Prices Still Firm",
+    "summary": "**NY Empire State jumped to 18.7 in November (from 10.7, vs 6), signaling a stronger factory rebound than expected.**",
+    "fullContent": "**NY Empire State jumped to 18.7 in November (from 10.7, vs 6), signaling a stronger factory rebound than expected.** The beat extends the October turn we flagged in [our prior update](/i/10): new orders and shipments improved, employment stabilized, and delivery times lengthened slightly—firmer demand with mild supply tension. Price metrics stayed firm but below 2022 extremes, consistent with national [manufacturing prices](/i/26). The late-cycle map holds: softer household tone in [confidence](/i/38), goods stabilizing, services sticky. Policy read: one regional surge doesn’t derail measured easing. **Output is healing faster than prices are cooling—expect stabilization, not a pivot.**",
+    "chartPath": "/charts/Economics/ny-empire-state-rebound-continues_2025-11-17.svg",
+    "chartHeight": "350"
+  },
+  {
+    "id": 48,
+    "date": "20-11-2025",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Kansas Beats, ISM Sub-50 — Stabilization, Not Reacceleration",
+    "summary": "**Kansas City manufacturing strengthened: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM.**",
+    "fullContent": "**Kansas City manufacturing strengthened: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM.** Resilience is regional: output > breadth; prices contained. Together with the Empire rebound in [our update](/i/10), this looks like normalization, not a nationwide upswing. ISM should stabilize sideways into Q4 while orders and prices decide the slope. **Treat Kansas as stabilization—upgrade only if orders broaden and prices stay contained.**",
+    "chartPath": "/charts/Economics/kansas-vs-ism_2025-11-20.svg",
+    "chartHeight": "700"
+  },
+  {
+    "id": 45,
+    "date": "20-11-2025",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Claims Split: Flow Cools, Stock Builds",
+    "summary": "**Initial claims fell to 220k (from 229k, vs 262k) while continuing claims rose to 1.974M (from 1.946M), implying labor loosens at the margins.**",
+    "fullContent": "**Initial claims fell to 220k (from 229k, vs 262k) while continuing claims rose to 1.974M (from 1.946M), implying labor loosens at the margins.** Flow cools as stock builds: the 4-week initial average drifts lower, while benefit rolls grind toward 2.0M. That matches the sentiment step-down in [confidence](/i/38) and points to slower hiring, longer job-finding times, and gradual wage deceleration. Watch 2.0M on continuing claims and the 4-week flow for confirmation. **Cooling, not cracking—consistent with glide-path disinflation.**",
+    "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-20.svg",
+    "chartHeight": "350"
+  },
+  {
+    "id": 46,
+    "date": "20-11-2025",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Labor Cools, Not Cracks — Mixed Print, Softer Edges",
+    "summary": "**Payrolls rose 119k (from −4k, vs 50k) as unemployment ticked up to 4.4% and U-6 slipped to 8.0%—cooling without cracking.**",
+    "fullContent": "**Payrolls rose 119k (from −4k, vs 50k) as unemployment ticked up to 4.4% and U-6 slipped to 8.0%—cooling without cracking.** Hours held at 34.2; participation 62.4; manufacturing −6k; average hourly earnings 0.2% m/m and 3.8% y/y. The mix aligns with the flow/stock split in [claims](/i/45) and softer household tone in [confidence](/i/38). With policy data-dependent per [FOMC](/i/23), this favors measured easing while we track wages, hours, and job-finding times. **Labor is loosening at the edges—growth slows, not stalls.**",
+    "chartPath": "/charts/Economics/us-labor-tracker-nfp-unemployment_2025-11-20.svg",
+    "chartHeight": "700"
+  },
+  {
+    "id": 47,
+    "date": "21-11-2025",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Minutes Measured, Williams Dovish — December Is Live, Not Locked",
+    "summary": "**Minutes stayed measured while Williams leaned dovish, keeping December live—not locked—and re-easing conditions.**",
+    "fullContent": "**Minutes stayed measured while Williams leaned dovish, keeping December live—not locked—and re-easing conditions.** Participants saw scope to hold as transmission works, with several noting a December cut could be appropriate if cooling persists; QT near an endpoint. The stance fits our late-cycle map: softer [confidence](/i/38), a flow/stock split in [claims](/i/45), and mixed [labor](/i/46). Easing should seep first through FX and spreads before term yields. **December depends on services prices and wages—measured easing remains the base case.**",
+    "chartPath": "/charts/Economics/polymarket-dec-cut-odds_2025-11-21.svg",
+    "chartHeight": "350"
+  },
+  {
+    "id": 49,
+    "date": "21-11-2025",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Inflation Expectations Ease — 5y5y Flags Growth Angst",
+    "summary": "**Michigan 1-year eased to 4.5% (from 4.6) and 5-year to 3.4% (from 3.6) as market 5y5y drifted toward ~2.16.**",
+    "fullContent": "**Michigan 1-year eased to 4.5% (from 4.6) and 5-year to 3.4% (from 3.6) as market 5y5y drifted toward ~2.16.** Household gauges softened alongside the NY Fed 1-year, while 5y5y blends cooler inflation risk with rising growth caution. The mix matches goods relief in [manufacturing prices](/i/26) versus sticky [services prices](/i/32), arguing for measured cuts as financial conditions ease via a tactical [dollar](/i/37). **Expectations are easing without re-anchoring risk—watch yields for confirmation.**",
+    "chartPath": "/charts/Economics/inflation-expectations-ease-5y5y-slides_2025-11-21.svg",
+    "chartHeight": "700"
+  }
+]
 
-},
-{
-  "id": 46,
-  "date": "20-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Labor Cools, Not Cracks — Mixed Print, Softer Edges",
-  "summary": "**Payrolls rose 119k (from −4k, vs 50k) while unemployment edged up to 4.4% and U-6 dipped to 8.0%—a cooler labor mix that loosens at the margins without breaking.**",
-  "fullContent": "**Payrolls rose 119k (from −4k, vs 50k) while unemployment edged up to 4.4% and U-6 dipped to 8.0%—a cooler labor mix that loosens at the margins without breaking.** Hours were flat at 34.2, participation ticked up to 62.4, and manufacturing payrolls fell a modest 6k, pointing to a goods-side downshift even as services hold up. Average hourly earnings slowed to 0.2% m/m while staying 3.8% y/y, consistent with incremental wage cooling as job-finding times stretch. Weekly claims have stabilized near ~1.95mn on the continuing series with noisy weekly prints but a firmer 4-week trend, reinforcing gradual—not abrupt—loosening as shown in [claims](/i/45). Our regional employment tracker (NY, KC, Dallas, Philly; standardized 3m/3m) rolls over from mid-year without collapse, a pattern that rhymes with softer consumer sentiment in [confidence](/i/38) and the late-cycle sequence where sentiment leads spending. The minutes in [FOMC](/i/23) emphasize a measured stance—scope to hold while transmission works, with further easing guided by incoming labor/inflation signals rather than a preset path.\n\nInto Q4–Q1, the watchlist is simple: the tracker’s momentum, the 3-month annualized pulse of payrolls, the U-3/U-6 spread, and claims’ 4-week average. A steady drift softer keeps policy measured and disinflation on a glide path; a re-acceleration in wages or a jump in hours would challenge that arc.\n\n**Baseline: labor cools without cracking—supportive of measured easing and glide-path disinflation while we track hours, wages, and claims for confirmation.**",
-  "chartPath": "/charts/Economics/us-labor-tracker-nfp-unemployment_2025-11-20.svg",
-  "chartHeight": "700"
-},
-{
-  "id": 47,
-  "date": "21-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Minutes Measured, Williams Dovish — December Is Live, Not Locked",
-  "summary": "**Minutes stayed measured while labor cooled at the edges; Williams’s dovish push lifted December-cut odds back above 50%, re-easing conditions without declaring a pivot.**",
-  "fullContent": "**Minutes stayed measured while labor cooled at the edges; Williams’s dovish push lifted December-cut odds back above 50%, re-easing conditions without declaring a pivot.** The minutes hewed to a cautious script—scope to **hold** while transmission works, a nod to **measured cuts** if the data keep softening, and QT nearing an endpoint—consistent with our prior read in [FOMC](/i/23). The market first faded the cut narrative after the meeting, with odds sliding toward **~25%**, but the policy signal reset when **NY Fed Williams** emphasized that cuts remain on the table under a “modestly restrictive” stance.\n\nThe macro layer still leans late-cycle. Household **confidence** has stepped down in [confidence](/i/38), and the employment flow/stock split in **claims** points to slower hiring and longer job finding in [claims](/i/45). The mixed payrolls and unemployment profile we mapped in **labor** corroborates “cooling, not cracking” in [labor](/i/46). That mix argues for **easier financial conditions** to re-emerge via a softer dollar and narrower risk premia before term yields fully join, especially as shutdown noise fades and data flow normalizes.\n\nFor December, the base case is **live, not locked**. A firmer services-price pulse or a wage re-acceleration would cap odds again; continued labor cooling with contained services inflation would keep **measured easing** in play. Translate that to markets the same way we’ve been running the playbook: gold benefits more from the **trend of easing** than from each headline, the **USD** stays **tactical** lower on policy drift, and equity **relief** can persist but remains **level-dependent**.\n\n**Bottom line: December is live on data—cooling labor and contained services inflation keep measured easing in play, re-easing conditions without a pivot.**",
-  "chartPath": "/charts/Economics/polymarket-dec-cut-odds_2025-11-21.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 48,
-  "date": "20-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Kansas Beats, ISM Sub-50 — Stabilization, Not Reacceleration",
-  "summary": "**Kansas manufacturing jumped: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM and pointing to firmer regional momentum.**",
-  "fullContent": "**Kansas manufacturing jumped: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM and pointing to firmer regional momentum.** Strength is concentrated, not universal: output leads breadth, and price pressure looks contained. Paired with the [Empire State](/i/10) rebound, the pattern looks like normalization rather than a national reacceleration. For Q4, ISM should stabilize sideways, not sprint.\n\n**Implication: treat this as stabilization—watch orders and prices for confirmation before upgrading the ISM trend.**",
-  "chartPath": "/charts/Economics/kansas-vs-ism_2025-11-20.svg",
-  "chartHeight": "700"
-},
-{
-  "id": 49,
-  "date": "21-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Inflation Expectations Ease — 5y5y Flags Growth Angst",
-  "summary": "**Michigan 1-year eased to 4.5% (from 4.6) and 5-year to 3.4% (from 3.6), while market 5y5y slid toward ~2.16—disinflation is edging on as long-run risk cools.**",
-  "fullContent": "**Michigan 1-year eased to 4.5% (from 4.6) and 5-year to 3.4% (from 3.6), while market 5y5y slid toward ~2.16—disinflation is edging on as long-run risk cools.** Household views softened alongside the NY Fed 1-year drift, and the 5y5y decline blends lower inflation risk with a hint of growth concern. Goods relief in [manufacturing prices](/i/26) contrasts with a sticky floor in [services prices](/i/32), so cuts should stay measured even as financial conditions ease through a softer dollar. Positioning implications are unchanged: gold remains buy-the-dip on orderly pullbacks; US30 relief is tactical into defined resistance; USD weakness is tactical, not structural. **Signal: expectations are easing without re-anchoring risk—watch yields for confirmation while we stay long gold on dips, fade US30 into resistance, and keep USD tactical.**",
-  "chartPath": "/charts/Economics/inflation-expectations-ease-5y5y-slides_2025-11-21.svg",
-  "chartHeight": "700"
-}
 
 
 
