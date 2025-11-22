@@ -476,8 +476,7 @@
   "chartPath": "/charts/Commodities/gold-breakout-above-4100_2025-11-10.svg",
   "chartHeight": "350"
 },
-[
-  {
+{
     "id": 44,
     "date": "17-11-2025",
     "category": "Economics",
@@ -487,8 +486,8 @@
     "fullContent": "**NY Empire State jumped to 18.7 in November (from 10.7, vs 6), signaling a stronger factory rebound than expected.** The beat extends the October turn we flagged in [our prior update](/i/10): new orders and shipments improved, employment stabilized, and delivery times lengthened slightly—firmer demand with mild supply tension. Price metrics stayed firm but below 2022 extremes, consistent with national [manufacturing prices](/i/26). The late-cycle map holds: softer household tone in [confidence](/i/38), goods stabilizing, services sticky. Policy read: one regional surge doesn’t derail measured easing. **Output is healing faster than prices are cooling—expect stabilization, not a pivot.**",
     "chartPath": "/charts/Economics/ny-empire-state-rebound-continues_2025-11-17.svg",
     "chartHeight": "350"
-  },
-  {
+},
+{
     "id": 48,
     "date": "20-11-2025",
     "category": "Economics",
@@ -543,7 +542,6 @@
     "chartPath": "/charts/Economics/inflation-expectations-ease-5y5y-slides_2025-11-21.svg",
     "chartHeight": "700"
   }
-]
 
 
 
