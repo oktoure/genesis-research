@@ -531,7 +531,19 @@
   "fullContent": "**Kansas manufacturing jumped: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM and pointing to firmer regional momentum.** Strength is concentrated, not universal: output leads breadth, and price pressure looks contained. Paired with the [Empire State](/i/10) rebound, the pattern looks like normalization rather than a national reacceleration. For Q4, ISM should stabilize sideways, not sprint.\n\n**Implication: treat this as stabilization—watch orders and prices for confirmation before upgrading the ISM trend.**",
   "chartPath": "/charts/Economics/kansas-vs-ism_2025-11-20.svg",
   "chartHeight": "700"
+},
+{
+  "id": 49,
+  "date": "21-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Inflation Expectations Ease — 5y5y Flags Growth Angst",
+  "summary": "**Michigan 1-year eased to 4.5% (from 4.6) and 5-year to 3.4% (from 3.6), while market 5y5y slid toward ~2.16—disinflation is edging on as long-run risk cools.**",
+  "fullContent": "**Michigan 1-year eased to 4.5% (from 4.6) and 5-year to 3.4% (from 3.6), while market 5y5y slid toward ~2.16—disinflation is edging on as long-run risk cools.** Household views softened alongside the NY Fed 1-year drift, and the 5y5y decline blends lower inflation risk with a hint of growth concern. Goods relief in [manufacturing prices](/i/26) contrasts with a sticky floor in [services prices](/i/32), so cuts should stay measured even as financial conditions ease through a softer dollar. Positioning implications are unchanged: gold remains buy-the-dip on orderly pullbacks; US30 relief is tactical into defined resistance; USD weakness is tactical, not structural. **Signal: expectations are easing without re-anchoring risk—watch yields for confirmation while we stay long gold on dips, fade US30 into resistance, and keep USD tactical.**",
+  "chartPath": "/charts/Economics/inflation-expectations-ease-5y5y-slides_2025-11-21.svg",
+  "chartHeight": "700"
 }
+
 
 
 
