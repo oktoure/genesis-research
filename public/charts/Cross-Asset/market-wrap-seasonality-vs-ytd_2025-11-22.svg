@@ -2,8 +2,8 @@
 <svg
    class="main-svg"
    width="560"
-   height="350"
-   viewBox="0 0 560 350"
+   height="352"
+   viewBox="0 0 560 352"
    version="1.1"
    id="svg157"
    sodipodi:docname="market-wrap-seasonality-vs-ytd_2025-11-22.svg"
@@ -23,14 +23,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.46"
-     inkscape:cx="280.82192"
-     inkscape:cy="181.50685"
+     inkscape:cx="276.71233"
+     inkscape:cy="143.15068"
      inkscape:window-width="1272"
      inkscape:window-height="1317"
      inkscape:window-x="7"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg157" />
+     inkscape:current-layer="g157" />
   <defs
      id="defs-d11098">
     <g
@@ -209,7 +209,8 @@
   </g>
   <g
      class="cartesianlayer"
-     id="g107">
+     id="g107"
+     transform="translate(256.84932,0.6849289)">
     <g
        class="subplot xy"
        id="g105">
@@ -760,7 +761,8 @@
   </defs>
   <g
      class="layer-above"
-     id="g131">
+     id="g131"
+     transform="translate(256.84932,0.6849289)">
     <g
        class="imagelayer"
        id="g119" />
@@ -885,7 +887,8 @@
   </g>
   <g
      class="infolayer"
-     id="g157">
+     id="g157"
+     transform="translate(256.84932,0.6849289)">
     <g
        class="g-gtitle"
        id="g132" />
@@ -1082,7 +1085,8 @@
        class="annotation"
        data-index="6"
        style="opacity:1"
-       id="g156">
+       id="g156"
+       transform="translate(-272.60274,4.109589)">
       <g
          class="annotation-text-g"
          id="g155">
@@ -1129,7 +1133,7 @@
   <g
      class="bglayer"
      id="g11-7"
-     transform="translate(262.21918,-0.50684932)">
+     transform="translate(-11.753423,0.86301369)">
     <rect
        class="bg"
        x="40"
@@ -1144,7 +1148,7 @@
      data-index="4"
      style="fill:#073984"
      id="g164-4"
-     transform="translate(-68.383561,-48.657539)">
+     transform="translate(188.46575,-47.972611)">
     <g
        class="annotation-text-g"
        id="g319-5"
@@ -1193,8 +1197,8 @@
      id="path111-3-8-8-0-39-2-0-1-9-7-5-0-9"
      ry="5.978261"
      rx="6.2499962"
-     cy="143.0262"
-     cx="492.21576" />
+     cy="144.39606"
+     cx="218.24316" />
   <g
      class="layer-below"
      id="g14-5"
@@ -1209,7 +1213,7 @@
   <g
      class="cartesianlayer"
      id="g113-0"
-     transform="translate(262.21918,-0.50684932)">
+     transform="translate(-11.753423,0.86301369)">
     <g
        class="subplot xy"
        id="g111-6">
@@ -1851,7 +1855,7 @@
   <g
      class="layer-above"
      id="g138-0"
-     transform="translate(262.21918,-0.50684932)">
+     transform="translate(-11.753423,0.86301369)">
     <g
        class="imagelayer"
        id="g125-3" />
@@ -1990,7 +1994,7 @@
   <g
      class="infolayer"
      id="g178"
-     transform="translate(262.21918,-0.50684932)">
+     transform="translate(-11.753423,0.86301369)">
     <g
        class="g-gtitle"
        id="g139-0" />
@@ -2218,8 +2222,8 @@
        id="path111-3-8-8-0-39-2-0-1-9-7-5-0"
        ry="5.978261"
        rx="6.2499962"
-       cy="286.23169"
-       cx="-10.537674" />
+       cy="284.86182"
+       cx="521.65411" />
     <g
        class="annotation"
        data-index="4"
