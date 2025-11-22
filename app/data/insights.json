@@ -552,7 +552,19 @@
 "fullContent": "**Michigan sentiment rose to 51.0 (from 50.3); Current Conditions 51.1 (vs 52.3) fell, Expectations 51 (vs 49) improved—still a late-cycle mix pointing to cooler consumption and slower growth.** The split fits the pattern mapped in [confidence](/i/38): sentiment turns first, activity follows. With [claims](/i/45) showing a lower flow but a higher stock, job-finding times are lengthening, a mix that tempers spending while wages ease gradually. Our [labor](/i/46) read—cooling, not cracking—keeps policy measured as data normalize. Financial conditions should ease via a softer dollar and narrower premia before yields fully join. **Translation for Q4–Q1: consumption cools, GDP/GDI drift lower with a lag, and measured easing stays live while we watch services prices and claims momentum.**",
 "chartPath": "/charts/Economics/umich-sentiment-gdp-gdi-spending_2025-11-21.svg",
 "chartHeight": "700"
+},
+{
+  "id": 51,
+  "date": "22-11-2025",
+  "category": "Cross-Asset",
+  "categoryColor": "bg-purple-600",
+  "title": "Seasonality vs YTD — Gold Leads, Tech Wobbles",
+  "summary": "**The S&P 500 is retracing as seasonality suggested while gold leads (~+50% YTD) and miners surge, with Bitcoin the lone laggard; easing conditions keep a Santa-rally window intact.**",
+  "fullContent": "**The S&P 500 is retracing as seasonality suggested while gold leads (~+50% YTD) and miners surge, with Bitcoin the lone laggard; easing conditions keep a Santa-rally window intact.** The drawdown is tech-heavy, yet our [seasonality](/i/30) map still points to a late-Nov/Dec rebound window. A tactically softer [dollar](/i/37) and easing [inflation expectations](/i/49) reopen the conditions channel that supports gold’s outperformance versus crypto’s risk beta. For levels, we continue to respect **US30 47,460–47,600** resistance with **invalidation >47,600** per the [short setup](/i/36). Use equity weakness to add quality selectively; treat gold as **buy-the-dip**, not a chase, while Bitcoin remains a laggard until risk resets. **Base case: seasonal bounce into year-end with gold leadership, tactical USD softness, and level-disciplined equities.**",
+  "chartPath": "/charts/Equities/market-wrap-seasonality-vs-ytd_2025-11-22.svg",
+  "chartHeight": "700"
 }
+
 
 
 
