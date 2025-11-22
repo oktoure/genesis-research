@@ -498,7 +498,19 @@
   "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-20.svg",
   "chartHeight": "350"
 
+},
+{
+  "id": 46,
+  "date": "20-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Labor Cools, Not Cracks — Mixed Jobs, Looser Margins",
+  "summary": "**Payrolls rose 119k (from −4k, vs 50k) while unemployment ticked to 4.4% (from 4.3), U-6 eased to 8.0%, and wages held 3.8% YoY—a cooler, mixed labor print that loosens at the margins without breaking.**",
+  "fullContent": "**Payrolls rose 119k (from −4k, vs 50k) while unemployment ticked to 4.4% (from 4.3), U-6 eased to 8.0%, and wages held 3.8% YoY—a cooler, mixed labor print that loosens at the margins without breaking.** The reopened flow of data shows a familiar late-cycle mix: hiring is still positive, but the jobless rate’s drift higher and steady wage growth point to slower demand for labor rather than a shock. Hours were flat at 34.2, participation edged up to 62.4, and manufacturing payrolls remained slightly negative, consistent with a goods-side downshift even as services stay steadier. Our regional **employment tracker** (NY, KC, Dallas, Philly; standardized) has cooled from mid-year without collapsing, which aligns with softer household **confidence** (/i/38) and a gradual easing path. The **FOMC** minutes (/i/23) reinforce this read: most participants see scope to hold the policy rate steady while allowing transmission to work, with cuts guided by incoming labor and inflation signals, not a preset path.\n\nThe internals argue for glide-path disinflation. AHE slowed to 0.2% m/m even as y/y held 3.8%, suggesting incremental wage cooling as job-finding times lengthen. Private payrolls at 97k and a swing back into positive government hiring (22k) helped the headline, but neither overturns the broader message: labor utilization is loosening, not lurching. Into Q4–Q1, watch the tracker’s momentum, the 3-month annualized pulse of nonfarm payrolls, and the U-3/U-6 spread; a sustained up-move in the tracker with stable unemployment would cap downside growth risks, while renewed softening would extend the consumption-cooling sequence already in play.\n\n**Base case: labor cools without cracking—supportive of measured policy, gradual disinflation, and a slower but still positive income backdrop.**",
+  "chartPath": "/charts/Economics/us-labor-tracker-nfp-unemployment_2025-11-20.svg",
+  "chartHeight": "700"
 }
+
 
 
 

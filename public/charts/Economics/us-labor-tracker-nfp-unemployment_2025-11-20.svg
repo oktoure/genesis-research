@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="477"
+   viewBox="0 0 600 477"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg309"
+   sodipodi:docname="us-labor-tracker-nfp-unemployment_2025-11-20.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs309" />
+  <svg
+     class="main-svg"
+     width="600"
+     height="255.0"
+     style=""
+     viewBox="0 0 600 250"
+     version="1.1"
+     id="svg159"
+     sodipodi:docname="Economics_EMPLOYMENT_LEVEL_&amp;_TRACKER_2025-11-10_edited.svg"
+     inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+     x="0"
+     y="0"
+     preserveAspectRatio="xMidYMid meet">
+    <sodipodi:namedview
+       id="namedview159"
+       pagecolor="#ffffff"
+       bordercolor="#000000"
+       borderopacity="0.25"
+       inkscape:showpageshadow="2"
+       inkscape:pageopacity="0.0"
+       inkscape:pagecheckerboard="0"
+       inkscape:deskcolor="#d1d1d1"
+       inkscape:zoom="1.4233333"
+       inkscape:cx="305.62062"
+       inkscape:cy="124.70726"
+       inkscape:window-width="976"
+       inkscape:window-height="1186"
+       inkscape:window-x="244"
+       inkscape:window-y="25"
+       inkscape:window-maximized="0"
+       inkscape:current-layer="svg167" />
+    <rect
+       x="0"
+       y="0"
+       width="600"
+       height="250"
+       style="fill: rgb(0, 0, 0); fill-opacity: 0;"
+       id="rect1" />
+    <defs
+       id="defs-211945">
+      <g
+         class="clips"
+         id="g8">
+        <clipPath
+           id="clip211945xyplot"
+           class="plotclip">
+          <rect
+             width="524"
+             height="182"
+             id="rect2" />
+        </clipPath>
+        <clipPath
+           id="clip211945xy2plot"
+           class="plotclip">
+          <rect
+             width="524"
+             height="182"
+             id="rect3" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip211945x">
+          <rect
+             x="40"
+             y="0"
+             width="524"
+             height="250"
+             id="rect4" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip211945y">
+          <rect
+             x="0"
+             y="28"
+             width="600"
+             height="182"
+             id="rect5" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip211945xy">
+          <rect
+             x="40"
+             y="28"
+             width="524"
+             height="182"
+             id="rect6" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip211945y2">
+          <rect
+             x="0"
+             y="28"
+             width="600"
+             height="182"
+             id="rect7" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip211945xy2">
+          <rect
+             x="40"
+             y="28"
+             width="524"
+             height="182"
+             id="rect8" />
+        </clipPath>
+      </g>
+      <g
+         class="gradients"
+         id="g9" />
+      <g
+         class="patterns"
+         id="g10" />
+    </defs>
+    <g
+       class="bglayer"
+       id="g11">
+      <rect
+         class="bg"
+         x="40"
+         y="28"
+         width="524"
+         height="182"
+         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
+         id="rect10" />
+    </g>
+    <g
+       class="layer-below"
+       id="g49">
+      <g
+         class="imagelayer"
+         id="g12" />
+      <g
+         class="shapelayer"
+         id="g48">
+        <g
+           class="shape-group"
+           data-index="1"
+           clip-path="url(#clip211945x)"
+           id="g13">
+          <path
+             data-index="1"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path12" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="2"
+           clip-path="url(#clip211945x)"
+           id="g14">
+          <path
+             data-index="2"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path13" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="3"
+           clip-path="url(#clip211945x)"
+           id="g15">
+          <path
+             data-index="3"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path14" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="4"
+           clip-path="url(#clip211945x)"
+           id="g16">
+          <path
+             data-index="4"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path15" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="5"
+           clip-path="url(#clip211945x)"
+           id="g17">
+          <path
+             data-index="5"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path16" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="6"
+           clip-path="url(#clip211945x)"
+           id="g18">
+          <path
+             data-index="6"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path17" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="7"
+           clip-path="url(#clip211945x)"
+           id="g19">
+          <path
+             data-index="7"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path18" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="8"
+           clip-path="url(#clip211945x)"
+           id="g20">
+          <path
+             data-index="8"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path19" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="9"
+           clip-path="url(#clip211945x)"
+           id="g21">
+          <path
+             data-index="9"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path20" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="10"
+           clip-path="url(#clip211945x)"
+           id="g22">
+          <path
+             data-index="10"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path21" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="11"
+           clip-path="url(#clip211945x)"
+           id="g23">
+          <path
+             data-index="11"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path22" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="12"
+           clip-path="url(#clip211945x)"
+           id="g24">
+          <path
+             data-index="12"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path23" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="13"
+           clip-path="url(#clip211945x)"
+           id="g25">
+          <path
+             data-index="13"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path24" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="14"
+           clip-path="url(#clip211945x)"
+           id="g26">
+          <path
+             data-index="14"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path25" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="15"
+           clip-path="url(#clip211945x)"
+           id="g27">
+          <path
+             data-index="15"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path26" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="16"
+           clip-path="url(#clip211945x)"
+           id="g28">
+          <path
+             data-index="16"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path27" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="17"
+           clip-path="url(#clip211945x)"
+           id="g29">
+          <path
+             data-index="17"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path28" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="18"
+           clip-path="url(#clip211945x)"
+           id="g30">
+          <path
+             data-index="18"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path29" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="19"
+           clip-path="url(#clip211945x)"
+           id="g31">
+          <path
+             data-index="19"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path30" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="20"
+           clip-path="url(#clip211945x)"
+           id="g32">
+          <path
+             data-index="20"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path31" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="21"
+           clip-path="url(#clip211945x)"
+           id="g33">
+          <path
+             data-index="21"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path32" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="22"
+           clip-path="url(#clip211945x)"
+           id="g34">
+          <path
+             data-index="22"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path33" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="23"
+           clip-path="url(#clip211945x)"
+           id="g35">
+          <path
+             data-index="23"
+             fill-rule="evenodd"
+             d="M-570.4,210H-570.4V28H-570.4Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path34" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="24"
+           clip-path="url(#clip211945x)"
+           id="g36">
+          <path
+             data-index="24"
+             fill-rule="evenodd"
+             d="M-561.52,210H-553.45V28H-561.52Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path35" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="25"
+           clip-path="url(#clip211945x)"
+           id="g37">
+          <path
+             data-index="25"
+             fill-rule="evenodd"
+             d="M-516.31,210H-509.03999999999996V28H-516.31Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path36" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="26"
+           clip-path="url(#clip211945x)"
+           id="g38">
+          <path
+             data-index="26"
+             fill-rule="evenodd"
+             d="M-476.74,210H-471.09V28H-476.74Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path37" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="27"
+           clip-path="url(#clip211945x)"
+           id="g39">
+          <path
+             data-index="27"
+             fill-rule="evenodd"
+             d="M-450.9,210H-443.64V28H-450.9Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path38" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="28"
+           clip-path="url(#clip211945x)"
+           id="g40">
+          <path
+             data-index="28"
+             fill-rule="evenodd"
+             d="M-357.24,210H-349.17V28H-357.24Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path39" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="29"
+           clip-path="url(#clip211945x)"
+           id="g41">
+          <path
+             data-index="29"
+             fill-rule="evenodd"
+             d="M-319.29,210H-307.18V28H-319.29Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path40" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="30"
+           clip-path="url(#clip211945x)"
+           id="g42">
+          <path
+             data-index="30"
+             fill-rule="evenodd"
+             d="M-259.54,210H-255.5V28H-259.54Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path41" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="31"
+           clip-path="url(#clip211945x)"
+           id="g43">
+          <path
+             data-index="31"
+             fill-rule="evenodd"
+             d="M-245.01,210H-232.89999999999998V28H-245.01Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path42" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="32"
+           clip-path="url(#clip211945x)"
+           id="g44">
+          <path
+             data-index="32"
+             fill-rule="evenodd"
+             d="M-142.46,210H-131.16V28H-142.46Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path43" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="33"
+           clip-path="url(#clip211945x)"
+           id="g45">
+          <path
+             data-index="33"
+             fill-rule="evenodd"
+             d="M64.24,210H75.53999999999999V28H64.24Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path44" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="34"
+           clip-path="url(#clip211945x)"
+           id="g46">
+          <path
+             data-index="34"
+             fill-rule="evenodd"
+             d="M195.04,210H222.5V28H195.04Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path45" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="35"
+           clip-path="url(#clip211945x)"
+           id="g47">
+          <path
+             data-index="35"
+             fill-rule="evenodd"
+             d="M430.81,210H432.43V28H430.81Z"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(150, 150, 150); fill-opacity: 0.18; stroke-width: 0px;"
+             id="path46" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="cartesianlayer"
+       id="g121">
+      <g
+         class="subplot xy"
+         id="g119">
+        <g
+           class="layer-subplot"
+           id="g52">
+          <g
+             class="shapelayer"
+             id="g50" />
+          <g
+             class="imagelayer"
+             id="g51" />
+        </g>
+        <g
+           class="minor-gridlayer"
+           id="g56">
+          <g
+             class="x"
+             id="g53" />
+          <g
+             class="y"
+             id="g54" />
+          <g
+             class="y2"
+             id="g55" />
+        </g>
+        <g
+           class="gridlayer"
+           id="g60">
+          <g
+             class="x"
+             id="g57" />
+          <g
+             class="y"
+             id="g58" />
+          <g
+             class="y2"
+             id="g59" />
+        </g>
+        <g
+           class="zerolinelayer"
+           id="g61" />
+        <g
+           class="layer-between"
+           id="g64">
+          <g
+             class="shapelayer"
+             id="g62" />
+          <g
+             class="imagelayer"
+             id="g63" />
+        </g>
+        <path
+           class="xlines-below"
+           id="path64" />
+        <path
+           class="ylines-below"
+           id="path65" />
+        <g
+           class="overlines-below"
+           id="g67">
+          <path
+             class="xy2-x"
+             id="path66" />
+          <path
+             class="xy2-y"
+             id="path67" />
+        </g>
+        <g
+           class="xaxislayer-below"
+           id="g68" />
+        <g
+           class="yaxislayer-below"
+           id="g69" />
+        <g
+           class="overaxes-below"
+           id="g72">
+          <g
+             class="xy2-x"
+             id="g70" />
+          <g
+             class="xy2-y"
+             id="g71" />
+        </g>
+        <g
+           class="overplot"
+           id="g89">
+          <g
+             class="xy"
+             transform="translate(40,28)"
+             clip-path="url(#clip211945xyplot)"
+             id="g80">
+            <g
+               class="scatterlayer mlayer"
+               id="g79">
+              <g
+                 class="trace scatter tracee1a5ed"
+                 style="stroke-miterlimit: 2; opacity: 1;"
+                 id="g78">
+                <g
+                   class="fills"
+                   id="g73" />
+                <g
+                   class="errorbars"
+                   id="g74" />
+                <g
+                   class="lines"
+                   id="g75">
+                  <path
+                     class="js-line"
+                     d="M-212.34,48.22L-210.72,47.76L-209.11,54.16L-207.49,73.35L-205.88,72.21L-204.26,59.42L-202.65,63.53L-201.03,83.18L-199.42,90.26L-197.81,69.24L-194.58,87.52L-192.96,66.73L-191.35,104.43L-189.73,90.26L-184.89,104.43L-183.27,111.97L-178.43,127.73L-176.81,116.99L-173.58,116.99L-171.97,110.14L-170.35,123.62L-168.74,93.23L-167.12,88.43L-165.51,98.49L-163.89,86.6L-162.28,65.58L-160.66,93.92L-159.05,88.89L-157.43,116.08L-155.82,85.69L-154.2,113.11L-152.59,79.06L-150.97,81.58L-149.36,78.15L-147.74,50.05L-146.13,59.87L-144.51,68.78L-142.9,67.18L-141.28,90.49L-139.67,86.83L-138.05,67.41L-136.44,67.64L-134.83,59.42L-133.21,80.21L-131.6,74.27L-129.98,61.47L-128.37,87.98L-126.75,95.74L-125.14,98.49L-123.52,84.09L-121.91,55.53L-120.29,79.75L-117.06,53.25L-115.45,58.5L-113.83,56.67L-112.22,47.08L-108.99,59.87L-107.37,57.36L-105.76,57.82L-104.14,62.39L-100.91,42.97L-99.3,61.7L-97.68,63.76L-96.07,45.02L-94.45,67.41L-92.84,109.91L-89.61,99.17L-87.99,113.56L-86.38,98.26L-84.76,47.31L-79.92,92.54L-78.3,88.2L-76.69,85.69L-75.08,77.47L-71.85,58.73L-70.23,60.56L-68.62,50.28L-67,61.7L-65.39,49.82L-63.77,68.55L-62.16,62.61L-60.54,69.7L-58.93,56.22L-57.31,61.7L-54.08,56.67L-52.47,53.48L-50.85,47.99L-49.24,55.3L-47.62,45.48L-46.01,73.81L-41.16,46.16L-39.55,65.81L-37.93,33.14L-36.32,47.08L-34.7,78.15L-33.09,57.36L-31.47,54.39L-29.86,57.36L-28.24,54.62L-26.63,66.04L-25.01,48.22L-23.4,60.79L-21.78,60.1L-20.17,62.84L-18.55,68.78L-16.94,70.38L-15.33,61.47L-13.71,59.87L-10.48,65.13L-8.87,59.64L-7.25,47.99L-5.64,46.16L-4.02,29.49L-2.41,31.77L-0.79,39.77L0.82,34.05L2.44,36.8L4.05,37.71L7.28,59.87L8.9,51.65L10.51,35.43L12.13,52.1L15.36,77.24L16.97,90.49L18.59,116.08L20.2,87.29L21.82,88.66L23.43,97.57L25.05,100.08L26.66,99.17L28.28,105.63L29.89,104.1L33.12,123.17L34.74,126.87L36.35,120.26L37.97,100.72L39.58,99.93L41.2,76.27L42.81,69.96L44.42,74.88L46.04,60.08L47.65,74.7L49.27,82.31L50.88,81.01L52.5,81.74L54.11,80.21L55.73,87.44L57.34,86.82L58.96,76.37L60.57,102.75L62.19,95.86L63.8,84.34L65.42,84.34L67.03,73.5L68.65,65.56L70.26,64.65L71.88,48.18L73.49,46.27L75.11,24.74L76.72,31.59L78.34,38.07L79.95,36.42L83.18,19.39L84.8,24.12L89.64,33.32L91.26,38.71L92.87,43.07L94.49,39.08L96.1,43L97.72,35.13L99.33,38.92L100.95,36.76L102.56,52.96L104.18,48.45L105.79,49.71L107.4,47.93L109.02,53.98L110.63,37.34L112.25,29.15L113.86,41.73L115.48,30.14L117.09,37.25L118.71,26.79L120.32,23.09L121.94,42.37L123.55,40.74L125.17,41.76L126.78,56.97L128.4,45.71L130.01,45.79L131.63,42.59L133.24,43.06L134.86,51.31L136.47,40.5L138.09,43.76L139.7,51.34L141.32,42.52L142.93,54.01L144.55,57.87L146.16,55.13L147.78,54.2L149.39,55.96L151.01,64.23L152.62,62.07L154.24,54.13L155.85,64.63L160.7,79.41L162.31,86.59L163.93,72.75L165.54,84.26L167.15,87.38L168.77,102.52L170.38,127.13L172,131.27L176.84,180.41L178.46,154.52L181.69,125.39L183.3,121.45L184.92,101.88L186.53,92.1L188.15,79.95L189.76,78.56L192.99,65.68L194.61,69.48L197.84,49.78L199.45,47.52L201.07,61.75L202.68,53.41L204.3,66L205.91,58.33L207.53,56.8L209.14,43.58L210.76,47.11L212.37,46.29L215.6,37.27L217.22,38.3L218.83,31.68L220.45,50.61L222.06,55.78L223.68,63.89L226.9,49.38L228.52,56.85L230.13,55.21L231.75,43.81L233.36,42.25L234.98,37.71L236.59,39.63L238.21,46.95L239.82,51.03L241.44,52.61L243.05,56.05L244.67,68.14L246.28,76.18L247.9,76.84L249.51,75.49L251.13,75.81L252.74,64.75L254.36,74.47L255.97,70.02L257.59,79.57L259.2,73.78L260.82,62.4L262.43,53.15L264.05,56.26L265.66,56.15L267.28,63.32L268.89,60.31L270.51,45.62L272.12,52.26L273.74,55.19L275.35,48.43L276.97,46.63L278.58,49.53L280.2,42.41L281.81,51.54L283.43,47.81L285.04,49.09L286.65,41.15L288.27,45.32L289.88,57.47L291.5,64.85L293.11,62.23L296.34,81.4L297.96,72.88L299.57,85.4L301.19,72.99L302.8,79.75L304.42,82.33L306.03,72.62L307.65,81.92L309.26,86.14L310.88,94.86L312.49,91.37L314.11,93.89L315.72,86.79L317.34,90.51L318.95,80.23L320.57,89.12L323.8,74.08L325.41,73.47L327.03,68.53L328.64,52.32L330.26,50.13L331.87,46.67L333.49,45.95L335.1,46.41L338.33,45.25L339.95,44.84L341.56,35.31L343.18,20.08L344.79,32.04L346.41,24.98L348.02,33.26L349.63,25.1L351.25,30.05L352.86,25.5L354.48,20.48L356.09,13L357.71,15.52L359.32,24.7L360.94,39.42L362.55,36.54L364.17,38.83L365.78,35.95L367.4,50.52L369.01,48.62L370.63,39.33L372.24,53.65L373.86,47.76L375.47,55.94L377.09,52.5L378.7,69.43L380.32,51.88L381.93,48.82L383.55,57.34L385.16,56.15L386.78,51.67L388.39,65.91L390.01,103.3L391.62,167.86L393.24,97.32L394.85,80.31L396.47,53.28L398.08,52.03L399.7,46.93L401.31,48.65L402.93,39.95L404.54,40.11L406.16,31.87L407.77,29.36L409.38,27.13L411,9.23L412.61,24.29L414.23,16.14L415.84,8.28L417.46,13.33L419.07,14.03L420.69,5.52L422.3,6.09L423.92,8.28L425.53,14.71L427.15,11.41L428.76,12.54L430.38,17.8L431.99,12.77L433.61,22.77L435.22,25.4L436.84,36.72L438.45,42.65L440.07,39.2L441.68,52.59L443.3,54.97L444.91,51.54L446.53,66.78L448.14,64.06L449.76,72.26L451.37,66.44L452.99,79.88L454.6,60.66L456.22,71.76L457.83,66.89L459.45,66.47L461.06,72.65L462.68,75.47L464.29,83.82L465.91,68.73L469.13,83.28L470.75,77.49L472.36,86.96L473.98,70.98L475.59,83.67L477.21,73.99L478.82,74.1L480.44,62.18L482.05,71.95L483.67,61.71L485.28,79.72L486.9,67.91L488.51,82.02L490.13,61.19L491.74,75.34L493.36,61.17L494.97,59.73L496.59,66.48L498.2,62.72L499.01,49.52"
+                     style="vector-effect: none; fill: none; stroke: rgb(69, 90, 100); stroke-opacity: 1; stroke-width: 1.2px; opacity: 1;"
+                     id="path74" />
+                </g>
+                <g
+                   class="points"
+                   id="g76" />
+                <g
+                   class="text"
+                   id="g77" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="xy2"
+             transform="translate(40,28)"
+             clip-path="url(#clip211945xy2plot)"
+             id="g88">
+            <g
+               class="scatterlayer mlayer"
+               id="g87">
+              <g
+                 class="trace scatter trace4960d8"
+                 style="stroke-miterlimit: 2; opacity: 1;"
+                 id="g86">
+                <g
+                   class="fills"
+                   id="g81" />
+                <g
+                   class="errorbars"
+                   id="g82" />
+                <g
+                   class="lines"
+                   id="g83">
+                  <path
+                     class="js-line"
+                     d="M-607.98,169.08L-607.17,22.46L-599.1,233.13L-598.29,241.07L-597.48,287.11L-592.64,39.42L-591.83,62.35L-585.37,-7.11L-582.95,28.15L-582.14,38.72L-579.72,-9.66L-575.68,82.09L-574.88,79.15L-574.07,133.77L-563.57,-1.64L-562.76,6.03L-552.27,655.64L-550.65,265.02L-549.85,206.72L-543.39,-7.44L-540.16,44.9L-539.35,28.25L-537.73,6.71L-536.93,67.34L-536.12,56.59L-535.31,101.51L-528.05,126.17L-525.62,9.14L-524.82,92.07L-523.2,109.05L-522.39,24.93L-521.59,18.69L-520.78,30.06L-519.97,77.79L-517.55,67.43L-511.09,280L-510.28,164.27L-505.44,-2.13L-500.59,11.25L-499.79,19.7L-495.75,127.31L-493.33,-2.63L-490.9,99.63L-490.1,65.96L-485.25,181.61L-482.02,85.43L-481.21,78.78L-474.75,16.29L-472.33,41.16L-471.52,59.67L-469.91,50.21L-469.1,80.64L-465.87,54.18L-465.07,99.13L-459.41,26.11L-457.8,53.18L-456.99,98.61L-450.53,26.59L-448.92,48.2L-448.11,77.34L-444.88,87.04L-440.84,25.58L-440.04,37.39L-439.23,37.96L-436.81,35.07L-436,38.45L-435.19,25.38L-432.77,84.64L-428.73,48.03L-427.92,40.33L-426.31,92.95L-421.46,69.09L-420.66,63.34L-419.04,96.95L-413.39,23.65L-412.58,71.29L-411.77,94.97L-410.16,24.09L-406.93,65.99L-406.12,56.61L-400.47,104.13L-399.66,94.32L-398.86,60.67L-398.05,37.61L-397.24,86.73L-396.43,198.59L-395.63,245.54L-392.4,116.69L-391.59,108.1L-389.17,152.17L-388.36,143.64L-387.55,108.13L-385.94,52.38L-381.09,70.05L-380.28,53.05L-378.67,71.81L-377.06,40.2L-374.63,60.08L-373.83,49.96L-372.21,62.35L-370.6,56.96L-369.79,30.79L-368.98,32.82L-368.17,14.57L-365.75,76.29L-361.71,59.23L-360.91,43.51L-358.48,130.7L-353.64,114.64L-352.83,96.82L-348.8,352.15L-347.99,212.34L-337.49,31.52L-336.68,48.05L-335.88,43.57L-335.07,66.96L-334.26,71.61L-333.45,95.97L-331.84,56.83L-330.22,71.89L-329.42,51.16L-327.8,46.07L-326.99,46.59L-326.19,29.52L-323.76,61.65L-321.34,53.14L-320.53,36.48L-318.92,28.96L-314.88,71.12L-313.27,68.67L-312.46,35.13L-310.04,74.44L-307.62,57.52L-306.81,36.53L-304.39,105.75L-302.77,86.83L-301.96,54.49L-296.31,193.83L-295.5,141.82L-294.7,79.75L-291.47,43.35L-289.85,62.37L-289.04,78.14L-288.24,48.97L-284.2,68.77L-283.39,116.71L-281.78,134.38L-280.16,101.29L-279.36,97.05L-278.55,110.69L-275.32,88.41L-274.51,95.09L-273.7,94.07L-272.9,115.14L-264.82,24.11L-264.01,32.99L-263.21,16.9L-259.98,32.98L-259.17,47.95L-257.56,34.28L-256.75,48.68L-255.94,64.32L-255.13,69.2L-254.33,52.04L-253.52,43.39L-251.1,68.11L-248.67,59.56L-247.87,67.86L-242.21,33.82L-241.41,77.87L-240.6,75.95L-239.79,100.17L-238.98,62.82L-238.18,68.07L-233.33,37.59L-232.52,41.28L-231.72,44.1L-230.91,59.38L-228.49,34.46L-227.68,43.97L-226.87,41.82L-226.07,42.38L-225.26,57.95L-222.84,43.29L-222.03,53.52L-221.22,56.52L-220.41,37.9L-217.99,60.96L-217.18,65.31L-216.38,65.02L-215.57,57.97L-214.76,40.38L-213.15,69.31L-211.53,47.98L-209.92,38.99L-206.69,61.89L-205.07,92.49L-203.46,62.71L-201.84,71.36L-200.23,61.63L-198.61,71.07L-197,77.42L-192.15,55.41L-190.54,55.72L-187.31,67.44L-185.69,60.08L-184.08,69.84L-182.46,96.1L-180.85,128.93L-179.23,102.93L-177.62,104.49L-176,99.77L-174.39,101.09L-172.77,95.15L-171.16,108.54L-169.54,88.45L-167.93,90.78L-166.32,66.77L-164.7,69.34L-163.09,56.82L-156.63,89.4L-155.01,86.74L-153.4,91.68L-151.78,75.09L-150.17,67.72L-146.94,93.27L-145.32,84.69L-140.48,39.88L-138.86,50.03L-137.25,49.93L-135.63,56.94L-132.4,37.16L-130.79,49.86L-127.56,64.19L-125.94,51.36L-122.71,40.42L-121.1,51.18L-117.87,48L-116.25,54.15L-114.64,63.01L-113.02,60.27L-111.41,44.71L-109.79,27.08L-108.18,32.42L-106.57,39.75L-104.95,61.77L-103.34,49.27L-100.11,29.96L-98.49,32L-96.88,45.13L-93.65,55.58L-92.03,79.43L-90.42,77.93L-88.8,80.35L-87.19,53.35L-85.57,64.23L-83.96,64.03L-82.34,48.34L-77.5,71.83L-75.88,53.45L-72.65,55.82L-71.04,68.13L-69.42,46.54L-67.81,55.64L-66.19,28.98L-64.58,52.92L-62.96,41.66L-61.35,87.62L-59.73,80.87L-58.12,69.67L-54.89,44.6L-53.27,42.47L-51.66,32.88L-50.04,47.32L-48.43,45.99L-46.81,57.28L-41.97,40.09L-40.36,48.06L-37.13,60.51L-35.51,56.67L-33.9,31.25L-32.28,41.93L-30.67,45.56L-29.05,88.81L-27.44,71.61L-25.82,67.69L-22.59,54.58L-20.98,41.3L-19.36,38.82L-17.75,61.54L-16.13,41.84L-14.52,62.96L-12.9,37.52L-11.29,75.39L-9.67,62.37L-8.06,64.22L-6.44,57.76L-4.83,41.96L-3.21,50.84L-1.6,40.56L1.63,73.18L3.25,67.68L4.86,42.49L6.48,52.59L8.09,53.87L9.71,85.99L12.94,58.45L14.55,43.65L16.16,43.87L17.78,61.45L19.39,109.58L21.01,104.28L22.62,110.6L24.24,81.92L25.85,71.96L27.47,90.13L29.08,86.68L30.7,137.91L32.31,117.94L33.93,165.74L35.54,141.73L37.16,156.2L38.77,94.5L40.39,74.04L42,63.39L43.62,87.36L45.23,71.91L46.85,65.95L48.46,49.29L50.08,55.27L51.69,52.66L53.31,55.94L56.54,85.22L58.15,73.6L61.38,57.77L63,80.08L64.61,80.91L66.23,103.76L67.84,70.21L69.46,57.4L71.07,43.58L72.69,46.32L74.3,44.13L75.91,31L77.53,41.76L79.14,39.12L80.76,71.14L82.37,49.48L83.99,63.36L85.6,49.37L87.22,58.66L88.83,48.07L90.45,40.97L92.06,56.25L93.68,57.18L95.29,61.1L96.91,44.83L98.52,63.63L100.14,49.06L101.75,53.83L103.37,41.86L104.98,47.85L108.21,42.39L109.83,62.55L111.44,63.78L113.06,75.94L114.67,44L116.29,37.25L117.9,37.96L119.52,47.44L121.13,64.56L122.75,47.46L125.98,64.46L127.59,68.57L130.82,33.08L132.44,46.36L134.05,54.75L135.66,91.26L137.28,64.6L138.89,58.46L140.51,43.52L142.12,49.77L143.74,79.56L145.35,83.28L146.97,83.74L148.58,74.5L150.2,66.75L151.81,72.99L153.43,96.16L155.04,93.62L156.66,78.83L158.27,72.3L159.89,57.66L161.5,130.1L163.12,114.58L164.73,166.87L166.35,133.16L167.96,121.66L169.58,135.23L171.19,127.91L172.81,181.63L174.42,188.38L176.04,211.63L177.65,182.33L180.88,133.08L182.5,114.03L185.73,71.56L187.34,70.94L188.96,87.62L190.57,74.49L193.8,51.28L195.42,57.32L198.64,69.92L200.26,52.41L201.87,39.04L203.49,36.9L206.72,64.23L208.33,60.8L209.95,75.66L211.56,53.16L213.18,44.7L214.79,24.9L218.02,58.74L219.64,61.9L221.25,68.81L222.87,54.06L224.48,59.38L226.1,60.18L227.71,54.82L229.33,43.53L230.94,33.54L232.56,34.62L234.17,43.79L235.79,47.18L237.4,55.04L239.02,54.97L240.63,59.87L242.25,61.05L243.86,53.58L245.48,40.06L248.71,43.52L250.32,68.17L251.94,75.17L253.55,58.46L255.17,38.36L256.78,35.27L260.01,63.26L261.62,44.06L263.24,45.79L264.85,41.99L266.47,52.37L268.08,40.84L269.7,27.46L271.31,24.8L274.54,59.55L276.16,38.57L277.77,39.27L279.39,23.04L281,56.03L282.62,48.36L284.23,50.82L285.85,32.33L287.46,36.91L289.08,34.53L290.69,55.1L292.31,36.5L293.92,49.8L295.54,43.38L297.15,74.48L298.77,46.1L300.38,40.34L302,20.61L303.61,41.86L305.23,46.75L306.84,61.15L308.46,60.67L310.07,43.58L311.69,43.57L314.92,91.18L316.53,57.55L319.76,37L321.37,69.26L322.99,74.31L324.6,71.83L326.22,46.89L327.83,36.38L329.45,40.72L331.06,49.87L332.68,34.24L334.29,37.85L335.91,37.59L337.52,47.51L339.14,47.73L340.75,66.45L342.37,59.33L343.98,47.7L345.6,40.9L347.21,45.69L348.83,46.09L350.44,47.42L352.06,49.37L353.67,58.44L355.29,34.67L356.9,58.8L358.52,42.01L360.13,57.56L361.75,34.87L363.36,61.93L364.98,57.47L366.59,87.96L368.21,82.65L369.82,62.34L373.05,26.49L374.67,45.18L376.28,41.08L377.89,69.02L379.51,61.9L381.12,46.45L382.74,46.15L384.35,54.5L385.97,69.33L387.58,60.5L389.2,51.43L390.81,218.1L391.01300612114613,3822.0000000000005L0,3822L395.8404673129849,3822L397.27,-30.12L398.89,-39.9L400.5,-29.63L402.12,-35.16L406.96,27.97L408.58,31.92L410.19,21.03L411.81,39.71L413.42,28.96L415.04,46.69L416.65,16.97L418.27,16.55L419.88,-8.77L421.5,-2.05L423.11,-6.94L424.73,-1.37L427.96,31.41L429.57,34.06L431.19,26.89L432.8,37.97L434.42,55.66L436.03,42.82L437.65,55.56L439.26,48.21L440.87,78.02L442.49,62.65L444.1,58.5L445.72,43.95L447.33,62.23L448.95,66.93L450.56,61L452.18,71.34L453.79,70.86L455.41,75.57L457.02,76.97L458.64,93.54L460.25,113.4L461.87,58.37L463.48,59.82L465.1,37.77L466.71,77.63L468.33,75.27L469.94,90.09L471.56,74.19L473.17,89.18L474.79,112.62L476.4,95.84L478.02,64.39L479.63,52.34L481.25,64.14L482.86,59.62L484.48,52.33L486.09,56.03L487.71,75.16L489.32,84.74L490.94,73.91L492.55,56.07L494.17,65.48L495.78,70.83L497.4,106.75"
+                     style="vector-effect: none; fill: none; stroke: rgb(2, 119, 189); stroke-opacity: 1; stroke-width: 1.2px; opacity: 1;"
+                     id="path82" />
+                </g>
+                <g
+                   class="points"
+                   id="g84" />
+                <g
+                   class="text"
+                   id="g85" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           class="zerolinelayer-above"
+           id="g90" />
+        <path
+           class="xlines-above crisp"
+           d="M39,210.5H565M39,27.5H565"
+           style="fill: none; stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+           id="path90" />
+        <path
+           class="ylines-above crisp"
+           d="M39.5,28V210M564.5,28V210"
+           style="fill: none; stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+           id="path91" />
+        <g
+           class="overlines-above"
+           id="g93">
+          <path
+             class="xy2-x crisp"
+             d="M0,0"
+             style="fill: none;"
+             id="path92" />
+          <path
+             class="xy2-y crisp"
+             d="M564.5,28V210M39.5,28V210"
+             style="fill: none; stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
+             id="path93" />
+        </g>
+        <g
+           class="yaxislayer-above"
+           id="g111">
+          <path
+             class="ytick ticks crisp"
+             d="M40,0h5"
+             transform="translate(0,149.32999999999998)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path106" />
+          <path
+             class="ytick ticks crisp"
+             d="M40,0h5"
+             transform="translate(0,88.67)"
+             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+             id="path107" />
+          <g
+             class="ytick"
+             id="g107">
+            <text
+               text-anchor="end"
+               x="37.4"
+               y="2.8"
+               transform="translate(0,210)"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text107">−4</text>
+          </g>
+          <g
+             class="ytick"
+             id="g108">
+            <text
+               text-anchor="end"
+               x="37.4"
+               y="2.8"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               transform="translate(0,149.32999999999998)"
+               id="text108">−2</text>
+          </g>
+          <g
+             class="ytick"
+             id="g109">
+            <text
+               text-anchor="end"
+               x="37.4"
+               y="2.8"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               transform="translate(0,88.67)"
+               id="text109">0</text>
+          </g>
+          <g
+             class="ytick"
+             id="g110">
+            <text
+               text-anchor="end"
+               x="37.4"
+               y="2.8"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               transform="translate(0,28)"
+               id="text110">2</text>
+          </g>
+        </g>
+        <g
+           class="overaxes-above"
+           id="g118">
+          <g
+             class="xy2-x"
+             id="g112" />
+          <g
+             class="xy2-y"
+             id="g117">
+            <path
+               class="y2tick ticks crisp"
+               d="M564,0h-5"
+               transform="translate(0,149.32999999999998)"
+               style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+               id="path112" />
+            <path
+               class="y2tick ticks crisp"
+               d="M564,0h-5"
+               transform="translate(0,88.67)"
+               style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
+               id="path113" />
+            <g
+               class="y2tick"
+               id="g113">
+              <text
+                 text-anchor="start"
+                 x="566.6"
+                 y="2.8"
+                 transform="translate(0,210)"
+                 style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+                 id="text113">−100</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g114">
+              <text
+                 text-anchor="start"
+                 x="566.6"
+                 y="2.8"
+                 style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+                 transform="translate(0,149.32999999999998)"
+                 id="text114">−50</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g115">
+              <text
+                 text-anchor="start"
+                 x="566.6"
+                 y="2.8"
+                 style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+                 transform="translate(0,88.67)"
+                 id="text115">0</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g116">
+              <text
+                 text-anchor="start"
+                 x="566.6"
+                 y="2.8"
+                 style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+                 transform="translate(0,28)"
+                 id="text116">50</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="subplot xy2"
+         id="g120" />
+    </g>
+    <g
+       class="polarlayer"
+       id="g122" />
+    <g
+       class="smithlayer"
+       id="g123" />
+    <g
+       class="ternarylayer"
+       id="g124" />
+    <g
+       class="geolayer"
+       id="g125" />
+    <g
+       class="funnelarealayer"
+       id="g126" />
+    <g
+       class="pielayer"
+       id="g127" />
+    <g
+       class="iciclelayer"
+       id="g128" />
+    <g
+       class="treemaplayer"
+       id="g129" />
+    <g
+       class="sunburstlayer"
+       id="g130" />
+    <g
+       class="glimages"
+       id="g131" />
+    <defs
+       id="topdefs-211945">
+      <g
+         class="clips"
+         id="g132" />
+    </defs>
+    <g
+       class="layer-above"
+       id="g138">
+      <g
+         class="imagelayer"
+         id="g133" />
+      <g
+         class="shapelayer"
+         id="g137">
+        <g
+           class="shape-group"
+           data-index="0"
+           clip-path="url(#clip211945y)"
+           id="g134">
+          <path
+             data-index="0"
+             fill-rule="evenodd"
+             d="M40,88.67L564,88.67"
+             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.6px;"
+             id="path133" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="36"
+           id="g135">
+          <path
+             data-index="36"
+             fill-rule="evenodd"
+             d="M71.44,32.550000000000004L102.88,32.550000000000004"
+             style="opacity: 1; stroke: rgb(69, 90, 100); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
+             id="path134" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="37"
+           id="g136">
+          <path
+             data-index="37"
+             fill-rule="evenodd"
+             d="M71.44,38.92000000000001L102.88,38.92000000000001"
+             style="opacity: 1; stroke: rgb(2, 119, 189); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
+             id="path135" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="infolayer"
+       id="g159">
+      <g
+         class="g-gtitle"
+         id="g139" />
+      <g
+         class="g-xtitle"
+         id="g140" />
+      <g
+         class="g-ytitle"
+         id="g141" />
+      <g
+         class="g-y2title"
+         id="g142" />
+      <g
+         class="annotation"
+         data-index="0"
+         style="opacity: 1;"
+         id="g145">
+        <g
+           class="annotation-text-g"
+           id="g144"
+           transform="rotate(0,181,32.550000000000004)">
+          <g
+             class="cursor-pointer"
+             transform="translate(106,28)"
+             id="g143">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="150"
+               height="9"
+               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               id="rect142" />
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="2"
+               y="7"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text142">US: REGIONAL MFG EMPLOYMENT TRACKER* (LS)</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="1"
+         style="opacity: 1;"
+         id="g148">
+        <g
+           class="annotation-text-g"
+           id="g147"
+           transform="rotate(0,160.5,38.92000000000001)">
+          <g
+             class="cursor-pointer"
+             transform="translate(106,34)"
+             id="g146">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="109"
+               height="9"
+               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               id="rect145" />
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="2"
+               y="7"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text145">UNEMPLOYMENT LEVEL** (INV.) (RS)</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="2"
+         style="opacity: 1;"
+         id="g151">
+        <g
+           class="annotation-text-g"
+           id="g150"
+           transform="rotate(0,58,21.5)">
+          <g
+             class="cursor-pointer"
+             transform="translate(42,15)"
+             id="g149">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="31"
+               height="12"
+               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               id="rect148" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="16.234375"
+               y="9"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text148">Std Dev</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="3"
+         style="opacity: 1;"
+         id="g154">
+        <g
+           class="annotation-text-g"
+           id="g153"
+           transform="rotate(0,540,21.5)">
+          <g
+             class="cursor-pointer"
+             transform="translate(518,15)"
+             id="g152">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="43"
+               height="12"
+               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               id="rect151" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="22.24609375"
+               y="9"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               id="text151">Ann % Chg</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="4"
+         style="opacity: 1;"
+         id="g158">
+        <g
+           class="annotation-text-g"
+           id="g157"
+           transform="rotate(0,326.62800000000004,151.73088)">
+          <g
+             class="cursor-pointer"
+             transform="translate(248,135)"
+             id="g156">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="157"
+               height="33"
+               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               id="rect154" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="78.8203125"
+               y="9"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text156"><tspan
+                 class="line"
+                 dy="0em"
+                 x="78.8203125"
+                 y="9"
+                 id="tspan154">U-3 UP TO 4.4%, U-6 TO 8.0%,</tspan><tspan
+                 class="line"
+                 dy="1.3em"
+                 x="78.8203125"
+                 y="9"
+                 id="tspan155">HOURS FLAT—LOOSER MARGINS WITH</tspan><tspan
+                 class="line"
+                 dy="2.6em"
+                 x="78.8203125"
+                 y="9"
+                 id="tspan156">WAGES EASING AT THE EDGE.</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+  <svg
+     class="main-svg"
+     width="600"
+     height="255.0"
+     viewBox="0 0 600 262"
+     version="1.1"
+     id="svg167"
+     sodipodi:docname="chart_1.svg"
+     inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+     x="0"
+     y="205.0"
+     preserveAspectRatio="xMidYMid meet">
+    <sodipodi:namedview
+       id="namedview167"
+       pagecolor="#ffffff"
+       bordercolor="#000000"
+       borderopacity="0.25"
+       inkscape:showpageshadow="2"
+       inkscape:pageopacity="0.0"
+       inkscape:pagecheckerboard="0"
+       inkscape:deskcolor="#d1d1d1"
+       inkscape:zoom="1.4233333"
+       inkscape:cx="300"
+       inkscape:cy="124.70726"
+       inkscape:window-width="1176"
+       inkscape:window-height="1186"
+       inkscape:window-x="1358"
+       inkscape:window-y="35"
+       inkscape:window-maximized="0"
+       inkscape:current-layer="svg167" />
+    <rect
+       x="0"
+       y="0"
+       width="600"
+       height="250"
+       style="fill:#000000;fill-opacity:0"
+       id="rect9" />
+    <defs
+       id="defs-59821f">
+      <g
+         class="clips"
+         id="g65">
+        <clipPath
+           id="clip59821fxyplot"
+           class="plotclip">
+          <rect
+             width="524"
+             height="182"
+             id="rect11"
+             x="0"
+             y="0" />
+        </clipPath>
+        <clipPath
+           id="clip59821fxy2plot"
+           class="plotclip">
+          <rect
+             width="524"
+             height="182"
+             id="rect12"
+             x="0"
+             y="0" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip59821fx">
+          <rect
+             x="40"
+             y="0"
+             width="524"
+             height="250"
+             id="rect13" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip59821fy">
+          <rect
+             x="0"
+             y="28"
+             width="600"
+             height="182"
+             id="rect14" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip59821fxy">
+          <rect
+             x="40"
+             y="28"
+             width="524"
+             height="182"
+             id="rect15" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip59821fy2">
+          <rect
+             x="0"
+             y="28"
+             width="600"
+             height="182"
+             id="rect16" />
+        </clipPath>
+        <clipPath
+           class="axesclip"
+           id="clip59821fxy2">
+          <rect
+             x="40"
+             y="28"
+             width="524"
+             height="182"
+             id="rect17" />
+        </clipPath>
+      </g>
+      <g
+         class="gradients"
+         id="g66" />
+      <g
+         class="patterns"
+         id="g91" />
+    </defs>
+    <g
+       class="layer-below"
+       id="g195"
+       transform="matrix(1.0285236,0,0,1,-7.9404879,0)">
+      <g
+         class="imagelayer"
+         id="g94" />
+      <g
+         class="shapelayer"
+         id="g194">
+        <g
+           class="shape-group"
+           data-index="1"
+           clip-path="url(#clip59821fx)"
+           id="g155">
+          <path
+             data-index="1"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path100" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="2"
+           clip-path="url(#clip59821fx)"
+           id="g160">
+          <path
+             data-index="2"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path155" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="3"
+           clip-path="url(#clip59821fx)"
+           id="g161">
+          <path
+             data-index="3"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path160" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="4"
+           clip-path="url(#clip59821fx)"
+           id="g162">
+          <path
+             data-index="4"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path161" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="5"
+           clip-path="url(#clip59821fx)"
+           id="g163">
+          <path
+             data-index="5"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path162" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="6"
+           clip-path="url(#clip59821fx)"
+           id="g164">
+          <path
+             data-index="6"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path163" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="7"
+           clip-path="url(#clip59821fx)"
+           id="g165">
+          <path
+             data-index="7"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path164" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="8"
+           clip-path="url(#clip59821fx)"
+           id="g166">
+          <path
+             data-index="8"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path165" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="9"
+           clip-path="url(#clip59821fx)"
+           id="g167">
+          <path
+             data-index="9"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path166" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="10"
+           clip-path="url(#clip59821fx)"
+           id="g168">
+          <path
+             data-index="10"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path167" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="11"
+           clip-path="url(#clip59821fx)"
+           id="g169">
+          <path
+             data-index="11"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path168" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="12"
+           clip-path="url(#clip59821fx)"
+           id="g170">
+          <path
+             data-index="12"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path169" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="13"
+           clip-path="url(#clip59821fx)"
+           id="g171">
+          <path
+             data-index="13"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path170" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="14"
+           clip-path="url(#clip59821fx)"
+           id="g172">
+          <path
+             data-index="14"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path171" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="15"
+           clip-path="url(#clip59821fx)"
+           id="g173">
+          <path
+             data-index="15"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path172" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="16"
+           clip-path="url(#clip59821fx)"
+           id="g174">
+          <path
+             data-index="16"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path173" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="17"
+           clip-path="url(#clip59821fx)"
+           id="g175">
+          <path
+             data-index="17"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path174" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="18"
+           clip-path="url(#clip59821fx)"
+           id="g176">
+          <path
+             data-index="18"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path175" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="19"
+           clip-path="url(#clip59821fx)"
+           id="g177">
+          <path
+             data-index="19"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path176" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="20"
+           clip-path="url(#clip59821fx)"
+           id="g178">
+          <path
+             data-index="20"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path177" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="21"
+           clip-path="url(#clip59821fx)"
+           id="g179">
+          <path
+             data-index="21"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path178" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="22"
+           clip-path="url(#clip59821fx)"
+           id="g180">
+          <path
+             data-index="22"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path179" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="23"
+           clip-path="url(#clip59821fx)"
+           id="g181">
+          <path
+             data-index="23"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path180" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="24"
+           clip-path="url(#clip59821fx)"
+           id="g182">
+          <path
+             data-index="24"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path181" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="25"
+           clip-path="url(#clip59821fx)"
+           id="g183">
+          <path
+             data-index="25"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path182" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="26"
+           clip-path="url(#clip59821fx)"
+           id="g184">
+          <path
+             data-index="26"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path183" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="27"
+           clip-path="url(#clip59821fx)"
+           id="g185">
+          <path
+             data-index="27"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path184" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="28"
+           clip-path="url(#clip59821fx)"
+           id="g186">
+          <path
+             data-index="28"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path185" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="29"
+           clip-path="url(#clip59821fx)"
+           id="g187">
+          <path
+             data-index="29"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path186" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="30"
+           clip-path="url(#clip59821fx)"
+           id="g188">
+          <path
+             data-index="30"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path187" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="31"
+           clip-path="url(#clip59821fx)"
+           id="g189">
+          <path
+             data-index="31"
+             fill-rule="evenodd"
+             d="m 40.02,210 v 0 -182 0 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path188" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="32"
+           clip-path="url(#clip59821fx)"
+           id="g190">
+          <path
+             data-index="32"
+             fill-rule="evenodd"
+             d="m 63.68,210 h 7.88 V 28 h -7.88 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path189" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="33"
+           clip-path="url(#clip59821fx)"
+           id="g191">
+          <path
+             data-index="33"
+             fill-rule="evenodd"
+             d="m 207.85,210 h 7.88 V 28 h -7.88 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path190" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="34"
+           clip-path="url(#clip59821fx)"
+           id="g192">
+          <path
+             data-index="34"
+             fill-rule="evenodd"
+             d="m 299.08,210 h 19.15 V 28 h -19.15 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path191" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="35"
+           clip-path="url(#clip59821fx)"
+           id="g193">
+          <path
+             data-index="35"
+             fill-rule="evenodd"
+             d="m 463.53,210 h 1.13 V 28 h -1.13 z"
+             style="opacity:1;fill:#969696;fill-opacity:0.18;stroke:#000000;stroke-width:0px;stroke-opacity:0"
+             id="path192" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="cartesianlayer"
+       id="g269"
+       transform="matrix(1.0285236,0,0,1,-7.9404879,0)">
+      <g
+         class="subplot xy"
+         id="g267">
+        <g
+           class="layer-subplot"
+           id="g198">
+          <g
+             class="shapelayer"
+             id="g196" />
+          <g
+             class="imagelayer"
+             id="g197" />
+        </g>
+        <g
+           class="minor-gridlayer"
+           id="g202">
+          <g
+             class="x"
+             id="g199" />
+          <g
+             class="y"
+             id="g200" />
+          <g
+             class="y2"
+             id="g201" />
+        </g>
+        <g
+           class="gridlayer"
+           id="g206">
+          <g
+             class="x"
+             id="g203" />
+          <g
+             class="y"
+             id="g204" />
+          <g
+             class="y2"
+             id="g205" />
+        </g>
+        <g
+           class="zerolinelayer"
+           id="g207" />
+        <g
+           class="layer-between"
+           id="g210">
+          <g
+             class="shapelayer"
+             id="g208" />
+          <g
+             class="imagelayer"
+             id="g209" />
+        </g>
+        <path
+           class="xlines-below"
+           id="path210"
+           d="" />
+        <path
+           class="ylines-below"
+           id="path211"
+           d="" />
+        <g
+           class="overlines-below"
+           id="g213">
+          <path
+             class="xy2-x"
+             id="path212"
+             d="" />
+          <path
+             class="xy2-y"
+             id="path213"
+             d="" />
+        </g>
+        <g
+           class="xaxislayer-below"
+           id="g214" />
+        <g
+           class="yaxislayer-below"
+           id="g215" />
+        <g
+           class="overaxes-below"
+           id="g218">
+          <g
+             class="xy2-x"
+             id="g216" />
+          <g
+             class="xy2-y"
+             id="g217" />
+        </g>
+        <g
+           class="overplot"
+           id="g235">
+          <g
+             class="xy"
+             transform="translate(40,28)"
+             clip-path="url(#clip59821fxyplot)"
+             id="g226">
+            <g
+               class="scatterlayer mlayer"
+               id="g225">
+              <g
+                 class="trace scatter trace93f879"
+                 style="opacity:1;stroke-miterlimit:2"
+                 id="g224">
+                <g
+                   class="fills"
+                   id="g219" />
+                <g
+                   class="errorbars"
+                   id="g220" />
+                <g
+                   class="lines"
+                   id="g221">
+                  <path
+                     class="js-line"
+                     d="m 2.28,72.33 1.12,-0.68 1.13,9.59 1.12,28.79 1.13,-1.71 1.13,-19.2 1.12,6.17 2.26,40.1 1.12,-31.53 2.26,27.42 1.12,-31.19 1.13,56.55 1.12,-21.25 1.13,15.77 1.13,2.39 1.12,3.09 1.13,11.31 1.13,10.62 1.12,-7.88 1.13,20.91 1.12,-16.11 1.13,-1.72 1.13,1.72 1.12,-10.28 1.13,20.22 1.13,-45.58 1.12,-7.2 1.13,15.08 1.13,-17.82 1.12,-31.53 1.13,42.49 1.12,-7.54 1.13,40.79 1.13,-45.58 1.12,41.12 1.13,-51.06 1.13,3.77 1.12,-5.14 1.13,-42.16 2.25,28.1 1.13,-2.39 1.12,34.95 1.13,-5.48 1.13,-29.13 1.12,0.34 1.13,-12.34 1.13,31.19 1.12,-8.91 1.13,-19.19 1.13,39.75 1.12,11.66 1.13,4.11 1.12,-21.59 1.13,-42.84 1.13,36.33 1.12,-31.88 1.13,-7.88 1.13,7.88 1.12,-2.74 1.13,-14.39 1.13,13.02 1.12,6.17 1.13,-3.77 1.12,0.68 1.13,6.86 1.13,-25.36 1.12,-3.77 1.13,28.1 1.13,3.09 1.12,-28.11 1.13,33.59 1.13,63.74 1.12,-12.68 1.13,-3.42 1.12,21.59 1.13,-22.96 1.13,-76.43 3.38,67.86 1.12,-6.51 1.13,-3.77 1.12,-12.34 2.26,-28.1 1.12,2.74 1.13,-15.43 1.13,17.14 1.12,-17.82 1.13,28.1 1.13,-8.91 1.12,10.63 1.13,-20.22 1.12,8.22 1.13,-6.17 1.13,-1.37 1.12,-4.8 1.13,-8.22 1.13,10.96 1.12,-14.73 1.13,42.49 1.13,-18.16 1.12,-3.43 1.13,-19.87 1.12,29.47 1.13,-49.01 1.13,20.91 1.12,46.61 1.13,-31.19 1.13,-4.46 1.12,4.46 1.13,-4.11 1.13,17.13 1.12,-26.73 1.13,18.85 1.12,-1.03 1.13,4.11 1.13,8.91 1.12,2.4 1.13,-13.36 1.13,-2.4 1.12,5.48 1.13,2.4 1.13,-8.22 1.12,-17.48 1.13,-2.74 1.12,-25.02 1.13,3.43 1.13,11.99 1.12,-8.57 2.26,5.49 1.12,19.87 1.13,13.37 1.13,-12.34 1.12,-24.33 1.13,25.02 3.38,57.57 1.12,38.39 1.13,-43.19 1.13,2.06 1.12,13.37 1.13,3.77 1.12,-1.37 1.13,9.69 1.13,-2.3 1.12,14.08 2.26,20.07 1.12,-9.91 1.13,-29.32 1.13,-1.18 1.12,-35.49 1.13,-9.46 1.12,7.38 1.13,-22.2 2.25,33.35 1.13,-1.96 1.13,1.1 1.12,-2.3 1.13,10.84 1.13,-0.93 1.12,-15.66 1.13,39.56 2.25,-27.61 h 1.13 l 2.25,-28.16 1.13,-1.38 1.12,-24.7 1.13,-2.87 1.13,-32.29 1.12,10.27 1.13,9.73 1.12,-2.48 2.26,-25.55 1.12,7.1 4.51,21.88 1.13,6.54 1.12,-5.97 1.13,5.86 1.12,-11.79 1.13,5.67 1.13,-3.24 1.12,24.31 1.13,-6.77 1.13,1.9 1.12,-2.67 1.13,9.07 2.25,-37.24 1.13,18.86 1.12,-17.38 1.13,10.67 2.25,-21.24 1.13,28.91 1.13,-2.43 1.12,1.52 1.13,22.81 1.12,-16.88 1.13,0.11 1.13,-4.79 1.12,0.7 1.13,12.38 1.13,-16.22 1.12,4.89 1.13,11.37 1.13,-13.24 1.12,17.25 1.13,5.78 2.25,-5.51 1.13,2.65 1.12,12.41 1.13,-3.24 1.13,-11.92 1.12,15.75 3.38,22.17 1.13,10.78 1.12,-20.77 1.13,17.27 1.13,4.68 1.12,22.71 5.64,116.84 1.12,-38.84 2.25,-43.69 1.13,-5.91 2.25,-44.03 1.13,-18.23 1.13,-2.08 1.12,-11.88 1.13,-7.44 1.13,5.71 2.25,-29.56 1.12,-3.38 1.13,21.34 1.13,-12.51 1.12,18.88 1.13,-11.5 1.13,-2.3 1.12,-19.83 1.13,5.3 1.12,-1.24 2.26,-13.53 1.12,1.54 1.13,-9.92 1.13,28.39 2.25,19.93 1.13,-13.22 1.12,-8.55 1.13,11.2 1.12,-2.46 1.13,-17.09 1.13,-2.35 1.12,-6.81 1.13,2.89 1.13,10.97 2.25,8.49 1.13,5.17 2.25,30.19 1.12,0.98 1.13,-2.02 1.13,0.49 1.12,-16.59 1.13,14.57 1.13,-6.67 1.12,14.33 1.13,-8.69 1.13,-17.08 1.12,-13.87 1.13,4.67 1.12,-0.17 1.13,10.76 1.13,-4.51 1.12,-22.04 2.26,14.36 1.12,-10.15 1.13,-2.69 1.13,4.35 1.12,-10.69 1.13,13.71 1.12,-5.6 1.13,1.92 1.13,-11.92 1.12,6.26 2.26,29.29 1.12,-3.92 2.26,28.74 1.12,-12.78 1.13,18.79 1.12,-18.62 2.26,14.02 1.12,-14.57 3.38,33.36 1.13,-5.23 1.12,3.78 1.13,-10.66 1.13,5.59 1.12,-15.43 1.13,13.35 1.13,-12.1 1.12,-10.47 1.13,-0.91 1.13,-7.41 1.12,-24.32 3.38,-9.56 1.13,0.69 2.25,-1.74 1.13,-0.61 2.25,-37.13 1.13,17.93 1.12,-10.59 1.13,12.41 1.12,-12.23 1.13,7.43 2.25,-14.36 1.13,-11.23 1.13,3.8 1.12,13.76 1.13,22.08 1.13,-4.33 1.12,3.45 1.13,-4.33 1.12,21.86 1.13,-2.85 1.13,-13.93 1.12,21.47 1.13,-8.82 1.13,12.26 1.12,-5.16 1.13,25.39 1.13,-26.33 1.12,-4.58 1.13,12.79 1.12,-1.8 1.13,-6.71 1.13,21.36 2.25,152.93 1.13,-105.82 2.25,-66.06 1.13,-1.88 1.12,-7.65 1.13,2.58 1.12,-13.04 1.13,0.24 1.13,-12.36 1.12,-3.76 1.13,-3.35 1.13,-26.86 1.12,22.6 1.13,-12.23 1.12,-11.78 1.13,7.57 1.13,1.04 1.12,-12.76 1.13,0.85 1.13,3.29 1.12,9.65 1.13,-4.96 1.13,1.7 1.12,7.89 1.13,-7.55 1.12,15 1.13,3.95 1.13,16.98 1.12,8.9 1.13,-5.19 1.13,20.09 1.12,3.57 1.13,-5.14 1.13,22.86 1.12,-4.07 1.13,12.3 1.12,-8.75 1.13,20.17 1.13,-28.83 1.12,16.65 1.13,-7.31 1.13,-0.63 3.38,26.03 1.12,-22.63 2.25,21.82 1.13,-8.69 1.13,14.21 1.12,-23.98 1.13,19.04 1.13,-14.52 1.12,0.17 1.13,-17.88 1.13,14.66 1.12,-15.36 1.13,27.01 1.12,-17.71 1.13,21.15 1.13,-31.24 1.12,21.23 1.13,-21.25 1.13,-2.17 1.12,10.13 1.13,-5.63 1.13,-19.8"
+                     style="opacity:1;vector-effect:none;fill:none;stroke:#455a64;stroke-width:1.2px;stroke-opacity:1"
+                     id="path220" />
+                </g>
+                <g
+                   class="points"
+                   id="g222" />
+                <g
+                   class="text"
+                   id="g223" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="xy2"
+             transform="translate(40,28)"
+             clip-path="url(#clip59821fxy2plot)"
+             id="g234">
+            <g
+               class="scatterlayer mlayer"
+               id="g233">
+              <g
+                 class="trace scatter trace9a93f7"
+                 style="opacity:1;stroke-miterlimit:2"
+                 id="g232">
+                <g
+                   class="fills"
+                   id="g227" />
+                <g
+                   class="errorbars"
+                   id="g228" />
+                <g
+                   class="lines"
+                   id="g229">
+                  <path
+                     class="js-line"
+                     d="m 2.28,67.95 2.25,9.33 1.12,7.47 3.38,14.46 1.13,-7 1.13,-3.37 1.12,-11.66 1.13,8.55 1.13,-12.75 1.12,1.71 1.13,-6.27 1.12,16.54 1.13,4.14 2.25,13.01 1.13,19.44 2.25,11.61 1.13,-3 2.25,-3.48 1.13,8.61 2.25,10.88 1.13,-11.3 2.25,-21.71 1.13,-5.91 1.12,2.95 1.13,-3.99 1.12,3.84 1.13,0.05 3.38,-1.77 1.13,-6.06 1.12,-9.75 1.13,-1.03 1.13,3.73 1.12,0.47 1.13,1.97 1.12,-5.14 1.13,-1.08 1.13,-9.8 2.25,-11.3 1.13,14.1 1.12,-0.42 1.13,-1.34 1.13,-12.08 1.12,-0.31 1.13,6.53 1.12,-3.32 1.13,1.5 1.13,-5.54 1.12,-4.62 1.13,0.31 1.13,3.89 1.12,-6.58 1.13,-3.78 1.13,-8.04 1.12,7.62 1.13,-1.19 1.12,2.28 1.13,-2.07 1.13,8.55 1.12,-6.38 1.13,2.65 1.13,-6.38 2.25,16.33 1.13,8.81 1.12,10.58 1.13,-1.14 1.12,3.47 1.13,-14.36 1.13,-0.26 1.12,-3.01 3.38,18.82 1.13,-14.36 1.12,-5.13 1.13,-8.97 1.13,4.3 1.12,-1.29 1.13,-4.15 1.13,7.67 1.12,4.15 1.13,-0.78 1.13,-5.23 1.12,0.26 1.13,2.23 1.12,-1.35 2.26,-10.11 1.12,2.33 1.13,2.54 1.13,-0.05 1.12,14.88 1.13,-11.41 1.13,-2.59 1.12,-16.95 2.25,12.86 1.13,5.28 1.13,9.08 1.12,-0.99 2.26,-14.57 1.12,7.73 2.26,4.97 1.12,-3.78 1.13,3.27 1.12,-9.08 1.13,5.14 1.13,-7.21 1.12,13.38 1.13,-13.27 1.13,10.31 1.12,-8.45 1.13,1.4 1.13,3.58 1.12,3.42 1.13,-3.27 2.25,-12.64 1.13,8.81 1.12,9.17 1.13,-8.81 1.13,-2.64 1.12,-5.81 1.13,27.47 1.13,5.76 1.12,11.4 1.13,-8.91 1.12,8.96 1.13,-10.26 1.13,-2.02 1.12,0.72 1.13,5.91 1.13,10.37 2.25,21.15 1.12,4.15 1.13,-8.97 1.13,5.44 3.38,25.71 1.12,-5.28 3.38,-26.8 1.13,-1.4 2.25,-10.32 1.13,-0.36 1.12,0.72 1.13,7.21 1.13,-11.4 1.12,0.31 1.13,3.05 1.13,0.63 3.37,18.81 1.13,-8.14 1.13,-10.73 1.12,-2.48 1.13,2.64 1.13,-5.34 2.25,-13.94 1.13,-0.68 1.12,0.78 1.13,-0.67 3.38,-27.53 1.12,11.46 2.26,21.1 1.12,-2.65 1.13,-15.08 1.13,0.62 1.12,1.19 1.13,10.68 1.12,-9.33 1.13,0.15 1.13,-11.14 1.12,4.25 1.13,-6.79 1.13,0.16 1.12,-1.35 1.13,10.11 1.12,13.68 1.13,-8.14 1.13,-5.29 1.12,-8.86 1.13,2.49 1.13,-7.78 1.12,4.98 1.13,14 1.13,11.81 1.12,-1.29 2.25,-9.59 1.13,8.81 2.25,-5.13 1.13,-10.37 1.13,7.16 1.12,-2.23 1.13,8.5 1.13,-3.63 3.37,21.41 1.13,-0.37 2.25,-12.59 1.13,-0.99 1.13,3.68 1.12,9.7 3.38,26.64 1.13,4.56 1.12,-1.14 1.13,4.82 7.89,88.95 1.12,-5.85 3.38,-55.83 1.13,-9.02 3.38,-29.5 1.12,0.68 1.13,-8.71 1.13,4.72 3.37,-67.39 1.13,15.91 2.25,44.48 1.13,-3.16 2.25,-25.51 1.13,-8.55 1.12,14.36 1.13,-4.2 1.13,-7.36 1.12,-16.74 1.13,5.96 1.13,-0.42 1.12,14 1.13,-1.61 1.13,0.47 1.12,-8.04 1.13,-0.67 1.12,1.14 2.26,-13.68 1.12,-1.2 2.26,22.24 1.12,7.83 2.26,-6.79 1.12,-5.7 1.13,-0.78 1.12,0.88 2.26,-4.61 1.12,-6.54 1.13,5.24 1.13,0.16 1.12,3.68 1.13,-1.92 1.13,3.32 1.12,-1.51 1.13,-0.31 1.12,-5.08 1.13,-1.55 1.13,6.74 1.12,1.86 1.13,5.91 2.25,-18.09 1.13,-2.23 1.13,-2.9 1.12,3.52 3.38,2.59 1.13,-5.33 3.38,4.56 1.12,9.53 3.38,-10.93 1.13,-0.88 1.12,10.16 1.13,1.08 1.13,-1.29 1.12,-4.41 1.13,-7.15 1.13,10.68 2.25,1.5 1.12,-3.99 1.13,8.81 1.13,0.21 2.25,-14.36 1.13,-2.38 1.12,13.21 1.13,1.56 1.13,3.89 1.12,-6.12 1.13,-4.82 1.12,4.87 1.13,1.51 1.13,-0.21 1.12,-3.68 1.13,0.67 3.38,11.66 1.13,-4.87 1.12,-2.8 1.13,0.05 2.25,-12.33 h 1.13 l 1.12,3 1.13,0.68 3.38,15.29 1.13,-5.65 1.12,7.98 1.13,-4.92 1.12,-4.87 1.13,4.76 3.38,-6.63 1.13,1.19 1.12,11.3 1.13,-9.48 3.38,0.2 1.12,3.99 2.26,-10.83 1.12,79.67 1.13,1074.57 1.13,-122.07 1.12,-312.37 1.13,-1143.61 1.13,56.24 2.25,232.28 1.12,65.62 1.13,66.82 1.13,14.25 1.12,-13.42 1.13,-55.67 3.38,10.78 1.12,-32.14 1.13,-0.73 1.13,15.45 1.12,4.1 1.13,-8.61 1.13,-4.46 1.12,31.57 1.13,-11.97 1.13,3.73 1.12,-1.09 1.13,29.86 1.12,3.84 1.13,-21.67 1.13,2.23 1.12,8.55 1.13,17.05 1.13,-0.77 1.12,6.16 1.13,-6.27 2.25,-2.02 1.13,10.58 1.12,-0.83 1.13,-4.88 2.25,9.7 1.13,-0.31 2.25,2.43 1.13,-2.28 2.25,-7.51 1.13,-1.04 1.12,7.67 1.13,0.93 1.13,6.79 1.12,0.99 1.13,3.06 1.13,-2.28 1.12,2.74 1.13,-2.74 2.25,-8.97 1.13,4.92 1.12,6.33 1.13,-1.14 1.13,-1.4 1.12,8.86 1.13,3.53 1.13,7.67 1.12,-5.44"
+                     style="opacity:1;vector-effect:none;fill:none;stroke:#0277bd;stroke-width:1.2px;stroke-opacity:1"
+                     id="path228" />
+                </g>
+                <g
+                   class="points"
+                   id="g230" />
+                <g
+                   class="text"
+                   id="g231" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           class="zerolinelayer-above"
+           id="g236" />
+        <path
+           class="xlines-above crisp"
+           d="M 39,210.5 H 565 M 39,27.5 h 526"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+           id="path236" />
+        <path
+           class="ylines-above crisp"
+           d="M 39.5,28 V 210 M 564.5,28 V 210"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+           id="path237" />
+        <g
+           class="overlines-above"
+           id="g239">
+          <path
+             class="xy2-x crisp"
+             d="M 0,0"
+             style="fill:none"
+             id="path238" />
+          <path
+             class="xy2-y crisp"
+             d="M 564.5,28 V 210 M 39.5,28 v 182"
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path239" />
+        </g>
+        <g
+           class="xaxislayer-above"
+           id="g252">
+          <path
+             class="xtick ticks crisp"
+             d="m 0,210 v -5"
+             transform="translate(123.37)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path240" />
+          <path
+             class="xtick ticks crisp"
+             d="m 0,210 v -5"
+             transform="translate(206.72)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path241" />
+          <path
+             class="xtick ticks crisp"
+             d="m 0,210 v -5"
+             transform="translate(290.07)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path242" />
+          <path
+             class="xtick ticks crisp"
+             d="m 0,210 v -5"
+             transform="translate(372.3)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path243" />
+          <path
+             class="xtick ticks crisp"
+             d="m 0,210 v -5"
+             transform="translate(455.65)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path244" />
+          <path
+             class="xtick ticks crisp"
+             d="m 0,210 v -5"
+             transform="translate(539)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path245" />
+          <g
+             class="xtick"
+             id="g245">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(40.02)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text245">30 Nov 1988</text>
+          </g>
+          <g
+             class="xtick"
+             id="g246">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(123.37)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text246">31 Jan 1995</text>
+          </g>
+          <g
+             class="xtick"
+             id="g247">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(206.72)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text247">31 Mar 2001</text>
+          </g>
+          <g
+             class="xtick"
+             id="g248">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(290.07)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text248">31 May 2007</text>
+          </g>
+          <g
+             class="xtick"
+             id="g249">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(372.3)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text249">30 Jun 2013</text>
+          </g>
+          <g
+             class="xtick"
+             id="g250">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(455.65)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text250">31 Aug 2019</text>
+          </g>
+          <g
+             class="xtick"
+             id="g251">
+            <text
+               text-anchor="middle"
+               x="0"
+               y="220.60001"
+               transform="translate(539)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text251">31 Oct 2025</text>
+          </g>
+        </g>
+        <g
+           class="yaxislayer-above"
+           id="g258">
+          <path
+             class="ytick ticks crisp"
+             d="m 40,0 h 5"
+             transform="translate(0,164.5)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path252" />
+          <path
+             class="ytick ticks crisp"
+             d="m 40,0 h 5"
+             transform="translate(0,119)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path253" />
+          <path
+             class="ytick ticks crisp"
+             d="m 40,0 h 5"
+             transform="translate(0,73.5)"
+             style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+             id="path108" />
+          <g
+             class="ytick"
+             id="g253">
+            <text
+               text-anchor="end"
+               x="37.400002"
+               y="2.8"
+               transform="translate(0,210)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text253">−2</text>
+          </g>
+          <g
+             class="ytick"
+             id="g254">
+            <text
+               text-anchor="end"
+               x="37.400002"
+               y="2.8"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,164.5)"
+               id="text254">−1</text>
+          </g>
+          <g
+             class="ytick"
+             id="g255">
+            <text
+               text-anchor="end"
+               x="37.400002"
+               y="2.8"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,119)"
+               id="text255">0</text>
+          </g>
+          <g
+             class="ytick"
+             id="g256">
+            <text
+               text-anchor="end"
+               x="37.400002"
+               y="2.8"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,73.5)"
+               id="text111">1</text>
+          </g>
+          <g
+             class="ytick"
+             id="g257">
+            <text
+               text-anchor="end"
+               x="37.400002"
+               y="2.8"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               transform="translate(0,28)"
+               id="text112">2</text>
+          </g>
+        </g>
+        <g
+           class="overaxes-above"
+           id="g266">
+          <g
+             class="xy2-x"
+             id="g259" />
+          <g
+             class="xy2-y"
+             id="g265">
+            <path
+               class="y2tick ticks crisp"
+               d="m 564,0 h -5"
+               transform="translate(0,164.5)"
+               style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+               id="path114" />
+            <path
+               class="y2tick ticks crisp"
+               d="m 564,0 h -5"
+               transform="translate(0,119)"
+               style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+               id="path115" />
+            <path
+               class="y2tick ticks crisp"
+               d="m 564,0 h -5"
+               transform="translate(0,73.5)"
+               style="stroke:#000000;stroke-width:1px;stroke-opacity:1"
+               id="path116" />
+            <g
+               class="y2tick"
+               id="g260">
+              <text
+                 text-anchor="start"
+                 x="566.59998"
+                 y="2.8"
+                 transform="translate(0,210)"
+                 style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text259">−1</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g261">
+              <text
+                 text-anchor="start"
+                 x="566.59998"
+                 y="2.8"
+                 style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+                 transform="translate(0,164.5)"
+                 id="text117">−0.5</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g262">
+              <text
+                 text-anchor="start"
+                 x="566.59998"
+                 y="2.8"
+                 style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+                 transform="translate(0,119)"
+                 id="text118">0</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g263">
+              <text
+                 text-anchor="start"
+                 x="566.59998"
+                 y="2.8"
+                 style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+                 transform="translate(0,73.5)"
+                 id="text119">0.5</text>
+            </g>
+            <g
+               class="y2tick"
+               id="g264">
+              <text
+                 text-anchor="start"
+                 x="566.59998"
+                 y="2.8"
+                 style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+                 transform="translate(0,28)"
+                 id="text120">1</text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="subplot xy2"
+         id="g268" />
+    </g>
+    <g
+       class="polarlayer"
+       id="g270" />
+    <g
+       class="smithlayer"
+       id="g271" />
+    <g
+       class="ternarylayer"
+       id="g272" />
+    <g
+       class="geolayer"
+       id="g273" />
+    <g
+       class="funnelarealayer"
+       id="g274" />
+    <g
+       class="pielayer"
+       id="g275" />
+    <g
+       class="iciclelayer"
+       id="g276" />
+    <g
+       class="treemaplayer"
+       id="g277" />
+    <g
+       class="sunburstlayer"
+       id="g278" />
+    <g
+       class="glimages"
+       id="g279" />
+    <defs
+       id="topdefs-59821f">
+      <g
+         class="clips"
+         id="g280" />
+    </defs>
+    <g
+       class="layer-above"
+       id="g286"
+       transform="matrix(1.0285236,0,0,1,-7.9404879,0)">
+      <g
+         class="imagelayer"
+         id="g281" />
+      <g
+         class="shapelayer"
+         id="g285">
+        <g
+           class="shape-group"
+           data-index="0"
+           clip-path="url(#clip59821fy)"
+           id="g282">
+          <path
+             data-index="0"
+             fill-rule="evenodd"
+             d="M 40,119 H 564"
+             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.6px;stroke-opacity:1"
+             id="path137" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="36"
+           id="g283">
+          <path
+             data-index="36"
+             fill-rule="evenodd"
+             d="m 71.44,32.55 h 31.44"
+             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#455a64;stroke-width:2px;stroke-opacity:1"
+             id="path138" />
+        </g>
+        <g
+           class="shape-group"
+           data-index="37"
+           id="g284">
+          <path
+             data-index="37"
+             fill-rule="evenodd"
+             d="m 71.44,38.92 h 31.44"
+             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#0277bd;stroke-width:2px;stroke-opacity:1"
+             id="path139" />
+        </g>
+      </g>
+    </g>
+    <g
+       class="infolayer"
+       id="g309"
+       transform="matrix(1.0285236,0,0,1,-7.9404879,0)">
+      <g
+         class="g-gtitle"
+         id="g287" />
+      <g
+         class="g-xtitle"
+         id="g288" />
+      <g
+         class="g-ytitle"
+         id="g289" />
+      <g
+         class="g-y2title"
+         id="g290" />
+      <g
+         class="annotation"
+         data-index="0"
+         style="opacity:1"
+         id="g293">
+        <g
+           class="annotation-text-g"
+           id="g292">
+          <g
+             class="cursor-pointer"
+             transform="translate(106,24)"
+             id="g291">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="138"
+               height="17"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect146" />
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="1.2974238"
+               y="10.51288"
+               style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text147"><tspan
+                 sodipodi:role="line"
+                 x="1.2974238"
+                 y="10.51288"
+                 id="tspan172"><tspan
+                   class="line"
+                   x="1.2974238"
+                   y="10.51288"
+                   id="tspan147">REGIONAL MFG EMPLOYMENT TRACKER* (LS)</tspan></tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="1"
+         style="opacity:1"
+         id="g296">
+        <g
+           class="annotation-text-g"
+           id="g295">
+          <g
+             class="cursor-pointer"
+             transform="translate(106,34)"
+             id="g294">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="50"
+               height="9"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect149" />
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="2"
+               y="7"
+               style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text149">PAYROLLS* (RS)</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="2"
+         style="opacity:1"
+         id="g299">
+        <g
+           class="annotation-text-g"
+           id="g298">
+          <g
+             class="cursor-pointer"
+             transform="translate(42,15)"
+             id="g297">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="31"
+               height="12"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect152" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="16.234375"
+               y="9"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text152">Std Dev</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="3"
+         style="opacity:1"
+         id="g302">
+        <g
+           class="annotation-text-g"
+           id="g301">
+          <g
+             class="cursor-pointer"
+             transform="translate(530,15)"
+             id="g300">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="31"
+               height="12"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect155" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="16.234375"
+               y="9"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text155">Std Dev</text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="4"
+         style="opacity:1"
+         id="g305">
+        <g
+           class="annotation-text-g"
+           transform="translate(-3.5128806,-4.2154567)"
+           id="g304">
+          <g
+             class="cursor-pointer"
+             transform="translate(226,41)"
+             id="g303">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="201"
+               height="22"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect158" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="101.21094"
+               y="9"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text159"><tspan
+                 class="line"
+                 dy="0em"
+                 x="101.21094"
+                 y="9"
+                 id="tspan158">3-MONTH ANNUALIZED PULSE LIFTS ON 119K BEAT</tspan><tspan
+                 class="line"
+                 dy="1.3em"
+                 x="101.21094"
+                 y="9"
+                 id="tspan159">BUT TRAILS TRACKER—SLOWER TREND INTO Q4.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="5"
+         style="opacity:1"
+         id="g308">
+        <g
+           class="annotation-text-g"
+           id="g307">
+          <g
+             class="cursor-pointer"
+             transform="translate(40,219)"
+             id="g306">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="424"
+               height="43"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect161" />
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="2"
+               y="9"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text164"><tspan
+                 class="line"
+                 dy="0em"
+                 x="2"
+                 y="9"
+                 id="tspan161">* STANDARDIZED AVERAGE OF THE FEDERAL RESERVE EMPLOYMENT INDEXES FROM NEW YORK,KANSAS,</tspan><tspan
+                 class="line"
+                 dy="1.3em"
+                 x="2"
+                 y="9"
+                 id="tspan162">DALLAS, AND PHILADELPHIA.</tspan><tspan
+                 class="line"
+                 dy="2.5999999em"
+                 x="2"
+                 y="9"
+                 id="tspan163">*3-MONTH % CHANGE FOR 3-MONTH MOVING AVERAGE, ANNUALIZED (SHOWN STANDARDIZED).</tspan><tspan
+                 class="line"
+                 dy="3.9000001em"
+                 x="2"
+                 y="9"
+                 id="tspan164">NOTE: SHADED AREAS REPRESENT US NBER-DESIGNATED RECESSIONS.</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+</svg>
