@@ -585,7 +585,19 @@
   "fullContent": "**Gold holds the 4h-MA200 and trades ~4,122 after last week’s relief dip; the uptrend favors buying orderly pullbacks while 4,245.02 remains the key obstacle to confirm momentum toward prior highs.** The sequence remains intact: **4,378.59 → 3,886.50** (the [61.8% washout](/i/17)), then **3,998.09 / 4,032.26** as clean reloads during the coil we mapped in [reclaims 4,000](/i/24). As shutdown risk faded we flagged a [relief dip](/i/43); price tagged the 4h-MA200 and rebounded, keeping structure bullish. With December cut odds elevated and the USD only tactically firm, dips should stay buyable even as AI-driven equity swings redirect some flow. Levels: **buy 4,050–4,080**, take **partials 4,132.83 → 4,245.02**, keep **risk defined <3,944** with **3,915–3,940** as the deeper reload if volatility spikes. A **decisive break and acceptance above 4,245.02** would validate momentum and reopen the path toward prior highs (we’ll upgrade on confirmation).",
   "chartPath": "/charts/Commodities/gold-4h-ma200-bounce_2025-11-24.svg",
   "chartHeight": "350"
+},
+{
+  "id": 54,
+  "date": "24-11-2025",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "AI Mania: Leadership Tires as Breadth Thins",
+  "summary": "**AI megacaps are fading versus equal-weight and Dow, and deviation-from-MA50 shows leadership fatigue even as the AI narrative stays dominant.**",
+  "fullContent": "**AI megacaps are fading versus equal-weight and Dow, and deviation-from-MA50 shows leadership fatigue even as the AI narrative stays dominant.** Our breadth panel shows SPX and NASDAQ rolling over while **equal-weight S&P** and **Dow** lag, with **NVDA** slipping back toward its MA50. This is **mania**, not 1999: forward multiples sit ~17% below the 2000 peak with lower yields, but enthusiasm is extreme. Path analysis matters more than labels. **Inflate** if firms convert hype into cash flow, product adoption, and margin gains; **deflate** if redundancy rises and ROI disappoints; **burst** if earnings miss triggers broad multiple compression. The setup rhymes with our [seasonality wrap](/i/51) and the [Dow channel-top](/i/29): leadership is narrow and sensitive to proofs, not promises. **We are observing, not positioned—watch equal-weight vs SPX, NVDA vs MA50, and earnings breadth to judge whether the AI trade inflates or deflates.**",
+  "chartPath": "/charts/Equities/ai-breadth-ma50-deviation_2025-11-24.svg",
+  "chartHeight": "350"
 }
+
 
 
 
