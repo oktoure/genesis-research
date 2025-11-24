@@ -591,12 +591,13 @@
   "date": "24-11-2025",
   "category": "Equities",
   "categoryColor": "bg-purple-600",
-  "title": "AI Mania — Leadership Tires as Breadth Thins",
-  "summary": "**AI leadership is tiring as breadth thins; Google’s TPU/Gemini 3 challenges GPU-only economics while hyperscaler CAPEX raises writedown risk.**",
-  "fullContent": "**AI leadership is tiring as breadth thins; Google’s TPU/Gemini 3 challenges GPU-only economics while hyperscaler CAPEX raises writedown risk.** Our breadth panel shows SPX/NASDAQ fading versus **equal-weight** and **Dow**, with **NVDA** slipping toward its MA50—echoing the narrow leadership flagged in our [market wrap](/i/51) and the late-November softness in [seasonality](/i/30). Google’s TPU stack plus Gemini 3 tightens cost/performance math and tests the assumption that ever-more GPUs automatically compound value. Hyperscalers remain the ecosystem backstop (leases, lab funding), but heavy GPU CAPEX risks under-utilization and impairments if monetization lags. It’s a **mania**, not 1999: forward multiples are ~17% below the 2000 peak with lower yields, yet expectations are extreme. Delivery decides the path—**inflate** on cash-flow proofs and adoption, **deflate** on redundancy and weak ROI, or **burst** on earnings misses and broad multiple compression. **No active positioning: we observe breadth, GOOG/NVDA CAPEX signals, and earnings follow-through into December.**",
+  "title": "AI Mania — Bubble Pathways and a Breadth Warning",
+  "summary": "**AI leadership is manic, not 1999: forward P/E ~17% below 2000 with lower yields, yet breadth and MA50 deviations flash risk for overweight equities.**",
+  "fullContent": "**AI leadership is manic, not 1999: forward P/E ~17% below 2000 with lower yields, yet breadth and MA50 deviations flash risk for overweight equities.** Our panel shows SPX/NASDAQ rolling while **equal-weight S&P** and **Dow** lag, and **NVDA** fading toward its MA50—technical stress that argues overweights may warrant trimming. Big Techs are the AI backstop (data-center leases, lab funding): **Mag7 earnings have outpaced price** over five years and they remain net-cash—though that cushion is narrowing. Google’s **TPU/Gemini 3** tightens cost/performance economics, testing GPU-only roadmaps and exposing hyperscaler CAPEX to under-utilization and potential writedowns. This is a bubble; the question is path: **inflate** on proven adoption and cash flow; **deflate** on redundancy and weak ROI; **burst** on earnings misses, regulatory hits, or asset impairments. Context from our [seasonality wrap](/i/51) and [Dow channel-top](/i/29) adds sensitivity to timing. **Stance: observe and de-concentrate risk; track equal-weight vs SPX and GOOG/NVDA CAPEX/utilization to judge the next leg.**",
   "chartPath": "/charts/Equities/ai-breadth-ma50-deviation_2025-11-24.svg",
   "chartHeight": "350"
 }
+
 
 
 
