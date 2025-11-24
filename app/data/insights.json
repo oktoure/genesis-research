@@ -563,7 +563,19 @@
   "fullContent": "**The S&P 500 is pulling back in line with seasonality as gold leads and Bitcoin lags; with USD and bonds mixed into December FOMC, a year-end rebound window remains open but unconfirmed.** Our [seasonality](/i/30) map anticipated a late-November dip before a potential December bounce; 2025 is tracking that envelope. YTD, gold leadership aligns with easing long-run [inflation expectations](/i/49), while crypto underperforms despite broader risk relief. Policy is the swing factor: the stance in [Minutes Measured, Williams Dovish](/i/47) keeps December **live, not locked**, leaving the bond–USD mix inconsistent day to day. We keep the **buy-the-dip** framework for gold ideas and **observe** equities for confirmation—breadth and earnings follow-through will decide if a Santa window activates. **No active positioning: we track seasonality versus incoming data into the December FOMC.**",
   "chartPath": "/charts/Cross-Asset/market-wrap-seasonality-vs-ytd_2025-11-22.svg",
   "chartHeight": "350"
+},
+{
+  "id": 51,
+  "date": "24-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Dallas: Headline Softer, Output Jumps — ISM Prices Track",
+  "summary": "**Dallas Manufacturing fell to −10.4 in November (from −5, vs −1), while production jumped to 20.5 and orders turned positive—headline contraction alongside firmer activity and slightly hotter price pressure.**",
+  "fullContent": "**Dallas Manufacturing fell to −10.4 in November (from −5, vs −1), while production jumped to 20.5 and orders turned positive—headline contraction alongside firmer activity and slightly hotter price pressure.** The mix extends our October read in [Dallas](/i/20): demand and sentiment remain soft, but output, capacity (19.4), shipments (15.1), and hours (9.9) improved, with employment roughly flat (1.2). Prices edged up—raws 35.3, finished 10.8—broadly consistent with national **ISM Manufacturing Prices** stabilization we’ve tracked in [manufacturing prices](/i/26). Our two-panel shows Dallas activity co-moving with ISM and Dallas prices aligning with ISM prices, arguing for normalization rather than a reacceleration, similar to regional signals in [Kansas](/i/48). Policy read: goods-side disinflation is slow but intact; firmer output with soft sentiment keeps the case for **measured** easing, data-dependent into December. **Translation: output is stabilizing while price pressures cool only gradually—watch orders and prices for the ISM slope.**",
+  "chartPath": "/charts/Economics/dallas-vs-ism-activity-and-prices_2025-11-24.svg",
+  "chartHeight": "700"
 }
+
 
 
 
