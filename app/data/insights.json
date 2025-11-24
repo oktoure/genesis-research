@@ -591,13 +591,12 @@
   "date": "24-11-2025",
   "category": "Equities",
   "categoryColor": "bg-purple-600",
-  "title": "AI Mania: Leadership Tires as Breadth Thins",
-  "summary": "**AI megacaps are fading versus equal-weight and Dow, and deviation-from-MA50 shows leadership fatigue even as the AI narrative stays dominant.**",
-  "fullContent": "**AI megacaps are fading versus equal-weight and Dow, and deviation-from-MA50 shows leadership fatigue even as the AI narrative stays dominant.** Our breadth panel shows SPX and NASDAQ rolling over while **equal-weight S&P** and **Dow** lag, with **NVDA** slipping back toward its MA50. This is **mania**, not 1999: forward multiples sit ~17% below the 2000 peak with lower yields, but enthusiasm is extreme. Path analysis matters more than labels. **Inflate** if firms convert hype into cash flow, product adoption, and margin gains; **deflate** if redundancy rises and ROI disappoints; **burst** if earnings miss triggers broad multiple compression. The setup rhymes with our [seasonality wrap](/i/51) and the [Dow channel-top](/i/29): leadership is narrow and sensitive to proofs, not promises. **We are observing, not positioned—watch equal-weight vs SPX, NVDA vs MA50, and earnings breadth to judge whether the AI trade inflates or deflates.**",
-  "chartPath": "/charts/Equities/ai-breadth-ma50-deviation_2025-11-24.svg",
+  "title": "AI Leadership Tires — Google’s TPU Moment Tests Nvidia",
+  "summary": "**AI leadership is tiring as Google’s TPU/Gemini 3 strengthens its edge; Mag7 earnings still outrun prices, but concentrated gains and CAPEX risk at hyperscalers raise bubble-versus-build questions.**",
+  "fullContent": "**AI leadership is tiring as Google’s TPU/Gemini 3 strengthens its edge; Mag7 earnings still outrun prices, but concentrated gains and CAPEX risk at hyperscalers raise bubble-versus-build questions.** Breadth keeps thinning (equal-weight < SPX) as our [market wrap](/i/51) flagged, leaving rallies more dependent on a narrow AI complex. Google’s TPU stack plus Gemini 3 tightens cost/performance economics, challenging GPU-only roadmaps and the notion that adding compute always compounds value. Hyperscalers backstop the ecosystem via leases and lab funding, yet heavy GPU CAPEX invites under-utilization and writedown risk if monetization lags. Over five years, Mag7 earnings have outpaced price, but balance sheets are drifting from net cash toward neutral as buybacks and AI spend rise. Delivery decides the path: productivity gains justify further inflation of the story; redundancy or stalled adoption deflates it; large impairments or regulation could puncture it. **No active positioning—watch breadth, hyperscaler utilization, and GOOG/NVDA CAPEX signals as [seasonality](/i/30) runs into December.**",
+  "chartPath": "/charts/Equities/ai-breadth-ma50-wrap_2025-11-24.svg",
   "chartHeight": "350"
 }
-
 
 
 
