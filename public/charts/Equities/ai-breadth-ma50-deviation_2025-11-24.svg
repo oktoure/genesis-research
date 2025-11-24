@@ -30,7 +30,7 @@
      inkscape:window-x="244"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g172" />
+     inkscape:current-layer="svg172" />
   <rect
      x="0"
      y="0"
@@ -1235,6 +1235,14 @@
              id="text168">SOURCE: GENESIS RESEARCH.</text>
         </g>
       </g>
+    </g>
+    <g
+       id="svg171-6"
+       transform="matrix(1.2846388,0.34376673,-0.34911444,1.464014,-137.5942,-297.90538)">
+      <path
+         d="m 571.47893,172.12702 -21.06363,-25.80226 0.51604,-0.42128 20.64236,25.28623 m 1.0321,-0.84254 2.50134,5.69757 -5.08157,-3.59121"
+         id="path2-3"
+         style="stroke-width:0.666164" />
     </g>
   </g>
 </svg>
