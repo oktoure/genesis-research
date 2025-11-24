@@ -574,7 +574,19 @@
   "fullContent": "**Dallas manufacturing fell to −10.4 (from −5, vs −1), while production jumped to 20.5 and prices paid cooled, highlighting a split between weak sentiment and firmer output.** Orders turned positive (4.8), capacity utilization surged (19.4), shipments improved (15.1), and employment was flat (1.2). Compared with the rebounds in [Empire State](/i/44) and [Kansas](/i/48), Dallas keeps the regional picture mixed: output is normalizing but breadth and outlook (−6.3) remain soft. On pricing, Dallas tracks the cooler goods-cost pulse mapped in [manufacturing prices](/i/26), reinforcing gradual disinflation rather than a re-acceleration. Net read for the national tape: ISM likely stabilizes sideways near sub-50 unless order breadth extends and price pressure rebuilds. **Normalization, not upswing—watch orders breadth and price momentum for the ISM slope.**",
   "chartPath": "/charts/Economics/dallas-vs-ism_activity-and-prices_2025-11-24.svg",
   "chartHeight": "700"
+},
+{
+  "id": 53,
+  "date": "24-11-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold Reclaims 4,100 — 4h MA200 Holds, Buy Dips",
+  "summary": "**Gold holds the 4h-MA200 and trades ~4,122 after last week’s relief dip; the uptrend favors buying orderly pullbacks while 4,245.02 remains the key obstacle to confirm momentum toward prior highs.**",
+  "fullContent": "**Gold holds the 4h-MA200 and trades ~4,122 after last week’s relief dip; the uptrend favors buying orderly pullbacks while 4,245.02 remains the key obstacle to confirm momentum toward prior highs.** The sequence remains intact: **4,378.59 → 3,886.50** (the [61.8% washout](/i/17)), then **3,998.09 / 4,032.26** as clean reloads during the coil we mapped in [reclaims 4,000](/i/24). As shutdown risk faded we flagged a [relief dip](/i/43); price tagged the 4h-MA200 and rebounded, keeping structure bullish. With December cut odds elevated and the USD only tactically firm, dips should stay buyable even as AI-driven equity swings redirect some flow. Levels: **buy 4,050–4,080**, take **partials 4,132.83 → 4,245.02**, keep **risk defined <3,944** with **3,915–3,940** as the deeper reload if volatility spikes. A **decisive break and acceptance above 4,245.02** would validate momentum and reopen the path toward prior highs (we’ll upgrade on confirmation).",
+  "chartPath": "/charts/Commodities/gold-4h-ma200-bounce_2025-11-24.svg",
+  "chartHeight": "350"
 }
+
 
 
 
