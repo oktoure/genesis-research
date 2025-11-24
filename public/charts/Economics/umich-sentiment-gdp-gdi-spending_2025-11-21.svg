@@ -745,123 +745,6 @@
              id="path93" />
         </g>
         <g
-           class="xaxislayer-above"
-           id="g106">
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(123.13,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path94" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(206.69,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path95" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(289.38,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path96" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(372.07,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path97" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(455.63,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path98" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(538.3199999999999,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path99" />
-          <g
-             class="xtick"
-             id="g99">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(40.44,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text99">01 Jan 1990</text>
-          </g>
-          <g
-             class="xtick"
-             id="g100">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(123.13,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text100">01 Dec 1995</text>
-          </g>
-          <g
-             class="xtick"
-             id="g101">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(206.69,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text101">01 Dec 2001</text>
-          </g>
-          <g
-             class="xtick"
-             id="g102">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(289.38,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text102">30 Nov 2007</text>
-          </g>
-          <g
-             class="xtick"
-             id="g103">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(372.07,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text103">01 Nov 2013</text>
-          </g>
-          <g
-             class="xtick"
-             id="g104">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(455.63,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text104">01 Nov 2019</text>
-          </g>
-          <g
-             class="xtick"
-             id="g105">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(538.3199999999999,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text105">31 Oct 2025</text>
-          </g>
-        </g>
-        <g
            class="yaxislayer-above"
            id="g113">
           <path
@@ -1328,14 +1211,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="225.87823"
-       inkscape:cy="388.87589"
+       inkscape:cx="226.22951"
+       inkscape:cy="332.6698"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="g170"
+       inkscape:current-layer="g489"
        showgrid="false" />
     <rect
        x="0"
@@ -2055,123 +1938,6 @@
              d="M564.5,28V210M39.5,28V210"
              style="fill: none; stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 1;"
              id="path255" />
-        </g>
-        <g
-           class="xaxislayer-above"
-           id="g268">
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(123.04,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path256" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(206.06,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path257" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(289.95,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path258" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(372.97,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path259" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(455.99,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path260" />
-          <path
-             class="xtick ticks crisp"
-             d="M0,210v-5"
-             transform="translate(539.01,0)"
-             style="stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1px;"
-             id="path261" />
-          <g
-             class="xtick"
-             id="g261">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(40.02,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text261">01 Jan 1990</text>
-          </g>
-          <g
-             class="xtick"
-             id="g262">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(123.04,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text262">31 Dec 1995</text>
-          </g>
-          <g
-             class="xtick"
-             id="g263">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(206.06,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text263">30 Nov 2001</text>
-          </g>
-          <g
-             class="xtick"
-             id="g264">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(289.95,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text264">30 Nov 2007</text>
-          </g>
-          <g
-             class="xtick"
-             id="g265">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(372.97,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text265">31 Oct 2013</text>
-          </g>
-          <g
-             class="xtick"
-             id="g266">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(455.99,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text266">01 Oct 2019</text>
-          </g>
-          <g
-             class="xtick"
-             id="g267">
-            <text
-               text-anchor="middle"
-               x="0"
-               y="220.6"
-               transform="translate(539.01,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text267">31 Oct 2025</text>
-          </g>
         </g>
         <g
            class="yaxislayer-above"
@@ -3490,10 +3256,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(40.02,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text418">31 Jan 1990</text>
+               y="220.60001"
+               transform="translate(40.02)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text418"> Jan 1990</text>
           </g>
           <g
              class="xtick"
@@ -3501,10 +3267,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(123.77,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text419">31 Jan 1996</text>
+               y="220.60001"
+               transform="translate(123.77)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text419"> Jan 1996</text>
           </g>
           <g
              class="xtick"
@@ -3512,10 +3278,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(206.35,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text420">31 Dec 2001</text>
+               y="220.60001"
+               transform="translate(206.35)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text420">Dec 2001</text>
           </g>
           <g
              class="xtick"
@@ -3523,10 +3289,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(288.93,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text421">30 Nov 2007</text>
+               y="220.60001"
+               transform="translate(288.93)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text421">Nov 2007</text>
           </g>
           <g
              class="xtick"
@@ -3534,10 +3300,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(372.67,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text422">30 Nov 2013</text>
+               y="220.60001"
+               transform="translate(372.67)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text422"> Nov 2013</text>
           </g>
           <g
              class="xtick"
@@ -3545,10 +3311,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(456.41,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text423">30 Nov 2019</text>
+               y="220.60001"
+               transform="translate(456.41)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text423"> Nov 2019</text>
           </g>
           <g
              class="xtick"
@@ -3556,10 +3322,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(538.99,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text424">31 Oct 2025</text>
+               y="220.60001"
+               transform="translate(538.99)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text424"> Oct 2025</text>
           </g>
         </g>
         <g
@@ -4030,7 +3796,7 @@
          data-index="5"
          style="opacity:1"
          id="g488"
-         transform="translate(-4.9180328,-8.4309133)">
+         transform="translate(-3.5128805,-13.348946)">
         <g
            class="annotation-text-g"
            id="g487">

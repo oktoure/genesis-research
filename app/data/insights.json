@@ -569,10 +569,10 @@
   "date": "24-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Dallas: Headline Softer, Output Jumps — ISM Prices Track",
-  "summary": "**Dallas Manufacturing fell to −10.4 in November (from −5, vs −1), while production jumped to 20.5 and orders turned positive—headline contraction alongside firmer activity and slightly hotter price pressure.**",
-  "fullContent": "**Dallas Manufacturing fell to −10.4 in November (from −5, vs −1), while production jumped to 20.5 and orders turned positive—headline contraction alongside firmer activity and slightly hotter price pressure.** The mix extends our October read in [Dallas](/i/20): demand and sentiment remain soft, but output, capacity (19.4), shipments (15.1), and hours (9.9) improved, with employment roughly flat (1.2). Prices edged up—raws 35.3, finished 10.8—broadly consistent with national **ISM Manufacturing Prices** stabilization we’ve tracked in [manufacturing prices](/i/26). Our two-panel shows Dallas activity co-moving with ISM and Dallas prices aligning with ISM prices, arguing for normalization rather than a reacceleration, similar to regional signals in [Kansas](/i/48). Policy read: goods-side disinflation is slow but intact; firmer output with soft sentiment keeps the case for **measured** easing, data-dependent into December. **Translation: output is stabilizing while price pressures cool only gradually—watch orders and prices for the ISM slope.**",
-  "chartPath": "/charts/Economics/dallas-vs-ism-activity-and-prices_2025-11-24.svg",
+  "title": "Dallas Diverges — Headline Contracts, Output Jumps, Prices Cool",
+  "summary": "**Dallas manufacturing fell to −10.4 (from −5, vs −1), while production jumped to 20.5 and prices paid cooled, highlighting a split between weak sentiment and firmer output.**",
+  "fullContent": "**Dallas manufacturing fell to −10.4 (from −5, vs −1), while production jumped to 20.5 and prices paid cooled, highlighting a split between weak sentiment and firmer output.** Orders turned positive (4.8), capacity utilization surged (19.4), shipments improved (15.1), and employment was flat (1.2). Compared with the rebounds in [Empire State](/i/44) and [Kansas](/i/48), Dallas keeps the regional picture mixed: output is normalizing but breadth and outlook (−6.3) remain soft. On pricing, Dallas tracks the cooler goods-cost pulse mapped in [manufacturing prices](/i/26), reinforcing gradual disinflation rather than a re-acceleration. Net read for the national tape: ISM likely stabilizes sideways near sub-50 unless order breadth extends and price pressure rebuilds. **Normalization, not upswing—watch orders breadth and price momentum for the ISM slope.**",
+  "chartPath": "/charts/Economics/dallas-vs-ism_activity-and-prices_2025-11-24.svg",
   "chartHeight": "700"
 }
 
