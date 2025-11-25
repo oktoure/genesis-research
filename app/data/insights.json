@@ -596,7 +596,19 @@
   "fullContent": "**AI leadership is manic, not 1999: forward P/E ~17% below 2000 with lower yields, yet breadth and MA50 deviations flash risk for overweight equities.** Our panel shows SPX/NASDAQ rolling while **equal-weight S&P** and **Dow** lag, and **NVDA** fading toward its MA50—technical stress that argues overweights may warrant trimming. Big Techs are the AI backstop (data-center leases, lab funding): **Mag7 earnings have outpaced price** over five years and they remain net-cash—though that cushion is narrowing. Google’s **TPU/Gemini 3** tightens cost/performance economics, testing GPU-only roadmaps and exposing hyperscaler CAPEX to under-utilization and potential writedowns. This is a bubble; the question is path: **inflate** on proven adoption and cash flow; **deflate** on redundancy and weak ROI; **burst** on earnings misses, regulatory hits, or asset impairments. Context from our [seasonality wrap](/i/51) and [Dow channel-top](/i/29) adds sensitivity to timing. **Stance: observe and de-concentrate risk; track equal-weight vs SPX and GOOG/NVDA CAPEX/utilization to judge the next leg.**",
   "chartPath": "/charts/Equities/ai-breadth-ma50-deviation_2025-11-24.svg",
   "chartHeight": "350"
+},
+{
+  "id": 55,
+  "date": "24-11-2025",
+  "category": "Cross-Asset",
+  "categoryColor": "bg-slate-600",
+  "title": "December Cut Odds Surge — Gold Tailwind Reaffirmed",
+  "summary": "**December cut odds jumped to ~81% (from ~40% last week), keeping conditions easier and reaffirming gold’s buy-the-dip bias near 4,130.**",
+  "fullContent": "**December cut odds jumped to ~81% (from ~40% last week), keeping conditions easier and reaffirming gold’s buy-the-dip bias near 4,130.** Dovish signals from Williams and Waller keep December live, not locked, aligning with our read in [Minutes Measured](/i/47). The odds rebound pairs with easing long-run [inflation expectations](/i/49) and a labor mix that cools at the margins in [claims](/i/45), a combo that typically softens the dollar and supports duration-sensitive hedges like gold. We keep the map unchanged: dips into **4,050–4,080** are buyable; **4,245** is the next resistance to test; **3,944** remains the structural line. Upcoming retail sales, PPI, and claims will steer odds day-to-day, but the transmission channel runs FX/spreads first, yields later—consistent with late-cycle easing. **Base case: easier conditions persist into the meeting—accumulate gold on orderly dips, respect 4,245 as resistance, and reassess if 3,944 breaks.**",
+  "chartPath": "/charts/Cross-Asset/dec-cut-odds_2025-11-24.svg",
+  "chartHeight": "350"
 }
+
 
 
 
