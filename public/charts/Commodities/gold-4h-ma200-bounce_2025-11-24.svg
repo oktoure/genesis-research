@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4233333"
-     inkscape:cx="300"
-     inkscape:cy="175.29274"
+     inkscape:zoom="7.03"
+     inkscape:cx="515.36273"
+     inkscape:cy="175.32006"
      inkscape:window-width="976"
      inkscape:window-height="1186"
      inkscape:window-x="244"
@@ -38,6 +38,12 @@
      height="350"
      style="fill: rgb(255, 255, 255); fill-opacity: 1;"
      id="rect1" />
+  <path
+     data-index="0"
+     fill-rule="evenodd"
+     d="M 220.63037,272.90802 564.9143,198.47914"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.33313px;stroke-opacity:1"
+     id="path77-1-8-2-9-8" />
   <ellipse
      style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
      id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-99"
@@ -46,11 +52,11 @@
      cy="121.18553"
      cx="421.16919" />
   <path
-     d="m 547.87257,191.53532 -22.54591,30.18392 -0.56934,-0.33754 22.09499,-29.58027 m -1.13858,-0.67515 5.48152,-4.58915 -2.63498,6.27704"
+     d="m 548.8209,168.27007 -10.92415,36.05621 -0.65025,-0.12357 10.70567,-35.33511 m -1.30041,-0.24723 3.59189,-6.18107 -0.34078,6.79914"
      id="path2-3-5"
      style="stroke-width:0.704198"
-     inkscape:transform-center-y="0.4496067"
-     inkscape:transform-center-x="2.101805" />
+     inkscape:transform-center-y="1.0413417"
+     inkscape:transform-center-x="1.880675" />
   <defs
      id="defs-e36076">
     <g
