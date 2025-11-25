@@ -607,7 +607,19 @@
   "fullContent": "**December cut odds rose to ~81% (from ~65% last week; ~20% pre-Williams), easing conditions and reinforcing our gold-on-dips map from 4,053.43 while equity relief stays tentative.** Repricing followed the dovish push in [Minutes Measured](/i/47) and aligns with easing long-run [inflation expectations](/i/49). Weekly [claims](/i/45) still show a flow/stock split—lower initial flow, higher continuing rolls—signaling cooling, not cracking. The transmission channel usually loosens FX and credit spreads first, with yields lagging, so conditions can ease before term rates fully follow. Into December, odds are most sensitive to services prices and wages; steady cooling would keep measured easing in play. For metals, the policy drift extends the setup mapped in [Gold Reclaims 4,100](/i/53) while we keep equities in observation until breadth improves. Retail sales, PPI, and claims this week are the near-term swing factors for odds and the dollar. **Base case: odds stay elevated, conditions ease via FX/spreads, and gold dips remain buyable while we await confirmation from services prices and wages.**",
   "chartPath": "/charts/Economics/dec-cut-odds_2025-11-24.svg",
   "chartHeight": "350"
+},
+{
+  "id": 56,
+  "date": "25-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Retail Sales Miss Under the Hood — Consumption Cools",
+  "summary": "**Retail sales slowed to 0.2% m/m in Sep (from 0.6, vs 0.4) and the control group fell −0.1% (from 0.6, vs 0.3), signaling softer consumption ahead even as YoY held 4.3% (vs 3.9).**",
+  "fullContent": "**Retail sales slowed to 0.2% m/m in Sep (from 0.6, vs 0.4) and the control group fell −0.1% (from 0.6, vs 0.3), signaling softer consumption ahead even as YoY held 4.3% (vs 3.9).** Ex-autos was 0.3% (vs 0.4) and core ex-gas/autos just 0.1%, with gas stations +2.0% masking weaker nonstore and apparel. The cooling lines up with the late-cycle pattern we mapped in [confidence](/i/50) and the flow/stock split in [claims](/i/45): households remain cautious and job-finding times lengthen. With the Fed keeping December “live, not locked” in [Minutes Measured](/i/47), this mix supports measured easing rather than a pivot. A softer spending pulse also fits easing long-run expectations in [inflation expectations](/i/49). **Implication: consumption is slowing at the margin—watch control-group rebounds, claims momentum, and services prices to gauge how much policy needs to do.**",
+  "chartPath": "/charts/Economics/retail-sales-vs-umich-expectations_2025-11-25.svg",
+  "chartHeight": "350"
 }
+
 
 
 
