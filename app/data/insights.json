@@ -603,8 +603,8 @@
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "December Cut Odds Surge — Gold Tailwind Reaffirmed",
-  "summary": "**December cut odds rose to ~81% (from ~65% last week; ~20% pre-Williams), easing conditions and reinforcing our gold-on-dips map from 4,053.43 while equity relief stays tentative.**",
-  "fullContent": "**December cut odds rose to ~81% (from ~65% last week; ~20% pre-Williams), easing conditions and reinforcing our gold-on-dips map from 4,053.43 while equity relief stays tentative.** Repricing followed the dovish push in [Minutes Measured](/i/47) and aligns with easing long-run [inflation expectations](/i/49). Weekly [claims](/i/45) still show a flow/stock split—lower initial flow, higher continuing rolls—signaling cooling, not cracking. The transmission channel usually loosens FX and credit spreads first, with yields lagging, so conditions can ease before term rates fully follow. Into December, odds are most sensitive to services prices and wages; steady cooling would keep measured easing in play. For metals, the policy drift extends the setup mapped in [Gold Reclaims 4,100](/i/53) while we keep equities in observation until breadth improves. Retail sales, PPI, and claims this week are the near-term swing factors for odds and the dollar. **Base case: odds stay elevated, conditions ease via FX/spreads, and gold dips remain buyable while we await confirmation from services prices and wages.**",
+  "summary": "**December cut odds rose to ~75% (from above than 50% last week; ~20% pre-Williams), easing conditions and reinforcing our gold-on-dips map from 4,053.43 while equity relief stays tentative.**",
+  "fullContent": "**December cut odds rose to ~75% (from above than 50% last week; ~20% pre-Williams), easing conditions and reinforcing our gold-on-dips map from 4,053.43 while equity relief stays tentative.** Repricing followed the dovish push in [Minutes Measured](/i/47) and aligns with easing long-run [inflation expectations](/i/49). Weekly [claims](/i/45) still show a flow/stock split—lower initial flow, higher continuing rolls—signaling cooling, not cracking. The transmission channel usually loosens FX and credit spreads first, with yields lagging, so conditions can ease before term rates fully follow. Into December, odds are most sensitive to services prices and wages; steady cooling would keep measured easing in play. For metals, the policy drift extends the setup mapped in [Gold Reclaims 4,100](/i/53) while we keep equities in observation until breadth improves. Retail sales, PPI, and claims this week are the near-term swing factors for odds and the dollar. **Base case: odds stay elevated, conditions ease via FX/spreads, and gold dips remain buyable while we await confirmation from services prices and wages.**",
   "chartPath": "/charts/Economics/dec-cut-odds_2025-11-24.svg",
   "chartHeight": "350"
 },
@@ -629,7 +629,19 @@
   "fullContent": "**Core PPI slowed to 2.6% YoY (from 2.9, vs 2.7) while headline PPI held at 2.7% (vs 2.7), keeping pipeline inflation stable-to-cooling.** The ex-food/energy/trade gauge stayed 2.9% (vs 2.7), but monthly cores were soft, reinforcing a gentle disinflation pulse. Our ISM **manufacturing prices** lead (advanced three months) continues to track PPI, with cooler survey costs pointing to steady-to-lower producer inflation ahead, consistent with easing long-run **inflation expectations** in [recent work](/i/49). The policy read matches [Minutes Measured](/i/47): scope for **measured easing** if cooling persists, with transmission easing FX and spreads before yields. Labor signals in **claims** support a late-cycle glide path rather than a break, limiting pass-through pressure. Watch services prices and wages to judge whether producer relief feeds core PCE into Q4–Q1. **Baseline: pipeline inflation stays contained—measured easing remains live while services determine the last mile.**",
   "chartPath": "/charts/Economics/ppi-vs-ism-prices-adv3_2025-11-25.svg",
   "chartHeight": "350"
+},
+{
+  "id": 58,
+  "date": "25-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Richmond Plunge Rejoins Dallas — ISM Risk Skews Lower",
+  "summary": "**Richmond manufacturing fell to −15 (from −4, vs −2) with shipments −14 (from 4, vs 6), reinforcing Dallas weakness and tilting near-term ISM risk to the downside.**",
+  "fullContent": "**Richmond manufacturing fell to −15 (from −4, vs −2) with shipments −14 (from 4, vs 6), reinforcing Dallas weakness and tilting near-term ISM risk to the downside.** The drop contrasts with regional strength in [Empire State](/i/44) and [Kansas](/i/48) but lines up with the softer tone in [Dallas](/i/52): output pockets exist, yet breadth and momentum look fragile. Services prints in the region also slipped, underscoring waning demand into late Q4. Our Richmond–ISM overlay implies the national PMI bias remains sub-50 unless order breadth improves. With goods-side prices contained, the growth signal—not inflation—is the near-term swing for policy odds. **Read-through: normalization has not broadened—track orders breadth and shipments for whether ISM stabilizes or slides.**",
+  "chartPath": "/charts/Economics/richmond-vs-ism_2025-11-25.svg",
+  "chartHeight": "350"
 }
+
 
 
 
