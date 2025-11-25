@@ -600,12 +600,12 @@
 {
   "id": 55,
   "date": "24-11-2025",
-  "category": "Cross-Asset",
+  "category": "Economics",
   "categoryColor": "bg-slate-600",
   "title": "December Cut Odds Surge — Gold Tailwind Reaffirmed",
   "summary": "**December cut odds jumped to ~81% (from ~40% last week), keeping conditions easier and reaffirming gold’s buy-the-dip bias near 4,130.**",
   "fullContent": "**December cut odds jumped to ~81% (from ~65% last week), keeping conditions easier and reaffirming gold’s buy-the-dip bias near 4,130.** Dovish signals from Williams and Waller keep December live, not locked, aligning with our read in [Minutes Measured](/i/47). The odds rebound pairs with easing long-run [inflation expectations](/i/49) and a labor mix that cools at the margins in [claims](/i/45), a combo that typically softens the dollar and supports duration-sensitive hedges like gold. We keep the map unchanged: dips into **4,050–4,080** are buyable; **4,245** is the next resistance to test; **3,944** remains the structural line. Upcoming retail sales, PPI, and claims will steer odds day-to-day, but the transmission channel runs FX/spreads first, yields later—consistent with late-cycle easing. **Base case: easier conditions persist into the meeting—accumulate gold on orderly dips, respect 4,245 as resistance, and reassess if 3,944 breaks.**",
-  "chartPath": "/charts/Cross-Asset/dec-cut-odds_2025-11-24.svg",
+  "chartPath": "/charts/Economics/dec-cut-odds_2025-11-24.svg",
   "chartHeight": "350"
 }
 
