@@ -675,7 +675,20 @@
   "fullContent": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.** The correlation that held through 2023–25 has broken as crypto, the highest-beta pocket, leads lower. Equity breadth was already thinning in [AI Mania](/i/54) and our [seasonality wrap](/i/51) flagged a late-November wobble. Macro flow supports caution: softer demand in [retail sales](/i/56) and a flow/stock split in weekly [claims](/i/59) point to slower hiring and cooler spending. Even with elevated odds of December easing, positioning remains concentrated and sensitive to earnings proofs, not promises. Decoupling says “risk appetite is tightening at the edges” before it shows up in the indices. Watch: BTC–Nasdaq correlation, equal-weight vs SPX, and credit spreads to judge whether this is a brief shakeout or the start of broader de-risking.",
   "chartPath": "/charts/Cross-Asset/bitcoin-vs-nasdaq-decoupling_2025-11-26.svg",
   "chartHeight": "350"
+},
+{
+  "id": 61,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Beige Book Monitor Turns Down — GDP Slows Next",
+  "summary": "**Our Beige Book Monitor is turning down, signaling slower real GDP ahead and reinforcing measured easing as demand cools and regional breadth softens.**",
+  "fullContent": "**Our Beige Book Monitor is turning down, signaling slower real GDP ahead and reinforcing measured easing as demand cools and regional breadth softens.** The text-based gauge (strong−weak word share) historically co-moves with real GDP and today’s downtick points to softer Q4–Q1 growth. The signal aligns with cooler **[retail sales](/i/56)**, contained pipeline pressure in **[PPI](/i/57)**, and fragile regional breadth as **[Richmond](/i/58)** joined Dallas. Labor is loosening at the edges in **[claims](/i/59)**, lengthening job-finding times without a break. Policy remains **live, not locked** per **[Minutes Measured](/i/47)**; transmission should ease FX/spreads first, with yields lagging. **Bottom line: Beige Book tone now points to slower GDP—keep risk calibrated to a cooler late-cycle tape.**",
+  "chartPath": "/charts/Economics/beige-book-monitor-vs-gdp_2025-11-26.svg",
+  "chartHeight": "350"
 }
+
+
 
 
 
