@@ -646,10 +646,10 @@
   "date": "26-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Claims Split Persists — Flow Up, Stock Down",
-  "summary": "**Initial claims rose to 222k (from 216k, vs 225k) while continuing claims fell to 1.953M (from 1.960M, vs 1.975M)—split intact, cooling-not-cracking.**",
-  "fullContent": "**Initial claims rose to 222k (from 216k, vs 225k) while continuing claims fell to 1.953M (from 1.960M, vs 1.975M)—split intact, cooling-not-cracking.** The 4-week average dipped to 223.75k (from 224.75k, vs 225k), tempering the weekly noise and reinforcing the flow/stock divergence we flagged in [claims](/i/45). The broader tape still fits our late-cycle map: softer consumption in [retail sales](/i/56), pipeline disinflation in [PPI](/i/57), and weaker regional breadth in [Richmond](/i/58), all under a data-dependent stance from [Minutes Measured](/i/47). This mix cools wage pressure with a lag and argues for measured easing rather than a pivot. **Read-through: labor is loosening at the margins—watch whether continuing claims stay <2.0M and the 4-week flow holds lower to keep the glide-path intact.**",
-  "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-20.svg",
+  "title": "Claims Split Persists — Flow Down, Stock Up",
+  "summary": "**Initial claims fell to 216k (from 222k, vs 225k) while continuing claims rose to 1.960M (from 1.953M, vs 1.975M); the 4-week average dipped to 223.75k (from 224.75k, vs 225k)—split intact, cooling-not-cracking.**",
+  "fullContent": "**Initial claims fell to 216k (from 222k, vs 225k) while continuing claims rose to 1.960M (from 1.953M, vs 1.975M); the 4-week average dipped to 223.75k (from 224.75k, vs 225k)—split intact, cooling-not-cracking.** The pattern we mapped in [claims](/i/45) holds: flow eases while the stock remains elevated, a late-cycle mix that lengthens job-finding times without a break. It pairs with softer demand in [retail sales](/i/56), stable-to-cooling pipeline pressure in [PPI](/i/57), and weaker regional breadth in [Richmond](/i/58). Policy remains **live, not locked** per [Minutes Measured](/i/47); this mix argues for measured easing rather than a pivot. Watch whether continuing claims stay below 2.0M and the 4-week average trends lower to confirm glide-path disinflation into Q4–Q1.",
+  "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-26.svg",
   "chartHeight": "350"
 }
 
