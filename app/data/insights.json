@@ -640,7 +640,19 @@
   "fullContent": "**Richmond manufacturing fell to −15 (from −4, vs −2) with shipments −14 (from 4, vs 6), reinforcing Dallas weakness and tilting near-term ISM risk to the downside.** The drop contrasts with regional strength in [Empire State](/i/44) and [Kansas](/i/48) but lines up with the softer tone in [Dallas](/i/52): output pockets exist, yet breadth and momentum look fragile. Services prints in the region also slipped, underscoring waning demand into late Q4. Our Richmond–ISM overlay implies the national PMI bias remains sub-50 unless order breadth improves. With goods-side prices contained, the growth signal—not inflation—is the near-term swing for policy odds. **Read-through: normalization has not broadened—track orders breadth and shipments for whether ISM stabilizes or slides.**",
   "chartPath": "/charts/Economics/richmond-vs-ism_2025-11-25.svg",
   "chartHeight": "350"
+},
+{
+  "id": 59,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Claims Edge Softer — Flow Up vs Prior, Stock Dips",
+  "summary": "**Initial claims printed 222k (from 216k, vs 225k) while continuing claims fell to 1.953M (from 1.960M, vs 1.975M), keeping cooling-not-cracking intact.**",
+  "fullContent": "**Initial claims printed 222k (from 216k, vs 225k) while continuing claims fell to 1.953M (from 1.960M, vs 1.975M), keeping cooling-not-cracking intact.** The **4-week average** edged to **224.75k** (vs 225k), signaling a steady hiring flow even as job-finding remains slower than early year. Today’s mix **tempers** the stock-build theme we flagged in [claims](/i/45) and fits the late-cycle glide mapped across [retail sales](/i/56) and regional prints (e.g., [Richmond](/i/58)). With policy still **live, not locked** per [Minutes Measured](/i/47), marginal labor cooling plus softer goods prices argues for **measured easing** rather than a pivot. Tracking levels is simple: a sustained move toward **~2.0M** on continuing claims would mark firmer loosening; a break back above **~230k** on initial claims would warn flow is turning. **Read-through: labor cools at the edges, consistent with gradual disinflation and easier conditions into December.**",
+  "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-20.svg",
+  "chartHeight": "350"
 }
+
 
 
 
