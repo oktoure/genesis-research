@@ -521,6 +521,18 @@
 "chartHeight": "700"
 },
 {
+  "id": 46,
+  "date": "20-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Philly Mix — Headline Still Negative, CAPEX Warms",
+  "summary": "**Philadelphia Fed Manufacturing rose to −1.7 in November (from −12.7, vs −3.1), with future capex up to 26.7—headline remains negative as orders and shipments slip and prices stay firm.**",
+  "fullContent": "**Philadelphia Fed Manufacturing rose to −1.7 in November (from −12.7, vs −3.1), with future capex up to 26.7—headline remains negative as orders and shipments slip and prices stay firm.** Demand softened as **new orders −8.6** and **shipments −8.7** turned sub-zero. Employment stayed modestly positive (**6.0**) while the workweek eased (**3.7**). Price pressure persisted: **prices paid 56.1** and **prices received 17.7**. Outlooks improved—**future activity 49.6**, **future new orders 55.6**, **future shipments 48.4**—and firms plan slightly higher investment (**CAPEX 26.7**). The message aligns with our late-cycle map: output pockets are stabilizing, but breadth is fragile and costs are sticky. Compared with the [Empire rebound](/i/44), Philly shows uneven normalization; alongside the flow/stock split in weekly [claims](/i/45), it argues for measured easing rather than reacceleration. **Bias for ISM: sideways sub-50 unless order breadth improves and input costs ease.**",
+  "chartPath": "/charts/Economics/philadelphia-vs-ism_and_capex_2025-11-20.svg",
+  "chartHeight": "700"
+},
+
+{
 "id": 47,
 "date": "21-11-2025",
 "category": "Economics",
