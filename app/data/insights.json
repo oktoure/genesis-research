@@ -487,17 +487,7 @@
 "chartPath": "/charts/Economics/ny-empire-state-rebound-continues_2025-11-17.svg",
 "chartHeight": "350"
 },
-{
-"id": 48,
-"date": "20-11-2025",
-"category": "Economics",
-"categoryColor": "bg-emerald-600",
-"title": "Kansas Beats, ISM Sub-50 — Stabilization, Not Reacceleration",
-"summary": "**Kansas City manufacturing strengthened: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM.**",
-"fullContent": "**Kansas City manufacturing strengthened: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM.** Resilience is regional: output > breadth; prices contained. Together with the [Empire rebound](/i/44), this looks like normalization, not a nationwide upswing. ISM should stabilize sideways into Q4 while orders and prices decide the slope. **Treat Kansas as stabilization—upgrade only if orders broaden and prices stay contained.**",
-"chartPath": "/charts/Economics/kansas-vs-ism_2025-11-20.svg",
-"chartHeight": "700"
-},
+
 {
 "id": 45,
 "date": "20-11-2025",
@@ -521,7 +511,7 @@
 "chartHeight": "700"
 },
 {
-  "id": 46,
+  "id": 46.1,
   "date": "20-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
@@ -542,6 +532,17 @@
 "fullContent": "**Minutes stayed measured while Williams leaned dovish, keeping December live—not locked—and re-easing conditions.** Participants saw scope to **hold** as transmission works, with several noting a December cut could be appropriate if cooling persists; QT near an endpoint. The stance fits our late-cycle map: softer [confidence](/i/38), a flow/stock split in [claims](/i/45), and mixed [labor](/i/46). Easing should seep first through FX and spreads before term yields. **December depends on services prices and wages—measured easing remains the base case.**",
 "chartPath": "/charts/Economics/polymarket-dec-cut-odds_2025-11-21.svg",
 "chartHeight": "350"
+},
+{
+"id": 48,
+"date": "20-11-2025",
+"category": "Economics",
+"categoryColor": "bg-emerald-600",
+"title": "Kansas Beats, ISM Sub-50 — Stabilization, Not Reacceleration",
+"summary": "**Kansas City manufacturing strengthened: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM.**",
+"fullContent": "**Kansas City manufacturing strengthened: Production 18 (from 15, vs 12) and Composite 8 (from 6, vs 4), outpacing a still-sub-50 ISM.** Resilience is regional: output > breadth; prices contained. Together with the [Empire rebound](/i/44), this looks like normalization, not a nationwide upswing. ISM should stabilize sideways into Q4 while orders and prices decide the slope. **Treat Kansas as stabilization—upgrade only if orders broaden and prices stay contained.**",
+"chartPath": "/charts/Economics/kansas-vs-ism_2025-11-20.svg",
+"chartHeight": "700"
 },
 {
 "id": 49,
