@@ -651,7 +651,19 @@
   "fullContent": "**Initial claims fell to 216k (from 222k, vs 225k) while continuing claims rose to 1.960M (from 1.953M, vs 1.975M); the 4-week average dipped to 223.75k (from 224.75k, vs 225k)—split intact, cooling-not-cracking.** The pattern we mapped in [claims](/i/45) holds: flow eases while the stock remains elevated, a late-cycle mix that lengthens job-finding times without a break. It pairs with softer demand in [retail sales](/i/56), stable-to-cooling pipeline pressure in [PPI](/i/57), and weaker regional breadth in [Richmond](/i/58). Policy remains **live, not locked** per [Minutes Measured](/i/47); this mix argues for measured easing rather than a pivot. Watch whether continuing claims stay below 2.0M and the 4-week average trends lower to confirm glide-path disinflation into Q4–Q1.",
   "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-11-26.svg",
   "chartHeight": "350"
+},
+{
+  "id": 60,
+  "date": "26-11-2025",
+  "category": "Cross-Asset",
+  "categoryColor": "bg-slate-600",
+  "title": "BTC–Nasdaq Decouple — Crypto Leads Risk Lower",
+  "summary": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.**",
+  "fullContent": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.** The correlation that held through 2023–25 has broken as crypto, the highest-beta pocket, leads lower. Equity breadth was already thinning in [AI Mania](/i/54) and our [seasonality wrap](/i/51) flagged a late-November wobble. Macro flow supports caution: softer demand in [retail sales](/i/56) and a flow/stock split in weekly [claims](/i/59) point to slower hiring and cooler spending. Even with elevated odds of December easing, positioning remains concentrated and sensitive to earnings proofs, not promises. Decoupling says “risk appetite is tightening at the edges” before it shows up in the indices. Watch: BTC–Nasdaq correlation, equal-weight vs SPX, and credit spreads to judge whether this is a brief shakeout or the start of broader de-risking.",
+  "chartPath": "/charts/Cross-Asset/bitcoin-vs-nasdaq-decoupling_2025-11-26.svg",
+  "chartHeight": "350"
 }
+
 
 
 
