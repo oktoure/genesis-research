@@ -21,13 +21,18 @@ interface Insight {
 
 export default function Page() {
   return (
-    <Suspense fallback={<div className="max-w-7xl mx-auto px-6 py-10 text-sm text-slate-500">Loading…</div>}>
+    <Suspense fallback={
+      <div className="max-w-7xl mx-auto px-6 py-10 text-sm text-slate-500">
+        Loading…
+      </div>
+    }>
       <ClientHome />
     </Suspense>
   );
 }
 
 /* ---------- Formatting helpers (unchanged) ---------- */
+
 function renderBold(text: string): React.ReactNode[] {
   const parts = text.split(/(\*\*.*?\*\*)/g);
   return parts.map((part, idx) =>
@@ -50,21 +55,22 @@ function renderInline(text?: string): React.ReactNode {
 
   while ((m = linkRe.exec(text)) !== null) {
     const [full, label, href] = m;
+
     if (m.index > last) out.push(...renderBold(text.slice(last, m.index)));
+
     out.push(
-      <a
-        key={`a${m.index}`}
-        href={href}
-        className="underline underline-offset-2 hover:opacity-80"
-      >
+      <a key={`a${m.index}`} href={href} className="underline underline-offset-2 hover:opacity-80">
         {label}
       </a>
     );
     last = m.index + full.length;
   }
+
   if (last < text.length) out.push(...renderBold(text.slice(last)));
+
   return <>{out}</>;
 }
+
 /* ---------------------------------------------------- */
 
 function ClientHome() {
@@ -73,95 +79,128 @@ function ClientHome() {
 
   const activeCatParam = searchParams.get('cat') || 'Insights';
 
+  // Newest-first by ID
   const sortedInsights: Insight[] = React.useMemo(
-    () => [...(rawInsights as Insight[])].sort((a, b) => b.id - a.id),
+    () => [...rawInsights].sort((a, b) => b.id - a.id),
     []
   );
 
+  // Category list INCLUDING "Insights"
   const categories = React.useMemo(() => {
     const set = new Set<string>();
-    (rawInsights as Insight[]).forEach(i => i.category && set.add(i.category));
+    rawInsights.forEach(i => i.category && set.add(i.category));
     return ['Insights', ...Array.from(set)];
   }, []);
 
+  // Filter posts
   const shownInsights =
     activeCatParam === 'Insights'
       ? sortedInsights
       : sortedInsights.filter(i => i.category === activeCatParam);
 
+  // Expand toggle
   const [expandedId, setExpandedId] = React.useState<number | null>(null);
-  const toggleExpand = (id: number) => setExpandedId(prev => (prev === id ? null : id));
+  const toggleExpand = (id: number) =>
+    setExpandedId(prev => (prev === id ? null : id));
 
+  // Category navigation
   const goToCategory = (cat: string) => {
     if (cat === 'Insights') router.push('/', { scroll: false });
     else router.push(`/?cat=${encodeURIComponent(cat)}`, { scroll: false });
   };
 
   const currentFilterPath =
-    activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
+    activeCatParam === 'Insights'
+      ? '/'
+      : `/?cat=${encodeURIComponent(activeCatParam)}`;
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Header */}
+
+      {/* ------------------------------------------- */}
+      {/* HEADER */}
+      {/* ------------------------------------------- */}
       <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-7xl mx-auto px-6 py-6">
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
-              <p className="text-slate-400 mt-1 text-xs">
-                Research, timely insights, and transparent trade ideas
-              </p>
-            </div>
-            <div className="text-right">
-              <div className="text-slate-400 text-xs">Last Updated</div>
-              <div className="text-white text-sm font-bold">
-                {new Date().toLocaleDateString('en-US', {
-                  month: 'short',
-                  day: 'numeric',
-                  year: 'numeric'
-                })}
-              </div>
+        <div className="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
+          <div>
+            <h1 className="text-2xl font-bold text-white tracking-tight">
+              Genesis Research
+            </h1>
+            <p className="text-slate-400 mt-1 text-xs">
+              Research, timely insights, and transparent trade ideas
+            </p>
+          </div>
+
+          <div className="text-right">
+            <div className="text-slate-400 text-xs">Last Updated</div>
+            <div className="text-white text-sm font-bold">
+              {new Date().toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+              })}
             </div>
           </div>
         </div>
       </header>
 
-      {/* Main */}
-      <main className="max-w-7xl mx-auto px-6 py-10">
-        <div className="mb-4">
-          <h2 className="text-2xl font-bold text-slate-900">Insights</h2>
-        </div>
+      {/* ------------------------------------------- */}
+      {/* NAVIGATION: Insights | Narrative */}
+      {/* ------------------------------------------- */}
+      <div className="max-w-7xl mx-auto px-6 mt-6 mb-6">
+        <nav className="flex gap-6 border-b border-slate-200 pb-2">
+          <span className="py-2 text-sm font-semibold text-slate-900 border-b-2 border-blue-600">
+            Insights
+          </span>
 
-        {/* Tabs */}
+          <a
+            href="/narrative"
+            className="py-2 text-sm font-semibold text-slate-500 hover:text-slate-700"
+          >
+            Narrative / StoryLine
+          </a>
+        </nav>
+      </div>
+
+      {/* ------------------------------------------- */}
+      {/* TITLE */}
+      {/* ------------------------------------------- */}
+      <main className="max-w-7xl mx-auto px-6 py-6">
+        <h2 className="text-2xl font-bold text-slate-900 mb-6">
+          Insights
+        </h2>
+
+        {/* ------------------------------------------- */}
+        {/* CATEGORY TABS */}
+        {/* ------------------------------------------- */}
         <div className="mb-8 border-b border-slate-200">
           <nav className="flex flex-wrap gap-6">
             {categories.map(cat => {
               const isActive = cat === activeCatParam;
+
               return (
                 <button
                   key={cat}
                   onClick={() => goToCategory(cat)}
                   className={`relative py-2 text-sm font-semibold ${
-                    isActive ? 'text-slate-900' : 'text-slate-500 hover:text-slate-700'
+                    isActive
+                      ? 'text-slate-900'
+                      : 'text-slate-500 hover:text-slate-700'
                   }`}
                 >
                   {cat}
-                  {isActive && <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-blue-600" />}
+                  {isActive && (
+                    <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-blue-600" />
+                  )}
                 </button>
               );
             })}
-
-            {/* ---------- NEW Narrative link ---------- */}
-            <a
-              href="/narrative"
-              className="py-2 text-sm font-semibold text-slate-500 hover:text-slate-700"
-            >
-              Narrative / StoryLine
-            </a>
           </nav>
         </div>
 
-        {/* Posts */}
+        {/* ------------------------------------------- */}
+        {/* INSIGHTS FEED (unchanged) */}
+        {/* ------------------------------------------- */}
         <div className="space-y-10">
           {shownInsights.map(insight => {
             const isExpanded = expandedId === insight.id;
@@ -169,7 +208,9 @@ function ClientHome() {
               ? insight.fullContent ?? insight.summary
               : insight.summary ?? insight.fullContent;
 
-            const detailHref = `/i/${insight.id}?from=${encodeURIComponent(currentFilterPath)}`;
+            const detailHref = `/i/${insight.id}?from=${encodeURIComponent(
+              currentFilterPath
+            )}`;
 
             return (
               <article
@@ -185,8 +226,11 @@ function ClientHome() {
                     >
                       {insight.category}
                     </span>
+
                     {insight.date && (
-                      <time className="text-slate-500 text-xs font-bold">{insight.date}</time>
+                      <time className="text-slate-500 text-xs font-bold">
+                        {insight.date}
+                      </time>
                     )}
                   </div>
 
@@ -200,6 +244,7 @@ function ClientHome() {
                   </h3>
                 </div>
 
+                {/* Content */}
                 <div className="grid md:grid-cols-2 gap-6 items-start">
                   {/* Chart */}
                   <div>
@@ -210,7 +255,10 @@ function ClientHome() {
                         className="w-full"
                         style={
                           insight.chartHeight
-                            ? { height: insight.chartHeight, objectFit: 'contain' }
+                            ? {
+                                height: insight.chartHeight,
+                                objectFit: 'contain'
+                              }
                             : {}
                         }
                       />
@@ -248,12 +296,16 @@ function ClientHome() {
           })}
 
           {shownInsights.length === 0 && (
-            <div className="text-slate-500 text-sm">No posts in this category yet.</div>
+            <div className="text-slate-500 text-sm">
+              No posts in this category yet.
+            </div>
           )}
         </div>
       </main>
 
-      {/* Footer */}
+      {/* ------------------------------------------- */}
+      {/* FOOTER */}
+      {/* ------------------------------------------- */}
       <footer className="border-t border-slate-100 mt-12">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <p className="text-slate-400 text-xs text-center">
