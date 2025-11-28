@@ -37,8 +37,8 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="4.33"
-       inkscape:cx="151.7321"
-       inkscape:cy="228.75289"
+       inkscape:cx="304.27252"
+       inkscape:cy="396.42032"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="323"
@@ -62116,23 +62116,23 @@
                text-anchor="start"
                x="2"
                y="9"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
                id="text12121"><tspan
                  class="line"
                  dy="0em"
                  x="2"
                  y="9"
-                 id="tspan12119">*US 10Y − EQUAL-WEIGHT AVERAGE OF EUR, JPY, GBP, CAD 10Y</tspan><tspan
+                 id="tspan12119">*US 10Y − EQUAL-WEIGHT AVERAGE OF EUR, JPY, GBP, CAD 10Y.</tspan><tspan
                  class="line"
                  dy="1.3em"
                  x="2"
                  y="9"
                  id="tspan12120">SOURCE: GENESIS RESEARCH.</tspan><tspan
                  class="line"
-                 dy="2.6em"
+                 dy="2.5999999em"
                  x="2"
                  y="9"
-                 id="tspan12121">NOTES: SHADED AREAS DENOTE NBER-DESIGNATED RECESSIONS.</tspan></text>
+                 id="tspan12121">NOTE: SHADED AREAS DENOTE NBER-DESIGNATED RECESSIONS.</tspan></text>
           </g>
         </g>
       </g>
