@@ -44,7 +44,7 @@
        inkscape:window-x="323"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg12102" />
+       inkscape:current-layer="svg154" />
     <rect
        x="0"
        y="0"
@@ -1107,28 +1107,6 @@
          class="clips"
          id="g136" />
     </defs>
-    <g
-       class="layer-above"
-       id="g140">
-      <g
-         class="imagelayer"
-         id="g137" />
-      <g
-         class="shapelayer"
-         id="g139">
-        <g
-           class="shape-group"
-           data-index="35"
-           id="g138">
-          <path
-             data-index="35"
-             fill-rule="evenodd"
-             d="M71.44,32.550000000000004L102.88,32.550000000000004"
-             style="opacity: 1; stroke: rgb(69, 90, 100); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
-             id="path137" />
-        </g>
-      </g>
-    </g>
     <g
        class="infolayer"
        id="g154">
