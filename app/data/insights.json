@@ -715,11 +715,12 @@
   "category": "Currencies",
   "categoryColor": "bg-sky-600",
   "title": "Yield Spread Compresses — USD Headwind Builds",
-  "summary": "**US–RoW 10Y spread is compressing toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.**",
-  "fullContent": "**US–RoW 10Y spread is compressing toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.** Panel 1 tracks the US 10-year minus an equal-weighted EUR/JPY/GBP/CAD 10-year basket; the spread has narrowed materially, echoing the shift flagged in **US10Y <4%, DXY double-top** [/i/62]. The driver is policy repricing: higher **cut odds** [/i/55], softer **retail sales** [/i/56], easing **pipeline pressure** [/i/57], and weaker regional breadth [/i/58] reduce the US premium. Panel 2 shows DXY failing beneath a falling 200-day, consistent with compression in rate differentials and our late-cycle map. Risk markers: a re-widening of the spread back >1.5pp or a weekly DXY close above the 200-day would challenge the USD-soft bias. Cross-asset read-through matches our stance—gold dips remain buyable [/i/53] while equities stay sensitivity-driven to breadth and earnings proofs [/i/54].",
+  "summary": "**US – G4 ex-US (EA/JP/UK) 10Y spread compresses toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.**",
+  "fullContent": "**US – G4 ex-US (EA/JP/UK) 10Y spread compresses toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.** Panel 1 tracks the US 10-year minus an equal-weighted EUR/JPY/GBP/CAD basket; the premium has narrowed, consistent with the move in [US10Y & DXY](/i/62). Policy repricing—higher [cut odds](/i/55), softer [retail sales](/i/56), cooler [PPI](/i/57), and weaker regional breadth in [Richmond](/i/58)—reduces the US advantage. Panel 2 shows DXY capped by a falling 200-day, matching differential compression and our late-cycle map. Risk lines: a re-widening of the spread back above ~1.5pp or a weekly DXY close >200-day would challenge the USD-soft bias. Cross-asset read-through aligns with our stance: gold-on-dips remains valid [gold](/i/53) while equity leadership stays narrow [AI breadth](/i/54).",
   "chartPath": "/charts/Currencies/us-g4-yield-spread-vs-dxy_2025-11-26.svg",
   "chartHeight": "700"
 }
+
 
 
 
