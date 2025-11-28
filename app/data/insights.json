@@ -708,7 +708,19 @@
   "fullContent": "**Both 10s–2s and 10s–3m remain deeply inverted—rivaling historical extremes—and history says the bite comes when the curve re-steepens as cuts arrive.** The curve inverts when front-end rates exceed long-end yields, an historically reliable late-cycle signal. Our panel tracks **10y–2y** and **10y–3m** slopes; past episodes (late-1920s, 1989, 2006) show that deeper inversions often precede harsher downturns, but the damage typically follows the **bull steepener** when the front end collapses on policy easing. Today’s macro mix points that way: cooler demand in [retail sales](/i/56), stable-to-cooling pipeline pressure in [PPI](/i/57), a flow/stock split in [claims](/i/59), and softer tone in our [Beige Book Monitor](/i/61) alongside elevated [cut odds](/i/55). Cross-asset, equity breadth remains fragile per [AI Mania](/i/54) and crypto has begun to de-risk in [BTC–Nasdaq Decouple](/i/60). **Watch for re-steepening led by the front end (cuts) rather than the long end (term-premium): a rapid rise in 10s–3m toward zero is the usual trigger from warning to impact.**",
   "chartPath": "/charts/Economics/yield-curve-10s2s-10s3m_2025-11-26.svg",
   "chartHeight": "700"
+},
+{
+  "id": 64,
+  "date": "26-11-2025",
+  "category": "Currencies",
+  "categoryColor": "bg-sky-600",
+  "title": "Yield Spread Compresses — USD Headwind Builds",
+  "summary": "**US–RoW 10Y spread is compressing toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.**",
+  "fullContent": "**US–RoW 10Y spread is compressing toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.** Panel 1 tracks the US 10-year minus an equal-weighted EUR/JPY/GBP/CAD 10-year basket; the spread has narrowed materially, echoing the shift flagged in **US10Y <4%, DXY double-top** [/i/62]. The driver is policy repricing: higher **cut odds** [/i/55], softer **retail sales** [/i/56], easing **pipeline pressure** [/i/57], and weaker regional breadth [/i/58] reduce the US premium. Panel 2 shows DXY failing beneath a falling 200-day, consistent with compression in rate differentials and our late-cycle map. Risk markers: a re-widening of the spread back >1.5pp or a weekly DXY close above the 200-day would challenge the USD-soft bias. Cross-asset read-through matches our stance—gold dips remain buyable [/i/53] while equities stay sensitivity-driven to breadth and earnings proofs [/i/54].",
+  "chartPath": "/charts/Currencies/us-g4-yield-spread-vs-dxy_2025-11-26.svg",
+  "chartHeight": "700"
 }
+
 
 
 
