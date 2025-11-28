@@ -44,7 +44,7 @@
        inkscape:window-x="1242"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg255" />
+       inkscape:current-layer="svg128" />
     <defs
        id="defs-c126af">
       <g
@@ -1785,45 +1785,52 @@
     </defs>
     <g
        class="layer-above"
-       id="g235">
+       id="g235"
+       transform="matrix(1.0763569,0,0,1,-23.43725,0)"
+       style="fill:#f0b6d3">
       <g
          class="imagelayer"
-         id="g230" />
+         id="g230"
+         style="fill:#f0b6d3" />
       <g
          class="shapelayer"
-         id="g234">
+         id="g234"
+         style="fill:#f0b6d3">
         <g
            class="shape-group"
            data-index="0"
            clip-path="url(#clipfa664ey)"
-           id="g231">
+           id="g231"
+           style="fill:#f0b6d3">
           <path
              data-index="0"
              fill-rule="evenodd"
              d="M 40,119 H 564"
-             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.6px;stroke-opacity:1"
+             style="opacity:1;fill:#f0b6d3;fill-opacity:0;stroke:#000000;stroke-width:0.6px;stroke-opacity:1"
              id="path99" />
         </g>
         <g
            class="shape-group"
            data-index="1"
-           id="g232">
+           id="g232"
+           style="fill:#f0b6d3">
           <path
              data-index="1"
              fill-rule="evenodd"
              d="m 71.44,32.55 h 31.44"
-             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#455a64;stroke-width:2px;stroke-opacity:1"
+             style="opacity:1;fill:#f0b6d3;fill-opacity:0;stroke:#455a64;stroke-width:2px;stroke-opacity:1"
              id="path100" />
         </g>
         <g
            class="shape-group"
            data-index="2"
-           id="g233">
+           id="g233"
+           style="fill:#f0b6d3">
           <path
              data-index="2"
              fill-rule="evenodd"
              d="m 71.44,38.92 h 31.44"
-             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#0277bd;stroke-width:2px;stroke-opacity:1"
+             style="opacity:1;fill:#f0b6d3;fill-opacity:0;stroke:#0277bd;stroke-width:2px;stroke-opacity:1"
              id="path101" />
         </g>
       </g>
