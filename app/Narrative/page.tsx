@@ -33,8 +33,8 @@ function ClientNarrative() {
 
   return (
     <div className="min-h-screen bg-white">
-      
-      {/* ---------------- HEADER ---------------- */}
+
+      {/* HEADER */}
       <header className="bg-slate-900 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
           
@@ -57,7 +57,7 @@ function ClientNarrative() {
         </div>
       </header>
 
-      {/* --------------- NAVIGATION BAR --------------- */}
+      {/* NAVIGATION */}
       <div className="max-w-7xl mx-auto px-6 mt-6 mb-10">
         <nav className="flex gap-6 border-b border-slate-200 pb-2">
           
@@ -75,32 +75,25 @@ function ClientNarrative() {
         </nav>
       </div>
 
-      {/* --------------- CONTENT --------------- */}
+      {/* CONTENT */}
       <main className="max-w-7xl mx-auto px-6 space-y-16">
-        
-        {narratives.map(n => (
-          <article
-            key={n.id}
-            className="border-b border-slate-200 pb-16 last:border-0"
-          >
 
-            {/* ---- Narrative header ---- */}
+        {narratives.map(n => (
+          <article key={n.id} className="border-b border-slate-200 pb-16 last:border-0">
+
+            {/* TITLE + DATE */}
             <div className="mb-6">
               <div className="text-xs text-slate-500 font-bold mb-2">{n.date}</div>
               <h3 className="text-xl font-bold text-slate-900">{n.title}</h3>
-              <p className="mt-3 text-slate-700 text-[15px] leading-relaxed">
-                {n.summary}
-              </p>
+              <p className="mt-3 text-slate-700 text-[15px] leading-relaxed">{n.summary}</p>
             </div>
 
-            {/* ---- Narrative charts ---- */}
+            {/* CHARTS */}
             {buildRows(n.charts).map((row, i) => (
               <div
                 key={i}
                 className={`grid gap-8 ${
-                  row.length === 2
-                    ? 'grid-cols-1 md:grid-cols-2'
-                    : 'grid-cols-1'
+                  row.length === 2 ? 'grid-cols-1 md:grid-cols-2' : 'grid-cols-1'
                 }`}
               >
                 {row.map((chart, j) => (
@@ -110,11 +103,7 @@ function ClientNarrative() {
                         src={encodeURI(chart.path)}
                         alt=""
                         className="w-full h-auto rounded-lg border border-slate-200"
-                        style={
-                          chart.height
-                            ? { height: chart.height, objectFit: 'contain' }
-                            : {}
-                        }
+                        style={chart.height ? { height: chart.height, objectFit: 'contain' } : {}}
                       />
                     ) : (
                       <div className="aspect-[16/9] w-full border border-slate-300 rounded grid place-items-center text-slate-400 text-xs">
@@ -135,7 +124,7 @@ function ClientNarrative() {
 
       </main>
 
-      {/* ---------------- FOOTER ---------------- */}
+      {/* FOOTER */}
       <footer className="border-t border-slate-100 mt-16">
         <div className="max-w-7xl mx-auto px-6 py-6 text-slate-400 text-xs text-center">
           © {new Date().getFullYear()} Genesis Research
@@ -146,10 +135,9 @@ function ClientNarrative() {
   );
 }
 
-/* -------- Utility: group side charts -------- */
 function buildRows(charts: Chart[]) {
   const rows: Chart[][] = [];
-
+  
   for (const c of charts) {
     if (c.type === 'large') {
       rows.push([c]);
@@ -162,5 +150,6 @@ function buildRows(charts: Chart[]) {
       }
     }
   }
+
   return rows;
 }
