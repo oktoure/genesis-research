@@ -27,7 +27,7 @@ export default function Page() {
   );
 }
 
-/** ---- Inline text helpers (same behavior as post page) ---- */
+/* ---------- Formatting helpers (unchanged) ---------- */
 function renderBold(text: string): React.ReactNode[] {
   const parts = text.split(/(\*\*.*?\*\*)/g);
   return parts.map((part, idx) =>
@@ -65,49 +65,40 @@ function renderInline(text?: string): React.ReactNode {
   if (last < text.length) out.push(...renderBold(text.slice(last)));
   return <>{out}</>;
 }
-/** --------------------------------------------------------- */
+/* ---------------------------------------------------- */
 
 function ClientHome() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
-  // Unfiltered main view
   const activeCatParam = searchParams.get('cat') || 'Insights';
 
-  // Newest-first by id
   const sortedInsights: Insight[] = React.useMemo(
     () => [...(rawInsights as Insight[])].sort((a, b) => b.id - a.id),
     []
   );
 
-  // Dynamic tabs from JSON + "Insights"
   const categories = React.useMemo(() => {
     const set = new Set<string>();
     (rawInsights as Insight[]).forEach(i => i.category && set.add(i.category));
     return ['Insights', ...Array.from(set)];
   }, []);
 
-  // Filter unless "Insights"
-  const shownInsights: Insight[] =
+  const shownInsights =
     activeCatParam === 'Insights'
       ? sortedInsights
       : sortedInsights.filter(i => i.category === activeCatParam);
 
-  // Expand per card
   const [expandedId, setExpandedId] = React.useState<number | null>(null);
   const toggleExpand = (id: number) => setExpandedId(prev => (prev === id ? null : id));
 
-  // Tab nav
   const goToCategory = (cat: string) => {
-    if (cat === 'Insights') {
-      router.push('/', { scroll: false });
-    } else {
-      router.push(`/?cat=${encodeURIComponent(cat)}`, { scroll: false });
-    }
+    if (cat === 'Insights') router.push('/', { scroll: false });
+    else router.push(`/?cat=${encodeURIComponent(cat)}`, { scroll: false });
   };
 
-  // Preserve where the user came from when opening a post
-  const currentFilterPath = activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
+  const currentFilterPath =
+    activeCatParam === 'Insights' ? '/' : `/?cat=${encodeURIComponent(activeCatParam)}`;
 
   return (
     <div className="min-h-screen bg-white">
@@ -117,12 +108,18 @@ function ClientHome() {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
-              <p className="text-slate-400 mt-1 text-xs">Research, timely insights, and transparent trade ideas</p>
+              <p className="text-slate-400 mt-1 text-xs">
+                Research, timely insights, and transparent trade ideas
+              </p>
             </div>
             <div className="text-right">
               <div className="text-slate-400 text-xs">Last Updated</div>
               <div className="text-white text-sm font-bold">
-                {new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                {new Date().toLocaleDateString('en-US', {
+                  month: 'short',
+                  day: 'numeric',
+                  year: 'numeric'
+                })}
               </div>
             </div>
           </div>
@@ -136,77 +133,86 @@ function ClientHome() {
         </div>
 
         {/* Tabs */}
-
-          
-            {categories.map((cat) => {
+        <div className="mb-8 border-b border-slate-200">
+          <nav className="flex flex-wrap gap-6">
+            {categories.map(cat => {
               const isActive = cat === activeCatParam;
               return (
                 <button
                   key={cat}
                   onClick={() => goToCategory(cat)}
-                  className={`relative py-2 text-sm font-semibold transition-colors ${
+                  className={`relative py-2 text-sm font-semibold ${
                     isActive ? 'text-slate-900' : 'text-slate-500 hover:text-slate-700'
                   }`}
                 >
                   {cat}
-                  
-                
+                  {isActive && <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-blue-600" />}
+                </button>
               );
-              })}
-            
-            {/* Lien vers Narrative/StoryLine */}
-            
+            })}
+
+            {/* ---------- NEW Narrative link ---------- */}
+            <a
+              href="/narrative"
+              className="py-2 text-sm font-semibold text-slate-500 hover:text-slate-700"
+            >
               Narrative / StoryLine
+            </a>
           </nav>
         </div>
 
-        {/* Feed */}
+        {/* Posts */}
         <div className="space-y-10">
-          {shownInsights.map((insight) => {
+          {shownInsights.map(insight => {
             const isExpanded = expandedId === insight.id;
             const textToShow = isExpanded
-              ? (insight.fullContent ?? insight.summary ?? '')
-              : (insight.summary ?? insight.fullContent ?? '');
+              ? insight.fullContent ?? insight.summary
+              : insight.summary ?? insight.fullContent;
 
             const detailHref = `/i/${insight.id}?from=${encodeURIComponent(currentFilterPath)}`;
 
             return (
-              <article key={insight.id} className="relative border-b border-slate-100 pb-8 last:border-0">
+              <article
+                key={insight.id}
+                className="relative border-b border-slate-100 pb-8 last:border-0"
+              >
                 {/* Meta */}
                 <div className="mb-5">
                   <div className="flex flex-wrap items-center gap-3 mb-3">
                     <span
-                      className={`${
-                        insight.categoryColor || 'bg-slate-700'
-                      } text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}
+                      className={`${insight.categoryColor || 'bg-slate-700'}
+                        text-white px-2.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider`}
                     >
                       {insight.category}
                     </span>
-                    {insight.date && <time className="text-slate-500 text-xs font-bold">{insight.date}</time>}
+                    {insight.date && (
+                      <time className="text-slate-500 text-xs font-bold">{insight.date}</time>
+                    )}
                   </div>
 
-                  {/* Title is the link */}
                   <h3 className="text-xl font-bold leading-snug">
                     <a
                       href={detailHref}
-                      className="text-slate-900 hover:underline underline-offset-4 decoration-slate-300"
-                      aria-label={`Open post: ${insight.title}`}
+                      className="text-slate-900 hover:underline underline-offset-4"
                     >
                       {insight.title}
                     </a>
                   </h3>
                 </div>
 
-                {/* Content */}
                 <div className="grid md:grid-cols-2 gap-6 items-start">
                   {/* Chart */}
-                  <div className="w-full">
+                  <div>
                     {insight.chartPath ? (
                       <img
                         src={encodeURI(insight.chartPath)}
                         alt={insight.title}
-                        className="w-full h-auto"
-                        style={insight.chartHeight ? { height: insight.chartHeight, objectFit: 'contain' } : {}}
+                        className="w-full"
+                        style={
+                          insight.chartHeight
+                            ? { height: insight.chartHeight, objectFit: 'contain' }
+                            : {}
+                        }
                       />
                     ) : (
                       <div className="w-full aspect-[16/9] border border-slate-200 rounded-lg grid place-items-center text-slate-400 text-xs">
@@ -215,23 +221,23 @@ function ClientHome() {
                     )}
                   </div>
 
-                  {/* Text + Toggle */}
-                  <div className="w-full h-full flex flex-col">
+                  {/* Text */}
+                  <div className="flex flex-col">
                     <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
                       {renderInline(textToShow?.trim())}
                     </div>
 
                     <button
                       onClick={() => toggleExpand(insight.id)}
-                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold self-start inline-flex items-center gap-1"
+                      className="text-blue-600 hover:text-blue-700 text-xs font-semibold inline-flex items-center gap-1"
                     >
                       {isExpanded ? (
                         <>
-                          Show Less <span className="inline-block rotate-180">▾</span>
+                          Show Less <span className="rotate-180">▾</span>
                         </>
                       ) : (
                         <>
-                          Read Full Analysis <span className="inline-block">▾</span>
+                          Read Full Analysis <span>▾</span>
                         </>
                       )}
                     </button>
@@ -250,7 +256,9 @@ function ClientHome() {
       {/* Footer */}
       <footer className="border-t border-slate-100 mt-12">
         <div className="max-w-7xl mx-auto px-6 py-6">
-          <p className="text-slate-400 text-xs text-center">© {new Date().getFullYear()} Genesis Research</p>
+          <p className="text-slate-400 text-xs text-center">
+            © {new Date().getFullYear()} Genesis Research
+          </p>
         </div>
       </footer>
     </div>
