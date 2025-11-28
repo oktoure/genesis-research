@@ -719,7 +719,19 @@
   "fullContent": "**US–G4 ex-US (EA/JP/UK/CAD) 10Y spread compresses toward ~1pp while DXY stalls below its 200-day—conditions that typically tilt the dollar softer.** Panel 1 tracks the US 10-year minus an equal-weighted EUR/JPY/GBP/CAD basket; the premium has narrowed, consistent with the move in [US10Y & DXY](/i/62). Policy repricing—higher [cut odds](/i/55), softer [retail sales](/i/56), cooler [PPI](/i/57), and weaker regional breadth in [Richmond](/i/58)—reduces the US advantage. Panel 2 shows DXY capped by a falling 200-day, matching differential compression and our late-cycle map. Risk lines: a re-widening of the spread back above ~1.5pp or a weekly DXY close >200-day would challenge the USD-soft bias. **Net: spread compression plus DXY below its 200-day keeps a mild USD-soft bias unless the spread re-widens or DXY reclaims the 200-day.**",
   "chartPath": "/charts/Currencies/us-g4-yield-spread-vs-dxy_2025-11-26.svg",
   "chartHeight": "700"
+},
+{
+  "id": 65,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "ISM vs Regions — Activity Stabilizes, Prices Still Hotter Locally",
+  "summary": "**ISM Manufacturing looks flat-to-slightly higher, while our Regional Fed Prices-Paid tracker remains elevated near a +1σ high versus ISM Prices at 60.**",
+  "fullContent": "**ISM Manufacturing looks flat-to-slightly higher, while our Regional Fed Prices-Paid tracker remains elevated near a +1σ high versus ISM Prices at 60.** Panel 1 (NY/Philly/Kansas/Dallas/Richmond composite) continues the stabilization we mapped in [ISM Manufacturing Tracker](/i/22), consistent with firmer pockets seen in [Empire](/i/44) and [Kansas](/i/48) but offset by softer breadth in [Dallas](/i/52) and [Richmond](/i/58). Panel 2 shows regional **prices paid** running hotter than the national ISM Prices index, aligning with mixed district anecdotes in [Philly](/i/46.1). Net read: demand is steadying, but localized cost pressure hasn’t fully cooled—an uneven inflation backdrop into the next ISM print. **Net: ISM steady, regional prices still firm—watch breadth and prices for confirmation of a clean soft-landing mix.**",
+  "chartPath": "/charts/Economics/ism-mfg-tracker_and-prices-tracker_2025-11-26.svg",
+  "chartHeight": "700"
 }
+
 
 
 
