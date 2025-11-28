@@ -136,8 +136,8 @@ function ClientHome() {
         </div>
 
         {/* Tabs */}
-        <div className="mb-8 border-b border-slate-200">
-          <nav className="flex flex-wrap gap-6">
+
+          
             {categories.map((cat) => {
               const isActive = cat === activeCatParam;
               return (
@@ -149,14 +149,14 @@ function ClientHome() {
                   }`}
                 >
                   {cat}
-                  <span
-                    className={`absolute left-0 right-0 -bottom-[1px] h-0.5 ${
-                      isActive ? 'bg-blue-600' : 'bg-transparent'
-                    }`}
-                  />
-                </button>
+                  
+                
               );
-            })}
+              })}
+            
+            {/* Lien vers Narrative/StoryLine */}
+            
+              Narrative / StoryLine
           </nav>
         </div>
 
