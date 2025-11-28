@@ -697,7 +697,19 @@
   "fullContent": "**US 10-year yield breaks below 4% as December cut odds surge; DXY’s double-top and narrowing differentials tilt the dollar softer into 2026.** Repricing lines up with rising [cut odds](/i/55), softer [retail sales](/i/56), stable-to-cooling [PPI](/i/57), and a flow/stock split in weekly [claims](/i/59). Markets lean toward measured easing as growth slows, compressing the rate spreads that powered the 2024–25 USD up-leg. Levels: DXY sub-100 keeps a downside bias toward **97.5 → 95.0** into 2026; invalidation is a weekly close back above **104.5** or a swift US10Y reversal **>4.3%**. Cross-asset: easier policy supports our gold-on-dips map from [Gold Reclaims 4,100](/i/53), while equities remain sensitivity-driven to breadth and earnings per [Seasonality vs YTD](/i/51) and [AI Mania](/i/54). **Base case: softer USD as differentials compress—respect 104.5 as the risk line.**",
   "chartPath": "/charts/Economics/fed-funds-us10y-dxy_2025-11-26.svg",
   "chartHeight": "350"
+},
+{
+  "id": 63,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Yield Curve: Deep Inversion—Watch the Re-Steepening",
+  "summary": "**Both 10s–2s and 10s–3m remain deeply inverted—rivaling historical extremes—and history says the bite comes when the curve re-steepens as cuts arrive.**",
+  "fullContent": "**Both 10s–2s and 10s–3m remain deeply inverted—rivaling historical extremes—and history says the bite comes when the curve re-steepens as cuts arrive.** The curve inverts when front-end rates exceed long-end yields, an historically reliable late-cycle signal. Our panel tracks **10y–2y** and **10y–3m** slopes; past episodes (late-1920s, 1989, 2006) show that deeper inversions often precede harsher downturns, but the damage typically follows the **bull steepener** when the front end collapses on policy easing. Today’s macro mix points that way: cooler demand in [retail sales](/i/56), stable-to-cooling pipeline pressure in [PPI](/i/57), a flow/stock split in [claims](/i/59), and softer tone in our [Beige Book Monitor](/i/61) alongside elevated [cut odds](/i/55). Cross-asset, equity breadth remains fragile per [AI Mania](/i/54) and crypto has begun to de-risk in [BTC–Nasdaq Decouple](/i/60). **Watch for re-steepening led by the front end (cuts) rather than the long end (term-premium): a rapid rise in 10s–3m toward zero is the usual trigger from warning to impact.**",
+  "chartPath": "/charts/Economics/yield-curve-10s2s-10s3m_2025-11-26.svg",
+  "chartHeight": "700"
 }
+
 
 
 
