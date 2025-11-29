@@ -730,17 +730,6 @@
   "fullContent": "**ISM Manufacturing looks flat-to-slightly higher, while our Regional Fed Prices-Paid tracker remains elevated near a +1σ high versus ISM Prices at 60.** Panel 1 (NY/Philly/Kansas/Dallas/Richmond composite) continues the stabilization we mapped in [ISM Manufacturing Tracker](/i/22), consistent with firmer pockets seen in [Empire](/i/44) and [Kansas](/i/48) but offset by softer breadth in [Dallas](/i/52) and [Richmond](/i/58). Panel 2 shows regional **prices paid** running hotter than the national ISM Prices index, aligning with mixed district anecdotes in [Philly](/i/46.1). Net read: demand is steadying, but localized cost pressure hasn’t fully cooled—an uneven inflation backdrop into the next ISM print. **Net: ISM steady, regional prices still firm—watch breadth and prices for confirmation of a clean soft-landing mix.**",
   "chartPath": "/charts/Economics/ism-mfg-tracker_and-prices-tracker_2025-11-26.svg",
   "chartHeight": "700"
-},
-{
-  "id": 66,
-  "date": "28-11-2025",
-  "category": "Commodities",
-  "categoryColor": "bg-yellow-600",
-  "title": "Gold’s Fourth Monthly Gain; Silver Records — Cuts Drive the Bid",
-  "summary": "**Gold extends a four-month run and tests two-week highs as December cut odds surge, while silver posts a fresh record—policy easing and momentum keep dips buyable.**",
-  "fullContent": "**Gold extends a four-month run and tests two-week highs as December cut odds surge, while silver posts a fresh record—policy easing and momentum keep dips buyable.** Traders now price an ~87% chance of a December cut (from ~50% last week), reinforcing the metals bid and aligning with our read in [December Cut Odds Surge](/i/55). Spot gold is up ~5.5% m/m and ~3.9% w/w, while silver printed a new high near **$56.52**, confirming breadth across precious metals. This advances the roadmap from [Gold Reclaims 4,100](/i/53): dips remained buyable as rate expectations eased and the dollar softened tactically. Levels and risk: **4,245** is the near resistance to validate momentum; **4,050–4,080** is the preferred reload zone; **3,944** remains the structural line. Asian retail demand is mixed at high prices, but macro flows dominate as policy turns. **Bias: maintain buy-the-dip framework in gold while 3,944 holds and watch a decisive break of 4,245 for a momentum confirmation.**",
-  "chartPath": "/charts/Commodities/gold-silver-breakout-dec-cut-odds_2025-11-28.svg",
-  "chartHeight": "350"
 }
 
 
