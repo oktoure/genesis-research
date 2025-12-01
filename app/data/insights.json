@@ -741,7 +741,19 @@
   "fullContent": "**ISM fell to 48.2 in November (from 48.7, vs 49.0), with new orders 47.4 and prices 58.5 while employment slid to 44.0—demand cools as cost pressure persists.** The ninth straight sub-50 print reflects softer demand and lean confidence, consistent with cooling in [retail sales](/i/56) and weaker regional breadth in [Richmond](/i/58) and [Dallas](/i/52). Supplier deliveries quickened and backlogs fell, underscoring slack, while inventories remain cautious. The prices paid uptick contrasts with pipeline easing in [PPI](/i/57), implying goods inflation is sticky rather than re-accelerating. Policy read: the mix keeps December **live, not locked** as easing odds stay elevated and transmission should work through FX/spreads before long yields. **Net: Manufacturing is contracting with firmer input costs—expect measured easing while we watch services prices and wages for the last mile.**",
   "chartPath": "/charts/Economics/ism-nov-orders-prices-employment_2025-11-28.svg",
   "chartHeight": "700"
+},
+{
+  "id": 68,
+  "date": "28-11-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Silver Surge, Ratio Collapse — Gold Tailwind Strengthens",
+  "summary": "**Gold/silver ratio has slid to ~70 (from ~100 in April) as silver makes fresh highs—historically, such compressions precede further gold upside.**",
+  "fullContent": "**Gold/silver ratio has slid to ~70 (from ~100 in April) as silver makes fresh highs—historically, such compressions precede further gold upside.** Silver’s bid reflects a tight physical market (vault drawdowns, delivery lags, elevated lease rates) layered on top of stronger industrial pull (EVs, solar) and seasonal South-Asia demand. Policy and macro also lean supportive: higher **cut odds** and softer USD/yields in our recent work ([December odds](/i/55), [US10Y & DXY](/i/62)) extend precious-metals momentum first flagged in [Gold Reclaims 4,100](/i/53). Unlike 2011 and 2020, the ratio is falling with gold still below extremes—leaving room for catch-up if silver’s leadership sustains. Risk lines: a snap-back in the ratio above ~80 or a USD rebound would temper the signal; sustained prints in the mid-60s have historically coincided with ongoing precious-metals uptrends. **Net: silver’s leadership and a falling G/S ratio reinforce a buy-the-dip bias in gold while the cycle favors precious over base risk.**",
+  "chartPath": "/charts/Commodities/gold-silver-ratio_2025-11-28.svg",
+  "chartHeight": "350"
 }
+
 
 
 
