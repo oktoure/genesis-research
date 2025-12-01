@@ -703,10 +703,43 @@
   "date": "26-11-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "10s–2s Back Above Zero — Risk Shifts to the Cut Phase",
+  "title": "YIELD CURVE ANALYSIS 1/4 — Re-Steepening & Jobs",
   "summary": "**10s–2s has re-steepened to ~0.55pp (from ~−0.8 at the trough), shifting risk from inversion to the bull-steepening phase as cuts approach.**",
-  "fullContent": "**10s–2s has re-steepened to ~0.55pp (from ~−0.8 at the trough), shifting risk from inversion to the bull-steepening phase as cuts approach.** Historically, the bite comes after inversions when front-end rates fall on easing and the curve re-steepens. Today’s setup—cooler demand in [retail sales](/i/56), stable-to-cooling pipeline pressure in [PPI](/i/57), a flow/stock split in [claims](/i/59), and a softer tone in our [Beige Book Monitor](/i/61)—keeps measured easing live, not locked per [cut odds](/i/55). What to watch: pace of steepening (front-end collapse vs term-premium), 10s–2s holding >0, and spillovers to credit/equity breadth. **Net: inversion has ended on 10s–2s, but the risk window stays open—bull steepeners are when growth slows on impact.**",
-  "chartPath": "/charts/Economics/yield-curve-10s2s_2025-11-26.svg",
+  "fullContent": "**10s–2s has re-steepened to ~0.55pp (from ~−0.8 at the trough), shifting risk from inversion to the bull-steepening phase as cuts approach.** Historically, the bite comes after inversions when the front end falls on easing and the curve re-steepens. The co-move with the jobless rate matters: unemployment has climbed from cycle lows, keeping the Fed sensitive to growth risks even as the curve turns up. Context from recent data—cooler demand in [retail sales](/i/56), pipeline relief in [PPI](/i/57), the flow/stock split in [claims](/i/59), and a softer tone in our [Beige Book Monitor](/i/61)—keeps measured easing in play per [cut odds](/i/55). **Net: inversion on 10s–2s is over, but the risk window opens into the cut phase—bull steepeners are when growth slows on impact.**",
+  "chartPath": "/charts/Economics/yield-curve-and-unemployment_2025-12-01.svg",
+  "chartHeight": "700"
+},
+{
+  "id": 63.1,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "YIELD CURVE ANALYSIS 2/4 — Claims vs Unemployment",
+  "summary": "**Unemployment has risen ~1pp from lows while initial claims stay subdued—pointing to hiring freezes over layoffs, but a break would come if claims trend >240–250k or continuing >2.0M.**",
+  "fullContent": "**Unemployment has risen ~1pp from lows while initial claims stay subdued—pointing to hiring freezes over layoffs, but a break would come if claims trend >240–250k or continuing >2.0M.** This divergence explains why equities can hold up as payroll churn slows without broad firings. Still, the late-cycle pattern we flagged in [claims](/i/59) persists: flow eases while the stock of beneficiaries grinds higher, lengthening job-finding times. With demand already cooling in [retail sales](/i/56) and regional breadth fragile in [Richmond](/i/58), a claims inflection would tighten the link between the re-steepening curve and real-economy slack. **Net: watch the claims guardrails (flow and stock)—a decisive break higher would confirm the curve’s slowdown signal.**",
+  "chartPath": "/charts/Economics/claims-vs-unemployment_2025-12-01.svg",
+  "chartHeight": "700"
+},
+{
+  "id": 63.2,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "YIELD CURVE ANALYSIS 3/4 — Policy Reaction Function",
+  "summary": "**The inflation–unemployment spread remains elevated, limiting the pace of easing even as growth risks rise—cuts likely, but measured.**",
+  "fullContent": "**The inflation–unemployment spread remains elevated, limiting the pace of easing even as growth risks rise—cuts likely, but measured.** Our policy lens (CPI minus unemployment vs the output gap) shows the Fed still balancing sticky services prices against emerging slack. That aligns with the “live, not locked” stance laid out in [Minutes Measured](/i/47) and the cautious repricing in [cut odds](/i/55). A gradual narrowing of this spread—via softer prices and a cooler labor tape—would unlock more accommodation; the opposite would cap the cutting path and risk a harder landing later. **Net: reaction-function math argues for measured easing—pace will follow the inflation-slack spread, not the curve alone.**",
+  "chartPath": "/charts/Economics/cpi-minus-unemployment_vs_output-gap_2025-12-01.svg",
+  "chartHeight": "700"
+},
+{
+  "id": 63.3,
+  "date": "26-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "YIELD CURVE ANALYSIS 4/4 — Prices, Oil, and the Last Mile",
+  "summary": "**ISM Prices sit in the high-50s while oil trends lower—macro mix that cools headline pressure and supports a glide-path disinflation case.**",
+  "fullContent": "**ISM Prices sit in the high-50s while oil trends lower—macro mix that cools headline pressure and supports a glide-path disinflation case.** Energy is the fastest policy transmission to prices; sustained oil softness typically drags manufacturing costs and, with a lag, core goods. That complements easing in [PPI](/i/57) and the softer demand pulse in [retail sales](/i/56). If prices fade alongside oil, the curve’s re-steepening should proceed via the front end (cuts) rather than a long-end selloff (term-premium), easing financial conditions without re-inflating goods. **Net: fading oil plus stable-to-cooling price gauges keep the “measured-easing bull steepener” as the base case.**",
+  "chartPath": "/charts/Economics/ism-prices-vs-oil_2025-12-01.svg",
   "chartHeight": "700"
 },
 {
