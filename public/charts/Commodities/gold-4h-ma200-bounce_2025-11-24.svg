@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.88"
-     inkscape:cx="255.85106"
-     inkscape:cy="151.8617"
-     inkscape:window-width="976"
+     inkscape:cx="243.08511"
+     inkscape:cy="158.24468"
+     inkscape:window-width="1152"
      inkscape:window-height="1186"
-     inkscape:window-x="244"
-     inkscape:window-y="25"
+     inkscape:window-x="1562"
+     inkscape:window-y="74"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6195" />
+     inkscape:current-layer="g6158" />
   <rect
      x="0"
      y="0"
@@ -31024,12 +31024,13 @@
       <g
          class="shape-group"
          data-index="6"
-         id="g6154">
+         id="g6154"
+         transform="matrix(1.1802291,0,0,0.99110311,-12.84295,0.31183592)">
         <path
            data-index="6"
            fill-rule="evenodd"
-           d="M71.44,38.71600000000001H97.64V31.384000000000004H71.44Z"
-           style="opacity: 1; stroke: rgb(69, 90, 100); stroke-opacity: 1; fill: rgb(69, 90, 100); fill-opacity: 1; stroke-width: 0.8px;"
+           d="m 71.44,38.716 h 26.2 v -7.332 h -26.2 z"
+           style="opacity:1;fill:#455a64;fill-opacity:1;stroke:#455a64;stroke-width:0.8px;stroke-opacity:1"
            id="path6153" />
       </g>
       <g
@@ -31106,11 +31107,11 @@
     <g
        class="annotation"
        data-index="0"
-       style="opacity: 1;"
-       id="g6166">
+       style="opacity:1"
+       id="g6166"
+       transform="translate(5.3191489,-0.53191489)">
       <g
          class="annotation-text-g"
-         transform="rotate(0,111.80799999999999,35.050000000000004)"
          id="g6165">
         <g
            class="cursor-pointer"
@@ -31122,14 +31123,14 @@
              y="0.5"
              width="20"
              height="9"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
              id="rect6163" />
           <text
              class="annotation-text"
              text-anchor="start"
              x="2"
              y="7"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+             style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
              id="text6163">GOLD</text>
         </g>
       </g>
