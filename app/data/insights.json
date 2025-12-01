@@ -752,7 +752,19 @@
   "fullContent": "**Gold/silver ratio has slid to ~70 (from ~100 in April) as silver makes fresh highs—historically, such compressions precede further gold upside.** Silver’s bid reflects a tight physical market (vault drawdowns, delivery lags, elevated lease rates) layered on top of stronger industrial pull (EVs, solar) and seasonal South-Asia demand. Policy and macro also lean supportive: higher **cut odds** and softer USD/yields in our recent work ([December odds](/i/55), [US10Y & DXY](/i/62)) extend precious-metals momentum first flagged in [Gold Reclaims 4,100](/i/53). Unlike 2011 and 2020, the ratio is falling with gold still below extremes—leaving room for catch-up if silver’s leadership sustains. Risk lines: a snap-back in the ratio above ~80 or a USD rebound would temper the signal; sustained prints in the mid-60s have historically coincided with ongoing precious-metals uptrends. **Net: silver’s leadership and a falling G/S ratio reinforce a buy-the-dip bias in gold while the cycle favors precious over base risk.**",
   "chartPath": "/charts/Commodities/gold-silver-ratio_2025-11-28.svg",
   "chartHeight": "350"
+},
+{
+  "id": 69,
+  "date": "28-11-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold Breaks 4,245 — Next Resistance ~4,381",
+  "summary": "**Gold hit 4,245 (our level) and breaks higher; next resistance ~4,381 with support 4,120/4,053 as policy easing and a softer USD extend the bid.**",
+  "fullContent": "**Gold hit 4,245 (our level) and breaks higher; next resistance ~4,381 with support 4,120/4,053 as policy easing and a softer USD extend the bid.** The advance follows the repricing toward December easing in [December odds](/i/55) and the softer-rate/dollar mix mapped in [US10Y & DXY](/i/62). Silver’s leadership and the falling gold/silver ratio reinforce the tailwind per [Silver Surge, Ratio Collapse](/i/68). The 4-hour trend holds above the MA50/100/200 cluster and the prior breakout band ~4,120. Levels and plan: resistance 4,381 → 4,425; supports 4,120 then 4,053 (our earlier buy-on-dips map in [Gold Reclaims 4,100](/i/53)). Invalidation is a decisive close back below 4,120 or a USD rebound that pushes DXY above its falling 200-day. **Net: momentum favors dips-to-add while 4,120 holds; a break of ~4,381 opens 4,425–4,500.**",
+  "chartPath": "/charts/Commodities/gold-4h-4245-target_2025-11-28.svg",
+  "chartHeight": "350"
 }
+
 
 
 
