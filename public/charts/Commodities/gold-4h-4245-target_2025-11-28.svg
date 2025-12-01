@@ -25,12 +25,12 @@
      inkscape:zoom="1.4233333"
      inkscape:cx="300"
      inkscape:cy="185.12881"
-     inkscape:window-width="1176"
-     inkscape:window-height="1186"
-     inkscape:window-x="785"
-     inkscape:window-y="44"
+     inkscape:window-width="1272"
+     inkscape:window-height="1316"
+     inkscape:window-x="1284"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6180" />
+     inkscape:current-layer="svg6213" />
   <rect
      x="0"
      y="0"
@@ -38,6 +38,47 @@
      height="350"
      style="fill: rgb(255, 255, 255); fill-opacity: 1;"
      id="rect1" />
+  <path
+     data-index="0"
+     fill-rule="evenodd"
+     d="M 138.31228,274.3003 564.68842,168.19659"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.423117px;stroke-opacity:1"
+     id="path77-1-8-2-9-8" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-3"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="203.35648"
+     cx="432.85773" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-5"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="83.286217"
+     cx="534.43854" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-8"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="150.66327"
+     cx="405.61182" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="214.59067"
+     cx="383.25351" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-1"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="92.445473"
+     cx="337.11301" />
   <defs
      id="defs-6799bb">
     <g
@@ -30959,6 +31000,12 @@
        class="subplot xy2"
        id="g6158" />
   </g>
+  <path
+     d="m 547.35426,105.45606 -10.92415,36.05621 -0.65025,-0.12357 10.70567,-35.33511 m -1.30041,-0.24723 3.59189,-6.181067 -0.34078,6.799137"
+     id="path2-3-5-2"
+     style="stroke-width:0.704198"
+     inkscape:transform-center-y="1.0413417"
+     inkscape:transform-center-x="1.880675" />
   <g
      class="polarlayer"
      id="g6160" />
@@ -31303,11 +31350,11 @@
     <g
        class="annotation"
        data-index="6"
-       style="opacity: 1;"
-       id="g6206">
+       style="opacity:1"
+       id="g6206"
+       transform="translate(-116.62763,-186.88525)">
       <g
          class="annotation-text-g"
-         transform="rotate(0,441.0346666666667,266.41085714285714)"
          id="g6205">
         <g
            class="cursor-pointer"
@@ -31319,7 +31366,7 @@
              y="0.5"
              width="224"
              height="15"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
              id="rect6203" />
           <text
              class="annotation-text"
@@ -31336,10 +31383,11 @@
        data-index="7"
        style="opacity:1"
        id="g6209"
-       transform="translate(0.70257611,-55.503513)">
+       transform="translate(83.606557,-75.878222)">
       <g
          class="annotation-text-g"
-         id="g6208">
+         id="g6208"
+         transform="translate(-48.477752,209.36768)">
         <g
            class="cursor-pointer"
            transform="translate(380,84)"
