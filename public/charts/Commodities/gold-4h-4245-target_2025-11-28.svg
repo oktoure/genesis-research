@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300"
+     inkscape:cx="300.00001"
      inkscape:cy="185.12881"
      inkscape:window-width="1272"
      inkscape:window-height="1316"
      inkscape:window-x="1284"
-     inkscape:window-y="34"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6213" />
   <rect
@@ -31000,12 +31000,6 @@
        class="subplot xy2"
        id="g6158" />
   </g>
-  <path
-     d="m 547.35426,105.45606 -10.92415,36.05621 -0.65025,-0.12357 10.70567,-35.33511 m -1.30041,-0.24723 3.59189,-6.181067 -0.34078,6.799137"
-     id="path2-3-5-2"
-     style="stroke-width:0.704198"
-     inkscape:transform-center-y="1.0413417"
-     inkscape:transform-center-x="1.880675" />
   <g
      class="polarlayer"
      id="g6160" />
