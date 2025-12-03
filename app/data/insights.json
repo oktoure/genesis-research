@@ -796,7 +796,20 @@
   "fullContent": "**Gold hit 4,245 (our level) and breaks higher; next resistance ~4,381 with support 4,120/4,053 as policy easing and a softer USD extend the bid.** The advance follows the repricing toward December easing in [December odds](/i/55) and the softer-rate/dollar mix mapped in [US10Y & DXY](/i/62). Silver’s leadership and the falling gold/silver ratio reinforce the tailwind per [Silver Surge, Ratio Collapse](/i/68). The 4-hour trend holds above the MA50/100/200 cluster and the prior breakout band ~4,120. Levels and plan: resistance 4,381 → 4,425; supports 4,120 then 4,053 (our earlier buy-on-dips map in [Gold Reclaims 4,100](/i/53)). Invalidation is a decisive close back below 4,120 or a USD rebound that pushes DXY above its falling 200-day. **Net: momentum favors dips-to-add while 4,120 holds; a break of ~4,381 opens 4,425–4,500.**",
   "chartPath": "/charts/Commodities/gold-4h-4245-target_2025-11-28.svg",
   "chartHeight": "350"
+},
+{
+  "id": 70,
+  "date": "02-12-2025",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "Santa Drift, NVDA Lags — Rotation Builds",
+  "summary": "**Year-end rebound resumes: SPX/NASDAQ/Mag7 back above MA50 while NVDA lags—rotation favors GOOG and broad-market lines.**",
+  "fullContent": "**Year-end rebound resumes: SPX/NASDAQ/Mag7 back above MA50 while NVDA lags—rotation favors GOOG and broad-market lines.** Our MA50-deviation panel shows the holiday bounce re-engaging with SPX, NASDAQ, Mag7, and the Dow back positive, while the equal-weight index narrows the gap—breadth improving, not surging. NVDA is the notable laggard, the only line failing to reclaim its MA50, extending the rotation we flagged in [AI Mania](/i/54). That rotation is flowing toward GOOG and into the broader tape as investors de-concentrate AI risk. Watch equal-weight vs SPX, GOOG/NVDA relative strength, and whether Mag7 leadership cools without breaking the up-trend. Invalidation would be NVDA swiftly regaining its MA50 alongside a roll back below zero in equal-weight. **Net: seasonal tailwind with improving breadth is constructive, but NVDA’s lag argues for de-concentration and selective adds beyond the GPU trade.**",
+  "chartPath": "/charts/Equities/ma50-deviation_rotation_2025-12-02.svg",
+  "chartHeight": "350"
 }
+
+
 
 
 
