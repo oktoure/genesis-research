@@ -6,7 +6,7 @@
    style=""
    viewBox="0 0 600 350"
    version="1.1"
-   id="svg184"
+   id="svg182"
    sodipodi:docname="ma50-deviation_rotation_2025-12-02.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview184"
+     id="namedview182"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,10 +27,10 @@
      inkscape:cy="175.29274"
      inkscape:window-width="976"
      inkscape:window-height="1186"
-     inkscape:window-x="244"
-     inkscape:window-y="25"
+     inkscape:window-x="1478"
+     inkscape:window-y="50"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g184" />
+     inkscape:current-layer="svg182" />
   <rect
      x="0"
      y="0"
@@ -39,12 +39,12 @@
      style="fill: rgb(0, 0, 0); fill-opacity: 0;"
      id="rect1" />
   <defs
-     id="defs-73d7eb">
+     id="defs-d0abad">
     <g
        class="clips"
        id="g8">
       <clipPath
-         id="clip73d7ebxyplot"
+         id="clipd0abadxyplot"
          class="plotclip">
         <rect
            width="524"
@@ -52,7 +52,7 @@
            id="rect2" />
       </clipPath>
       <clipPath
-         id="clip73d7ebxy2plot"
+         id="clipd0abadxy2plot"
          class="plotclip">
         <rect
            width="524"
@@ -61,7 +61,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip73d7ebx">
+         id="clipd0abadx">
         <rect
            x="40"
            y="0"
@@ -71,7 +71,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip73d7eby">
+         id="clipd0abady">
         <rect
            x="0"
            y="28"
@@ -81,7 +81,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip73d7ebxy">
+         id="clipd0abadxy">
         <rect
            x="40"
            y="28"
@@ -91,7 +91,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip73d7eby2">
+         id="clipd0abady2">
         <rect
            x="0"
            y="28"
@@ -101,7 +101,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip73d7ebxy2">
+         id="clipd0abadxy2">
         <rect
            x="40"
            y="28"
@@ -128,6 +128,106 @@
        height="282"
        style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
        id="rect10" />
+  </g>
+  <g
+     class="annotation"
+     data-index="8"
+     id="g175"
+     transform="translate(35.47541,-31.697892)">
+    <g
+       class="annotation-text-g"
+       id="g174-7">
+      <g
+         class="cursor-pointer"
+         transform="translate(302,246)"
+         id="g173">
+        <rect
+           class="bg"
+           x="0.5"
+           y="0.5"
+           width="185"
+           height="53"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+           id="rect170" />
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="92.9375"
+           y="11"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text173"><tspan
+             class="line"
+             dy="0em"
+             x="92.9375"
+             y="11"
+             id="tspan170">MARKET REBOUNDS ON THE YEAR</tspan><tspan
+             class="line"
+             dy="1.3em"
+             x="92.9375"
+             y="11"
+             id="tspan171">END CONFIRMING OUR SANTA RALLY</tspan><tspan
+             class="line"
+             dy="2.5999999em"
+             x="92.9375"
+             y="11"
+             id="tspan172">BIAS, BUT NVDIA IS THE ONE</tspan><tspan
+             class="line"
+             dy="3.9000001em"
+             x="92.9375"
+             y="11"
+             id="tspan173">THAT IS LAGGING...</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     class="annotation"
+     data-index="9"
+     id="g180-4"
+     transform="translate(137.67681,-149.29742)">
+    <g
+       class="annotation-text-g"
+       id="g179-8">
+      <g
+         class="cursor-pointer"
+         transform="translate(238,183)"
+         id="g178-3">
+        <rect
+           class="bg"
+           x="0.5"
+           y="0.5"
+           width="177"
+           height="53"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+           id="rect175" />
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="88.867188"
+           y="11"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text178-9"><tspan
+             class="line"
+             dy="0em"
+             x="88.867188"
+             y="11"
+             id="tspan175-0">THIS HINTS TOWARDS A ROTATION</tspan><tspan
+             class="line"
+             dy="1.3em"
+             x="88.867188"
+             y="11"
+             id="tspan176-5">FROM INVESTORS TO OTHER TECH</tspan><tspan
+             class="line"
+             dy="2.5999999em"
+             x="88.867188"
+             y="11"
+             id="tspan177">FIRM, IN PARTICULAR GOOLLE AND</tspan><tspan
+             class="line"
+             dy="3.9000001em"
+             x="88.867188"
+             y="11"
+             id="tspan178">ALSO THE BORADER MARKET</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      class="layer-below"
@@ -232,13 +332,13 @@
         <g
            class="xy"
            transform="translate(40,28)"
-           clip-path="url(#clip73d7ebxyplot)"
+           clip-path="url(#clipd0abadxyplot)"
            id="g63">
           <g
              class="scatterlayer mlayer"
              id="g62">
             <g
-               class="trace scatter trace3a86c7"
+               class="trace scatter trace1ea179"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g43">
               <g
@@ -264,7 +364,7 @@
                  id="g42" />
             </g>
             <g
-               class="trace scatter traced9b015"
+               class="trace scatter trace6d4e38"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g49">
               <g
@@ -290,7 +390,7 @@
                  id="g48" />
             </g>
             <g
-               class="trace scatter trace8089df"
+               class="trace scatter trace5b1e4b"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g55">
               <g
@@ -316,7 +416,7 @@
                  id="g54" />
             </g>
             <g
-               class="trace scatter trace6754dc"
+               class="trace scatter trace7dbb81"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g61">
               <g
@@ -346,13 +446,13 @@
         <g
            class="xy2"
            transform="translate(40,28)"
-           clip-path="url(#clip73d7ebxy2plot)"
+           clip-path="url(#clipd0abadxy2plot)"
            id="g77">
           <g
              class="scatterlayer mlayer"
              id="g76">
             <g
-               class="trace scatter trace299fd6"
+               class="trace scatter trace983013"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g69">
               <g
@@ -378,7 +478,7 @@
                  id="g68" />
             </g>
             <g
-               class="trace scatter trace4e5a31"
+               class="trace scatter trace9750cc"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g75">
               <g
@@ -812,7 +912,7 @@
      class="glimages"
      id="g131" />
   <defs
-     id="topdefs-73d7eb">
+     id="topdefs-d0abad">
     <g
        class="clips"
        id="g132" />
@@ -829,7 +929,7 @@
       <g
          class="shape-group"
          data-index="0"
-         clip-path="url(#clip73d7eby)"
+         clip-path="url(#clipd0abady)"
          id="g134">
         <path
            data-index="0"
@@ -908,7 +1008,7 @@
   </g>
   <g
      class="infolayer"
-     id="g184">
+     id="g182">
     <g
        class="g-gtitle"
        id="g143" />
@@ -1031,7 +1131,7 @@
        id="g158">
       <g
          class="annotation-text-g"
-         transform="rotate(0,124,64.66)"
+         transform="rotate(0,132,64.66)"
          id="g157">
         <g
            class="cursor-pointer"
@@ -1041,7 +1141,7 @@
              class="bg"
              x="0.5"
              y="0.5"
-             width="36"
+             width="52"
              height="9"
              style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
              id="rect155" />
@@ -1051,7 +1151,7 @@
              x="2"
              y="7"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-             id="text155">NVIDIA (LS)</text>
+             id="text155">DOW JONES (LS)</text>
         </g>
       </g>
     </g>
@@ -1062,7 +1162,7 @@
        id="g161">
       <g
          class="annotation-text-g"
-         transform="rotate(0,132.5,74.53)"
+         transform="rotate(0,124.5,74.53)"
          id="g160">
         <g
            class="cursor-pointer"
@@ -1072,7 +1172,7 @@
              class="bg"
              x="0.5"
              y="0.5"
-             width="53"
+             width="37"
              height="9"
              style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
              id="rect158" />
@@ -1082,7 +1182,7 @@
              x="2"
              y="7"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-             id="text158">DOW JONES (RS)</text>
+             id="text158">NVIDIA (RS)</text>
         </g>
       </g>
     </g>
@@ -1182,118 +1282,21 @@
     <g
        class="annotation"
        data-index="8"
-       style="opacity:1"
-       id="g175"
-       transform="translate(-26.697892,-34.42623)">
-      <g
-         class="annotation-text-g"
-         id="g174">
-        <g
-           class="cursor-pointer"
-           transform="translate(302,246)"
-           id="g173">
-          <rect
-             class="bg"
-             x="0.5"
-             y="0.5"
-             width="185"
-             height="53"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect170" />
-          <text
-             class="annotation-text"
-             text-anchor="middle"
-             x="92.9375"
-             y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text173"><tspan
-               class="line"
-               dy="0em"
-               x="92.9375"
-               y="11"
-               id="tspan170">MARKET REBOUNDS ON THE YEAR</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="92.9375"
-               y="11"
-               id="tspan171">END CONFIRMING OUR SANTA RALLY</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="92.9375"
-               y="11"
-               id="tspan172">BIAS, BUT NVDIA IS THE ONE</tspan><tspan
-               class="line"
-               dy="3.9000001em"
-               x="92.9375"
-               y="11"
-               id="tspan173">THAT IS LAGGING...</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g
-       class="annotation"
-       data-index="9"
-       style="opacity:1"
-       id="g180"
-       transform="translate(98.360656,-153.16159)">
-      <g
-         class="annotation-text-g"
-         id="g179">
-        <g
-           class="cursor-pointer"
-           transform="translate(238,183)"
-           id="g178">
-          <rect
-             class="bg"
-             x="0.5"
-             y="0.5"
-             width="177"
-             height="53"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect175" />
-          <text
-             class="annotation-text"
-             text-anchor="middle"
-             x="88.867188"
-             y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text178"><tspan
-               class="line"
-               dy="0em"
-               x="88.867188"
-               y="11"
-               id="tspan175">THIS HINTS TOWARDS A ROTATION</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="88.867188"
-               y="11"
-               id="tspan176">FROM INVESTORS TO OTHER TECH</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="88.867188"
-               y="11"
-               id="tspan177">FIRM, IN PARTICULAR GOOLLE AND</tspan><tspan
-               class="line"
-               dy="3.9000001em"
-               x="88.867188"
-               y="11"
-               id="tspan178">ALSO THE BORADER MARKET</tspan></text>
-        </g>
-      </g>
-    </g>
+       style="opacity: 1;"
+       id="g174" />
     <g
        class="annotation"
        data-index="10"
        style="opacity: 1;"
-       id="g183">
+       id="g181">
       <g
          class="annotation-text-g"
          transform="rotate(0,103.5,325.5)"
-         id="g182">
+         id="g180">
         <g
            class="cursor-pointer"
            transform="translate(40,319)"
-           id="g181">
+           id="g179">
           <rect
              class="bg"
              x="0.5"
@@ -1301,14 +1304,14 @@
              width="126"
              height="12"
              style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect180" />
+             id="rect178" />
           <text
              class="annotation-text"
              text-anchor="start"
              x="2"
              y="9"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-             id="text180">SOURCE: GENESIS RESEARCH.</text>
+             id="text178">SOURCE: GENESIS RESEARCH.</text>
         </g>
       </g>
     </g>
