@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300"
+     inkscape:cx="300.00001"
      inkscape:cy="175.29274"
      inkscape:window-width="976"
      inkscape:window-height="1186"
      inkscape:window-x="1478"
-     inkscape:window-y="50"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg182" />
   <rect
@@ -118,25 +118,14 @@
        id="g10" />
   </defs>
   <g
-     class="bglayer"
-     id="g11">
-    <rect
-       class="bg"
-       x="40"
-       y="28"
-       width="524"
-       height="282"
-       style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-       id="rect10" />
-  </g>
-  <g
      class="annotation"
      data-index="8"
      id="g175"
-     transform="translate(35.47541,-31.697892)">
+     transform="translate(161.93911,-23.969555)">
     <g
        class="annotation-text-g"
-       id="g174-7">
+       id="g174-7"
+       transform="translate(-122.95082,-191.80328)">
       <g
          class="cursor-pointer"
          transform="translate(302,246)"
@@ -183,7 +172,7 @@
      class="annotation"
      data-index="9"
      id="g180-4"
-     transform="translate(137.67681,-149.29742)">
+     transform="translate(140.48711,38.992983)">
     <g
        class="annotation-text-g"
        id="g179-8">
