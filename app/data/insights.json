@@ -813,9 +813,9 @@
   "date": "02-12-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "ADP −32k — Hiring Momentum Breaks, NFP Skews Lower",
-  "summary": "**ADP fell −32k in November (from +42k, vs +10k), signaling a break in private hiring momentum and skewing NFP risks lower.**",
-  "fullContent": "**ADP fell −32k in November (from +42k, vs +10k), signaling a break in private hiring momentum and skewing NFP risks lower.** Our standardized 3-month gauge shows ADP and payroll momentum slipping below trend, consistent with the flow-down/stock-up pattern in weekly [claims](/i/59) and the softer factory tone in [ISM 48.2](/i/67). Composition will matter: goods hiring has led the fade while services resilience hinges on wages and hours. A softer print would extend the gradual cooling signaled by our [Beige Book Monitor](/i/61), keeping easing **live, not locked** alongside tempered inflation pipelines. Risk markers into Friday: private payrolls <100k, AHE ≤0.3% m/m, and a shorter workweek would confirm step-down hiring. **Net: the −32k ADP shock validates slower private demand—NFP risks lean lower as the cycle cools at the margins.**",
+  "title": "ADP −32k — Hiring Momentum Breaks, NFP Bias Lower",
+  "summary": "**ADP fell −32k in November (vs +42k prior, +10k cons), signaling a break in private hiring and tilting NFP risks lower.**",
+  "fullContent": "**ADP fell −32k in November (vs +42k prior, +10k cons), signaling a break in private hiring and tilting NFP risks lower.** Our standardized 3-month momentum for ADP and payrolls is below trend. The pattern fits [claims](/i/59): flow down, stock up—cooling, not cracking. Goods hiring leads the fade while services hinge on wages and hours. Signals align with softer factory demand in [ISM 48.2](/i/67) and a cooler tone in [Beige Book](/i/61). Watch into NFP: private <100k, AHE ≤0.3% m/m, shorter workweek. **Net: the −32k ADP shock validates slower private demand—bias NFP lower while measured easing stays live, not locked.**",
   "chartPath": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
   "chartHeight": "350"
 },
@@ -825,8 +825,8 @@
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "Import Prices Turn Up — Softer Dollar Starts to Bite",
-  "summary": "**Import prices likely rose 0.6% m/m (from 0.0), reflecting the lagged drag from a softer DXY and adding friction to the last mile.**",
-  "fullContent": "**Import prices likely rose 0.6% m/m (from 0.0), reflecting the lagged drag from a softer DXY and adding friction to the last mile.** Our panel shows YoY import prices tracking the inverted YoY DXY with a familiar lag; compression in US–G4 spreads and DXY sub-200-day from [US10Y & DXY](/i/62) set the backdrop. The pass-through is narrow at first—watch **ex-fuel** categories and whether goods disinflation in [PPI](/i/57) slows. A firmer import pulse would temper the speed of disinflation without reversing it, keeping the Fed on a measured path rather than a quick pivot. **Net: a positive import-price turn would slow—but not stop—disinflation; measured easing remains the base case.**",
+  "summary": "**Import prices likely rose 0.6% m/m (from 0.0, vs 0.6 cons), a lagged lift from a softer dollar that slows the last mile without stopping it.**",
+  "fullContent": "**Import prices likely rose 0.6% m/m (from 0.0, vs 0.6 cons), a lagged lift from a softer dollar that slows the last mile without stopping it.** Import prices track the inverted annual change in DXY with a familiar lag. US–G4 spread compression and DXY below its 200-day in [US10Y & DXY](/i/62) set the backdrop. Start with ex-fuel to judge breadth. Pipeline relief in [PPI](/i/57) argues disinflation persists even if pass-through firms. Watch the dollar path and PCE goods for confirmation. **Net: a positive import-price turn tempers disinflation’s pace—measured easing, not a pivot, remains base case.**",
   "chartPath": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
   "chartHeight": "350"
 },
@@ -836,17 +836,11 @@
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "ISM Services — 10Y Leads Activity; Prices Cool, Jobs Firm",
-  "summary": "**10-year yield change (advanced 12m) points to steadier ISM services activity ahead; prices eased to 65.4 and employment improved—easier conditions and a softer USD favor a soft-landing mix.**",
-  "fullContent": "**10-year yield change (advanced 12m) points to steadier ISM services activity ahead; prices eased to 65.4 and employment improved—easier conditions and a softer USD favor a soft-landing mix.** Panel 1 uses the 10Y annual change, advanced and inverted, which historically **leads** ISM Services business activity; with yields hovering near ~4% yet the path of easing/softer [DXY](/i/62) loosening financial conditions, the signal tilts to stable-to-slightly-firmer services into H1’26. Panel 2 shows services **prices** falling to 65.4 (from 70.0, vs 70.3)—a cooler cost pulse that, with a lead, points to softer **PCE** ahead, while the **employment** component ticked higher, arguing against stagflation. Offsetting wrinkles: tariff-linked import/export prices are firming at the margin per [Import Prices Turn Up](/i/72), and private hiring cooled in [ADP −32k](/i/71), but broader pipelines still ease in [PPI](/i/57) and goods remain soft in [ISM 48.2](/i/67). **Net: rates (lead) and USD softness imply easier conditions; services stay resilient as prices cool and jobs firm—measured easing over stagflation.**",
+  "summary": "**10-year yield change (advanced 12m) points to steady services activity; prices fell to 65.4 while employment improved—easier conditions and a softer dollar favor a soft-landing mix.**",
+  "fullContent": "**10-year yield change (advanced 12m) points to steady services activity; prices fell to 65.4 while employment improved—easier conditions and a softer dollar favor a soft-landing mix.** Panel 1 uses the 10-year annual change, advanced and inverted, which **leads** ISM business activity. With yields near 4% and [cut odds](/i/55) elevated, easier conditions and a softer [DXY](/i/62) support stability into H1’26. Panel 2 shows services prices down to 65.4 (from 70.0, 70.3 cons), a cooler pulse that leads **PCE**. The employment index rose, pushing against stagflation talk. Offsets: tariff effects lift import costs per [Import Prices](/i/72) and private hiring cooled in [ADP −32k](/i/71). **Net: rates lead and USD eases—services hold while prices cool and jobs firm; measured easing over stagflation.**",
   "chartPath": "/charts/Economics/ism-services-activity_and-prices-vs-pce_2025-12-02.svg",
   "chartHeight": "700"
 }
-
-
-
-
-
-
 
 
 
