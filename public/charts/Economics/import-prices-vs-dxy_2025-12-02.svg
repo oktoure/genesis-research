@@ -23,14 +23,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="314.40282"
-     inkscape:cy="175.29274"
+     inkscape:cx="357.96254"
+     inkscape:cy="166.86183"
      inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="244"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg172" />
+     inkscape:current-layer="g781" />
   <rect
      x="0"
      y="0"
@@ -116,19 +116,17 @@
     <g
        class="patterns"
        id="g10" />
+    <clipPath
+       class="axesclip"
+       id="clip930d70y">
+      <rect
+         x="0"
+         y="28"
+         width="600"
+         height="282"
+         id="rect5-0" />
+    </clipPath>
   </defs>
-  <g
-     class="bglayer"
-     id="g11">
-    <rect
-       class="bg"
-       x="40"
-       y="28"
-       width="524"
-       height="282"
-       style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-       id="rect10" />
-  </g>
   <g
      class="annotation"
      data-index="2"
@@ -1139,6 +1137,24 @@
     <g
        class="subplot xy2"
        id="g131" />
+  </g>
+  <g
+     class="shapelayer"
+     id="g781"
+     transform="translate(47,174.016)">
+    <g
+       class="shape-group"
+       data-index="0"
+       clip-path="url(#clip930d70y)"
+       id="g778"
+       transform="translate(-48.477753,-173.5363)">
+      <path
+         data-index="0"
+         fill-rule="evenodd"
+         d="M 40,169 H 564"
+         style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.6px;stroke-opacity:1"
+         id="path777" />
+    </g>
   </g>
   <g
      class="polarlayer"
