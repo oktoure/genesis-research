@@ -37,14 +37,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="297.1897"
-       inkscape:cy="110.65574"
+       inkscape:cx="347.07261"
+       inkscape:cy="144.37939"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg12329" />
+       inkscape:current-layer="g6212" />
     <rect
        x="0"
        y="0"
@@ -30932,7 +30932,8 @@
            transform="translate(-61,-127.24122)">
           <g
              class="annotation-text-g"
-             id="g6207-5">
+             id="g6207-5"
+             transform="translate(-55.503514,3.5128806)">
             <g
                class="cursor-pointer"
                transform="translate(355,171)"
@@ -30953,21 +30954,21 @@
                  style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
                  id="text6205"><tspan
                    sodipodi:role="line"
-                   id="tspan6213"
                    x="169.29077"
-                   y="118.49415">ON THE IMPULSE OF 3998.09,4264.29</tspan><tspan
+                   y="118.49415"
+                   id="tspan6216">ON THE IMPULSE 3,998.09→4,264.29,</tspan><tspan
                    sodipodi:role="line"
-                   id="tspan6214"
                    x="169.29077"
-                   y="130.99414"> PRICEBROOK 4245.02 RESISTANCE</tspan><tspan
+                   y="130.99414"
+                   id="tspan12331">PRICE BROKE 4,245.02 RESISTANCE</tspan><tspan
                    sodipodi:role="line"
                    x="169.29077"
                    y="143.49414"
-                   id="tspan6215"> TO FALL BACK ONTHE 38.2 FIB</tspan><tspan
+                   id="tspan12332"> THEN FELL BACK TO THE </tspan><tspan
                    sodipodi:role="line"
                    x="169.29077"
                    y="155.99414"
-                   id="tspan6216"> PERFORMING. LONG WICK.</tspan></text>
+                   id="tspan12333">38.2% FIB — LONG WICK...</tspan></text>
             </g>
           </g>
         </g>
@@ -62218,7 +62219,7 @@
        data-index="0"
        clip-path="url(#clip0640d9y)"
        id="g12281"
-       transform="translate(-0.67213115,-60.020609)">
+       transform="translate(1.4355972,-67.748946)">
       <path
          data-index="0"
          fill-rule="evenodd"
@@ -62568,7 +62569,8 @@
          class="annotation"
          data-index="6"
          style="opacity:1"
-         id="g12328">
+         id="g12328"
+         transform="translate(-35.831382,-139.81265)">
         <g
            class="annotation-text-g"
            id="g12327">
@@ -62590,7 +62592,7 @@
                x="81.46875"
                y="11"
                style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text12325">WHILE SILVER IS STILL PUSHING</text>
+               id="text12325">...WHILE SILVER IS STILL PUSHING.</text>
           </g>
         </g>
       </g>
