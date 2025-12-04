@@ -37,14 +37,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="347.07261"
-       inkscape:cy="144.37939"
+       inkscape:cx="283.84076"
+       inkscape:cy="119.08665"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="g6212" />
+       inkscape:current-layer="svg12329" />
     <rect
        x="0"
        y="0"
@@ -141,30 +141,12 @@
            id="rect5-9" />
       </clipPath>
     </defs>
-    <g
-       class="bglayer"
-       id="g11">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="182"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-         id="rect10" />
-    </g>
     <path
        data-index="0"
        fill-rule="evenodd"
        d="M 129.97135,186.88905 563.49527,115.39341"
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.423117px;stroke-opacity:1"
        id="path77-1-8-2-9-8" />
-    <path
-       data-index="0"
-       fill-rule="evenodd"
-       d="M 134.20538,398.91633 567.7293,327.42069"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.423117px;stroke-opacity:1"
-       id="path77-1-8-2-9-8-4" />
     <g
        class="layer-below"
        id="g14">
@@ -62651,4 +62633,10 @@
        inkscape:transform-center-y="14.325889"
        inkscape:transform-center-x="-2.5025813" />
   </svg>
+  <path
+     data-index="0"
+     fill-rule="evenodd"
+     d="M 132.02505,406.03225 565.54897,334.53661"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.423117px;stroke-opacity:1"
+     id="path77-1-8-2-9-8-4" />
 </svg>
