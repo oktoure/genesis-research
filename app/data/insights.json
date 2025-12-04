@@ -807,7 +807,42 @@
   "fullContent": "**Year-end rebound resumes: SPX/NASDAQ/Mag7 back above MA50 while NVDA lags—rotation favors GOOG and broad-market lines.** Our MA50-deviation panel shows the holiday bounce re-engaging with SPX, NASDAQ, Mag7, and the Dow back positive, while the equal-weight index narrows the gap—breadth improving, not surging. NVDA is the notable laggard, the only line failing to reclaim its MA50, extending the rotation we flagged in [AI Mania](/i/54). That rotation is flowing toward GOOG and into the broader tape as investors de-concentrate AI risk. Watch equal-weight vs SPX, GOOG/NVDA relative strength, and whether Mag7 leadership cools without breaking the up-trend. Invalidation would be NVDA swiftly regaining its MA50 alongside a roll back below zero in equal-weight. **Net: seasonal tailwind with improving breadth is constructive, but NVDA’s lag argues for de-concentration and selective adds beyond the GPU trade.**",
   "chartPath": "/charts/Equities/ma50-deviation_rotation_2025-12-02.svg",
   "chartHeight": "350"
+},
+{
+  "id": 71,
+  "date": "02-12-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "ADP vs Payrolls — Private Hiring Stalls Ahead of NFP",
+  "summary": "**ADP fell −32k (cons 10k, prior 42k)—a sharp stall in private hiring that biases NFP risks lower.**",
+  "fullContent": "**ADP fell −32k (cons 10k, prior 42k)—a sharp stall in private hiring that biases NFP risks lower.** Our standardized 3-month gauge shows ADP and NFP momentum fading below trend, consistent with the late-cycle mix in recent prints—flow down, stock up in weekly [claims](/i/59) and softer factory demand in [ISM 48.2](/i/67). A weak ADP reinforces the step-down in hiring without a break, keeping measured easing “live, not locked” while we watch services prices and wages for the last mile. Risk markers into NFP: sub-100k private payrolls, a shorter workweek, and cooler earnings would confirm the slowdown; the opposite would extend the glide path. **Net: the −32k ADP shock validates slower private hiring—NFP risks skew lower as the cycle cools at the margin.**",
+  "chartPath": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
+  "chartHeight": "350"
+},
+{
+  "id": 72,
+  "date": "02-12-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Import Prices Turn Up — DXY Lag Adds Upside Risk",
+  "summary": "**Import prices seen +0.6% m/m (from 0.0) would mark an upside turn as the softer, lagged DXY lifts traded-goods costs.**",
+  "fullContent": "**Import prices seen +0.6% m/m (from 0.0) would mark an upside turn as the softer, lagged DXY lifts traded-goods costs.** Our panel shows YoY import prices tracking the inverted YoY DXY with a familiar lag: differential compression and a weaker dollar typically seep into goods pricing. The near-term policy read is balanced—pipeline relief in [PPI](/i/57) argues disinflation persists, but a firm import-price pulse would slow the last mile and keep the Fed in measured-easing mode rather than a quick pivot. Watch the breadth of import pressure (ex-fuel) and the dollar’s 200-day cap from [US10Y & DXY](/i/62) for confirmation. **Net: a positive import-price turn would temper the pace of disinflation—measured, not accelerated, easing stays base case.**",
+  "chartPath": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
+  "chartHeight": "350"
+},
+{
+  "id": 73,
+  "date": "02-12-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "ISM Services: Activity Holds, Prices Ease — Last-Mile Help",
+  "summary": "**ISM Services activity held 54.5 (from 54.3, in line) while prices fell to 65.4 (from 70.0, vs 70.3)—resilient demand with cooler cost pulse.**",
+  "fullContent": "**ISM Services activity held 54.5 (from 54.3, in line) while prices fell to 65.4 (from 70.0, vs 70.3)—resilient demand with cooler cost pulse.** Panel 1 shows business activity steady, historically associated with modest declines in 10-year yields on a lag; Panel 2’s prices gauge (advanced) points to a softer trajectory for **PCE** ahead if the move persists. Layer this onto pipeline relief in [PPI](/i/57) and the slower goods side in [ISM 48.2](/i/67), and the policy mix still argues for measured easing rather than a pivot. Watch services prices, wages, and shelter to judge how quickly core PCE follows the survey. **Net: steady services with easing prices supports the glide-path disinflation case—measured easing remains the operative stance.**",
+  "chartPath": "/charts/Economics/ism-services-activity_and-prices-vs-pce_2025-12-02.svg",
+  "chartHeight": "700"
 }
+
+
 
 
 
