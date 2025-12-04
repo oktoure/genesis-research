@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300"
+     inkscape:cx="314.40282"
      inkscape:cy="175.29274"
-     inkscape:window-width="976"
+     inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="244"
      inkscape:window-y="25"
@@ -128,6 +128,48 @@
        height="282"
        style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
        id="rect10" />
+  </g>
+  <g
+     class="annotation"
+     data-index="2"
+     id="g158-4"
+     transform="translate(66.601778,-89.491801)">
+    <g
+       class="annotation-text-g"
+       id="g157-8">
+      <g
+         class="cursor-pointer"
+         transform="translate(204,144)"
+         id="g156-0">
+        <rect
+           class="bg"
+           x="0.5"
+           y="0.5"
+           width="199"
+           height="40"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+           id="rect154" />
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="100.05469"
+           y="11"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text156"><tspan
+             sodipodi:role="line"
+             x="100.05469"
+             y="11"
+             id="tspan5">DXY LEADS →UPSIDE RISK</tspan><tspan
+             sodipodi:role="line"
+             x="100.05469"
+             y="23.5"
+             id="tspan2"> TO TRADED-GOODS</tspan><tspan
+             sodipodi:role="line"
+             x="100.05469"
+             y="36"
+             id="tspan3">INFLATION IF USD STAYS WEAK.</tspan></text>
+      </g>
+    </g>
   </g>
   <g
      class="layer-below"
@@ -1340,25 +1382,10 @@
           <text
              class="annotation-text"
              text-anchor="middle"
-             x="67.5703125"
+             x="67.570312"
              y="9"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text166"><tspan
-               class="line"
-               dy="0em"
-               x="67.5703125"
-               y="9"
-               id="tspan164">INVERTED DXY YOY LEADS →</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="67.5703125"
-               y="9"
-               id="tspan165">UPSIDE RISK TO TRADED-GOODS</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="67.5703125"
-               y="9"
-               id="tspan166">INFLATION IF USD STAYS WEAK.</tspan></text>
+             style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text166" />
         </g>
       </g>
     </g>
