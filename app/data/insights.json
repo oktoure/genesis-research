@@ -840,7 +840,19 @@
   "fullContent": "**10-year yield change (advanced 12m) points to steady services activity; prices fell to 65.4 while employment improved—easier conditions and a softer dollar favor a soft-landing mix.** Panel 1 uses the 10-year annual change, advanced and inverted, which **leads** ISM business activity. With yields near 4% and [cut odds](/i/55) elevated, easier conditions and a softer [DXY](/i/62) support stability into H1’26. Panel 2 shows services prices down to 65.4 (from 70.0, 70.3 cons), a cooler pulse that leads **PCE**. The employment index rose, pushing against stagflation talk. Offsets: tariff effects lift import costs per [Import Prices](/i/72) and private hiring cooled in [ADP −32k](/i/71). **Net: rates lead and USD eases—services hold while prices cool and jobs firm; measured easing over stagflation.**",
   "chartPath": "/charts/Economics/ism-services-activity_and-prices-vs-pce_2025-12-02.svg",
   "chartHeight": "700"
+},
+{
+  "id": 74,
+  "date": "03-12-2025",
+  "category": "Commodities",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold Holds Break, Silver Prints Records — Cuts Near, Dips Bought",
+  "summary": "**Gold cleared 4,245 and held a 38.2% retrace of the 3,998.09→4,264.29 impulse as silver hits fresh records—soft labor and ~90% cut odds extend the bid.**",
+  "fullContent": "**Gold cleared 4,245 and held a 38.2% retrace of the 3,998.09→4,264.29 impulse as silver hits fresh records—soft labor and ~90% cut odds extend the bid.** Price action showed a long lower wick around the MA50/100/200 cluster near 4,200, validating the breakout retest; Fibonacci guardrails sit at ~4,162 (38.2%), ~4,131 (50%), and ~4,100 (61.8%). Next resistance remains **4,381 → 4,425** with support **4,210/4,162**. Silver continues to push after printing a new high (~58.98), reinforcing the leadership and ratio compression we mapped in [Silver Surge, Ratio Collapse](/i/68). Macro flow is supportive: **ADP −32k** underscored cooling private hiring while futures now price a high probability of a December cut, consistent with our softer-rate/dollar setup in [US10Y & DXY](/i/62) and the momentum upgrade in [Gold Breaks 4,245](/i/69). Watch Friday’s PCE for the last-mile check; risks are a USD snap-back or a hot labor print that caps the glide path. **Net: breakout retest held, silver leads, and policy easing stays “live, not locked”—buy dips while 4,210/4,162 holds; a clean break of ~4,381 opens 4,425–4,500.**",
+  "chartPath": "/charts/Commodities/gold-silver-4h_2025-12-03.svg",
+  "chartHeight": "700"
 }
+
 
 
 
