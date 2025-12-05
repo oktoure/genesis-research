@@ -44,14 +44,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="258.19673"
-       inkscape:cy="294.73069"
+       inkscape:cx="248.71195"
+       inkscape:cy="349.53162"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="g410" />
+       inkscape:current-layer="svg410" />
     <rect
        x="0"
        y="0"
@@ -141,16 +141,7 @@
     <g
        class="bglayer"
        id="g11"
-       transform="translate(-0.70257613,9.8360658)">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="182"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
-         id="rect10" />
-    </g>
+       transform="translate(-0.70257613,9.8360658)" />
     <g
        class="layer-below"
        id="g49"
@@ -2665,18 +2656,6 @@
          class="patterns"
          id="g310" />
     </defs>
-    <g
-       class="bglayer"
-       id="g311">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="182"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-         id="rect310" />
-    </g>
     <g
        class="layer-below"
        id="g314">
