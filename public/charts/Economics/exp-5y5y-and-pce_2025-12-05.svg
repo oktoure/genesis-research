@@ -51,7 +51,7 @@
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg410" />
+       inkscape:current-layer="svg166" />
     <rect
        x="0"
        y="0"
@@ -1194,6 +1194,12 @@
        style="stroke-width:0.704198"
        inkscape:transform-center-y="-2.7413485"
        inkscape:transform-center-x="14.348654" />
+    <path
+       d="m 544.44181,299.07937 -11.03666,-36.02195 0.60869,-0.26 10.81592,35.30153 m 1.21734,-0.51989 0.4649,7.13381 -3.50832,-5.83406"
+       id="path2-3-5-5"
+       style="stroke-width:0.704198"
+       inkscape:transform-center-y="-2.7413485"
+       inkscape:transform-center-x="14.348654" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
        id="path111-3-8-8-0-39-2-0-1-9-7-5-5-8"
@@ -1208,7 +1214,7 @@
        y="387.42975"
        id="text410"><tspan
          sodipodi:role="line"
-         id="tspan410"></tspan></text>
+         id="tspan410" /></text>
   </svg>
   <g
      class="annotation"
