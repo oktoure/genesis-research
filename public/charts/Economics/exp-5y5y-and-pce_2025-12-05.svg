@@ -44,14 +44,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="257.84544"
+       inkscape:cx="258.19673"
        inkscape:cy="294.73069"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg166" />
+       inkscape:current-layer="g410" />
     <rect
        x="0"
        y="0"
@@ -3395,41 +3395,8 @@
       <g
          class="annotation"
          data-index="4"
-         id="g406-9"
-         transform="translate(-310.80796,-107.47424)"
-         style="fill:#ffb300;fill-opacity:1">
-        <g
-           class="annotation-text-g"
-           id="g405-5"
-           style="fill:#ffb300;fill-opacity:1">
-          <g
-             class="cursor-pointer"
-             transform="translate(203,156)"
-             id="g404-1"
-             style="fill:#ffb300;fill-opacity:1">
-            <text
-               class="annotation-text"
-               text-anchor="middle"
-               x="444.59631"
-               y="-73.309135"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#ffb300;fill-opacity:1"
-               id="text403-4"><tspan
-                 sodipodi:role="line"
-                 id="tspan411"
-                 x="444.59631"
-                 y="-73.309135">5-YEAR SLIP TO 3.2% (FROM 3.4%) — LONG-</tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan412"
-                 x="444.59631"
-                 y="-60.809135">RUN STILL ANCHORED FOR CUTS.</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
-         class="annotation"
-         data-index="4"
          id="g406-9-0"
-         transform="translate(-307.82548,-215.87527)"
+         transform="translate(-317.375,-213.06964)"
          style="fill:#13889b;fill-opacity:1">
         <g
            class="annotation-text-g"
@@ -3455,6 +3422,39 @@
                  x="423.51904"
                  y="-70.645203"
                  id="tspan413"> — NEAR-TERM PRESSURE EASES.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         class="annotation"
+         data-index="4"
+         id="g406-9"
+         transform="translate(-327.03625,-104.90571)"
+         style="fill:#ffb300;fill-opacity:1">
+        <g
+           class="annotation-text-g"
+           id="g405-5"
+           style="fill:#ffb300;fill-opacity:1">
+          <g
+             class="cursor-pointer"
+             transform="translate(203,156)"
+             id="g404-1"
+             style="fill:#ffb300;fill-opacity:1">
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="444.59631"
+               y="-73.309135"
+               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#ffb300;fill-opacity:1"
+               id="text403-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan411"
+                 x="444.59631"
+                 y="-73.309135">5-YEAR SLIP TO 3.2% (FROM 3.4%) — LONG-</tspan><tspan
+                 sodipodi:role="line"
+                 id="tspan412"
+                 x="444.59631"
+                 y="-60.809135">RUN STILL ANCHORED FOR CUTS.</tspan></text>
           </g>
         </g>
       </g>
