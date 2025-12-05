@@ -870,7 +870,7 @@
   "categoryColor": "bg-emerald-600",
   "title": "PCE — Last-Mile Check",
   "summary": "**{HEADLINE_PCE_ACT}% headline (prev 2.7, cons 2.8) and {CORE_PCE_ACT}% core (prev 2.9, cons 2.9) — {TAKEAWAY}.**",
-  "fullContent": "**{HEADLINE_PCE_ACT}% headline (prev 2.7, cons 2.8) and {CORE_PCE_ACT}% core (prev 2.9, cons 2.9) — {TAKEAWAY}.** Read with cooler pipelines in [PPI](/i/57) and easing services prices in [ISM Services](/i/73), this keeps the disinflation glide-path the base case. Rate differentials and a softer [DXY](/i/62) continue to loosen conditions even if long yields hover near ~4%. A firmer read would slow, not reverse, progress; a softer read would validate measured cuts. Watch goods vs services split and revisions for signal strength. Net: {NET_LINE}.",
+  "fullContent": "**{HEADLINE_PCE_ACT}% headline (prev 2.7, cons 2.8) and {CORE_PCE_ACT}% core (prev 2.9, cons 2.9) — {TAKEAWAY}.** Read with cooler pipelines in [PPI](/i/57) and easing services prices in [ISM Services](/i/73), this keeps the disinflation glide-path the base case. Rate differentials and a softer [DXY](/i/62) continue to loosen conditions even if long yields hover near ~4%. A firmer read would slow, not reverse, progress; a softer read would validate measured cuts. Watch goods vs services split and revisions for signal strength. **Net: {NET_LINE}.**",
   "chartPath": "/charts/Economics/pce-annual_core-annual_2025-12-05.svg",
   "chartHeight": "350"
 },
@@ -881,7 +881,7 @@
   "categoryColor": "bg-emerald-600",
   "title": "Michigan — Confidence & Momentum",
   "summary": "**Sentiment {SENT_ACT} (prev 51.0, cons 52.0); expectations {EXP_ACT} (prev 51.0, cons 51.2); current conditions {CURR_ACT} (prev 51.1, cons 51.3) — {TAKEAWAY}.**",
-  "fullContent": "**Sentiment {SENT_ACT} (prev 51.0, cons 52.0); expectations {EXP_ACT} (prev 51.0, cons 51.2); current conditions {CURR_ACT} (prev 51.1, cons 51.3) — {TAKEAWAY}.** The split fits our late-cycle map in [confidence](/i/50): demand adjusts with a lag. Labor resilience in [Claims](/i/75) tempers downside risk even after the [ADP −32k](/i/71) wobble. If expectations firm while inflation expectations (next post) cool, soft-landing odds improve; the opposite would argue caution. Keep an eye on spending proxies and hours/earnings in NFP for confirmation. Net: {NET_LINE}.",
+  "fullContent": "**Sentiment {SENT_ACT} (prev 51.0, cons 52.0); expectations {EXP_ACT} (prev 51.0, cons 51.2); current conditions {CURR_ACT} (prev 51.1, cons 51.3) — {TAKEAWAY}.** The split fits our late-cycle map in [confidence](/i/50): demand adjusts with a lag. Labor resilience in [Claims](/i/75) tempers downside risk even after the [ADP −32k](/i/71) wobble. If expectations firm while inflation expectations (next post) cool, soft-landing odds improve; the opposite would argue caution. Keep an eye on spending proxies and hours/earnings in NFP for confirmation. **Net: {NET_LINE}.**",
   "chartPath": "/charts/Economics/umich-sentiment_expectations_current_2025-12-05.svg",
   "chartHeight": "350"
 },
@@ -892,7 +892,7 @@
   "categoryColor": "bg-emerald-600",
   "title": "Inflation Expectations — Last-Mile Lens",
   "summary": "**1-year {INF1_ACT}% (prev 4.5, cons 4.4) and 5-year {INF5_ACT}% (prev 3.4, cons 3.3) — {TAKEAWAY}.**",
-  "fullContent": "**1-year {INF1_ACT}% (prev 4.5, cons 4.4) and 5-year {INF5_ACT}% (prev 3.4, cons 3.3) — {TAKEAWAY}.** A cooler 1-year with a steady/softer 5-year would validate the glide path flagged by [PPI](/i/57) and services prices in [ISM Services](/i/73). A sticky uptick would slow the pace of easing but not upend it while [US10Y & DXY](/i/62) keep conditions looser. Pair this with {SENT_REF: "/i/77"} to judge growth vs price trade-offs. Net: {NET_LINE}.",
+  "fullContent": "**1-year {INF1_ACT}% (prev 4.5, cons 4.4) and 5-year {INF5_ACT}% (prev 3.4, cons 3.3) — {TAKEAWAY}.** A cooler 1-year with a steady/softer 5-year would validate the glide path flagged by [PPI](/i/57) and services prices in [ISM Services](/i/73). A sticky uptick would slow the pace of easing but not upend it while [US10Y & DXY](/i/62) keep conditions looser. Pair this with [Michigan Sentiment](/i/77) to judge growth vs price trade-offs. **Net: {NET_LINE}.**",
   "chartPath": "/charts/Economics/umich-inflation-expectations_2025-12-05.svg",
   "chartHeight": "350"
 }
