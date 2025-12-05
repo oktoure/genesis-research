@@ -3,7 +3,7 @@
    width="600"
    height="477"
    viewBox="0 0 600 477"
-   preserveAspectRatio="xMidYMid meet"
+   preserveAspectRatio="xMidYMid"
    version="1.1"
    id="svg305"
    sodipodi:docname="ism-services-activity_and-prices-vs-pce_2025-12-02.svg"
@@ -28,8 +28,7 @@
   <svg
      class="main-svg"
      width="600"
-     height="255.0"
-     style=""
+     height="255"
      viewBox="0 0 600 250"
      version="1.1"
      id="svg163"
@@ -37,7 +36,7 @@
      inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
      x="0"
      y="0"
-     preserveAspectRatio="xMidYMid meet">
+     preserveAspectRatio="xMidYMid">
     <sodipodi:namedview
        id="namedview163"
        pagecolor="#ffffff"
@@ -47,9 +46,9 @@
        inkscape:pageopacity="0.0"
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
-       inkscape:zoom="3.06"
-       inkscape:cx="533.49673"
-       inkscape:cy="150.81699"
+       inkscape:zoom="1.03"
+       inkscape:cx="391.26214"
+       inkscape:cy="203.39806"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="1333"
@@ -62,7 +61,7 @@
        y="0"
        width="600"
        height="250"
-       style="fill: rgb(0, 0, 0); fill-opacity: 0;"
+       style="fill:#000000;fill-opacity:0"
        id="rect1" />
     <defs
        id="defs-2e4f9a">
@@ -75,7 +74,9 @@
           <rect
              width="524"
              height="182"
-             id="rect2" />
+             id="rect2"
+             x="0"
+             y="0" />
         </clipPath>
         <clipPath
            id="clip2e4f9axy2plot"
@@ -83,7 +84,9 @@
           <rect
              width="524"
              height="182"
-             id="rect3" />
+             id="rect3"
+             x="0"
+             y="0" />
         </clipPath>
         <clipPath
            class="axesclip"
@@ -152,7 +155,7 @@
          y="28"
          width="524"
          height="182"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
          id="rect10" />
     </g>
     <g
@@ -1232,16 +1235,15 @@
   <svg
      class="main-svg"
      width="600"
-     height="255.0"
-     style=""
+     height="255"
      viewBox="0 0 600 250"
      version="1.1"
      id="svg165"
      sodipodi:docname="chart_1.svg"
      inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
      x="0"
-     y="205.0"
-     preserveAspectRatio="xMidYMid meet">
+     y="205"
+     preserveAspectRatio="xMidYMid">
     <sodipodi:namedview
        id="namedview165"
        pagecolor="#ffffff"
@@ -1265,7 +1267,7 @@
        y="0"
        width="600"
        height="250"
-       style="fill: rgb(0, 0, 0); fill-opacity: 0;"
+       style="fill:#000000;fill-opacity:0"
        id="rect9" />
     <defs
        id="defs-a15290">
@@ -1278,7 +1280,9 @@
           <rect
              width="524"
              height="182"
-             id="rect11" />
+             id="rect11"
+             x="0"
+             y="0" />
         </clipPath>
         <clipPath
            id="clipa15290xy2plot"
@@ -1286,7 +1290,9 @@
           <rect
              width="524"
              height="182"
-             id="rect12" />
+             id="rect12"
+             x="0"
+             y="0" />
         </clipPath>
         <clipPath
            class="axesclip"
