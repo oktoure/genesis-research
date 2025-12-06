@@ -667,13 +667,13 @@
 },
 {
   "id": 60,
-  "date": "26-11-2025",
-  "category": "Cross-Asset",
-  "categoryColor": "bg-slate-600",
-  "title": "BTC–Nasdaq Decouple — Crypto Leads Risk Lower",
-  "summary": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.**",
-  "fullContent": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.** The correlation that held through 2023–25 has broken as crypto, the highest-beta pocket, leads lower. Equity breadth was already thinning in [AI Mania](/i/54) and our [seasonality wrap](/i/51) flagged a late-November wobble. Macro flow supports caution: softer demand in [retail sales](/i/56) and a flow/stock split in weekly [claims](/i/59) point to slower hiring and cooler spending. Even with elevated odds of December easing, positioning remains concentrated and sensitive to earnings proofs, not promises. Decoupling says “risk appetite is tightening at the edges” before it shows up in the indices. Watch: BTC–Nasdaq correlation, equal-weight vs SPX, and credit spreads to judge whether this is a brief shakeout or the start of broader de-risking.",
-  "chartPath": "/charts/Cross-Asset/bitcoin-vs-nasdaq-decoupling_2025-11-26.svg",
+  "date": "25-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Short-Term Expectations Eased, Long-Term Remains Anchored",
+  "summary": "**Short-term inflation expectations eased to 3.2 while long-term expectations remain anchored near 3%.**",
+  "fullContent": "**Short-term inflation expectations eased to 3.2 while long-term expectations remain anchored near 3%.**",
+  "chartPath": "/charts/Economics/us-umich-expecations_2025-11-25.svg",
   "chartHeight": "350"
 },
 {
@@ -863,4 +863,6 @@
   "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-12-04.svg",
   "chartHeight": "350"
 }
+
+
 ]
