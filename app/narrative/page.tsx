@@ -42,7 +42,7 @@ function ClientNarrative() {
 
       {/* HEADER */}
       <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
+        <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           
           <div>
             <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
@@ -66,7 +66,7 @@ function ClientNarrative() {
       </header>
 
       {/* NAVIGATION */}
-      <div className="max-w-7xl mx-auto px-6 mt-6 mb-10">
+      <div className="max-w-7xl mx-auto px-6 mt-5 mb-6">
         <nav className="flex gap-6 border-b border-slate-200 pb-2">
 
           <Link
@@ -87,34 +87,36 @@ function ClientNarrative() {
       </div>
 
       {/* CONTENT */}
-      <main className="max-w-7xl mx-auto px-6 space-y-20">
+      <main className="max-w-7xl mx-auto px-6 space-y-12">
 
         {narratives.map(n => (
-          <article key={n.id} className="pb-20 border-b border-slate-100 last:border-0">
+          <article key={n.id} className="pb-12 border-b border-slate-100 last:border-0">
 
             {/* NARRATIVE HEADER */}
-            <div className="mb-5">
+            <div className="mb-4">
               <div className="text-xs text-slate-500 font-bold mb-1">{n.date}</div>
               <h2 className="text-2xl font-bold text-slate-900">{n.title}</h2>
-              <p className="mt-2 text-slate-700 text-[15px] leading-relaxed">{n.summary}</p>
+              <p className="mt-1 text-slate-700 text-[15px] leading-snug max-w-2xl">
+                {n.summary}
+              </p>
             </div>
 
             {/* ROWS */}
             {n.rows.map((row, ri) => (
-              <section key={ri} className="mt-16 space-y-8">
+              <section key={ri} className="mt-10 space-y-4">
 
                 {/* ROW TITLE */}
-                <h3 className="text-xl font-semibold text-slate-900 text-center">
+                <h3 className="text-lg font-semibold text-slate-900 text-center">
                   {row.title}
                 </h3>
 
-                {/* STORY (JUSTIFIED + CENTERED) */}
-                <p className="text-[15px] text-slate-700 leading-relaxed text-justify max-w-3xl mx-auto">
+                {/* STORY PARAGRAPH */}
+                <p className="text-[15px] text-slate-700 leading-snug text-justify max-w-2xl mx-auto">
                   {row.story}
                 </p>
 
-                {/* PERFECTLY ALIGNED CHART ROW */}
-                <ChartRow charts={row.charts} />
+                {/* ULTRA-POLISHED CHART GRID */}
+                <PerfectChartRow charts={row.charts} />
 
               </section>
             ))}
@@ -125,8 +127,8 @@ function ClientNarrative() {
       </main>
 
       {/* FOOTER */}
-      <footer className="border-t border-slate-100 mt-24">
-        <div className="max-w-7xl mx-auto px-6 py-6 text-slate-400 text-xs text-center">
+      <footer className="border-t border-slate-100 mt-16">
+        <div className="max-w-7xl mx-auto px-6 py-4 text-slate-400 text-xs text-center">
           © {new Date().getFullYear()} Genesis Research
         </div>
       </footer>
@@ -136,15 +138,18 @@ function ClientNarrative() {
 }
 
 /* ------------------------------------------
-   PERFECTLY ALIGNED CHART ROW COMPONENT
+   ULTRA-POLISHED PERFECTLY ALIGNED CHART ROW
+   - Charts larger
+   - Less wasted space
+   - Perfect centering (vertical + horizontal)
 ------------------------------------------- */
-function ChartRow({ charts }: { charts: Chart[] }) {
+function PerfectChartRow({ charts }: { charts: Chart[] }) {
 
   const maxHeight = Math.max(...charts.map(c => Number(c.height)));
 
   return (
     <div
-      className="grid gap-10 md:grid-cols-2 grid-cols-1 items-center"
+      className="grid gap-6 md:grid-cols-2 grid-cols-1 items-center"
       style={{ height: maxHeight + 'px' }}
     >
       {charts.map((chart, ci) => (
@@ -156,6 +161,7 @@ function ChartRow({ charts }: { charts: Chart[] }) {
             className="rounded-lg"
             style={{
               height: chart.height ? chart.height + 'px' : 'auto',
+              width: '95%',
               objectFit: 'contain'
             }}
           />
