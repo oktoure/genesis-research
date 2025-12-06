@@ -6,7 +6,7 @@
    style=""
    viewBox="0 0 600 350"
    version="1.1"
-   id="svg142"
+   id="svg143"
    sodipodi:docname="jpyusd_vs-us-jp-10y-inv_2025-12-05.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview142"
+     id="namedview143"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -27,10 +27,10 @@
      inkscape:cy="175.29274"
      inkscape:window-width="976"
      inkscape:window-height="1186"
-     inkscape:window-x="244"
-     inkscape:window-y="25"
+     inkscape:window-x="1303"
+     inkscape:window-y="43"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g142" />
+     inkscape:current-layer="svg143" />
   <rect
      x="0"
      y="0"
@@ -39,12 +39,12 @@
      style="fill: rgb(0, 0, 0); fill-opacity: 0;"
      id="rect1" />
   <defs
-     id="defs-97bfb8">
+     id="defs-ad22d8">
     <g
        class="clips"
        id="g8">
       <clipPath
-         id="clip97bfb8xyplot"
+         id="clipad22d8xyplot"
          class="plotclip">
         <rect
            width="524"
@@ -52,7 +52,7 @@
            id="rect2" />
       </clipPath>
       <clipPath
-         id="clip97bfb8xy2plot"
+         id="clipad22d8xy2plot"
          class="plotclip">
         <rect
            width="524"
@@ -61,7 +61,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip97bfb8x">
+         id="clipad22d8x">
         <rect
            x="40"
            y="0"
@@ -71,7 +71,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip97bfb8y">
+         id="clipad22d8y">
         <rect
            x="0"
            y="28"
@@ -81,7 +81,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip97bfb8xy">
+         id="clipad22d8xy">
         <rect
            x="40"
            y="28"
@@ -91,7 +91,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip97bfb8y2">
+         id="clipad22d8y2">
         <rect
            x="0"
            y="28"
@@ -101,7 +101,7 @@
       </clipPath>
       <clipPath
          class="axesclip"
-         id="clip97bfb8xy2">
+         id="clipad22d8xy2">
         <rect
            x="40"
            y="28"
@@ -232,13 +232,13 @@
         <g
            class="xy"
            transform="translate(40,28)"
-           clip-path="url(#clip97bfb8xyplot)"
+           clip-path="url(#clipad22d8xyplot)"
            id="g45">
           <g
              class="scatterlayer mlayer"
              id="g44">
             <g
-               class="trace scatter trace495753"
+               class="trace scatter trace5faf3b"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g43">
               <g
@@ -268,13 +268,13 @@
         <g
            class="xy2"
            transform="translate(40,28)"
-           clip-path="url(#clip97bfb8xy2plot)"
+           clip-path="url(#clipad22d8xy2plot)"
            id="g53">
           <g
              class="scatterlayer mlayer"
              id="g52">
             <g
-               class="trace scatter tracebc448f"
+               class="trace scatter traceeedbc3"
                style="stroke-miterlimit: 2; opacity: 1;"
                id="g51">
               <g
@@ -732,7 +732,7 @@
      class="glimages"
      id="g111" />
   <defs
-     id="topdefs-97bfb8">
+     id="topdefs-ad22d8">
     <g
        class="clips"
        id="g112" />
@@ -772,7 +772,7 @@
   </g>
   <g
      class="infolayer"
-     id="g142">
+     id="g143">
     <g
        class="g-gtitle"
        id="g118" />
@@ -912,51 +912,56 @@
     <g
        class="annotation"
        data-index="4"
-       style="opacity:1"
-       id="g138"
-       transform="translate(23.185012,2.8103044)">
+       style="opacity: 1;"
+       id="g139">
       <g
          class="annotation-text-g"
-         id="g137">
+         transform="rotate(0,303.74666666666667,116.45131428571429)"
+         id="g138">
         <g
            class="cursor-pointer"
-           transform="translate(189,89)"
-           id="g136">
+           transform="translate(189,83)"
+           id="g137">
           <rect
              class="bg"
              x="0.5"
              y="0.5"
              width="228"
-             height="53"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+             height="66"
+             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
              id="rect133" />
           <text
              class="annotation-text"
              text-anchor="middle"
-             x="114.38281"
+             x="114.3828125"
              y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text136"><tspan
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text137"><tspan
                class="line"
                dy="0em"
-               x="114.38281"
+               x="114.3828125"
                y="11"
                id="tspan133">2021–23 IN LOCKSTEP; SINCE APR-25 THE</tspan><tspan
                class="line"
                dy="1.3em"
-               x="114.38281"
+               x="114.3828125"
                y="11"
                id="tspan134">SPREAD NARROWS BUT JPY/USD WEAKENS :</tspan><tspan
                class="line"
-               dy="2.5999999em"
-               x="114.38281"
+               dy="2.6em"
+               x="114.3828125"
                y="11"
                id="tspan135">REGIME SHIFT—FLOWS/FISCAL &gt; RATES; USD</tspan><tspan
                class="line"
-               dy="3.9000001em"
-               x="114.38281"
+               dy="3.9000000000000004em"
+               x="114.3828125"
                y="11"
-               id="tspan136">STILL PREFERRED BUT THIS SHOULD NOT.</tspan></text>
+               id="tspan136">STILL PREFERRED BUT THIS SHOULD NOT</tspan><tspan
+               class="line"
+               dy="5.2em"
+               x="114.3828125"
+               y="11"
+               id="tspan137">PERSIST.</tspan></text>
         </g>
       </g>
     </g>
@@ -964,15 +969,15 @@
        class="annotation"
        data-index="5"
        style="opacity: 1;"
-       id="g141">
+       id="g142">
       <g
          class="annotation-text-g"
          transform="rotate(0,103.5,325.5)"
-         id="g140">
+         id="g141">
         <g
            class="cursor-pointer"
            transform="translate(40,319)"
-           id="g139">
+           id="g140">
           <rect
              class="bg"
              x="0.5"
@@ -980,14 +985,14 @@
              width="126"
              height="12"
              style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect138" />
+             id="rect139" />
           <text
              class="annotation-text"
              text-anchor="start"
              x="2"
              y="9"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-             id="text138">SOURCE: GENESIS RESEARCH.</text>
+             id="text139">SOURCE: GENESIS RESEARCH.</text>
         </g>
       </g>
     </g>
