@@ -14,7 +14,7 @@ interface Chart {
 
 interface NarrativeRow {
   title: string;
-  bullets: string[];
+  story: string;
   charts: Chart[];
 }
 
@@ -92,7 +92,7 @@ function ClientNarrative() {
         {narratives.map(n => (
           <article key={n.id} className="pb-20 border-b border-slate-100 last:border-0">
 
-            {/* TITLE + DATE */}
+            {/* NARRATIVE HEADER */}
             <div className="mb-5">
               <div className="text-xs text-slate-500 font-bold mb-1">{n.date}</div>
               <h2 className="text-2xl font-bold text-slate-900">{n.title}</h2>
@@ -101,36 +101,20 @@ function ClientNarrative() {
 
             {/* ROWS */}
             {n.rows.map((row, ri) => (
-              <section key={ri} className="mt-12 space-y-6">
+              <section key={ri} className="mt-16 space-y-8">
 
                 {/* ROW TITLE */}
-                <h3 className="text-lg font-semibold text-slate-900">
+                <h3 className="text-xl font-semibold text-slate-900 text-center">
                   {row.title}
                 </h3>
 
-                {/* BULLETS */}
-                <ul className="list-disc list-inside text-slate-700 text-[15px] space-y-1">
-                  {row.bullets.map((b, bi) => (
-                    <li key={bi}>{b}</li>
-                  ))}
-                </ul>
+                {/* STORY (JUSTIFIED + CENTERED) */}
+                <p className="text-[15px] text-slate-700 leading-relaxed text-justify max-w-3xl mx-auto">
+                  {row.story}
+                </p>
 
-                {/* CHART GRID */}
-                <div className={`grid gap-10 md:grid-cols-2 grid-cols-1`}>
-                  {row.charts.map((chart, ci) => (
-                    <div key={ci} className="flex justify-center">
-                      <img
-                        src={encodeURI(chart.path)}
-                        alt=""
-                        className="rounded-lg"
-                        style={{
-                          height: chart.height ? chart.height + 'px' : 'auto',
-                          objectFit: 'contain'
-                        }}
-                      />
-                    </div>
-                  ))}
-                </div>
+                {/* PERFECTLY ALIGNED CHART ROW */}
+                <ChartRow charts={row.charts} />
 
               </section>
             ))}
@@ -147,6 +131,37 @@ function ClientNarrative() {
         </div>
       </footer>
 
+    </div>
+  );
+}
+
+/* ------------------------------------------
+   PERFECTLY ALIGNED CHART ROW COMPONENT
+------------------------------------------- */
+function ChartRow({ charts }: { charts: Chart[] }) {
+
+  const maxHeight = Math.max(...charts.map(c => Number(c.height)));
+
+  return (
+    <div
+      className="grid gap-10 md:grid-cols-2 grid-cols-1 items-center"
+      style={{ height: maxHeight + 'px' }}
+    >
+      {charts.map((chart, ci) => (
+        <div key={ci} className="flex justify-center items-center h-full">
+
+          <img
+            src={encodeURI(chart.path)}
+            alt=""
+            className="rounded-lg"
+            style={{
+              height: chart.height ? chart.height + 'px' : 'auto',
+              objectFit: 'contain'
+            }}
+          />
+
+        </div>
+      ))}
     </div>
   );
 }

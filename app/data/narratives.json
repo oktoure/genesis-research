@@ -8,11 +8,7 @@
     "rows": [
       {
         "title": "Growth & Inflation — Manufacturing Softens While Dollar Pass-Through Builds",
-        "bullets": [
-          "ISM Manufacturing stays in contraction while orders and employment weaken further.",
-          "Import prices turn positive as a softer USD begins to lift traded-goods inflation.",
-          "Overall: softer growth momentum paired with early-stage inflation stabilization."
-        ],
+        "story": "ISM manufacturing remains weak while order flow and employment soften further. At the same time, a softer USD begins lifting import prices, signaling early-stage inflation stabilization. Together, these shifts portray a late-cycle mix of cooling momentum and rising sensitivity to currency-driven price pressures.",
         "charts": [
           {
             "path": "/charts/Economics/ism-nov-orders-prices-employment_2025-11-28.svg",
@@ -28,11 +24,7 @@
       },
       {
         "title": "Labor & Market Reaction — Hiring Slows, Gold Breaks Higher",
-        "bullets": [
-          "ADP −32k confirms private-sector hiring momentum has rolled over.",
-          "Rate expectations and a softer USD continue to reinforce precious-metals strength.",
-          "Gold’s breakout validates easing expectations and acts as a macro hedge."
-        ],
+        "story": "Private hiring momentum deteriorated as ADP registered a sharp decline, reinforcing signs of economic cooling. Market pricing continues to anticipate policy easing while the weaker USD amplifies flows into precious metals. Gold’s breakout reflects this macro hedge dynamic and aligns with expectations of softer labor and slower growth.",
         "charts": [
           {
             "path": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
