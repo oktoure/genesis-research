@@ -21,18 +21,4 @@
         "height": "350"
       }
     ]
-  },
-  {
-    "id": 2,
-    "date": "26-11-2025",
-    "title": "The Policy Pivot",
-    "summary": "With the US 10-year yield breaking below 4% and December cut odds surging, we examine how policy easing is reshaping market dynamics.",
-    "charts": [
-      {
-        "path": "/charts/Economics/fed-funds-us10y-dxy_2025-11-26.svg",
-        "type": "large",
-        "height": "500"
-      }
-    ]
   }
-]
