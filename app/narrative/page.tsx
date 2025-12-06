@@ -81,44 +81,40 @@ function ClientNarrative() {
       </div>
 
       {/* CONTENT */}
-      <main className="max-w-7xl mx-auto px-6 space-y-16">
+      <main className="max-w-7xl mx-auto px-6 space-y-20">
 
         {narratives.map(n => (
-          <article
-            key={n.id}
-            className="border-b border-slate-200 pb-16 last:border-0"
-          >
+          <article key={n.id} className="pb-20 border-b border-slate-100 last:border-0">
 
-            {/* TITLE + DATE */}
-            <div className="mb-6">
+            {/* TITLE */}
+            <div className="mb-8">
               <div className="text-xs text-slate-500 font-bold mb-2">{n.date}</div>
               <h3 className="text-xl font-bold text-slate-900">{n.title}</h3>
               <p className="mt-3 text-slate-700 text-[15px] leading-relaxed">{n.summary}</p>
             </div>
 
             {/* CHARTS */}
-            {buildRows(n.charts).map((row, i) => (
+            {buildChartRows(n.charts).map((row, i) => (
               <div
                 key={i}
                 className={`grid gap-8 ${
-                  row.length === 2 ? 'grid-cols-1 md:grid-cols-2' : 'grid-cols-1'
+                  row.length === 2 ? 'md:grid-cols-2 grid-cols-1' : 'grid-cols-1'
                 }`}
               >
                 {row.map((chart, j) => (
-                  <div key={j}>
+                  <div key={j} className="w-full">
                     {chart.path ? (
                       <img
                         src={encodeURI(chart.path)}
                         alt=""
-                        className="w-full h-auto rounded-lg border border-slate-200"
-                        style={
-                          chart.height
-                            ? { height: chart.height, objectFit: 'contain' }
-                            : {}
-                        }
+                        className="w-full h-auto rounded-lg"
+                        style={{
+                          height: chart.height ? chart.height + 'px' : 'auto',
+                          objectFit: 'contain'
+                        }}
                       />
                     ) : (
-                      <div className="aspect-[16/9] w-full border border-slate-300 rounded grid place-items-center text-slate-400 text-xs">
+                      <div className="aspect-[16/9] w-full rounded bg-slate-100 grid place-items-center text-slate-400 text-xs">
                         Chart coming soon
                       </div>
                     )}
@@ -130,16 +126,10 @@ function ClientNarrative() {
           </article>
         ))}
 
-        {narratives.length === 0 && (
-          <div className="text-slate-500 text-sm">
-            No narratives available yet.
-          </div>
-        )}
-
       </main>
 
       {/* FOOTER */}
-      <footer className="border-t border-slate-100 mt-16">
+      <footer className="border-t border-slate-100 mt-24">
         <div className="max-w-7xl mx-auto px-6 py-6 text-slate-400 text-xs text-center">
           © {new Date().getFullYear()} Genesis Research
         </div>
@@ -150,24 +140,31 @@ function ClientNarrative() {
 }
 
 /* ---------------------------------------
-   Build chart rows: large → full width,
-   side charts pair automatically.
+   New row builder: NEVER crashes
+   - "large" → full-width row
+   - "side"  → grouped 2 per row
 ---------------------------------------- */
-function buildRows(charts: Chart[]) {
+function buildChartRows(charts: Chart[]) {
   const rows: Chart[][] = [];
-  
-  for (const c of charts) {
-    if (c.type === 'large') {
-      rows.push([c]);
+  let buffer: Chart[] = [];
+
+  charts.forEach(chart => {
+    if (chart.type === 'large') {
+      if (buffer.length > 0) {
+        rows.push([...buffer]);
+        buffer = [];
+      }
+      rows.push([chart]);
     } else {
-      const last = rows[rows.length - 1];
-      if (last && last.length === 1 && last[0].type === 'side') {
-        last.push(c);
-      } else {
-        rows.push([c]);
+      buffer.push(chart);
+      if (buffer.length === 2) {
+        rows.push([...buffer]);
+        buffer = [];
       }
     }
-  }
+  });
+
+  if (buffer.length > 0) rows.push([...buffer]);
 
   return rows;
 }
