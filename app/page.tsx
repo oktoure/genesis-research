@@ -19,6 +19,11 @@ interface Insight {
   chartHeight?: string;
 }
 
+// Fonction pour encoder l'ID (remplace les points par des tirets)
+function encodeInsightId(id: number): string {
+  return String(id).replace(/\./g, '-');
+}
+
 export default function Page() {
   return (
     <Suspense fallback={
@@ -117,9 +122,7 @@ function ClientHome() {
   return (
     <div className="min-h-screen bg-white">
 
-      {/* ------------------------------------------- */}
       {/* HEADER */}
-      {/* ------------------------------------------- */}
       <header className="bg-slate-900 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
           <div>
@@ -144,9 +147,7 @@ function ClientHome() {
         </div>
       </header>
 
-      {/* ------------------------------------------- */}
-      {/* NAVIGATION: Insights | Narrative */}
-      {/* ------------------------------------------- */}
+      {/* NAVIGATION */}
       <div className="max-w-7xl mx-auto px-6 mt-6 mb-6">
         <nav className="flex gap-6 border-b border-slate-200 pb-2">
           <span className="py-2 text-sm font-semibold text-slate-900 border-b-2 border-blue-600">
@@ -162,17 +163,13 @@ function ClientHome() {
         </nav>
       </div>
 
-      {/* ------------------------------------------- */}
       {/* TITLE */}
-      {/* ------------------------------------------- */}
       <main className="max-w-7xl mx-auto px-6 py-6">
         <h2 className="text-2xl font-bold text-slate-900 mb-6">
           Insights
         </h2>
 
-        {/* ------------------------------------------- */}
         {/* CATEGORY TABS */}
-        {/* ------------------------------------------- */}
         <div className="mb-8 border-b border-slate-200">
           <nav className="flex flex-wrap gap-6">
             {categories.map(cat => {
@@ -198,9 +195,7 @@ function ClientHome() {
           </nav>
         </div>
 
-        {/* ------------------------------------------- */}
-        {/* INSIGHTS FEED (unchanged) */}
-        {/* ------------------------------------------- */}
+        {/* INSIGHTS FEED */}
         <div className="space-y-10">
           {shownInsights.map(insight => {
             const isExpanded = expandedId === insight.id;
@@ -208,7 +203,9 @@ function ClientHome() {
               ? insight.fullContent ?? insight.summary
               : insight.summary ?? insight.fullContent;
 
-            const detailHref = `/i/${insight.id}?from=${encodeURIComponent(
+            // ✅ ENCODAGE DE L'ID ICI
+            const encodedId = encodeInsightId(insight.id);
+            const detailHref = `/i/${encodedId}?from=${encodeURIComponent(
               currentFilterPath
             )}`;
 
@@ -303,9 +300,7 @@ function ClientHome() {
         </div>
       </main>
 
-      {/* ------------------------------------------- */}
       {/* FOOTER */}
-      {/* ------------------------------------------- */}
       <footer className="border-t border-slate-100 mt-12">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <p className="text-slate-400 text-xs text-center">

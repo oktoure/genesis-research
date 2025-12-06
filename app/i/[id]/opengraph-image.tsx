@@ -16,8 +16,13 @@ type Insight = {
   fullContent?: string;
 };
 
+// Fonction pour décoder l'ID (remplace les tirets par des points)
+function decodeInsightId(encoded: string): number {
+  return Number(encoded.replace(/-/g, '.'));
+}
+
 export default async function OGImage({ params }: { params: { id: string } }) {
-  const idNum = Number(params.id);
+  const idNum = decodeInsightId(params.id);
   const post = (insights as Insight[]).find((p) => p.id === idNum);
 
   const title = post?.title ?? 'Genesis Research';

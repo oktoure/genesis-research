@@ -20,14 +20,26 @@ type Insight = {
 
 export const dynamic = 'force-static';
 
-export function generateStaticParams() {
-  return (insights as Insight[]).map((i) => ({ id: String(i.id) }));
+// Fonction pour encoder l'ID (remplace les points par des tirets)
+function encodeInsightId(id: number): string {
+  return String(id).replace(/\./g, '-');
 }
 
-function findPost(id: string): Insight | undefined {
-  const num = Number(id);
-  if (Number.isNaN(num)) return undefined;
-  return (insights as Insight[]).find((p) => p.id === num);
+// Fonction pour décoder l'ID (remplace les tirets par des points)
+function decodeInsightId(encoded: string): number {
+  return Number(encoded.replace(/-/g, '.'));
+}
+
+export function generateStaticParams() {
+  return (insights as Insight[]).map((i) => ({ 
+    id: encodeInsightId(i.id)
+  }));
+}
+
+function findPost(encodedId: string): Insight | undefined {
+  const decodedId = decodeInsightId(encodedId);
+  if (Number.isNaN(decodedId)) return undefined;
+  return (insights as Insight[]).find((p) => p.id === decodedId);
 }
 
 function summarize(i: Insight, max = 160): string {
