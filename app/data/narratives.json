@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "date": "28-11-2025",
+    "title": "Market Dynamics Q4 2024",
+    "summary": "An in-depth analysis of the shifting market dynamics as we close out 2024, examining key trends across asset classes and their implications for portfolio positioning.",
+    "charts": [
+      {
+        "path": "/charts/Commodities/gold-silver-breakout-dec-cut-odds_2025-11-28.svg",
+        "type": "large",
+        "height": "500"
+      },
+      {
+        "path": "/charts/Economics/dec-cut-odds_2025-11-24.svg",
+        "type": "side",
+        "height": "350"
+      },
+      {
+        "path": "/charts/Commodities/gold-4h-ma200-bounce_2025-11-24.svg",
+        "type": "side",
+        "height": "350"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "26-11-2025",
+    "title": "The Policy Pivot",
+    "summary": "With the US 10-year yield breaking below 4% and December cut odds surging, we examine how policy easing is reshaping market dynamics.",
+    "charts": [
+      {
+        "path": "/charts/Economics/fed-funds-us10y-dxy_2025-11-26.svg",
+        "type": "large",
+        "height": "500"
+      }
+    ]
+  }
+]
