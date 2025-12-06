@@ -87,23 +87,23 @@ function ClientNarrative() {
       </div>
 
       {/* CONTENT */}
-      <main className="max-w-7xl mx-auto px-6 space-y-12">
+      <main className="max-w-7xl mx-auto px-6 space-y-20">
 
         {narratives.map(n => (
-          <article key={n.id} className="pb-12 border-b border-slate-100 last:border-0">
+          <article key={n.id} className="pb-16 border-b border-slate-100 last:border-0">
 
             {/* NARRATIVE HEADER */}
-            <div className="mb-4">
+            <div className="mb-6">
               <div className="text-xs text-slate-500 font-bold mb-1">{n.date}</div>
               <h2 className="text-2xl font-bold text-slate-900">{n.title}</h2>
-              <p className="mt-1 text-slate-700 text-[15px] leading-snug max-w-2xl">
+              <p className="mt-2 text-slate-700 text-[16px] leading-relaxed max-w-3xl">
                 {n.summary}
               </p>
             </div>
 
             {/* ROWS */}
             {n.rows.map((row, ri) => (
-              <section key={ri} className="mt-10 space-y-4">
+              <section key={ri} className="mt-14 space-y-6">
 
                 {/* ROW TITLE */}
                 <h3 className="text-lg font-semibold text-slate-900 text-center">
@@ -111,11 +111,11 @@ function ClientNarrative() {
                 </h3>
 
                 {/* STORY PARAGRAPH */}
-                <p className="text-[15px] text-slate-700 leading-snug text-justify max-w-2xl mx-auto">
+                <p className="text-[16px] text-slate-700 leading-relaxed text-justify max-w-3xl mx-auto">
                   {row.story}
                 </p>
 
-                {/* CHART GRID (NO FORCED HEIGHT — FIXES GAP ISSUE) */}
+                {/* CHART GRID */}
                 <PerfectChartRow charts={row.charts} />
 
               </section>
@@ -137,35 +137,23 @@ function ClientNarrative() {
   );
 }
 
-/* ------------------------------------------
-   ULTRA-POLISHED PERFECTLY ALIGNED CHART ROW
-   - No forced height (fixes huge gap problem)
-   - Charts align vertically & horizontally
-   - Charts appear larger and sharper
-   - Minimal whitespace
-------------------------------------------- */
 function PerfectChartRow({ charts }: { charts: Chart[] }) {
-
   return (
     <div className="grid gap-6 md:grid-cols-2 grid-cols-1">
-
       {charts.map((chart, ci) => (
-        <div key={ci} className="flex justify-center items-center">
-
+        <div key={ci} className="flex justify-center items-start">
           <img
             src={encodeURI(chart.path)}
             alt=""
-            className="rounded-lg"
+            className="rounded-md shadow-sm"
             style={{
               height: chart.height ? chart.height + 'px' : 'auto',
-              width: '95%',
+              width: '100%',
               objectFit: 'contain'
             }}
           />
-
         </div>
       ))}
-
     </div>
   );
 }

@@ -2,79 +2,60 @@
   {
     "id": 100,
     "date": "05-12-2025",
-    "title": "Macro StoryLine — Consumer, Inflation, Labor & Precious Metals",
-    "summary": "An integrated eight-panel narrative capturing consumer sentiment, inflation momentum, labor-market dynamics, and the macro hedge response through gold.",
+    "title": "Growth, Inflation, Labor & Market Response",
+    "summary": "Evolving macro landscape across growth, inflation, labor momentum, USD dynamics, and precious-metals response into year-end.",
 
     "rows": [
-
       {
-        "title": "Growth & Expectations — Sentiment Improves as Core Eases",
-        "story": "Consumer expectations firm while headline and core PCE ease to 2.8%, reinforcing a soft-landing path. Real-rate pressure moderates as inflation expectations cool, supporting a more constructive demand backdrop.",
+        "title": "Growth & Inflation — Manufacturing Softens While Prices Stay Sensitive",
+        "story": "ISM manufacturing remains weak while demand indicators soften and prices stay firm. A cooling goods sector paired with sticky cost dynamics signals a late-cycle mix: growth losing momentum but inflation pressure slowing rather than breaking.",
         "charts": [
           {
-            "path": "/charts/Economics/umich-sentiment_gdp-gdi-spending_2025-12-05.svg",
+            "path": "/charts/Economics/ism-nov-orders-prices-employment_2025-11-28.svg",
             "type": "side",
-            "height": "900"
+            "height": "700"
           },
-          {
-            "path": "/charts/Economics/exp-5y5y-and-pce_2025-12-05.svg",
-            "type": "side",
-            "height": "900"
-          }
-        ]
-      },
-
-      {
-        "title": "Labor Market — Claims Improve While Hiring Slows",
-        "story": "Initial and continuing claims eased, tempering slowdown fears. Yet private hiring momentum remains weak, with ADP contracting and signaling softer job creation into year-end. Together, the mix shows cooling—not cracking—labor conditions.",
-        "charts": [
-          {
-            "path": "/charts/Economics/us-claims-initial-vs-continuing_2025-12-04.svg",
-            "type": "side",
-            "height": "900"
-          },
-          {
-            "path": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
-            "type": "side",
-            "height": "900"
-          }
-        ]
-      },
-
-      {
-        "title": "Inflation Pressure — Services Cool While USD Pass-Through Builds",
-        "story": "Service-sector prices ease meaningfully, aligning with disinflation in PCE goods. However, softer USD conditions begin lifting import prices, signaling currency-driven inflation sensitivity as spreads compress.",
-        "charts": [
           {
             "path": "/charts/Economics/ism-services-activity_and-prices-vs-pce_2025-12-02.svg",
             "type": "side",
-            "height": "900"
-          },
-          {
-            "path": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
-            "type": "side",
-            "height": "900"
+            "height": "700"
           }
         ]
       },
 
       {
-        "title": "Precious Metals — Silver Leads, Gold Holds Breakout",
-        "story": "Silver’s strength and a falling gold–silver ratio reinforce the bullish precious-metals setup. Gold holds its breakout as easing odds rise and real-rate pressure softens, sustaining momentum into year-end.",
+        "title": "Dollar Dynamics — Softer USD Begins Filtering Into Prices",
+        "story": "A weaker USD is beginning to show up in import-price stabilization and modest upside pressure on traded-goods inflation. Even without a broad inflation reacceleration, currency sensitivity is rising into early 2026 as rate spreads narrow.",
         "charts": [
           {
-            "path": "/charts/Commodities/gold-silver-ratio_2025-11-28.svg",
+            "path": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
             "type": "side",
-            "height": "700"
+            "height": "350"
           },
           {
-            "path": "/charts/Commodities/gold-silver-4h_2025-12-03.svg",
+            "path": "/charts/Economics/fed-funds-us10y-dxy_2025-11-26.svg",
             "type": "side",
-            "height": "700"
+            "height": "350"
+          }
+        ]
+      },
+
+      {
+        "title": "Labor & Market Behavior — Hiring Slows as Gold Strengthens",
+        "story": "Labor momentum cooled as ADP signaled weaker private-sector hiring, while market pricing turned toward measured easing. Gold continues to benefit from softer yields, rising cut odds, and a supportive macro-hedge backdrop.",
+        "charts": [
+          {
+            "path": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
+            "type": "side",
+            "height": "350"
+          },
+          {
+            "path": "/charts/Commodities/gold-4h-4245-target_2025-11-28.svg",
+            "type": "side",
+            "height": "350"
           }
         ]
       }
-
     ]
   }
 ]
