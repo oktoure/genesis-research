@@ -862,28 +862,5 @@
   "fullContent": "**Initial claims fell to 191k (from 218k, vs 220k) and continuing claims dipped to 1.939M (from 1.943M, vs 1.960M)—flow and stock both eased, tempering slowdown fears ahead of NFP.** The 4-week average slid to 214.75k (from 224.25k), reinforcing a still-tight labor tape despite the private-hiring setback in [ADP −32k](/i/71). The mix stabilizes the late-cycle map—easier conditions via softer yields/USD in [US10Y & DXY](/i/62), cooler services prices in [ISM Services](/i/73), and a modest import-price headwind in [Import Prices](/i/72)—and keeps the Fed on a measured easing path, not a pivot. Guardrails: a sustained move in initial >240–250k or continuing >2.0M would mark broader slack; today’s beat argues we aren’t there. **Net: labor resilience trims recession odds at the margin—watch wages, hours, and participation in NFP.**",
   "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-12-04.svg",
   "chartHeight": "350"
-},
-{
-  "id": 76,
-  "date": "05-12-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Core 2.8%, Headline 2.8 — Last-Mile Eases, Not Re-Accelerates",
-  "summary": "**Core PCE eased to 2.8% annual (from 2.9; 0.2% m/m) while headline held 2.8% (0.3% m/m)—disinflation inches forward and keeps measured easing in play.**",
-  "fullContent": "**Core PCE eased to 2.8% annual (from 2.9; 0.2% m/m) while headline held 2.8% (0.3% m/m)—disinflation inches forward and keeps measured easing in play.** Income rose 0.4% and spending 0.3%, a cool-but-steady mix that fits the late-cycle glide we’ve mapped in [US10Y & DXY](/i/62) and [Claims Plunge](/i/75). Inflation expectations eased too—UMich 1-year 4.1% and 5-year 3.2%—lowering the risk of a policy-credibility detour and supporting a softer dollar path. Pipeline checks in [PPI](/i/57) and services prices in [ISM Services](/i/73) remain consistent with gradual relief; import-price pass-through in [Import Prices](/i/72) is a headwind to watch, not a regime change. **Net: core cools, expectations ease, and the policy case stays “measured, not a pivot”; we track services and wages for the last mile.**",
-  "chartPath": "/charts/Economics/exp-5y5y-and-pce_2025-12-05.svg",
-  "chartHeight": "700"
-},
-{
-  "id": 77,
-  "date": "05-12-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Sentiment 53.3; Expectations 55 — Cushion Firms, Not Roars",
-  "summary": "**UMich sentiment rose to 53.3 and expectations to 55 while current conditions dipped to 50.7—forward tone improves even as today’s cushion stays thin.**",
-  "fullContent": "**UMich sentiment rose to 53.3 and expectations to 55 while current conditions dipped to 50.7—forward tone improves even as today’s cushion stays thin.** Historically, expectations lead real outlays; paired with our [claims](/i/75) beat and easing in [US10Y & DXY](/i/62), the setup argues consumption slows less than feared rather than cracks. Current-conditions softness keeps the Q4–Q1 slope modest—consistent with the late-cycle mix in [Retail Sales](/i/56) and factory contraction in [ISM 48.2](/i/67). The inflation-expectations drop (1-year 4.1%, 5-year 3.2%) complements the growth read by easing real-rate pressure and improving confidence transmission. **Net: expectations rebound signals stabilization ahead while conditions remain tight—soft-landing odds improve, but breadth and wages will decide the follow-through.**",
-  "chartPath": "/charts/Economics/umich-sentiment_gdp-gdi-spending_2025-12-05.svg",
-  "chartHeight": "700"
 }
-
 ]
