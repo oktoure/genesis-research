@@ -82,10 +82,11 @@ function renderInline(text: string): React.ReactNode[] {
 }
 
 export async function generateMetadata(
-  { params }: { params: { id: string } },
+  { params }: { params: Promise<{ id: string }> },
   _parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const post = findPost(params.id);
+  const { id } = await params;  // ✅ On attend la Promise ICI
+  const post = findPost(id);
   if (!post) return {};
 
   const title = post.title;
@@ -93,7 +94,7 @@ export async function generateMetadata(
   const normalized = normalizeSrc(post.chartPath);
   const ogImage = normalized
     ? absoluteUrl(normalized)
-    : absoluteUrl(`/i/${params.id}/opengraph-image`);
+    : absoluteUrl(`/i/${id}/opengraph-image`);  // ✅ Utilise 'id' ici, pas 'params.id'
 
   return {
     title,
@@ -102,7 +103,7 @@ export async function generateMetadata(
       title,
       description,
       type: 'article',
-      url: absoluteUrl(`/i/${params.id}`),
+      url: absoluteUrl(`/i/${id}`),  // ✅ Et ici aussi
       images: [{ url: ogImage }],
     },
     twitter: {
@@ -113,9 +114,14 @@ export async function generateMetadata(
     },
   };
 }
-
-export default function InsightPage({ params }: { params: { id: string } }) {
-  const post = findPost(params.id);
+// APRÈS
+export default async function InsightPage({ 
+  params 
+}: { 
+  params: Promise<{ id: string }> 
+}) {
+  const { id } = await params;
+  const post = findPost(id);
   if (!post) return notFound();
 
   const chartSrc = normalizeSrc(post.chartPath);
