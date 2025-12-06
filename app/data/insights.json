@@ -891,11 +891,12 @@
   "category": "Currencies",
   "categoryColor": "bg-sky-600",
   "title": "Yen Ignores Narrowing Spread — Regime Shift Risk",
-  "summary": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while JPY/USD weakened to ~0.0065 (≈155)—a rare decoupling pointing to fiscal/flow dominance over rates.**",
-  "fullContent": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while JPY/USD weakened to ~0.0065 (≈155)—a rare decoupling pointing to fiscal/flow dominance over rates.** From 2021 to early 2024, JPY/USD and the inverted US–Japan 10Y spread moved almost one-for-one. Since spring 2025 the spread climbed from ~−3.8% to ~−2.2% (narrowing), yet JPY/USD drifted lower toward ~0.0065 (≈155). The break points to fiscal worries, ultra-gradual BoJ normalization, and persistent outbound flows overpowering the rate anchor, even as differentials compress per [US10Y & DXY](/i/62) and [Yield Spread Compresses](/i/64). Bias: still-soft yen while JPY/USD trades ~0.0065–0.0068 (USD/JPY ~155–147). A sustained move above 0.0070 (USD/JPY below 143) would flag re-coupling to narrowing spreads and a more durable yen recovery. **Net: capital and policy dominate—prefer USD over JPY until >0.0070 confirms a turn.**",
+  "summary": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.**",
+  "fullContent": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.** From 2021 to early 2024, USD/JPY moved almost one-for-one with the inverted US–Japan 10Y spread. Since spring 2025 the spread climbed from ~−3.8% to ~−2.2% (narrowing), yet USD/JPY pushed to ~155. Near-term, fiscal worries, ultra-gradual BoJ normalization, and persistent outbound flows have overpowered the rate anchor, even as differentials compress per [US10Y & DXY](/i/62) and [Yield Spread Compresses](/i/64). But valuation stretch, continuing spread compression, and a step-up in BoJ normalization argue for re-coupling and a stronger JPY in 2026. Tactically: still-soft yen while **150–155** holds; a weekly close **below 147** starts the turn, and **below 143** would confirm a durable yen recovery consistent with the narrowing spread. **Net: the rate anchor should reassert—base case is lower USD/JPY in 2026 as spreads compress and flows normalize.**",
   "chartPath": "/charts/Currencies/jpyusd_vs-us-jp-10y-inv_2025-12-05.svg",
   "chartHeight": "350"
 }
+
 
 
 
