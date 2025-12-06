@@ -103,7 +103,7 @@ function ClientNarrative() {
 
             {/* ROWS */}
             {n.rows.map((row, ri) => (
-              <section key={ri} className="mt-14 space-y-6">
+              <section key={ri} className="mt-14 space-y-4">
 
                 {/* ROW TITLE */}
                 <h3 className="text-lg font-semibold text-slate-900 text-center">
@@ -139,17 +139,17 @@ function ClientNarrative() {
 
 function PerfectChartRow({ charts }: { charts: Chart[] }) {
   return (
-    <div className="grid gap-6 md:grid-cols-2 grid-cols-1">
+    <div className="grid gap-4 md:grid-cols-2 grid-cols-1">
       {charts.map((chart, ci) => (
         <div key={ci} className="flex justify-center items-start">
           <img
             src={encodeURI(chart.path)}
             alt=""
-            className="rounded-md shadow-sm"
             style={{
               height: chart.height ? chart.height + 'px' : 'auto',
               width: '100%',
-              objectFit: 'contain'
+              objectFit: 'contain',
+              backgroundColor: 'transparent'
             }}
           />
         </div>
