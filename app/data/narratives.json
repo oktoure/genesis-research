@@ -18,7 +18,7 @@
           {
             "path": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
             "type": "side",
-            "height": "350"
+            "height": "450"
           }
         ]
       },
@@ -29,12 +29,12 @@
           {
             "path": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
             "type": "side",
-            "height": "350"
+            "height": "450"
           },
           {
             "path": "/charts/Commodities/gold-4h-4245-target_2025-11-28.svg",
             "type": "side",
-            "height": "350"
+            "height": "450"
           }
         ]
       }
