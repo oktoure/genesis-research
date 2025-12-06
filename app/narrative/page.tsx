@@ -8,8 +8,14 @@ export const dynamic = 'force-static';
 
 interface Chart {
   path: string;
-  type: 'large' | 'side';
+  type: 'side' | 'large';
   height?: string;
+}
+
+interface NarrativeRow {
+  title: string;
+  bullets: string[];
+  charts: Chart[];
 }
 
 interface Narrative {
@@ -17,7 +23,7 @@ interface Narrative {
   date: string;
   title: string;
   summary: string;
-  charts: Chart[];
+  rows: NarrativeRow[];
 }
 
 export default function NarrativePage() {
@@ -86,41 +92,47 @@ function ClientNarrative() {
         {narratives.map(n => (
           <article key={n.id} className="pb-20 border-b border-slate-100 last:border-0">
 
-            {/* TITLE */}
-            <div className="mb-8">
-              <div className="text-xs text-slate-500 font-bold mb-2">{n.date}</div>
-              <h3 className="text-xl font-bold text-slate-900">{n.title}</h3>
-              <p className="mt-3 text-slate-700 text-[15px] leading-relaxed">{n.summary}</p>
+            {/* TITLE + DATE */}
+            <div className="mb-5">
+              <div className="text-xs text-slate-500 font-bold mb-1">{n.date}</div>
+              <h2 className="text-2xl font-bold text-slate-900">{n.title}</h2>
+              <p className="mt-2 text-slate-700 text-[15px] leading-relaxed">{n.summary}</p>
             </div>
 
-            {/* CHARTS */}
-            {buildChartRows(n.charts).map((row, i) => (
-              <div
-                key={i}
-                className={`grid gap-8 ${
-                  row.length === 2 ? 'md:grid-cols-2 grid-cols-1' : 'grid-cols-1'
-                }`}
-              >
-                {row.map((chart, j) => (
-                  <div key={j} className="w-full">
-                    {chart.path ? (
+            {/* ROWS */}
+            {n.rows.map((row, ri) => (
+              <section key={ri} className="mt-12 space-y-6">
+
+                {/* ROW TITLE */}
+                <h3 className="text-lg font-semibold text-slate-900">
+                  {row.title}
+                </h3>
+
+                {/* BULLETS */}
+                <ul className="list-disc list-inside text-slate-700 text-[15px] space-y-1">
+                  {row.bullets.map((b, bi) => (
+                    <li key={bi}>{b}</li>
+                  ))}
+                </ul>
+
+                {/* CHART GRID */}
+                <div className={`grid gap-10 md:grid-cols-2 grid-cols-1`}>
+                  {row.charts.map((chart, ci) => (
+                    <div key={ci} className="flex justify-center">
                       <img
                         src={encodeURI(chart.path)}
                         alt=""
-                        className="w-full h-auto rounded-lg"
+                        className="rounded-lg"
                         style={{
                           height: chart.height ? chart.height + 'px' : 'auto',
                           objectFit: 'contain'
                         }}
                       />
-                    ) : (
-                      <div className="aspect-[16/9] w-full rounded bg-slate-100 grid place-items-center text-slate-400 text-xs">
-                        Chart coming soon
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
+                    </div>
+                  ))}
+                </div>
+
+              </section>
             ))}
 
           </article>
@@ -137,34 +149,4 @@ function ClientNarrative() {
 
     </div>
   );
-}
-
-/* ---------------------------------------
-   New row builder: NEVER crashes
-   - "large" → full-width row
-   - "side"  → grouped 2 per row
----------------------------------------- */
-function buildChartRows(charts: Chart[]) {
-  const rows: Chart[][] = [];
-  let buffer: Chart[] = [];
-
-  charts.forEach(chart => {
-    if (chart.type === 'large') {
-      if (buffer.length > 0) {
-        rows.push([...buffer]);
-        buffer = [];
-      }
-      rows.push([chart]);
-    } else {
-      buffer.push(chart);
-      if (buffer.length === 2) {
-        rows.push([...buffer]);
-        buffer = [];
-      }
-    }
-  });
-
-  if (buffer.length > 0) rows.push([...buffer]);
-
-  return rows;
 }

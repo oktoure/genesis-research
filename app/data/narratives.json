@@ -3,27 +3,48 @@
     "id": 100,
     "date": "05-12-2025",
     "title": "Macro StoryLine — Growth, Inflation, Labor & Market Response",
-    "summary": "A four-panel narrative capturing the evolving macro landscape across growth, inflation, labor dynamics, and market reaction into year-end.",
-    "charts": [
+    "summary": "A four-panel narrative capturing the evolving macro landscape across growth, inflation, labor conditions, and market reaction into year-end.",
+    
+    "rows": [
       {
-        "path": "/charts/Economics/ism-nov-orders-prices-employment_2025-11-28.svg",
-        "type": "side",
-        "height": "700"
+        "title": "Growth & Inflation — Manufacturing Softens While Dollar Pass-Through Builds",
+        "bullets": [
+          "ISM Manufacturing stays in contraction while orders and employment weaken further.",
+          "Import prices turn positive as a softer USD begins to lift traded-goods inflation.",
+          "Overall: softer growth momentum paired with early-stage inflation stabilization."
+        ],
+        "charts": [
+          {
+            "path": "/charts/Economics/ism-nov-orders-prices-employment_2025-11-28.svg",
+            "type": "side",
+            "height": "700"
+          },
+          {
+            "path": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
+            "type": "side",
+            "height": "350"
+          }
+        ]
       },
       {
-        "path": "/charts/Economics/import-prices-vs-dxy_2025-12-02.svg",
-        "type": "side",
-        "height": "350"
-      },
-      {
-        "path": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
-        "type": "side",
-        "height": "350"
-      },
-      {
-        "path": "/charts/Commodities/gold-4h-4245-target_2025-11-28.svg",
-        "type": "side",
-        "height": "350"
+        "title": "Labor & Market Reaction — Hiring Slows, Gold Breaks Higher",
+        "bullets": [
+          "ADP −32k confirms private-sector hiring momentum has rolled over.",
+          "Rate expectations and a softer USD continue to reinforce precious-metals strength.",
+          "Gold’s breakout validates easing expectations and acts as a macro hedge."
+        ],
+        "charts": [
+          {
+            "path": "/charts/Economics/adp-vs-nfp_std_2025-12-02.svg",
+            "type": "side",
+            "height": "350"
+          },
+          {
+            "path": "/charts/Commodities/gold-4h-4245-target_2025-11-28.svg",
+            "type": "side",
+            "height": "350"
+          }
+        ]
       }
     ]
   }
