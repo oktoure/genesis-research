@@ -43,7 +43,7 @@ function ClientNarrative() {
       {/* HEADER */}
       <header className="bg-slate-900 border-b border-slate-800">
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-          
+
           <div>
             <h1 className="text-2xl font-bold text-white tracking-tight">Genesis Research</h1>
             <p className="text-slate-400 mt-1 text-xs">
@@ -139,7 +139,7 @@ function ClientNarrative() {
 
 function PerfectChartRow({ charts }: { charts: Chart[] }) {
   return (
-    <div className="grid gap-x-6 gap-y-10 md:grid-cols-2 grid-cols-1">
+    <div className="grid gap-4 md:grid-cols-2 grid-cols-1 items-start">
       {charts.map((chart, ci) => (
         <div key={ci} className="flex justify-center">
           <img
@@ -149,7 +149,7 @@ function PerfectChartRow({ charts }: { charts: Chart[] }) {
               height: chart.height ? chart.height + 'px' : 'auto',
               width: '100%',
               objectFit: 'contain',
-              alignSelf: 'start'
+              marginTop: '0.25rem'
             }}
           />
         </div>
