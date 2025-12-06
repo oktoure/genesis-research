@@ -115,7 +115,7 @@ function ClientNarrative() {
                   {row.story}
                 </p>
 
-                {/* ULTRA-POLISHED CHART GRID */}
+                {/* CHART GRID (NO FORCED HEIGHT — FIXES GAP ISSUE) */}
                 <PerfectChartRow charts={row.charts} />
 
               </section>
@@ -139,21 +139,18 @@ function ClientNarrative() {
 
 /* ------------------------------------------
    ULTRA-POLISHED PERFECTLY ALIGNED CHART ROW
-   - Charts larger
-   - Less wasted space
-   - Perfect centering (vertical + horizontal)
+   - No forced height (fixes huge gap problem)
+   - Charts align vertically & horizontally
+   - Charts appear larger and sharper
+   - Minimal whitespace
 ------------------------------------------- */
 function PerfectChartRow({ charts }: { charts: Chart[] }) {
 
-  const maxHeight = Math.max(...charts.map(c => Number(c.height)));
-
   return (
-    <div
-      className="grid gap-6 md:grid-cols-2 grid-cols-1 items-center"
-      style={{ height: maxHeight + 'px' }}
-    >
+    <div className="grid gap-6 md:grid-cols-2 grid-cols-1">
+
       {charts.map((chart, ci) => (
-        <div key={ci} className="flex justify-center items-center h-full">
+        <div key={ci} className="flex justify-center items-center">
 
           <img
             src={encodeURI(chart.path)}
@@ -168,6 +165,7 @@ function PerfectChartRow({ charts }: { charts: Chart[] }) {
 
         </div>
       ))}
+
     </div>
   );
 }
