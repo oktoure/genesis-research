@@ -895,7 +895,19 @@
   "fullContent": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.** From 2021 to early 2024, USD/JPY moved almost one-for-one with the inverted US–Japan 10Y spread. Since spring 2025 the spread climbed from ~−3.8% to ~−2.2% (narrowing), yet USD/JPY pushed to ~155. Near-term, fiscal worries, ultra-gradual BoJ normalization, and persistent outbound flows have overpowered the rate anchor, even as differentials compress per [US10Y & DXY](/i/62) and [Yield Spread Compresses](/i/64). But valuation stretch, continuing spread compression, and a step-up in BoJ normalization argue for re-coupling and a stronger JPY in 2026. Tactically: still-soft yen while **150–155** holds; a weekly close **below 147** starts the turn, and **below 143** would confirm a durable yen recovery consistent with the narrowing spread. **The rate anchor should reassert—base case is a stronger yen in 2026 as spreads compress and flows normalize.**",
   "chartPath": "/charts/Currencies/jpyusd_vs-us-jp-10y-inv_2025-12-05.svg",
   "chartHeight": "350"
+},
+{
+  "id": 79,
+  "date": "05-12-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Labor Demand Cools, Price Leads Roll — 2026 Growth Risk",
+  "summary": "**Openings per unemployed are falling and price leads have rolled over, yet PCE lingers near 3%—growth likely slows first while disinflation grinds into 2026.**",
+  "fullContent": "**Openings per unemployed are falling and price leads have rolled over, yet PCE lingers near 3%—growth likely slows first while disinflation grinds into 2026.** The jobs-openings-to-unemployed ratio has retraced sharply from post-pandemic highs, consistent with softer hiring, slower wages, and shorter workweeks. Our price leads—ISM prices and an expectations composite—have turned down together, a setup that typically drags official inflation with a lag. Yet headline/core PCE both print 2.8% per [/i/76], implying the last mile is slow even as demand cools. Sentiment improved in [/i/77] and claims eased in [/i/75], but manufacturing remains sub-50 in [/i/67], keeping late-cycle risks alive. Policy read: measured easing stays in play while we watch wages, hours, and services prices for confirmation. **Net: demand weakens first; inflation should follow—base case is softer growth and gradual disinflation into 2026, not an abrupt break.**",
+  "chartPath": "/charts/Economics/labor-demand_and-price-leads_2025-12-05.svg",
+  "chartHeight": "700"
 }
+
 
 
 
