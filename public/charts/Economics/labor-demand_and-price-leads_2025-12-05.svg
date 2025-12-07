@@ -44,7 +44,7 @@
        inkscape:window-x="1331"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="g307"
+       inkscape:current-layer="g307-9"
        showgrid="false" />
     <rect
        x="0"
@@ -2546,7 +2546,8 @@
          transform="translate(-3.6060591,7.2575709)">
         <g
            class="annotation-text-g"
-           id="g306-9">
+           id="g306-9"
+           transform="translate(2.2727273,-6.8181818)">
           <g
              class="cursor-pointer"
              transform="translate(40,219)"
@@ -2581,15 +2582,11 @@
                  sodipodi:role="line"
                  x="2"
                  y="39"
-                 id="tspan11">NOTES: SHADED AREAS REPRESENT U.S. NBER-DESIGNATED RECESSIONS.</tspan><tspan
-                 sodipodi:role="line"
-                 x="2"
-                 y="49"
-                 id="tspan9">.</tspan><tspan
+                 id="tspan9">NOTES: SHADED AREAS REPRESENT U.S. NBER-DESIGNATED RECESSIONS.</tspan><tspan
                  sodipodi:role="line"
                  id="tspan7"
                  x="2"
-                 y="59" /></text>
+                 y="49" /></text>
           </g>
         </g>
       </g>
