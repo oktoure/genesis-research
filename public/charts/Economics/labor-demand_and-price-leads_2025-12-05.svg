@@ -37,14 +37,14 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.32"
-       inkscape:cx="205.68182"
-       inkscape:cy="227.65152"
+       inkscape:cx="-185.22727"
+       inkscape:cy="224.62121"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="1331"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="g307-9"
+       inkscape:current-layer="svg165"
        showgrid="false" />
     <rect
        x="0"
@@ -2243,6 +2243,13 @@
          class="subplot xy2"
          id="g266" />
     </g>
+    <text
+       class="annotation-text"
+       text-anchor="middle"
+       x="53.869141"
+       y="14.324216"
+       style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+       id="text294-1">Std Dev</text>
     <g
        class="polarlayer"
        id="g268"
@@ -2434,10 +2441,10 @@
             <text
                class="annotation-text"
                text-anchor="middle"
-               x="5.5625"
-               y="9"
+               x="-1.2556819"
+               y="9.757576"
                style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
-               id="text294">%</text>
+               id="text294">Std Dev</text>
           </g>
         </g>
       </g>
