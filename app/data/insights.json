@@ -906,7 +906,19 @@
   "fullContent": "**Openings per unemployed are falling and price leads have rolled over, yet PCE lingers near 3%—growth likely slows first while disinflation grinds into 2026.** The jobs-openings-to-unemployed ratio has retraced sharply from post-pandemic highs, consistent with softer hiring, slower wages, and shorter workweeks. Our price leads—[ISM prices](/i/67) and [UMich](/i/77) expectations—have turned down together, a setup that typically drags official inflation with a lag. Yet headline/core [PCE](/i/76) both print 2.8%, implying the last mile is slow even as demand cools. The mix aligns with the claims beat in [Claims Plunge](/i/75) but keeps a late-cycle risk skew until wages and services prices ease further. Policy: measured easing remains in play while we watch wages, hours, and services prices. **Net: demand weakens first; inflation should follow—base case is softer growth and gradual disinflation into 2026, not an abrupt break.**",
   "chartPath": "/charts/Economics/labor-demand_and-price-leads_2025-12-05.svg",
   "chartHeight": "700"
+},
+{
+  "id": 80,
+  "date": "10-12-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Hawkish Cut — 25bp Delivered, Pause Signaled",
+  "summary": "**Fed cut 25 bps to 3.50–3.75 (from 3.75–4.00; 25 bps expected) in a 9–3 vote, while dots and guidance signaled a pause—conditions ease via FX/spreads, not long yields.**",
+  "fullContent": "**Fed cut 25 bps to 3.50–3.75 (from 3.75–4.00; 25 bps expected) in a 9–3 vote, while dots and guidance signaled a pause—conditions ease via FX/spreads, not long yields.** The committee split (one dissent for 50 bps, two to hold) and the dots pointing to only minimal cuts through 2027 frame this as a *hawkish cut*. Language returned to “carefully assess…,” echoing prior pause signals, and the Chair said the Fed is well-positioned to wait. This caps a sequence: October’s cut was read hawkish as markets hardened the USD and 10Y, minutes later kept December **live, not locked** per [Minutes Measured](/i/47), odds rebuilt into the meeting [cut odds](/i/55), and today follows softer inflation and expectations in [PCE](/i/76) and [UMich](/i/77) alongside resilient labor flow in [Claims Plunge](/i/75). Balance sheet operations include near-term T-bill buying to ease funding frictions. **Net: policy eased but the reaction function stays cautious—watch services prices and wages; easing transmits first via FX and spreads per [US10Y & DXY](/i/62).**",
+  "chartPath": "/charts/Economics/fomc-2025-12-10.svg",
+  "chartHeight": "350"
 }
+
 
 
 
