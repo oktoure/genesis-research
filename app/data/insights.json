@@ -912,17 +912,11 @@
   "date": "10-12-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Hawkish Cut, Bear Steepener — Dollar Slumps, Conditions Ease",
-  "summary": "**Fed cut 25 bps to 3.50–3.75% (from 3.75–4.00%; 25 bps expected) in a 9–3 vote, but long yields rose and the dollar fell—bear steepener with easier FX/credit conditions.**",
-  "fullContent": "**Fed cut 25 bps to 3.50–3.75% (from 3.75–4.00%; 25 bps expected) in a 9–3 vote, but long yields rose and the dollar fell—bear steepener with easier FX/credit conditions.** The policy signal is “wait and see”: dots point to one cut in 2026 and one in 2027, and the statement revived the “assess the balance of risks” language. FX and spreads eased while the long end sold; this aligns with compressing US–G4 differentials in [Yield Spread Compresses](/i/64) and our yen framework in [Yen Ignores Narrowing Spread](/i/78). Term premium looks to be rebuilding—larger coupon supply, thinner price-insensitive demand, convexity hedging, and a mild inflation-risk premium—consistent with the 10Y trading above simple policy-plus-energy fair value since mid-2024. The macro tape still reads glide-path disinflation: core 2.8% and headline 2.8% in [Core 2.8%, Headline 2.8](/i/76), expectations easing in [Sentiment 53.3; Expectations 55](/i/77), services prices cooling in [ISM Services](/i/73), and pipelines soft in [Pipeline Cool](/i/57). Labor is tight-ish but cooling: the flow/stock beat in [Claims Plunge](/i/75) alongside [ADP −32k](/i/71) keeps “measured, not pivot” from [Minutes Measured](/i/47) and [December Cut Odds Surge](/i/55) as the base case. Positioning: favor 2s10s/5s30s steepeners over outright duration; keep a softer-USD bias while spreads compress per [US10Y & DXY](/i/62); watch breakevens, the ACM term premium, quarterly refunding, and the mortgage basis. **Net: a hawkish cut produced a bear steepener and a softer dollar—policy is easing, but term premium and leadership uncertainty keep long rates sticky as growth cools and disinflation grinds.**",
+  "title": "Hawkish Cut — Pause Signaled; Gold Bid, USD Capped",
+  "summary": "**Fed cut 25 bps to 3.50–3.75 (9–3 vote) and signaled a pause—hawkish easing that caps USD, supports gold, and keeps equities range-bound.**",
+  "fullContent": "**Fed cut 25 bps to 3.50–3.75 (9–3 vote) and signaled a pause—hawkish easing that caps USD, supports gold, and keeps equities range-bound.** Language reverted to “carefully assess…,” the Chair said the Fed can wait, and dots show only minimal cuts through 2027. This follows October’s hawkish read and the measured tone in [Minutes Measured](/i/47); [cut odds](/i/55) rebuilt into today on softer [PCE](/i/76) and easing [UMich](/i/77) expectations, while labor resilience in [Claims Plunge](/i/75) kept a floor under growth. USD upside looks capped unless spreads re-widen, gold is buy-on-dips above 4,210/4,162, and equities need better breadth to break higher. Whereas a significant higher DXY coupled with a reversal in gold would challenge the setup; cooler wages/services would extend the pause.",
   "chartPath": "/charts/Economics/hawkish-cut-25bp-delivered-pause-signaled_2025-12-10.svg",
-  "chartHeight": "700"
+  "chartHeight": "350"
 }
-
-
-
-
-
-
 
 ]
