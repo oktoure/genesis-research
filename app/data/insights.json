@@ -886,17 +886,6 @@
   "chartHeight": "700"
 },
 {
-  "id": 79,
-  "date": "05-12-2025",
-  "category": "Currencies",
-  "categoryColor": "bg-sky-600",
-  "title": "Yen Ignores Narrowing Spread — Regime Shift Risk",
-  "summary": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.**",
-  "fullContent": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.** From 2021 to early 2024, USD/JPY moved almost one-for-one with the inverted US–Japan 10Y spread. Since spring 2025 the spread climbed from ~−3.8% to ~−2.2% (narrowing), yet USD/JPY pushed to ~155. Near-term, fiscal worries, ultra-gradual BoJ normalization, and persistent outbound flows have overpowered the rate anchor, even as differentials compress per [US10Y & DXY](/i/62) and [Yield Spread Compresses](/i/64). But valuation stretch, continuing spread compression, and a step-up in BoJ normalization argue for re-coupling and a stronger JPY in 2026. Tactically: still-soft yen while **150–155** holds; a weekly close **below 147** starts the turn, and **below 143** would confirm a durable yen recovery consistent with the narrowing spread. **The rate anchor should reassert—base case is a stronger yen in 2026 as spreads compress and flows normalize.**",
-  "chartPath": "/charts/Currencies/jpyusd_vs-us-jp-10y-inv_2025-12-05.svg",
-  "chartHeight": "350"
-},
-{
   "id": 78,
   "date": "05-12-2025",
   "category": "Economics",
@@ -908,13 +897,24 @@
   "chartHeight": "700"
 },
 {
+  "id": 79,
+  "date": "05-12-2025",
+  "category": "Currencies",
+  "categoryColor": "bg-sky-600",
+  "title": "Yen Ignores Narrowing Spread — Regime Shift Risk",
+  "summary": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.**",
+  "fullContent": "**Since April, the inverted US–Japan 10Y spread narrowed ~150bp while USD/JPY rose to ~155—We think this decoupling is temporary and expect yen appreciation into 2026.** From 2021 to early 2024, USD/JPY moved almost one-for-one with the inverted US–Japan 10Y spread. Since spring 2025 the spread climbed from ~−3.8% to ~−2.2% (narrowing), yet USD/JPY pushed to ~155. Near-term, fiscal worries, ultra-gradual BoJ normalization, and persistent outbound flows have overpowered the rate anchor, even as differentials compress per [US10Y & DXY](/i/62) and [Yield Spread Compresses](/i/64). But valuation stretch, continuing spread compression, and a step-up in BoJ normalization argue for re-coupling and a stronger JPY in 2026. Tactically: still-soft yen while **150–155** holds; a weekly close **below 147** starts the turn, and **below 143** would confirm a durable yen recovery consistent with the narrowing spread. **The rate anchor should reassert—base case is a stronger yen in 2026 as spreads compress and flows normalize.**",
+  "chartPath": "/charts/Currencies/jpyusd_vs-us-jp-10y-inv_2025-12-05.svg",
+  "chartHeight": "350"
+},
+{
   "id": 80,
   "date": "10-12-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "Hawkish Cut — Pause Signaled; Gold Bid, USD Capped",
   "summary": "**Fed cut 25 bps to 3.50–3.75 (9–3 vote) and signaled a pause—hawkish easing that caps USD, supports gold, and keeps equities range-bound.**",
-  "fullContent": "**Fed cut 25 bps to 3.50–3.75 (9–3 vote) and signaled a pause—hawkish easing that caps USD, supports gold, and keeps equities range-bound.** Language reverted to “carefully assess…,” the Chair said the Fed can wait, and dots show only minimal cuts through 2027. This follows October’s hawkish read and the measured tone in [Minutes Measured](/i/47); [cut odds](/i/55) rebuilt into today on softer [PCE](/i/76) and easing [UMich](/i/77) expectations, while labor resilience in [Claims Plunge](/i/75) kept a floor under growth. USD upside looks capped unless spreads re-widen, gold is buy-on-dips above 4,210/4,162, and equities need better breadth to break higher. Whereas a significant higher DXY coupled with a reversal in gold would challenge the setup; cooler wages/services would extend the pause.",
+  "fullContent": "**Fed cut 25 bps to 3.50–3.75 (9–3 vote) and signaled a pause—hawkish easing that caps USD, supports gold, and keeps equities range-bound.** Language reverted to “carefully assess…,” the Chair said the Fed can wait, and dots show only minimal cuts through 2027. This follows October’s hawkish read and the measured tone in [Minutes Measured](/i/47); [cut odds](/i/55) rebuilt into today on softer [PCE](/i/76) and easing [UMich](/i/77) expectations, while labor resilience in [Claims Plunge](/i/75) kept a floor under growth. USD upside looks capped unless [spreads re-widen](/i/79), gold is buy-on-dips above 4,210/4,162, and equities need better breadth to break higher. Whereas a significant higher DXY coupled with a reversal in gold would challenge the setup; cooler wages/services would extend the pause.",
   "chartPath": "/charts/Economics/hawkish-cut-25bp-delivered-pause-signaled_2025-12-10.svg",
   "chartHeight": "350"
 }
