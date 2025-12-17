@@ -936,17 +936,6 @@
   "categoryColor": "bg-emerald-600",
   "title": "Empire −3.9 — Rebound Stalls; Prices Ease",
   "summary": "**Empire fell to −3.9 (from 18.7; 10 cons), flipping back to contraction as shipments soften and prices ease.**",
-  "fullContent": "**Empire fell to −3.9 (from 18.7; 10 cons), flipping back to contraction as shipments soften and prices ease.** November’s pop reversed: orders flat, shipments lower, delivery times normalized. Price fade aligns with goods disinflation in [ISM 48.2](/i/67). Employment ticked up, consistent with the low-hire/low-fire mix around [Claims 236k](/i/81). With the [hawkish cut](/i/80) in place, policy remains measured while disinflation progresses in [PCE](/i/76). Markets: gold supported above 4,210/4,162; USD capped unless DXY reclaims ~104.5; equities need broader participation to sustain upside. **Factories are stabilizing at weak levels while prices cool—supportive of a measured path rather than acceleration.**",
-  "chartPath": "/charts/Economics/empire-state-index_2025-12-15.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 82,
-  "date": "15-12-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Empire −3.9 — Rebound Stalls; Prices Ease",
-  "summary": "**Empire fell to −3.9 (from 18.7; 10 cons), flipping back to contraction as shipments soften and prices ease.**",
   "fullContent": "**Empire fell to −3.9 (from 18.7; 10 cons), flipping back to contraction as shipments soften and prices ease.** November’s surge unwound: orders were flat, shipments declined, and delivery times normalized. Price metrics eased further, consistent with goods disinflation shown in [ISM 48.2](/i/67). Employment ticked up, aligning with the low-hire/low-fire mix around [Claims 236k](/i/81). Taken together, the retracement argues manufacturing is stabilizing at weak levels rather than re-accelerating, a pattern that sits alongside gradual disinflation in [PCE](/i/76) and a measured stance post-[hawkish cut](/i/80). **The factory pulse is soft but orderly—watch order breadth to confirm stabilization.**",
   "chartPath": "/charts/Economics/empire-state-index_2025-12-15.svg",
   "chartHeight": "350"
