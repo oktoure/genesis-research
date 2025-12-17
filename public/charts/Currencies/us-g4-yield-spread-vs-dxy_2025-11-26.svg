@@ -36,15 +36,15 @@
        inkscape:pageopacity="0.0"
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
-       inkscape:zoom="4.33"
-       inkscape:cx="304.27252"
-       inkscape:cy="396.42032"
+       inkscape:zoom="1"
+       inkscape:cx="304.5"
+       inkscape:cy="396.5"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="323"
        inkscape:window-y="25"
        inkscape:window-maximized="0"
-       inkscape:current-layer="g12102" />
+       inkscape:current-layer="svg154" />
     <rect
        x="0"
        y="0"
@@ -131,18 +131,6 @@
          class="patterns"
          id="g10" />
     </defs>
-    <g
-       class="bglayer"
-       id="g11">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="182"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-         id="rect10" />
-    </g>
     <g
        class="layer-below"
        id="g49">
