@@ -957,7 +957,7 @@
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
   "title": "Labor Cooldown — 64k NFP, UR 4.6, ADP −32k",
-  "summary": "**NFP printed 64k (from −105k; 50k cons), unemployment rose to 4.6%, and ADP −32k—hiring momentum cools without a break.**",
+  "summary": "**NFP printed 64k (from −105k; 50k cons), unemployment rose to 4.6%, and ADP 16.25K—hiring momentum cools without a break.**",
   "fullContent": "**NFP printed 64k (from −105k; 50k cons), unemployment rose to 4.6%, and ADP −32k—hiring momentum cools without a break.** The trend remains softer after the shock flagged in [ADP](/i/71) and the mixed signal in [claims](/i/81): slower hiring, longer job-finding, but no broad rupture. That supports measured easing rather than acceleration after the [hawkish cut](/i/80). Market takeaways: duration and gold stay bid on growth moderation; USD softens at the margin if differentials continue to narrow ([US10Y & DXY](/i/62)); equities need better breadth to absorb slower payroll growth.",
   "chartPath": "/charts/Economics/adp-vs-nfp_3mma_2025-12-16.svg",
   "chartHeight": "350"
