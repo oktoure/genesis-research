@@ -925,7 +925,7 @@
   "categoryColor": "bg-emerald-600",
   "title": "Claims 236k; Continuing 1.838M — Mixed, Not Cracking",
   "summary": "**Initial claims rose to 236k (from 192k; 220k cons) while continuing fell to 1.838M (from 1.937M; 1.950M cons)—mixed, not cracking.**",
-  "fullContent": "**Initial claims rose to 236k (from 192k; 220k cons) while continuing fell to 1.838M (from 1.937M; 1.950M cons)—mixed, not cracking.** The jump in new filings tempers resilience seen in [Claims Plunge](/i/75), but a lower beneficiary stock implies job-finding remains decent. Guardrails: a sustained rise in initial above 240–250k or continuing above 2.0M would flag broader slack. With a [hawkish cut](/i/80) set and disinflation inching in [PCE](/i/76) alongside cooler [UMich](/i/77) expectations, policy stays measured. Markets: USD capped while [differentials compress](/i/62);gold supported on dips above 4,210/4,162; equities range-bound until breadth improves. **Stability below the guardrails preserves a late-cycle glide rather than a break.**",
+  "fullContent": "**Initial claims rose to 236k (from 192k; 220k cons) while continuing fell to 1.838M (from 1.937M; 1.950M cons)—mixed, not cracking.** The rise in new filings trims the resilience flagged in [Claims Plunge](/i/75), while the drop in the beneficiary stock suggests job-finding remains adequate. Guardrails stay in place: a sustained move in initial above 240–250k or continuing above 2.0M would mark broader slack. The configuration fits a late-cycle cooling backdrop alongside gradual disinflation in [PCE](/i/76) and softer inflation psychology in [UMich](/i/77) following the [hawkish cut](/i/80). **Absent a break of those guardrails, the labor tape points to cooling rather than cracking.**",
   "chartPath": "/charts/Economics/us-claims-initial-vs-continuing_2025-12-11.svg",
   "chartHeight": "350"
 },
@@ -942,23 +942,23 @@
 },
 {
   "id": 82,
-  "date": "16-12-2025",
+  "date": "15-12-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Real Retail Cools; Core Control Pops",
-  "summary": "**Annualized Retail sales eased to 3.5% (from 4.2; 2.7 cons) while the control group rose 0.8% m/m (from −0.1; 0.4 cons)—headline soft, core firmer.**",
-  "fullContent": "**Annualized Retail sales eased to 3.5% (from 4.2; 2.7 cons) while the control group rose 0.8% m/m (from −0.1; 0.4 cons)—headline soft, core firmer.** The mix fits a late-cycle glide: real headline cools, but core outlays stabilize alongside improving expectations in [UMich](/i/77) and steady disinflation in [PCE](/i/76). Policy stays measured rather than a pivot post-[hawkish cut](/i/80). Market takeaways: equities get a modest cushion from core strength; USD bias softer if spreads keep compressing ([US10Y & DXY](/i/62)); gold remains buy-on-dips while growth slows without breaking.",
-  "chartPath": "/charts/Economics/retail-real-and-control_2025-12-16.svg",
-  "chartHeight": "700"
+  "title": "Empire −3.9 — Rebound Stalls; Prices Ease",
+  "summary": "**Empire fell to −3.9 (from 18.7; 10 cons), flipping back to contraction as shipments soften and prices ease.**",
+  "fullContent": "**Empire fell to −3.9 (from 18.7; 10 cons), flipping back to contraction as shipments soften and prices ease.** November’s surge unwound: orders were flat, shipments declined, and delivery times normalized. Price metrics eased further, consistent with goods disinflation shown in [ISM 48.2](/i/67). Employment ticked up, aligning with the low-hire/low-fire mix around [Claims 236k](/i/81). Taken together, the retracement argues manufacturing is stabilizing at weak levels rather than re-accelerating, a pattern that sits alongside gradual disinflation in [PCE](/i/76) and a measured stance post-[hawkish cut](/i/80). **The factory pulse is soft but orderly—watch order breadth to confirm stabilization.**",
+  "chartPath": "/charts/Economics/empire-state-index_2025-12-15.svg",
+  "chartHeight": "350"
 },
 {
   "id": 83,
   "date": "16-12-2025",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Real Retail 3.5% On a Yearly Basis; Control +0.8% On a Monthly Basis— Headline Soft, Core Firmer",
+  "title": "Real Retail 3.5% YoY; Control +0.8% — Headline Soft, Core Firmer",
   "summary": "**Retail sales YoY eased to 3.5% (from 4.2; 2.7 cons) while the control group rose 0.8% m/m (from −0.1; 0.4 cons)—headline soft, core firmer.**",
-  "fullContent": "**Retail sales YoY eased to 3.5% (from 4.2; 2.7 cons) while the control group rose 0.8% m/m (from −0.1; 0.4 cons)—headline soft, core firmer.** The mix fits late-cycle normalization: real headline cools while core outlays stabilize alongside improving [UMich](/i/77) and gradual relief in [PCE](/i/76). Goods softness after [Empire −3.9](/i/82) tempers the pace, but the core beat argues consumption slows less than feared. Post-[hawkish cut](/i/80), policy stays measured. Markets: constructive for gold on dips; USD capped unless DXY breaks ~104.5; equities get a cushion from core strength but still require better breadth. **Consumer momentum is narrowing to the core while headline cools—slower growth without a rupture.**",
+  "fullContent": "**Retail sales YoY eased to 3.5% (from 4.2; 2.7 cons) while the control group rose 0.8% m/m (from −0.1; 0.4 cons)—headline soft, core firmer.** Beneath the headline, the control beat signals steadier core outlays. Real headline retail cooled, echoing weak current conditions even as expectations improved in [UMich](/i/77). The profile is consistent with gradual relief in [PCE](/i/76) and the goods-side easing highlighted in [ISM 48.2](/i/67). In conjunction with [Claims 236k](/i/81), consumption looks slower at the top line but supported by the core basket, pointing to normalization rather than fracture. **Growth is narrowing toward the core while headline cools—steady, not stalling.**",
   "chartPath": "/charts/Economics/retail-real-and-control_2025-12-16.svg",
   "chartHeight": "700"
 },
@@ -969,7 +969,7 @@
   "categoryColor": "bg-emerald-600",
   "title": "Dual NFP — Oct −105k, Nov +64k; UR 4.6",
   "summary": "**NFP: Oct −105k (from 108k; 55k cons) and Nov +64k (from −105k; 50k cons); unemployment 4.6%—momentum cooler, slack rising.**",
-  "fullContent": "**NFP: Oct −105k (from 108k; 55k cons) and Nov +64k (from −105k; 50k cons); unemployment 4.6%—momentum cooler, slack rising.** The two-month swing leaves the 3-month trend near flat, consistent with slower hiring in [ADP](/i/71) and the mixed [claims](/i/81) profile. Disinflation progress in [PCE](/i/76) and easing [UMich](/i/77) expectations argue the Fed can stay patient after the [hawkish cut](/i/80). Markets: duration supported; gold buy-on-dips above 4,210/4,162; USD upside capped unless DXY reclaims ~104.5; equities need broader participation to absorb softer payroll growth. **Labor is cooling without a break—enough to sustain a pause, not enough to re-accelerate cuts.**",
+  "fullContent": "**NFP: Oct −105k (from 108k; 55k cons) and Nov +64k (from −105k; 50k cons); unemployment 4.6%—momentum cooler, slack rising.** The two-month swing leaves the 3-month trend near flat and signals a slower hiring pulse. The pattern corroborates softer private demand in [ADP](/i/71) and the mixed flow/stock signal in [Claims 236k](/i/81). With disinflation progress in [PCE](/i/76) and easing expectations in [UMich](/i/77), the macro mix points to a gradual cooling of labor pressures rather than a sudden break. **Labor is easing without rupture—watch wages, hours, and participation for the decisive turn.**",
   "chartPath": "/charts/Economics/adp-vs-nfp_3mma_2025-12-16.svg",
   "chartHeight": "350"
 }
