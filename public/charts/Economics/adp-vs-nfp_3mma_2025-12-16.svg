@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.3866667"
-     inkscape:cx="300.36058"
-     inkscape:cy="174.87981"
-     inkscape:window-width="976"
+     inkscape:cx="300.72115"
+     inkscape:cy="174.8798"
+     inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="244"
      inkscape:window-y="25"
@@ -6441,23 +6441,22 @@
           <text
              class="annotation-text"
              text-anchor="middle"
-             x="79.5302734375"
+             x="79.530273"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
              id="text800"><tspan
                class="line"
-               dy="0em"
-               x="79.5302734375"
+               x="79.530273"
                y="11"
-               id="tspan798">ADP −32K AND NFP 3-MONTH</tspan><tspan
+               id="tspan798">NFP 3-MONTH</tspan><tspan
                class="line"
                dy="1.3em"
-               x="79.5302734375"
+               x="79.530273"
                y="11"
                id="tspan799">AVERAGE NEAR FLAT — HIRING</tspan><tspan
                class="line"
-               dy="2.6em"
-               x="79.5302734375"
+               dy="2.5999999em"
+               x="79.530273"
                y="11"
                id="tspan800">MOMENTUM COOLING.</tspan></text>
         </g>
