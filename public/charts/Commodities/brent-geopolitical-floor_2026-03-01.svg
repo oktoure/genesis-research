@@ -28,7 +28,7 @@
      inkscape:cy="258.53365"
      inkscape:window-width="1280"
      inkscape:window-height="1382"
-     inkscape:window-x="0"
+     inkscape:window-x="244"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1229" />
@@ -1280,6 +1280,51 @@
       </g>
     </g>
   </svg>
+  <g
+     class="annotation"
+     data-index="6"
+     id="g1224"
+     transform="translate(-130.27885,-108.72115)">
+    <g
+       class="annotation-text-g"
+       id="g1223">
+      <g
+         class="cursor-pointer"
+         transform="translate(319,150)"
+         id="g1222">
+        <rect
+           class="bg"
+           x="0.5"
+           y="0.5"
+           width="215"
+           height="40"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+           id="rect1220" />
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="107.85938"
+           y="11"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text1222"><tspan
+             class="line"
+             dy="0em"
+             x="107.85938"
+             y="11"
+             id="tspan1220">WILL THE RESURGENCE OF GEOPOLITICAL</tspan><tspan
+             class="line"
+             dy="1.3em"
+             x="107.85938"
+             y="11"
+             id="tspan1221">RISK PREMIUMS DRIVE OIL PRICES BACK</tspan><tspan
+             class="line"
+             dy="2.5999999em"
+             x="107.85938"
+             y="11"
+             id="tspan1222">TO $100?</tspan></text>
+      </g>
+    </g>
+  </g>
   <ellipse
      style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
      id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-55"
@@ -7063,52 +7108,6 @@
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
                id="text1217">$/Brl</text>
-          </g>
-        </g>
-      </g>
-      <g
-         class="annotation"
-         data-index="6"
-         style="opacity:1"
-         id="g1224"
-         transform="translate(-126.20192,-317.30768)">
-        <g
-           class="annotation-text-g"
-           id="g1223">
-          <g
-             class="cursor-pointer"
-             transform="translate(319,150)"
-             id="g1222">
-            <rect
-               class="bg"
-               x="0.5"
-               y="0.5"
-               width="215"
-               height="40"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect1220" />
-            <text
-               class="annotation-text"
-               text-anchor="middle"
-               x="107.85938"
-               y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text1222"><tspan
-                 class="line"
-                 dy="0em"
-                 x="107.85938"
-                 y="11"
-                 id="tspan1220">WILL THE RESURGENCE OF GEOPOLITICAL</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="107.85938"
-                 y="11"
-                 id="tspan1221">RISK PREMIUMS DRIVE OIL PRICES BACK</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="107.85938"
-                 y="11"
-                 id="tspan1222">TO $100?</tspan></text>
           </g>
         </g>
       </g>
