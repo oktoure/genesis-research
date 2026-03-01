@@ -24,11 +24,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.3866667"
-     inkscape:cx="347.59615"
-     inkscape:cy="265.74519"
+     inkscape:cx="309.01442"
+     inkscape:cy="258.53365"
      inkscape:window-width="1280"
      inkscape:window-height="1382"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1229" />
@@ -1242,57 +1242,6 @@
       </g>
       <g
          class="annotation"
-         data-index="4"
-         style="opacity: 1;"
-         id="g159">
-        <g
-           class="annotation-text-g"
-           id="g158"
-           transform="rotate(0,303.74666666666667,58.98367999999999)">
-          <g
-             class="cursor-pointer"
-             transform="translate(214,32)"
-             id="g157">
-            <rect
-               class="bg"
-               x="0.5"
-               y="0.5"
-               width="178"
-               height="53"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect154" />
-            <text
-               class="annotation-text"
-               text-anchor="middle"
-               x="89.7177734375"
-               y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text157"><tspan
-                 class="line"
-                 dy="0em"
-                 x="89.7177734375"
-                 y="11"
-                 id="tspan154">AND CONSEQUENTLY, WOULD THAT</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="89.7177734375"
-                 y="11"
-                 id="tspan155">BE SUFFICIENT TO COUNTER THE</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="89.7177734375"
-                 y="11"
-                 id="tspan156">PREVAILING DISINFLATION</tspan><tspan
-                 class="line"
-                 dy="3.9000000000000004em"
-                 x="89.7177734375"
-                 y="11"
-                 id="tspan157">NARRATIVE?</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
-         class="annotation"
          data-index="5"
          style="opacity:1"
          id="g162"
@@ -1331,6 +1280,33 @@
       </g>
     </g>
   </svg>
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-55"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="133.12248"
+     cx="463.48077" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-8"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="142.87248"
+     cx="517.46155" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-2"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="146.33403"
+     cx="535.36536" />
+  <path
+     data-index="0"
+     fill-rule="evenodd"
+     d="M 160.33185,74.597619 539.81303,146.84758"
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.366817px;stroke-opacity:1"
+     id="path77-1-8-2-9-8-9" />
   <svg
      class="main-svg"
      width="600"
@@ -7093,12 +7069,12 @@
       <g
          class="annotation"
          data-index="6"
-         style="opacity: 1;"
-         id="g1224">
+         style="opacity:1"
+         id="g1224"
+         transform="translate(-126.20192,-317.30768)">
         <g
            class="annotation-text-g"
-           id="g1223"
-           transform="rotate(0,427.30586666666665,170.28032)">
+           id="g1223">
           <g
              class="cursor-pointer"
              transform="translate(319,150)"
@@ -7109,28 +7085,28 @@
                y="0.5"
                width="215"
                height="40"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
                id="rect1220" />
             <text
                class="annotation-text"
                text-anchor="middle"
-               x="107.859375"
+               x="107.85938"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
                id="text1222"><tspan
                  class="line"
                  dy="0em"
-                 x="107.859375"
+                 x="107.85938"
                  y="11"
                  id="tspan1220">WILL THE RESURGENCE OF GEOPOLITICAL</tspan><tspan
                  class="line"
                  dy="1.3em"
-                 x="107.859375"
+                 x="107.85938"
                  y="11"
                  id="tspan1221">RISK PREMIUMS DRIVE OIL PRICES BACK</tspan><tspan
                  class="line"
-                 dy="2.6em"
-                 x="107.859375"
+                 dy="2.5999999em"
+                 x="107.85938"
                  y="11"
                  id="tspan1222">TO $100?</tspan></text>
           </g>
@@ -7180,12 +7156,91 @@
       </g>
     </g>
   </svg>
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="74.670586"
+     cx="159.39423" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-9"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="79.593643"
+     cx="180.48077" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-1"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="82.593643"
+     cx="217.64423" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-9-5"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="85.478256"
+     cx="239.73077" />
+  <g
+     class="annotation"
+     data-index="4"
+     id="g159"
+     transform="translate(119.57692,325.5)">
+    <g
+       class="annotation-text-g"
+       id="g158">
+      <g
+         class="cursor-pointer"
+         transform="translate(214,32)"
+         id="g157">
+        <rect
+           class="bg"
+           x="0.5"
+           y="0.5"
+           width="178"
+           height="53"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+           id="rect154" />
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="89.717773"
+           y="11"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text157"><tspan
+             class="line"
+             dy="0em"
+             x="89.717773"
+             y="11"
+             id="tspan154">AND CONSEQUENTLY, WOULD THAT</tspan><tspan
+             class="line"
+             dy="1.3em"
+             x="89.717773"
+             y="11"
+             id="tspan155">BE SUFFICIENT TO COUNTER THE</tspan><tspan
+             class="line"
+             dy="2.5999999em"
+             x="89.717773"
+             y="11"
+             id="tspan156">PREVAILING DISINFLATION</tspan><tspan
+             class="line"
+             dy="3.9000001em"
+             x="89.717773"
+             y="11"
+             id="tspan157">NARRATIVE?</tspan></text>
+      </g>
+    </g>
+  </g>
   <path
      d="m 555.83097,334.00565 -21.6572,28.45401 -0.55535,-0.32671 21.22405,-27.88496 m -1.11063,-0.65357 5.28659,-4.30477 -2.50992,5.93864"
      id="path2-3"
      style="stroke-width:0.676437" />
   <path
-     d="m 552.79909,130.50446 -21.6572,28.45401 -0.55535,-0.32671 21.22405,-27.88496 m -1.11063,-0.65357 5.28659,-4.30477 -2.50992,5.93864"
+     d="m 554.96256,138.43715 -21.6572,28.45401 -0.55535,-0.32671 21.22405,-27.88496 m -1.11063,-0.65357 5.28659,-4.30477 -2.50992,5.93864"
      id="path2-3-7"
-     style="stroke-width:0.676437" />
+     style="stroke-width:0.676437"
+     sodipodi:nodetypes="ccccccc" />
 </svg>
