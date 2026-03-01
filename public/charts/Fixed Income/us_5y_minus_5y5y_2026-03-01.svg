@@ -22,13 +22,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.3866667"
-     inkscape:cx="304.32692"
-     inkscape:cy="174.8798"
-     inkscape:window-width="1152"
-     inkscape:window-height="1186"
-     inkscape:window-x="244"
-     inkscape:window-y="30"
+     inkscape:zoom="1.72"
+     inkscape:cx="392.44186"
+     inkscape:cy="120.63953"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg179" />
   <rect
@@ -129,6 +129,85 @@
        style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
        id="rect10" />
   </g>
+  <g
+     class="annotation"
+     data-index="5"
+     id="g175-8"
+     transform="translate(43.817311,-35.278846)">
+    <g
+       class="annotation-text-g"
+       id="g174-0"
+       transform="translate(21.634615,-9.3749998)">
+      <g
+         class="cursor-pointer"
+         transform="translate(201,67)"
+         id="g173-2">
+        <rect
+           class="bg"
+           x="0.5"
+           y="0.5"
+           width="204"
+           height="79"
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+           id="rect168-4" />
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="187.9857"
+           y="19.305555"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text173-8"><tspan
+             sodipodi:role="line"
+             id="tspan2"
+             x="187.9857"
+             y="19.305555">PANDEMIC SHOCK &amp; </tspan><tspan
+             sodipodi:role="line"
+             x="187.9857"
+             y="31.805555"
+             id="tspan3">RUSSIA–UKRAINE GEOPOLITICAL </tspan><tspan
+             sodipodi:role="line"
+             x="187.9857"
+             y="44.305557"
+             id="tspan4">INFLATION PREMIUM</tspan></text>
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="251.47543"
+           y="107.21785"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text173-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan2-3"
+             x="251.47543"
+             y="107.21785">TARIFFS</tspan></text>
+        <text
+           class="annotation-text"
+           text-anchor="middle"
+           x="285.61273"
+           y="128.06981"
+           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text173-8-8-5"><tspan
+             sodipodi:role="line"
+             id="tspan2-3-5"
+             x="285.61273"
+             y="128.06981">?</tspan></text>
+      </g>
+    </g>
+  </g>
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-8-7"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="75.949417"
+     cx="453.75961" />
+  <ellipse
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.745098"
+     id="path111-3-8-8-0-39-2-0-1-9-7-5-5-4-9-8-9"
+     ry="5.978261"
+     rx="6.2499962"
+     cy="137.61287"
+     cx="518.11536" />
   <path
      data-index="0"
      fill-rule="evenodd"
@@ -1408,11 +1487,11 @@
     <g
        class="annotation"
        data-index="5"
-       style="opacity: 1;"
-       id="g175">
+       style="opacity:1"
+       id="g175"
+       transform="translate(-85.817306,0.72115383)">
       <g
          class="annotation-text-g"
-         transform="rotate(0,303.74666666666667,107.36285714285712)"
          id="g174">
         <g
            class="cursor-pointer"
@@ -1424,43 +1503,43 @@
              y="0.5"
              width="204"
              height="79"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
              id="rect168" />
           <text
              class="annotation-text"
              text-anchor="middle"
-             x="102.390625"
+             x="102.39062"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
              id="text173"><tspan
                class="line"
                dy="0em"
-               x="102.390625"
+               x="102.39062"
                y="11"
                id="tspan168">DISINFLATION REMAINS THE DOMINANT</tspan><tspan
                class="line"
                dy="1.3em"
-               x="102.390625"
+               x="102.39062"
                y="11"
                id="tspan169">MARKET PRICING, BUT EMERGING</tspan><tspan
                class="line"
-               dy="2.6em"
-               x="102.390625"
+               dy="2.5999999em"
+               x="102.39062"
                y="11"
                id="tspan170">STRUCTURAL RISKS COULD CHALLENGE</tspan><tspan
                class="line"
-               dy="3.9000000000000004em"
-               x="102.390625"
+               dy="3.9000001em"
+               x="102.39062"
                y="11"
                id="tspan171">THAT TRAJECTORY AND FORCE THE FED</tspan><tspan
                class="line"
-               dy="5.2em"
-               x="102.390625"
+               dy="5.1999998em"
+               x="102.39062"
                y="11"
                id="tspan172">BACK TOWARD A HIGHER-FOR-LONGER</tspan><tspan
                class="line"
                dy="6.5em"
-               x="102.390625"
+               x="102.39062"
                y="11"
                id="tspan173">STANCE.</tspan></text>
         </g>
