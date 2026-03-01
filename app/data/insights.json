@@ -978,10 +978,10 @@
   "date": "01-03-2026",
   "category": "Commodities",
   "categoryColor": "bg-yellow-600",
-  "title": "Oil Lacks Structural Floor Without Real Supply Shock",
-  "summary": "**Brent has failed to sustain a geopolitical premium since 2022 despite repeated Middle East escalations, suggesting macro conditions—not headlines—anchor crude unless physical supply is disrupted.**",
-  "fullContent": "**Brent has failed to sustain a geopolitical premium since 2022 despite repeated Middle East escalations, suggesting macro conditions—not headlines—anchor crude unless physical supply is disrupted.** The spike following the Russian invasion of Ukraine in 2022 faded as tightening by the Federal Reserve and the record release from the Strategic Petroleum Reserve capped inflation-linked upside. The 2023 Israel–Hamas war did not materially reprice crude because regional production and transit flows remained intact. By contrast, gold benefited from reserve diversification after sanctions on Russia, underscoring oil’s dependence on physical balances rather than financial hedging demand. Current tensions involving the United States, Israel, and Iran matter only if exports or Hormuz transit are credibly impaired. **Net: Without realized supply disruption, geopolitical premiums fade and oil lacks a durable structural floor.**",
-  "chartPath": "/charts/Commodities/brent-geopolitical-premium_2026-03-01.svg",
+  "title": "Geopolitics May Finally Anchor a Structural Floor in Oil",
+  "summary": "**Brent has repeatedly faded geopolitical spikes since 2022, but escalating U.S.–Israel–Iran tensions raise the probability that supply risk becomes structural rather than transient.**",
+  "fullContent": "**Brent has repeatedly faded geopolitical spikes since 2022, but escalating U.S.–Israel–Iran tensions raise the probability that supply risk becomes structural rather than transient.** Post-Ukraine gains reversed as Federal Reserve tightening and the record Strategic Petroleum Reserve release capped inflation-driven upside. The 2023 Israel–Hamas conflict failed to lift crude sustainably because production and transit flows were unaffected. This episode differs in scope: Iran is a meaningful exporter and sits adjacent to the Strait of Hormuz, a chokepoint for roughly one-fifth of global oil flows. Even without outright disruption, credible risk to exports or transit can alter forward supply expectations and embed a persistent premium. **Net: If Hormuz risk becomes non-negligible, oil may establish a structural floor rather than merely spike and fade.**",
+  "chartPath": "/charts/Commodities/brent-geopolitical-floor_2026-03-01.svg",
   "chartHeight": "350"
 }
 
