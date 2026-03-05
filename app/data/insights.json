@@ -993,7 +993,7 @@
   "summary": "**The inverted 10-year Treasury yield annual change, advanced by 18 months, aligns with the recent rebound in ISM Manufacturing, but the bond signal suggests the current macro optimism may face a volatility phase before longer-term improvement takes hold.**",
   "fullContent": "**The inverted 10-year Treasury yield annual change, advanced by 18 months, aligns with the recent rebound in ISM Manufacturing, but the bond signal suggests the current macro optimism may face a volatility phase before longer-term improvement takes hold.** The historical relationship shows that turns in yields tend to precede inflections in manufacturing activity, confirming the bond market’s role as a forward macro barometer. The present ISM strength is consistent with prior easing impulses that filtered through with a lag. However, because the yield impulse is already 18 months ahead, the economy may now be entering the transitional zone where growth momentum becomes more unstable. This does not negate the broader recovery trajectory, but it does imply that the current expansion phase could experience turbulence before a more durable upswing develops.",
   "chartPath": "/charts/Economics/us10y_ism_leadlag_2026-03-05.svg",
-  "chartHeight": 700
+  "chartHeight": "700"
 },
 {
   "id": 89,
