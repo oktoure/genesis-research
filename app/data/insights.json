@@ -981,7 +981,18 @@
   "title": "Geopolitics May Finally Anchor a Structural Floor in Oil",
   "summary": "**Oil has repeatedly faded geopolitical spikes since 2022, but escalating U.S.–Israel–Iran tensions raise the probability that supply risk becomes structural rather than transient.**",
   "fullContent": "**Oil has repeatedly faded geopolitical spikes since 2022, but escalating U.S.–Israel–Iran tensions raise the probability that supply risk becomes structural rather than transient.** Post-Ukraine gains reversed as Federal Reserve tightening and the record Strategic Petroleum Reserve release capped inflation-driven upside. The 2023 Israel–Hamas conflict failed to lift crude sustainably because production and transit flows were unaffected. This episode differs in scope: Iran is a meaningful exporter and sits adjacent to the Strait of Hormuz, a chokepoint for roughly one-fifth of global oil flows. Even without outright disruption, credible risk to exports or transit can alter forward supply expectations and embed a persistent premium. **If Hormuz risk becomes non-negligible, oil may establish a structural floor rather than merely spike and fade.**",
-  "chartPath": "/charts/Commodities/brent-geopolitical-floor_2026-03-011.svg",
+  "chartPath": "/charts/Commodities/brent-geopolitical-floor_2026-03-011.svg.svg",
+  "chartHeight": "350"
+},
+{
+  "id": 87,
+  "date": "01-03-2026",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Inflation Term Premium Signals Oil Risk Is Moving Forward",
+  "summary": "**The U.S. 5Y breakeven minus 5Y5Y forward inflation spread is widening, signaling near-term inflation risk is repricing relative to anchored long-run expectations.**",
+  "fullContent": "**The U.S. 5Y breakeven minus 5Y5Y forward inflation spread is widening, signaling near-term inflation risk is repricing relative to anchored long-run expectations.** This spread isolates front-loaded price pressures by subtracting long-run inflation expectations from intermediate inflation pricing. Following the Russian invasion of Ukraine in 2022, the spread surged as energy shocks lifted near-term inflation risk before Federal Reserve tightening compressed it. The 2023 Israel–Hamas conflict failed to generate sustained widening because crude did not embed a lasting premium. Current U.S.–Israel–Iran tensions differ in that credible risk to Strait of Hormuz flows could structurally lift energy input costs, mechanically steepening near-term inflation pricing even if long-run expectations remain anchored. ** A persistent widening would validate that oil risk is migrating from headline noise into the inflation term structure.**",
+  "chartPath": "/charts/Fixed Income/us_5y_minus_5y5y_2026-03-01.svg",
   "chartHeight": "350"
 },
 {
