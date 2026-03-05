@@ -8,12 +8,36 @@
    id="svg1229"
    sodipodi:docname="brent-geopolitical-floor_2026-03-01.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:export-filename="brent-geopolitical-floor_2026-03-01.pdf"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1229" />
+     id="defs1229">
+    <clipPath
+       class="annclip"
+       id="clip0342d2_ann5-7">
+      <rect
+         x="2"
+         y="2"
+         width="524"
+         height="19.400391"
+         id="rect132-9" />
+    </clipPath>
+    <clipPath
+       class="annclip"
+       id="clip81a19f_ann7-9">
+      <rect
+         x="2"
+         y="2"
+         width="524"
+         height="19.400391"
+         id="rect1189-4" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="namedview1229"
      pagecolor="#ffffff"
@@ -23,15 +47,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.3866667"
-     inkscape:cx="309.01442"
-     inkscape:cy="258.53365"
-     inkscape:window-width="1280"
-     inkscape:window-height="1382"
-     inkscape:window-x="244"
-     inkscape:window-y="30"
+     inkscape:zoom="1.85"
+     inkscape:cx="420.81081"
+     inkscape:cy="235.40541"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1229" />
+     inkscape:current-layer="g1225"
+     inkscape:export-bgcolor="#fffffffc" />
   <svg
      class="main-svg"
      width="600"
@@ -804,10 +829,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(40.05,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text98">01 Sep 2006</text>
+               y="220.60001"
+               transform="translate(40.05)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text98">2006</text>
           </g>
           <g
              class="xtick"
@@ -815,10 +840,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(123.16,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text99">24 Nov 2009</text>
+               y="220.60001"
+               transform="translate(123.16)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text99">2009</text>
           </g>
           <g
              class="xtick"
@@ -826,10 +851,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(206.37,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text100">21 Feb 2013</text>
+               y="220.60001"
+               transform="translate(206.37)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text100">2013</text>
           </g>
           <g
              class="xtick"
@@ -837,10 +862,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(289.57,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text101">22 May 2016</text>
+               y="220.60001"
+               transform="translate(289.57)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text101">2016</text>
           </g>
           <g
              class="xtick"
@@ -848,10 +873,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(372.68,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text102">20 Aug 2019</text>
+               y="220.60001"
+               transform="translate(372.68)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text102">2019</text>
           </g>
           <g
              class="xtick"
@@ -859,10 +884,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(455.79,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text103">16 Nov 2022</text>
+               y="220.60001"
+               transform="translate(455.79)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text103">2022</text>
           </g>
           <g
              class="xtick"
@@ -870,10 +895,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(539,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text104">26 Feb 2026</text>
+               y="220.60001"
+               transform="translate(539)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text104">2026</text>
           </g>
         </g>
         <g
@@ -1271,20 +1296,75 @@
                id="text160"
                transform="translate(-2.1634615,-11.538462)"><tspan
                  class="line"
-                 dy="1.3em"
                  x="2"
                  y="9"
-                 id="tspan160">NOTE: SHADED AREAS REPRESENT US NBER-DESIGNATED RECESSIONS.</tspan></text>
+                 id="tspan160" /></text>
           </g>
         </g>
       </g>
+      <g
+         class="annotation"
+         data-index="5"
+         id="g162-8"
+         transform="translate(93.192304,-217.45192)">
+        <g
+           class="annotation-text-g"
+           id="g161-0">
+          <g
+             class="cursor-pointer"
+             transform="translate(40,219)"
+             id="g160-2">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="527"
+               height="22"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect159-4" />
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="2"
+               y="9"
+               style="font-size:21.3333px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               clip-path="url(#clip0342d2_ann5-7)"
+               id="text160-8"
+               transform="translate(3.4846853,6.168968)"><tspan
+                 class="line"
+                 x="2"
+                 y="9"
+                 id="tspan160-3"
+                 style="font-size:21.3333px" /></text>
+          </g>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.887;stroke-opacity:1"
+         x="64.35009"
+         y="16.596485"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="64.35009"
+           y="16.596485"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;-inkscape-font-specification:'Segoe UI Semibold, Segoe UI, Arial';fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">Geopolitics May Finally Anchor a Structural Floor in Oil</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;line-height:0;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#354035;stroke-width:0.887"
+         x="235.49619"
+         y="-35.197201"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"></tspan></text>
     </g>
   </svg>
   <g
      class="annotation"
      data-index="6"
      id="g1224"
-     transform="translate(-130.27885,-108.72115)">
+     transform="translate(-106.56753,-113.68965)">
     <g
        class="annotation-text-g"
        id="g1223">
@@ -1307,21 +1387,22 @@
            y="11"
            style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
            id="text1222"><tspan
-             class="line"
-             dy="0em"
+             sodipodi:role="line"
+             id="tspan9"
              x="107.85938"
-             y="11"
-             id="tspan1220">WILL THE RESURGENCE OF GEOPOLITICAL</tspan><tspan
-             class="line"
-             dy="1.3em"
+             y="11">WILL THE RESURGENCE OF</tspan><tspan
+             sodipodi:role="line"
              x="107.85938"
-             y="11"
-             id="tspan1221">RISK PREMIUMS DRIVE OIL PRICES BACK</tspan><tspan
-             class="line"
-             dy="2.5999999em"
+             y="23.5"
+             id="tspan12"> GEOPOLITICAL RISK PREMIUMS </tspan><tspan
+             sodipodi:role="line"
+             id="tspan10"
              x="107.85938"
-             y="11"
-             id="tspan1222">TO $100?</tspan></text>
+             y="36">PLACE A FLOOR UNDER</tspan><tspan
+             sodipodi:role="line"
+             x="107.85938"
+             y="48.5"
+             id="tspan11"> OIL PRICES THIS TIME ?</tspan></text>
       </g>
     </g>
   </g>
@@ -6635,10 +6716,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(42.05,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1161">03 Jan 2016</text>
+               y="220.60001"
+               transform="translate(42.05)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1161">2016</text>
           </g>
           <g
              class="xtick"
@@ -6646,10 +6727,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(123.92,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1162">31 Aug 2017</text>
+               y="220.60001"
+               transform="translate(123.92)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1162">2017</text>
           </g>
           <g
              class="xtick"
@@ -6657,10 +6738,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(205.8,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1163">30 Apr 2019</text>
+               y="220.60001"
+               transform="translate(205.8)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1163">2019</text>
           </g>
           <g
              class="xtick"
@@ -6668,10 +6749,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(287.66999999999996,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1164">04 Jan 2021</text>
+               y="220.60001"
+               transform="translate(287.67)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1164">2021</text>
           </g>
           <g
              class="xtick"
@@ -6679,10 +6760,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(373.64,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1165">02 Oct 2022</text>
+               y="220.60001"
+               transform="translate(373.64)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1165">2022</text>
           </g>
           <g
              class="xtick"
@@ -6690,10 +6771,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(455.52,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1166">02 Jun 2024</text>
+               y="220.60001"
+               transform="translate(455.52)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1166">2024</text>
           </g>
           <g
              class="xtick"
@@ -6701,10 +6782,10 @@
             <text
                text-anchor="middle"
                x="0"
-               y="220.6"
-               transform="translate(537.39,0)"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre; opacity: 1;"
-               id="text1167">02 Feb 2026</text>
+               y="220.60001"
+               transform="translate(537.39)"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+               id="text1167">2026</text>
           </g>
         </g>
         <g
@@ -6855,12 +6936,13 @@
            class="shape-group"
            data-index="0"
            clip-path="url(#clip81a19fy)"
-           id="g1192">
+           id="g1192"
+           transform="translate(1.0752688,7.8853047)">
           <path
              data-index="0"
              fill-rule="evenodd"
-             d="M40,138.78L564,138.78"
-             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.6px;"
+             d="M 40,138.78 H 564"
+             style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.6px;stroke-opacity:1"
              id="path1191" />
         </g>
         <g
@@ -7137,7 +7219,7 @@
                text-anchor="start"
                x="2"
                y="9"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
                clip-path="url(#clip81a19f_ann7)"
                id="text1225"><tspan
                  class="line"
@@ -7149,7 +7231,16 @@
                  dy="1.3em"
                  x="2"
                  y="9"
-                 id="tspan1225">SOURCE: GENESIS RESEARCH.</tspan></text>
+                 id="tspan1225">SOURCES: BLS, GENESIS RESEARCH.</tspan></text>
+            <text
+               class="annotation-text"
+               text-anchor="start"
+               x="2"
+               y="9"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               clip-path="url(#clip81a19f_ann7-9)"
+               id="text1225-6"
+               transform="translate(0.02027032,18.760562)">NOTE: SHADED AREAS REPRESENT US NBER-DESIGNATED RECESSIONS.</text>
           </g>
         </g>
       </g>
@@ -7206,30 +7297,26 @@
         <text
            class="annotation-text"
            text-anchor="middle"
-           x="89.717773"
-           y="11"
+           x="115.1658"
+           y="9.9247313"
            style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
            id="text157"><tspan
-             class="line"
-             dy="0em"
-             x="89.717773"
-             y="11"
-             id="tspan154">AND CONSEQUENTLY, WOULD THAT</tspan><tspan
-             class="line"
-             dy="1.3em"
-             x="89.717773"
-             y="11"
-             id="tspan155">BE SUFFICIENT TO COUNTER THE</tspan><tspan
-             class="line"
-             dy="2.5999999em"
-             x="89.717773"
-             y="11"
-             id="tspan156">PREVAILING DISINFLATION</tspan><tspan
-             class="line"
-             dy="3.9000001em"
-             x="89.717773"
-             y="11"
-             id="tspan157">NARRATIVE?</tspan></text>
+             sodipodi:role="line"
+             id="tspan13"
+             x="115.1658"
+             y="9.9247313">WOULD THAT BE SUFFICIENT</tspan><tspan
+             sodipodi:role="line"
+             x="115.1658"
+             y="22.424732"
+             id="tspan17"> THIS TIME TO COUNTER THE </tspan><tspan
+             sodipodi:role="line"
+             x="115.1658"
+             y="34.924732"
+             id="tspan18">PREVAILING DIS-INFLATION </tspan><tspan
+             sodipodi:role="line"
+             x="115.1658"
+             y="47.424732"
+             id="tspan19">NARRATIVE ?</tspan></text>
       </g>
     </g>
   </g>

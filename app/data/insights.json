@@ -994,6 +994,16 @@
   "fullContent": "**The U.S. 5Y breakeven minus 5Y5Y forward inflation spread is widening, signaling near-term inflation risk is repricing relative to anchored long-run expectations.** This spread isolates front-loaded price pressures by subtracting long-run inflation expectations from intermediate inflation pricing. Following the Russian invasion of Ukraine in 2022, the spread surged as energy shocks lifted near-term inflation risk before Federal Reserve tightening compressed it. The 2023 Israel–Hamas conflict failed to generate sustained widening because crude did not embed a lasting premium. Current U.S.–Israel–Iran tensions differ in that credible risk to Strait of Hormuz flows could structurally lift energy input costs, mechanically steepening near-term inflation pricing even if long-run expectations remain anchored. ** A persistent widening would validate that oil risk is migrating from headline noise into the inflation term structure.**",
   "chartPath": "/charts/Fixed Income/us_5y_minus_5y5y_2026-03-01.svg",
   "chartHeight": "350"
+},
+{
+  "id": 88,
+  "date": "05-03-2026",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Yields Lead ISM by 18 Months — Macro Strength May Be Late-Cycle",
+  "summary": "**The 10-year Treasury yield, advanced by 18 months, is turning higher alongside a firming ISM Manufacturing index, echoing prior episodes where easing financial conditions lifted activity before growth momentum rolled over.**",
+  "fullContent": "**The 10-year Treasury yield, advanced by 18 months, is turning higher alongside a firming ISM Manufacturing index, echoing prior episodes where easing financial conditions lifted activity before growth momentum rolled over.** The chart shows that inflections in rates consistently precede turns in manufacturing, underscoring the bond market’s role as the macro signal rather than the follower. Periods of easier monetary conditions have historically aligned with rebounds in ISM above the 50 threshold, while tighter financial backdrops foreshadowed subsequent slowdowns. The current upswing in ISM suggests policy transmission is still working through the system with a lag. However, the recent rise in yields implies financial conditions are no longer easing at the margin. If that tightening impulse persists, the manufacturing rebound may prove cyclical rather than structural.",
+  "chartPath": "/charts/Economics/us10y_ism_leadlag_2026-03-05.svg",
+  "chartHeight": "700"
 }
-
 ]
