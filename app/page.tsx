@@ -145,23 +145,15 @@ function ClientHome() {
       </header>
 
       {/* ------------------------------------------- */}
-      {/* NAVIGATION: Insights | Narrative */}
+      {/* NAVIGATION: Insights */}
       {/* ------------------------------------------- */}
       <div className="max-w-7xl mx-auto px-6 mt-6 mb-6">
         <nav className="flex gap-6 border-b border-slate-200 pb-2">
           <span className="py-2 text-sm font-semibold text-slate-900 border-b-2 border-blue-600">
             Insights
           </span>
-
-          <a
-            href="/narrative"
-            className="py-2 text-sm font-semibold text-slate-500 hover:text-slate-700"
-          >
-            Narrative / StoryLine
-          </a>
         </nav>
       </div>
-
       {/* ------------------------------------------- */}
       {/* TITLE */}
       {/* ------------------------------------------- */}
