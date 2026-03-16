@@ -1016,5 +1016,15 @@
   "fullContent": "**The dollar tends to strengthen during periods of global policy uncertainty, yet valuation metrics indicate it remains structurally overvalued relative to purchasing power parity.** Periods of rising global economic policy uncertainty have historically coincided with stronger demand for dollar liquidity, reinforcing the currency’s role as the dominant safe-haven within the international monetary system. This dynamic reflects the depth of U.S. financial markets, the central role of Treasuries in global collateral chains, and the dollar’s status in global trade and funding markets. However, when the currency is evaluated through the lens of purchasing power parity derived from G4 inflation differentials, the dollar continues to trade above its estimated equilibrium band. The coexistence of safe-haven demand and valuation excess suggests that while the dollar can remain resilient during episodes of uncertainty, the longer-term trajectory is constrained by structural overvaluation pressures.",
   "chartPath": "/charts/Currencies/dxy_uncertainty_ppp_2026-03-05.svg",
   "chartHeight": "700"
-  }
+  },
+  {
+  "date": "16-03-2026",
+  "category": "Fixed Income",
+  "categoryColor": "bg-sky-600",
+  "title": "Oil Shock and the Bear-Flattening Playbook",
+  "summary": "**A sustained rise in oil prices generates an inflation shock while weakening growth expectations.**",
+  "fullContent": "**A sustained rise in oil prices generates an inflation shock while weakening growth expectations.** Higher energy costs feed directly into headline inflation, forcing central banks to maintain tighter policy or delay expected rate cuts. Markets respond by repricing the front end of the yield curve, pushing short-term yields higher as policy expectations adjust. At the same time, elevated energy prices erode consumer purchasing power and compress corporate margins, leading investors to downgrade long-term growth expectations. Long-dated yields therefore rise less than short-term rates, producing a classic bear flattening of the yield curve. The pattern has recently been more visible in Europe than in the United States. **In this regime, energy assets tend to outperform while long-duration assets struggle—until oil rises enough to threaten growth and shift markets toward recession pricing.**",
+  "chartPath": "/charts/Fixed Income/oil-bear-flattening-playbook_2026-03-16.svg",
+  "chartHeight": "700"
+}
 ]
