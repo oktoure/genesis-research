@@ -1019,12 +1019,12 @@
   },
   {
   "date": "16-03-2026",
-  "category": "Fixed Income",
+  "category": "Economics",
   "categoryColor": "bg-sky-600",
   "title": "Oil Shock and the Bear-Flattening Playbook",
   "summary": "**A sustained rise in oil prices generates an inflation shock while weakening growth expectations.**",
   "fullContent": "**A sustained rise in oil prices generates an inflation shock while weakening growth expectations.** Higher energy costs feed directly into headline inflation, forcing central banks to maintain tighter policy or delay expected rate cuts. Markets respond by repricing the front end of the yield curve, pushing short-term yields higher as policy expectations adjust. At the same time, elevated energy prices erode consumer purchasing power and compress corporate margins, leading investors to downgrade long-term growth expectations. Long-dated yields therefore rise less than short-term rates, producing a classic bear flattening of the yield curve. The pattern has recently been more visible in Europe than in the United States. **In this regime, energy assets tend to outperform while long-duration assets struggle—until oil rises enough to threaten growth and shift markets toward recession pricing.**",
-  "chartPath": "/charts/Fixed Income/oil-bear-flattening-playbook_2026-03-16.svg",
+  "chartPath": "/charts/Economics/oil-bear-flattening-playbook_2026-03-16.svg",
   "chartHeight": "700"
 }
 ]
