@@ -1030,13 +1030,13 @@
 },
 {
   "id": 91,
-  "date": "18-03-2026",
+  "date": "29-03-2026",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Equities Advance as Policy Signals Lag — Stability vs Inflation Risk",
-  "summary": "**Equities continue to advance alongside elevated yields while Taylor Rule estimates remain above the effective policy rate, signaling a disconnect between resilient growth and still-restrictive monetary conditions.**",
-  "fullContent": "**Equities continue to advance alongside elevated yields while Taylor Rule estimates remain above the effective policy rate, signaling a disconnect between resilient growth and still-restrictive monetary conditions.** The rise in long-term yields reflects persistent inflation pressure, consistent with the energy-driven dynamics outlined in Oil Shock and the Bear-Flattening Playbook. At the same time, equity markets continue to trend higher, indicating that growth expectations remain intact despite tighter financial conditions. Policy benchmarks derived from inflation and labor inputs suggest that rates are still below levels historically associated with equilibrium, reinforcing the idea that monetary policy has not fully caught up with underlying economic conditions. This divergence highlights a transitional phase where markets price stability while macro signals continue to reflect latent inflation risk. **The coexistence of firm equities, elevated yields, and lagging policy points to a regime where growth holds for now, but the balance remains vulnerable to renewed inflation pressure.**",
-  "chartPath": "/charts/Economics/dow_yields_taylor_rule_2026-03-18.svg",
+  "title": "Equities Test Support as Policy Signals Diverge",
+  "summary": "**Equities are testing key support as the Taylor Rule based on the output gap remains above the Fed funds rate while the NAIRU-based measure sits below, signaling conflicting policy pressures amid rising term premium risks.**",
+  "fullContent": "**Equities are testing key support as the Taylor Rule based on the output gap remains above the Fed funds rate while the NAIRU-based measure sits below, signaling conflicting policy pressures amid rising term premium risks.** The divergence between the two policy frameworks reflects an economy caught between resilient activity and moderating labor-driven inflation pressures. The output gap measure implies policy may still be too loose given sustained demand, while the NAIRU-based estimate suggests policy is already restrictive as labor conditions gradually soften. At the same time, the recent rise in term premia points to structural pressures beyond the policy rate, including fiscal concerns, quantitative tightening, weaker foreign demand, and uncertainty around future inflation credibility. Equities have corrected sharply and are now testing a critical support zone aligned with early-2025 levels. A sustained break would signal a shift from correction to deeper risk repricing if dip-buying fails to stabilize the market. **The macro regime is no longer aligned, and this divergence raises the risk of further downside unless support holds decisively.**",
+  "chartPath": "/charts/Economics/dow_treasury_taylor_rule_2026-03-29.svg",
   "chartHeight": "700"
 }
 
