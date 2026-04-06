@@ -8,6 +8,9 @@
    id="svg335"
    sodipodi:docname="dow_treasury_taylor_rule_2026-03-29.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:export-filename="/Users/ousmane/Desktop/dow_treasury_taylor_rule_2026-03-29.png"
+   inkscape:export-xdpi="587.75513"
+   inkscape:export-ydpi="587.75513"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -73,14 +76,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.72"
-     inkscape:cx="281.39535"
-     inkscape:cy="232.84884"
-     inkscape:window-width="1288"
+     inkscape:cx="281.10465"
+     inkscape:cy="244.47674"
+     inkscape:window-width="2560"
      inkscape:window-height="1382"
-     inkscape:window-x="-1"
-     inkscape:window-y="31"
+     inkscape:window-x="88"
+     inkscape:window-y="49"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg335" />
+     inkscape:current-layer="g334"
+     inkscape:export-bgcolor="#ffffffff" />
   <svg
      class="main-svg"
      width="600"
@@ -904,8 +908,8 @@
          id="g127">
         <g
            class="annotation-text-g"
-           transform="rotate(0,418.15333333333336,176.90512)"
-           id="g126">
+           id="g126"
+           transform="rotate(0,418.15333333333336,176.90512)">
           <g
              class="cursor-pointer"
              transform="translate(327.4876,156)"
@@ -2147,28 +2151,6 @@
              style="opacity: 1; stroke: rgb(255, 179, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
              id="path291" />
         </g>
-        <g
-           class="shape-group"
-           data-index="40"
-           id="g293">
-          <path
-             data-index="40"
-             fill-rule="evenodd"
-             d="M71.44,50.1L102.88,50.1"
-             style="opacity: 1; stroke: rgb(2, 119, 189); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
-             id="path292" />
-        </g>
-        <g
-           class="shape-group"
-           data-index="41"
-           id="g294">
-          <path
-             data-index="41"
-             fill-rule="evenodd"
-             d="M71.44,56.050000000000004L102.88,56.050000000000004"
-             style="opacity: 1; stroke: rgb(255, 179, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 2px;"
-             id="path293" />
-        </g>
       </g>
     </g>
     <g
@@ -2274,8 +2256,8 @@
                text-anchor="start"
                x="2"
                y="7"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text306">PCE &amp; OUTPUTGAP</text>
+               style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text306">PCE &amp; OUTPUT GAP</text>
           </g>
         </g>
       </g>
@@ -2283,64 +2265,12 @@
          class="annotation"
          data-index="3"
          style="opacity: 1;"
-         id="g312">
-        <g
-           class="annotation-text-g"
-           transform="rotate(0,126,50.1)"
-           id="g311">
-          <g
-             class="cursor-pointer"
-             transform="translate(106,45)"
-             id="g310">
-            <rect
-               class="bg"
-               x="0.5"
-               y="0.5"
-               width="40"
-               height="9"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect309" />
-            <text
-               class="annotation-text"
-               text-anchor="start"
-               x="2"
-               y="7"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text309">SMOOTHED*</text>
-          </g>
-        </g>
-      </g>
+         id="g312" />
       <g
          class="annotation"
          data-index="4"
          style="opacity: 1;"
-         id="g315">
-        <g
-           class="annotation-text-g"
-           transform="rotate(0,126,56.050000000000004)"
-           id="g314">
-          <g
-             class="cursor-pointer"
-             transform="translate(106,51)"
-             id="g313">
-            <rect
-               class="bg"
-               x="0.5"
-               y="0.5"
-               width="40"
-               height="9"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect312" />
-            <text
-               class="annotation-text"
-               text-anchor="start"
-               x="2"
-               y="7"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text312">SMOOTHED*</text>
-          </g>
-        </g>
-      </g>
+         id="g315" />
       <g
          class="annotation"
          data-index="5"
@@ -2406,11 +2336,11 @@
       <g
          class="annotation"
          data-index="7"
-         style="opacity: 1;"
-         id="g324">
+         style="opacity:1"
+         id="g324"
+         transform="translate(5.8139535,4.6511628)">
         <g
            class="annotation-text-g"
-           transform="rotate(0,331.2042666666667,58.599999999999994)"
            id="g323">
           <g
              class="cursor-pointer"
@@ -2449,10 +2379,11 @@
          data-index="8"
          style="opacity:1"
          id="g328"
-         transform="translate(-8.2644628,5.3719009)">
+         transform="translate(-5.9388814,4.7905056)">
         <g
            class="annotation-text-g"
-           id="g327">
+           id="g327"
+           transform="translate(-4.0697674,-3.4883721)">
           <g
              class="cursor-pointer"
              transform="translate(225,72)"
