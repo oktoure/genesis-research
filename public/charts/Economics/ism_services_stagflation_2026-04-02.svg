@@ -8,6 +8,9 @@
    id="svg317"
    sodipodi:docname="ism_services_stagflation_2026-04-02.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:export-filename="/Users/ousmane/Desktop/2025 - Documentations/Python/Economics/Genesis Engine/Data/Genesis/exports/stacked_600x460.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -58,15 +61,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.88"
-     inkscape:cx="296.2766"
-     inkscape:cy="234.30851"
-     inkscape:window-width="1280"
-     inkscape:window-height="1382"
-     inkscape:window-x="-1"
-     inkscape:window-y="30"
+     inkscape:zoom="2.67"
+     inkscape:cx="294.94382"
+     inkscape:cy="245.50562"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g313-8" />
+     inkscape:current-layer="svg151"
+     inkscape:export-bgcolor="#ffffffe7" />
   <svg
      class="main-svg"
      width="600"
@@ -164,18 +168,6 @@
          class="patterns"
          id="g10" />
     </defs>
-    <g
-       class="bglayer"
-       id="g11">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="182"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-         id="rect10" />
-    </g>
     <g
        class="layer-below"
        id="g49">

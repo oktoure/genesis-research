@@ -1041,14 +1041,15 @@
 },
 {
   "id": 92,
-  "date": "02-04-2026",
+  "date": "18-03-2026",
   "category": "Economics",
   "categoryColor": "bg-emerald-600",
-  "title": "Services Stagflation Emerges — Propagation Risk Rising",
-  "summary": "**Services activity slowed to 54.0 (from 56.1; 55.0 cons) while business activity fell to 53.9 (from 59.9; 58.0 cons) and employment collapsed to 45.2 (from 51.8; 51.7 cons), even as prices surged to 70.7 (from 63.0; 70.0 cons)—a clear stagflationary shift with rising propagation risk.**",
-  "fullContent": "**Services activity slowed to 54.0 (from 56.1; 55.0 cons) while business activity fell to 53.9 (from 59.9; 58.0 cons) and employment collapsed to 45.2 (from 51.8; 51.7 cons), even as prices surged to 70.7 (from 63.0; 70.0 cons)—a clear stagflationary shift with rising propagation risk.** The sharp deterioration in employment and activity confirms that demand is softening within the services sector, marking a meaningful loss of momentum in the core of the U.S. economy. At the same time, the surge in prices signals that cost pressures are not easing but instead accelerating, reinforcing the inflationary side of the equation. This combination aligns with a broader macro backdrop where oil has established a structural floor and inflation expectations are beginning to reprice higher, suggesting inflation pressure is being embedded rather than fading. The bond market reinforces this outlook, as the 12-month advanced yield signal points to further weakness in activity ahead, indicating the current slowdown may not yet be fully realized. While new orders remain firm at 60.6, the divergence between demand and employment suggests a capacity constraint that can sustain price pressures even as growth weakens. **The macro regime is shifting toward a stagflationary feedback loop where slowing activity, persistent inflation, and tightening financial conditions reinforce each other, increasing the risk of a broader economic slowdown.**",
+  "title": "Services Roll Over as Prices Surge — Early Stagflation Risk Builds",
+  "summary": "**Services activity slowed to 54.0 from 56.1 and below 55.0 expected, while business activity dropped to 53.9 from 59.9 and employment fell to 45.2 from 51.8, even as prices surged to 70.7 from 63.0—signaling early stagflation risk.**",
+  "fullContent": "**Services activity slowed to 54.0 from 56.1 and below 55.0 expected, while business activity dropped to 53.9 from 59.9 and employment fell to 45.2 from 51.8, even as prices surged to 70.7 from 63.0—signaling early stagflation risk.** ISM Services, as a leading indicator, is now rolling over with activity and hiring weakening simultaneously, pointing to a loss of momentum in the core of the economy. At the same time, rising price pressures confirm inflation is becoming more persistent rather than fading. This shift is reinforced by a macro backdrop where oil has established a floor and inflation expectations are firming, increasing the risk of continued price pressure despite softer demand. The divergence between resilient new orders and collapsing employment suggests capacity constraints that can sustain inflation even as growth slows. **The setup points to a fragile macro phase where slowing services activity and persistent inflation risk propagating into broader economic weakness.**",
   "chartPath": "/charts/Economics/ism_services_stagflation_2026-04-02.svg",
   "chartHeight": "700"
 }
+
 
 ]
