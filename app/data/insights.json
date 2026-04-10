@@ -88,17 +88,6 @@
     "chartHeight": "700"
   },
   {
-    "id": 9,
-    "date": "14-10-2025",
-    "category": "Equities",
-    "categoryColor": "bg-purple-600",
-    "title": "Technicals Point To a Mild Pull Back vs Leg Down",
-    "summary": "**Donald Trump's threat of 'massive' tariffs on China triggered one of the sharpest equity sell-offs since April's Liberation Day shock, but volatility measures suggest the move was a transient shock rather than the start of a sustained downturn.**",
-    "fullContent": "**Donald Trump's threat of 'massive' tariffs on China triggered one of the sharpest equity sell-offs since April's Liberation Day shock, but volatility measures suggest the move was a transient shock rather than the start of a sustained downturn.** The S&P 500's drawdown remained shallow, while the SKEW index—reflecting relative demand for tail hedges—quickly rebounded, showing that investors maintained appetite for crash protection rather than panic liquidation. Meanwhile, VVIX, the volatility-of-volatility index, spiked only modestly and retreated within days, signaling limited stress in the options market. Taken together, the three gauges imply that the October 10 tariff-driven drop was an event shock, not a trend shift. As long as drawdowns stay above the −10% threshold and VVIX holds near its average, markets appear resilient. **However, if future trade escalations drive SKEW lower and VVIX higher while drawdowns deepen, it would mark a transition from contained turbulence to systemic risk.**",
-    "chartPath": "/charts/Equities/technicals-point-to-a-mild-pull-back-vs-leg-down_2025-10-14.svg",
-    "chartHeight": "900"
-  },
-  {
     "id": 10,
     "date": "15-10-2025",
     "category": "Economics",
@@ -674,17 +663,6 @@
   "summary": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.**",
   "fullContent": "**Bitcoin has sharply decoupled from the Nasdaq—BTC slumped while tech merely wobbled—signaling tighter risk appetite as labor cools and rate-cut odds shift; equities may be underpricing recession risk.** The correlation that held through 2023–25 has broken as crypto, the highest-beta pocket, leads lower. Equity breadth was already thinning in [AI Mania](/i/54) and our [seasonality wrap](/i/51) flagged a late-November wobble. Macro flow supports caution: softer demand in [retail sales](/i/56) and a flow/stock split in weekly [claims](/i/59) point to slower hiring and cooler spending. Even with elevated odds of December easing, positioning remains concentrated and sensitive to earnings proofs, not promises. Decoupling says “risk appetite is tightening at the edges” before it shows up in the indices. Watch: BTC–Nasdaq correlation, equal-weight vs SPX, and credit spreads to judge whether this is a brief shakeout or the start of broader de-risking.",
   "chartPath": "/charts/Cross-Asset/bitcoin-vs-nasdaq-decoupling_2025-11-26.svg",
-  "chartHeight": "350"
-},
-{
-  "id": 61,
-  "date": "26-11-2025",
-  "category": "Economics",
-  "categoryColor": "bg-emerald-600",
-  "title": "Beige Book Monitor Turns Down — GDP Slows Next",
-  "summary": "**Our Beige Book Monitor is turning down, signaling slower real GDP ahead and reinforcing measured easing as demand cools and regional breadth softens.**",
-  "fullContent": "**Our Beige Book Monitor is turning down, signaling slower real GDP ahead and reinforcing measured easing as demand cools and regional breadth softens.** The text-based gauge (strong−weak word share) co-moves with real GDP; today’s downtick points to softer Q4–Q1 growth. The signal aligns with cooler [retail sales](/i/56), stable-to-cooling pipeline pressure in [PPI](/i/57), and fragile regional breadth as [Richmond](/i/58) joined Dallas. Policy remains live, not locked per [Minutes Measured](/i/47); transmission should ease FX/spreads first, with yields lagging. Weekly claims still show flow easing while the stock stays elevated, lengthening job-finding times without a break—consistent with a gradual slowdown rather than a crack. ** Beige Book tone now points to slower GDP—calibrate risk to a cooler late-cycle tape.**",
-  "chartPath": "/charts/Economics/beige-book-monitor-vs-gdp_2025-11-26.svg",
   "chartHeight": "350"
 },
 {
