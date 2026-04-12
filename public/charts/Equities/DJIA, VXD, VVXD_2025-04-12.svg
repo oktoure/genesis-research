@@ -118,6 +118,22 @@
          clip-rule="evenodd"
          id="path13-3-8-4" />
     </clipPath>
+    <clipPath
+       id="clip_437-2-1-8">
+      <path
+         transform="matrix(1.32185,0,0,-1.319109,0,357.57)"
+         d="M 26.246,18.363 H 245.95601 V 99.622 H 26.246 Z"
+         clip-rule="evenodd"
+         id="path13-3-8-2" />
+    </clipPath>
+    <clipPath
+       id="clip_437-3">
+      <path
+         transform="matrix(1.32185,0,0,-1.319109,0,357.57)"
+         d="M 26.246,18.363 H 245.95601 V 99.622 H 26.246 Z"
+         clip-rule="evenodd"
+         id="path13-27" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview1097"
@@ -128,15 +144,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.75"
-     inkscape:cx="313.71429"
-     inkscape:cy="328.28571"
+     inkscape:zoom="1.52"
+     inkscape:cx="296.05263"
+     inkscape:cy="362.17105"
      inkscape:window-width="1288"
      inkscape:window-height="1382"
-     inkscape:window-x="1279"
+     inkscape:window-x="-1"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1097" />
+     inkscape:current-layer="g76-0-9-8-7" />
   <svg
      class="main-svg"
      width="600"
@@ -4747,51 +4763,6 @@
          id="g881" />
     </defs>
     <g
-       clip-path="url(#clip_437-2-1)"
-       id="g76-0-9-8"
-       transform="matrix(-0.00152701,1.9652614,-0.49005738,-0.00612372,522.36985,-231.5849)">
-      <path
-         stroke-width="0.496064"
-         stroke-linecap="butt"
-         stroke-dasharray="1.127, 1.127"
-         stroke-miterlimit="10"
-         stroke-linejoin="miter"
-         fill="none"
-         stroke="#8b0000"
-         d="M 34.928427,277.59861 H 325.35739"
-         id="path76-7-7-0" />
-    </g>
-    <g
-       clip-path="url(#clip_437-2-1-7)"
-       id="g76-0-9-8-6"
-       transform="matrix(-0.00152701,1.9652614,-0.49005738,-0.00612372,603.37071,-232.15632)">
-      <path
-         stroke-width="0.496064"
-         stroke-linecap="butt"
-         stroke-dasharray="1.127, 1.127"
-         stroke-miterlimit="10"
-         stroke-linejoin="miter"
-         fill="none"
-         stroke="#8b0000"
-         d="M 34.928427,277.59861 H 325.35739"
-         id="path76-7-7-0-4" />
-    </g>
-    <g
-       clip-path="url(#clip_437-2-1-78)"
-       id="g76-0-9-8-0"
-       transform="matrix(-0.00152701,1.9652614,-0.49005738,-0.00612372,669.22785,-232.15632)">
-      <path
-         stroke-width="0.496064"
-         stroke-linecap="butt"
-         stroke-dasharray="1.127, 1.127"
-         stroke-miterlimit="10"
-         stroke-linejoin="miter"
-         fill="none"
-         stroke="#8b0000"
-         d="M 34.928427,277.59861 H 325.35739"
-         id="path76-7-7-0-6" />
-    </g>
-    <g
        class="layer-below"
        id="g885">
       <g
@@ -5316,26 +5287,8 @@
        stroke-linejoin="miter"
        fill="none"
        stroke="#8b0000"
-       d="m 392.09954,-36.010767 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
-       id="path54-4-6" />
-    <path
-       stroke-width="0.968561"
-       stroke-linecap="butt"
-       stroke-miterlimit="10"
-       stroke-linejoin="miter"
-       fill="none"
-       stroke="#8b0000"
        d="m 390.52577,34.862769 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
        id="path54-4-6-1" />
-    <path
-       stroke-width="0.968561"
-       stroke-linecap="butt"
-       stroke-miterlimit="10"
-       stroke-linejoin="miter"
-       fill="none"
-       stroke="#8b0000"
-       d="m 390.75461,339.01138 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
-       id="path54-4-6-7" />
     <path
        stroke-width="0.968561"
        stroke-linecap="butt"
@@ -5352,44 +5305,8 @@
        stroke-linejoin="miter"
        fill="none"
        stroke="#8b0000"
-       d="m 471.44088,-115.3524 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
-       id="path54-4-6-0" />
-    <path
-       stroke-width="0.968561"
-       stroke-linecap="butt"
-       stroke-miterlimit="10"
-       stroke-linejoin="miter"
-       fill="none"
-       stroke="#8b0000"
-       d="m 540.45395,-112.20861 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
-       id="path54-4-6-8" />
-    <path
-       stroke-width="0.968561"
-       stroke-linecap="butt"
-       stroke-miterlimit="10"
-       stroke-linejoin="miter"
-       fill="none"
-       stroke="#8b0000"
        d="m 538.70232,85.752177 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
        id="path54-4-6-04" />
-    <path
-       stroke-width="0.968561"
-       stroke-linecap="butt"
-       stroke-miterlimit="10"
-       stroke-linejoin="miter"
-       fill="none"
-       stroke="#8b0000"
-       d="m 471.26348,294.16487 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
-       id="path54-4-6-3-6" />
-    <path
-       stroke-width="0.968561"
-       stroke-linecap="butt"
-       stroke-miterlimit="10"
-       stroke-linejoin="miter"
-       fill="none"
-       stroke="#8b0000"
-       d="m 539.26348,367.30773 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
-       id="path54-4-6-3-5" />
   </svg>
   <g
      clip-path="url(#clip_235-6-1)"
@@ -6226,17 +6143,26 @@
           </g>
         </g>
       </g>
-      <path
-         stroke-width="0.868157"
-         stroke-linecap="butt"
-         stroke-miterlimit="10"
-         stroke-linejoin="miter"
-         fill="none"
-         stroke="#404040"
-         d="m 356.481,-307.77538 208.61487,-1.80036"
-         id="path26" />
     </g>
   </svg>
+  <path
+     stroke-width="0.968561"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#8b0000"
+     d="m 471.73412,491.80773 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+     id="path54-4-6-1-2" />
+  <path
+     stroke-width="0.968561"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#8b0000"
+     d="m 389.73412,537.42123 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+     id="path54-4-6-1-1" />
   <path
      d="m 550.04312,53.650266 -0.40757,-1.466583 -0.57212,-1.48026 -0.68334,-1.41983 -0.82264,-1.331249 -0.9211,-1.226211 -1.01898,-1.147251 -1.14524,-1.027101 -1.21673,-0.89805 -1.30188,-0.774487 -1.38699,-0.650914 -1.45907,-0.495783 -1.51723,-0.348194 -1.57568,-0.187584 -1.05738,-0.01822 -1.12082,2.258408 1.02986,0.02027 -0.0687,-0.0013 1.52094,0.178672 -0.0548,-0.0089 1.46247,0.339291 -0.0405,-0.02948 1.4043,0.486879 -0.0544,-0.02194 1.34642,0.621413 -0.0409,-0.0164 1.27463,0.763509 -0.0409,-0.0164 1.19008,0.861001 -0.0409,-0.0164 1.10469,0.99761 -0.0267,-0.03704 0.99231,1.110194 -0.027,-0.024 0.90805,1.194646 -0.0266,-0.03704 0.79598,1.294197 -0.0267,-0.03705 0.67057,1.37522 -0.0127,-0.0446 0.54546,1.443213 -0.0125,-0.05764 0.39452,1.435013 z m -1.01999,0.786171 -4.37251,0.185264 4.80136,4.710263 3.51513,-9.989347 z"
      fill="#c00000"
@@ -6244,4 +6170,55 @@
      style="stroke-width:1.33844"
      inkscape:transform-center-x="-1.7142857"
      inkscape:transform-center-y="2.2857143" />
+  <path
+     stroke-width="0.968561"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#8b0000"
+     d="m 528.96111,540.19423 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+     id="path54-4-6-1-7" />
+  <path
+     stroke-width="0.968561"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#8b0000"
+     d="m 391.56234,161.50098 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+     id="path54-4-6-1-8" />
+  <path
+     stroke-width="0.968561"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#8b0000"
+     d="m 470.12675,79.292393 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+     id="path54-4-6-1-3" />
+  <path
+     stroke-width="0.968561"
+     stroke-linecap="butt"
+     stroke-miterlimit="10"
+     stroke-linejoin="miter"
+     fill="none"
+     stroke="#8b0000"
+     d="m 540.48258,84.169693 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+     id="path54-4-6-1-4" />
+  <g
+     clip-path="url(#clip_437-2-1-8)"
+     id="g76-0-9-8-7"
+     transform="matrix(-0.0015269,1.974938,-0.49002343,-0.00615387,480.68788,-34.303405)">
+    <path
+       stroke-width="0.496064"
+       stroke-linecap="butt"
+       stroke-dasharray="1.127, 1.127"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8b0000"
+       d="M 116.12407,-101.55976 H 406.55302"
+       id="path76-7-7-4-3" />
+  </g>
 </svg>
