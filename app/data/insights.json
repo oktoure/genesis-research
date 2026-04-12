@@ -1031,6 +1031,17 @@
 {
   "id": 93,
   "date": "12-04-2026",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Hormuz Shock Detonates Inflation Pipeline, Fed Frozen",
+  "summary": "**US headline CPI surged from 2.4% to 3.3% year-over-year in a single print, driven by a 10.9% monthly energy spike, while core remains deceptively calm at 2.6% as the inflation pipeline fills behind it.**",
+  "fullContent": "**US headline CPI surged from 2.4% to 3.3% year-over-year in a single print, driven by a 10.9% monthly energy spike, while core remains deceptively calm at 2.6% as the inflation pipeline fills behind it.**\n\nInflation was quietly decelerating into February, with the Fed on glide path to cut. Then the [Hormuz closure](/i/91) detonated the energy complex. March headline CPI tripled its monthly pace to 0.9%, with gasoline recording a 21.2% surge — the largest since 1967. Core at 2.6% still looks contained, but it is a lagging indicator and the pipeline tells a different story. ISM prices paid vaulted to 78.3, a 19.3-point jump in two months and the highest since June 2022, meaning producers are absorbing cost increases that have not yet reached the consumer. Michigan 1-year inflation expectations surged a full percentage point to 4.8%, and consumer sentiment collapsed to an all-time low of 47.6.\n\nThe Fed is frozen at 3.5–3.75%, with futures now pricing only one cut in 2026 and nearly half the market expecting none at all. Headline has already moved. The leading indicators are signaling that core will follow. And with today's blockade escalation ensuring oil stays elevated, **the pass-through is just getting started.**",
+  "chartPath": "/charts/Economics/INFLATION, EXPECTATIONS & LEADING INDICATORS_2026-04-12.svg",
+  "chartHeight": "700"
+},
+{
+  "id": 94,
+  "date": "12-04-2026",
   "category": "Equities",
   "categoryColor": "bg-purple-600",
   "title": "Dow's 7% Rally Built on a Ceasefire That Never Came",
