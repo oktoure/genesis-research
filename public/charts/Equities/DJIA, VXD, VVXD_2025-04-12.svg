@@ -137,6 +137,16 @@
          clip-rule="evenodd"
          id="path13-27" />
     </clipPath>
+    <clipPath
+       class="annclip"
+       id="clip630765_ann6">
+      <rect
+         x="2"
+         y="2"
+         width="524"
+         height="19.400391"
+         id="rect121" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview1097"
@@ -148,14 +158,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.52"
-     inkscape:cx="296.05263"
-     inkscape:cy="362.17105"
+     inkscape:cx="276.31579"
+     inkscape:cy="333.22368"
      inkscape:window-width="1288"
      inkscape:window-height="1382"
-     inkscape:window-x="244"
-     inkscape:window-y="30"
+     inkscape:window-x="1463"
+     inkscape:window-y="73"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1097" />
+     inkscape:current-layer="svg1097"
+     showgrid="false" />
   <svg
      class="main-svg"
      width="600"
