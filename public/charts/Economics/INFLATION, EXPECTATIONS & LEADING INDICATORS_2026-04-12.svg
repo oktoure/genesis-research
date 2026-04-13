@@ -6,7 +6,7 @@
    preserveAspectRatio="xMidYMid meet"
    version="1.1"
    id="svg313"
-   sodipodi:docname="INFLATION, EXPECTATIONS &amp; LEADING INDICATORS.svg"
+   sodipodi:docname="INFLATION, EXPECTATIONS &amp; LEADING INDICATORS_2026-04-12.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -57,10 +57,10 @@
      inkscape:cy="233.7766"
      inkscape:window-width="1288"
      inkscape:window-height="1382"
-     inkscape:window-x="-1"
+     inkscape:window-x="244"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg313" />
+     inkscape:current-layer="g155" />
   <svg
      class="main-svg"
      width="600"
@@ -158,18 +158,6 @@
          class="patterns"
          id="g10" />
     </defs>
-    <g
-       class="bglayer"
-       id="g11">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="182"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-         id="rect10" />
-    </g>
     <g
        class="layer-below"
        id="g49">
@@ -1236,48 +1224,6 @@
           </g>
         </g>
       </g>
-      <g
-         class="annotation"
-         data-index="6"
-         style="opacity: 1;"
-         id="g154">
-        <g
-           class="annotation-text-g"
-           id="g153"
-           transform="rotate(0,304,230.50000000000003)">
-          <g
-             class="cursor-pointer"
-             transform="translate(40,219)"
-             id="g152">
-            <rect
-               class="bg"
-               x="0.5"
-               y="0.5"
-               width="527"
-               height="22"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect151" />
-            <text
-               class="annotation-text"
-               text-anchor="start"
-               x="2"
-               y="9"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               clip-path="url(#clip630765_ann6)"
-               id="text152"><tspan
-                 class="line"
-                 dy="0em"
-                 x="2"
-                 y="9"
-                 id="tspan151">* LESS FOOD AND ENERGY.</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="2"
-                 y="9"
-                 id="tspan152">** LESS FOOD, ENERGY AND SHELTER</tspan></text>
-          </g>
-        </g>
-      </g>
     </g>
   </svg>
   <svg
@@ -1379,16 +1325,7 @@
     </defs>
     <g
        class="bglayer"
-       id="g165">
-      <rect
-         class="bg"
-         x="40"
-         y="28"
-         width="524"
-         height="158"
-         style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
-         id="rect164" />
-    </g>
+       id="g165" />
     <path
        d="m 547.05897,98.482964 -0.2933,1.41707 -0.44617,1.461506 -0.55365,1.42797 -0.68901,1.37426 -0.78721,1.29758 -0.88332,1.24456 -1.00839,1.15949 -1.08282,1.05568 -1.16967,0.95948 -1.25653,0.86332 -1.33307,0.7358 -1.39616,0.61248 -1.46032,0.47733 -0.98635,0.22209 -1.18108,-1.84233 0.96053,-0.21864 -0.064,0.0145 1.40971,-0.45857 -0.0506,0.0188 1.34556,-0.59373 -0.0362,0.0347 1.28246,-0.71703 -0.0496,0.0306 1.22041,-0.82852 -0.0372,0.0229 1.1449,-0.94418 -0.0372,0.0229 1.06014,-1.01669 -0.0372,0.0229 0.97225,-1.12469 -0.0227,0.0389 0.86064,-1.20557 -0.0238,0.0271 0.7769,-1.26624 -0.0226,0.039 0.66632,-1.33528 -0.0226,0.039 0.54438,-1.3848 -0.009,0.0432 0.42354,-1.422496 -0.009,0.0544 0.283,-1.38575 z m -0.99931,-0.51894 -4.09433,0.68071 4.20351,-5.22984 3.877,8.429346 z"
        fill="#c00000"

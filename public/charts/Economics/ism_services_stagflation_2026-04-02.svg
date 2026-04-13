@@ -1205,14 +1205,15 @@
        inkscape:pagecheckerboard="0"
        inkscape:deskcolor="#d1d1d1"
        inkscape:zoom="1.4233333"
-       inkscape:cx="298.94614"
+       inkscape:cx="298.59485"
        inkscape:cy="175.29274"
        inkscape:window-width="1176"
        inkscape:window-height="1186"
        inkscape:window-x="244"
        inkscape:window-y="30"
        inkscape:window-maximized="0"
-       inkscape:current-layer="svg155" />
+       inkscape:current-layer="g202"
+       showgrid="false" />
     <defs
        id="defs-1aa4dc">
       <g
@@ -1298,7 +1299,7 @@
     <g
        class="layer-below"
        id="g203"
-       transform="translate(0.70257613,-11.943794)">
+       transform="translate(-3.5128806,-11.943794)">
       <g
          class="imagelayer"
          id="g166" />
@@ -1693,7 +1694,8 @@
            class="shape-group"
            data-index="33"
            clip-path="url(#clip1aa4dcx)"
-           id="g199">
+           id="g199"
+           transform="translate(2.8103045)">
           <path
              data-index="33"
              fill-rule="evenodd"
@@ -1705,7 +1707,8 @@
            class="shape-group"
            data-index="34"
            clip-path="url(#clip1aa4dcx)"
-           id="g200">
+           id="g200"
+           transform="translate(2.8103045,0.70257613)">
           <path
              data-index="34"
              fill-rule="evenodd"
