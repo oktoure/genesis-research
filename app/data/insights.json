@@ -655,6 +655,17 @@
   "chartHeight": "350"
 },
 {
+  "id": 61,
+  "date": "16-11-2025",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Beige Book Sentiment Rolls Over, Flashing a Familiar Lead on Real GDP",
+  "summary": "**The Fed's Beige Book sentiment index has turned decisively lower, historically a reliable leading signal for real GDP, as late-cycle cooling builds across consumption, regional activity, and pipeline prices.**",
+  "fullContent": "**The Fed's Beige Book sentiment index has turned decisively lower, historically a reliable leading signal for real GDP, as late-cycle cooling builds across consumption, regional activity, and pipeline prices.**\n\nThe net tone of the Beige Book, measured as the share of strong versus weak words, has shifted downward after hovering near cycle highs through mid-2025. This deterioration mirrors the pattern observed ahead of prior slowdowns, where sentiment led real GDP by one to two quarters. The decline is not isolated to a single district or sector. Softer retail sales, weakening regional manufacturing surveys, and easing input prices are converging into a coherent deceleration narrative.\n\nThe mechanism is consistent with a late-cycle regime where tighter financial conditions gradually filter into demand. Consumer spending is losing momentum as excess savings erode and credit conditions tighten. Meanwhile, easing pipeline prices suggest that supply-side pressures are fading, reducing the urgency for further policy tightening but also signaling weaker nominal activity ahead.\n\nIf the historical lead holds, real GDP growth is likely to moderate into early 2026, shifting the macro debate from inflation persistence toward growth fragility. The risk is not recession at this stage, but a transition into a lower-growth regime where policy missteps carry asymmetric downside.",
+  "chartPath": "/charts/Economics/beige-book-monitor-vs-gdp_2025-11-26.svg",
+  "chartHeight": "700"
+},
+{
   "id": 60,
   "date": "26-11-2025",
   "category": "Cross-Asset",

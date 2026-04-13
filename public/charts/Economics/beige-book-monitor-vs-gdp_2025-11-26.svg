@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4233333"
-     inkscape:cx="300"
+     inkscape:cx="300.3513"
      inkscape:cy="113.46604"
-     inkscape:window-width="976"
+     inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="244"
-     inkscape:window-y="25"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg172" />
   <rect
@@ -1209,8 +1209,8 @@
              text-anchor="start"
              x="2"
              y="7"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-             id="text152">BEIGE BOOK MONITOR* (LS)</text>
+             style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+             id="text152">BEIGE BOOK SENTIMENT* (LS)</text>
         </g>
       </g>
     </g>
