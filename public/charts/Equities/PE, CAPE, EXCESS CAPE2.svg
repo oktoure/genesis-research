@@ -57,8 +57,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.42"
-     inkscape:cx="272.53521"
-     inkscape:cy="191.90141"
+     inkscape:cx="271.83099"
+     inkscape:cy="190.49296"
      inkscape:window-width="1288"
      inkscape:window-height="1382"
      inkscape:window-x="244"
@@ -1679,5 +1679,14 @@
        fill-rule="evenodd"
        id="path50-6-4"
        style="display:inline;fill:#083a42;stroke-width:0.724594" />
+    <path
+       stroke-width="0.968561"
+       stroke-linecap="butt"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8b0000"
+       d="m 535.16287,-135.1148 c 0,2.93885 -2.38512,5.32345 -5.32461,5.32345 -2.9395,0 -5.31173,-2.3846 -5.31173,-5.32345 0,-2.93885 2.37223,-5.32345 5.31172,-5.32345 2.9395,0 5.32462,2.3846 5.32462,5.32345 z"
+       id="path54" />
   </svg>
 </svg>
