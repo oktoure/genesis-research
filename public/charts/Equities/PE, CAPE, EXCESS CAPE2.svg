@@ -57,14 +57,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.42"
-     inkscape:cx="271.83099"
-     inkscape:cy="190.49296"
+     inkscape:cx="346.47887"
+     inkscape:cy="229.92958"
      inkscape:window-width="1288"
      inkscape:window-height="1382"
-     inkscape:window-x="244"
-     inkscape:window-y="30"
+     inkscape:window-x="-1"
+     inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg306" />
+     inkscape:current-layer="g126" />
   <svg
      class="main-svg"
      width="600"
@@ -1561,13 +1561,9 @@
                style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
                id="text149-7"><tspan
                  sodipodi:role="line"
-                 id="tspan7"
-                 x="155.39865"
-                 y="6.7746477">CURRENT YIELD ARE HAVING A NEGATIVE IMPACT</tspan><tspan
-                 sodipodi:role="line"
                  id="tspan8"
                  x="155.39865"
-                 y="19.274647"> ON THE  ANOTHER MEASURE OF THE RISK PREMIUM</tspan></text>
+                 y="6.7746477">RISK PREMIUM MEASURES FAVORS BONDS</tspan></text>
           </g>
         </g>
       </g>
@@ -1617,7 +1613,8 @@
         <g
            class="annotation-text-g"
            id="g150"
-           style="fill:#083a42">
+           style="fill:#083a42"
+           transform="translate(-49.295775)">
           <g
              class="cursor-pointer"
              transform="translate(252,56)"
@@ -1634,14 +1631,14 @@
             <text
                class="annotation-text"
                text-anchor="middle"
-               x="39.905701"
-               y="17.338028"
+               x="131.455"
+               y="20.15493"
                style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
                id="text149"><tspan
                  sodipodi:role="line"
                  id="tspan10"
-                 x="39.905701"
-                 y="17.338028">VALUATION APPROACHING DOT-COM TERRITORY, HISTORY WARNS.</tspan></text>
+                 x="131.455"
+                 y="20.15493">VALUATION IS EXPENSIVE...</tspan></text>
             <text
                class="annotation-text"
                text-anchor="middle"
