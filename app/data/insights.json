@@ -986,16 +986,16 @@
     "chartHeight": "350"
   },
   {
-    "id": 88,
-    "date": "05-03-2026",
-    "category": "Economics",
-    "categoryColor": "bg-emerald-600",
-    "title": "Bond Market Leads Manufacturing, Near-Term Volatility Risk Builds",
-    "summary": "**The inverted 10-year Treasury yield annual change, advanced by 18 months, aligns with the recent rebound in ISM Manufacturing, but the bond signal suggests current macro optimism may face a volatility phase before longer-term improvement takes hold.**",
-    "fullContent": "**The inverted 10-year Treasury yield annual change, advanced by 18 months, aligns with the recent rebound in ISM Manufacturing, but the bond signal suggests current macro optimism may face a volatility phase before longer-term improvement takes hold.** The historical relationship confirms the bond market's role as a forward macro barometer, with the present ISM strength consistent with prior easing impulses filtering through with a lag. Because the yield impulse is already 18 months ahead, the economy may be entering a transitional zone where growth momentum becomes unstable. **The broader recovery trajectory holds, but near-term turbulence appears likely before a more durable upswing develops.**",
-    "chartPath": "/charts/Economics/us10y_ism_leadlag_2026-03-05.svg",
-    "chartHeight": "700"
-  },
+  "id": 88,
+  "date": "05-03-2026",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Bond Market Leads Manufacturing, Near-Term Volatility Risk Builds",
+  "summary": "**Treasuries align with the recent rebound in ISM Manufacturing, confirming the bond market's role as a forward macro barometer, but the signal suggests current optimism may face a volatility phase before longer-term improvement takes hold.**",
+  "fullContent": "**Treasuries align with the recent rebound in ISM Manufacturing, confirming the bond market's role as a forward macro barometer, but the signal suggests current optimism may face a volatility phase before longer-term improvement takes hold.** Turns in yields have historically preceded inflections in manufacturing activity, and the present ISM strength is consistent with prior easing impulses filtering through with a lag. The economy may now be entering the transitional zone where growth momentum becomes unstable, as the yield impulse has already run its leading course. **The broader recovery trajectory holds, but near-term turbulence appears likely before a more durable upswing develops.**",
+  "chartPath": "/charts/Economics/us10y_ism_leadlag_2026-03-05.svg",
+  "chartHeight": "700"
+},
   {
     "id": 89,
     "date": "05-03-2026",
