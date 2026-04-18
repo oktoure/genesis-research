@@ -6,7 +6,7 @@
    preserveAspectRatio="xMidYMid meet"
    version="1.1"
    id="svg307"
-   sodipodi:docname="PE, CAPE, EXCESS CAPE.svg"
+   sodipodi:docname="PE, CAPE, EXCESS CAPE2.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -1530,62 +1530,6 @@
       </g>
     </g>
     <g
-       id="g155"
-       transform="translate(114.85915,-65.62676)">
-      <g
-         class="annotation"
-         data-index="5"
-         style="opacity:1;fill:#083a42"
-         id="g151"
-         transform="translate(3.5211268,-2.8169014)">
-        <g
-           class="annotation-text-g"
-           id="g150"
-           style="fill:#083a42">
-          <g
-             class="cursor-pointer"
-             transform="translate(252,56)"
-             id="g149"
-             style="fill:#083a42">
-            <rect
-               class="bg"
-               x="0.5"
-               y="0.5"
-               width="130"
-               height="27"
-               style="fill:#083a42;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect148" />
-            <text
-               class="annotation-text"
-               text-anchor="middle"
-               x="64.553589"
-               y="3.2535212"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-               id="text149"><tspan
-                 sodipodi:role="line"
-                 id="tspan9"
-                 x="64.553589"
-                 y="3.2535212">VALUATION APPROACHING DOT-COM TERRITORY.</tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan10"
-                 x="64.553589"
-                 y="15.753521"> HISTORY WARNS.</tspan></text>
-            <text
-               class="annotation-text"
-               text-anchor="middle"
-               x="65.257812"
-               y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-               id="text1"><tspan
-                 sodipodi:role="line"
-                 id="tspan6"
-                 x="65.257812"
-                 y="20.007544" /></text>
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
        id="g155-9"
        transform="translate(24.359491,-24.654933)">
       <g
@@ -1638,16 +1582,79 @@
        fill-rule="evenodd"
        id="path50-6"
        style="fill:#083a42;stroke-width:0.724594" />
+    <g
+       id="g155"
+       transform="translate(110.46148,-63.848643)">
+      <g
+         class="annotation"
+         data-index="5"
+         style="opacity:1;fill:#083a42"
+         id="g151"
+         transform="translate(-8.4507042,-2.112676)">
+        <g
+           class="annotation-text-g"
+           id="g150"
+           style="fill:#083a42">
+          <g
+             class="cursor-pointer"
+             transform="translate(252,56)"
+             id="g149"
+             style="fill:#083a42">
+            <rect
+               class="bg"
+               x="0.5"
+               y="0.5"
+               width="130"
+               height="27"
+               style="fill:#083a42;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+               id="rect148" />
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="39.905701"
+               y="17.338028"
+               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+               id="text149"><tspan
+                 sodipodi:role="line"
+                 id="tspan10"
+                 x="39.905701"
+                 y="17.338028">VALUATION APPROACHING DOT-COM TERRITORY.HISTORY WARNS.</tspan></text>
+            <text
+               class="annotation-text"
+               text-anchor="middle"
+               x="65.257812"
+               y="11"
+               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+               id="text1"><tspan
+                 sodipodi:role="line"
+                 id="tspan6"
+                 x="65.257812"
+                 y="20.007544" /></text>
+          </g>
+        </g>
+      </g>
+    </g>
     <path
-       d="m 429.31417,-34.018642 125.81478,-71.068108 0.5261,1.98794 -125.82139,71.056677 z"
+       d="m 427.8996,-23.722092 119.5194,-81.210498 0.68841,1.93772 -119.52696,81.199661 z"
        fill="#8b0000"
-       id="path51-8-3"
-       style="fill:#083a42;stroke-width:2.82984" />
+       id="path51"
+       style="stroke-width:2.82984;fill:#083a42;fill-opacity:0.94901961" />
     <path
-       d="m 553.77715,-108.18661 4.79199,1.56811 -1.13973,4.9692"
+       d="m 544.55898,-108.03469 7.03314,1.74653 -1.65164,6.555156"
        fill="#8b0000"
        fill-rule="evenodd"
-       id="path50-6-1"
-       style="fill:#083a42;stroke-width:0.724594" />
+       id="path50"
+       style="stroke-width:1.00236;fill:#083a42;fill-opacity:0.94901961" />
+    <path
+       d="m 427.8996,-23.722092 119.5194,-81.210498 0.68841,1.93772 -119.52696,81.199661 z"
+       fill="#8b0000"
+       id="path1"
+       style="stroke-width:2.82984;fill:#000000;fill-opacity:0" />
+    <path
+       d="m 544.55898,-108.03469 7.03314,1.74653 -1.65164,6.555156"
+       fill="#8b0000"
+       fill-rule="evenodd"
+       id="path2"
+       style="stroke-width:1.00236;fill:#000000;fill-opacity:0" />
   </svg>
 </svg>
