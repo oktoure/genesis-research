@@ -1583,6 +1583,28 @@
        fill-rule="evenodd"
        id="path50-6"
        style="fill:#083a42;stroke-width:0.724594" />
+    <path
+       d="m 427.8169,-32.655372 124.52496,-73.304618 0.56154,1.97821 -124.53178,73.29332 z"
+       fill="#8b0000"
+       id="path51-8-0"
+       style="display:inline;fill:#083a42;stroke-width:2.82984" />
+    <path
+       d="m 550.93489,-109.03521 4.81924,1.48225 -1.05076,4.98877"
+       fill="#8b0000"
+       fill-rule="evenodd"
+       id="path50-6-40"
+       style="display:inline;fill:#083a42;stroke-width:0.724594" />
+    <path
+       d="m 427.56338,-32.45819 124.52496,-73.30462 0.56154,1.97821 -124.53178,73.293322 z"
+       fill="#8b0000"
+       id="path51-8-0-5"
+       style="display:inline;fill:#083a42;stroke-width:2.82984" />
+    <path
+       d="m 550.68137,-108.83803 4.81924,1.48225 -1.05076,4.98877"
+       fill="#8b0000"
+       fill-rule="evenodd"
+       id="path50-6-40-3"
+       style="display:inline;fill:#083a42;stroke-width:0.724594" />
     <g
        id="g155"
        transform="translate(110.46148,-63.848643)">
@@ -1646,5 +1668,16 @@
        fill-rule="evenodd"
        id="path2"
        style="fill:#000000;fill-opacity:0;stroke-width:1.00236" />
+    <path
+       d="M 406.37778,89.011798 546.0438,126.07173 545.03127,127.86154 405.3685,90.788814 Z"
+       fill="#8b0000"
+       id="path51-8-9"
+       style="display:inline;fill:#083a42;stroke-width:2.82984" />
+    <path
+       d="m 547.24249,122.9095 2.33274,4.46997 -4.28729,2.75882"
+       fill="#8b0000"
+       fill-rule="evenodd"
+       id="path50-6-4"
+       style="display:inline;fill:#083a42;stroke-width:0.724594" />
   </svg>
 </svg>
