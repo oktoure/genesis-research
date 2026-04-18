@@ -665,8 +665,7 @@
      preserveAspectRatio="xMidYMid"
      version="1.1"
      id="svg306"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        x="0"
        y="0"
@@ -1574,12 +1573,12 @@
       </g>
     </g>
     <path
-       d="M 403.73804,95.588202 544.31028,129.0468 543.34407,130.86204 402.77475,97.39057 Z"
+       d="m 427.61058,-32.657561 124.52496,-73.304619 0.56154,1.97821 -124.53178,73.293321 z"
        fill="#8b0000"
        id="path51-8"
        style="fill:#083a42;stroke-width:2.82984" />
     <path
-       d="m 545.42732,125.85482 2.44683,4.40853 -4.21497,2.86809"
+       d="m 550.72857,-109.0374 4.81924,1.48225 -1.05076,4.98877"
        fill="#8b0000"
        fill-rule="evenodd"
        id="path50-6"
@@ -1647,16 +1646,5 @@
        fill-rule="evenodd"
        id="path2"
        style="fill:#000000;fill-opacity:0;stroke-width:1.00236" />
-    <path
-       d="m 427.83015,-31.296162 124.7093,-72.990548 0.55657,1.97962 -124.71612,72.979229 z"
-       fill="#8b0000"
-       id="path51"
-       style="fill:#0277bd;fill-opacity:1;stroke-width:2.82984" />
-    <path
-       d="m 549.89448,-107.57409 6.89979,2.21546 -2.08866,6.429276"
-       fill="#8b0000"
-       fill-rule="evenodd"
-       id="path50"
-       style="fill:#0277bd;fill-opacity:1;stroke-width:1.00236" />
   </svg>
 </svg>
