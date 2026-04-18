@@ -1081,7 +1081,7 @@
   "categoryColor": "bg-sky-600",
   "title": "Dollar's Geopolitical Bid Collides With Structural Gravity",
   "summary": "**The dollar's Iran-shock rally ran straight into structural gravity — DXY near 100 sits roughly 15% above PPP fair value, with overvaluation versus the yen near 40% and versus the euro near 17%, capping any sustained upside.**",
-  "fullContent": "**The dollar's Iran-shock rally ran straight into structural gravity — DXY near 100 sits roughly 15% above PPP fair value, with overvaluation versus the yen near 40% and versus the euro near 17%, capping any sustained upside.** As [previously identified](/i/89), the dollar's safe-haven role creates episodic demand that cannot overcome the weight of structural excess. The PPP advanced indicator has already turned lower, projecting continued dollar depreciation through the decade. The flight-to-liquidity bid is fading, and the structural overhang is reasserting control.",
+  "fullContent": "**The dollar's Iran-shock rally ran straight into structural gravity, with DXY near 100 sitting roughly 15% above PPP fair value, overvaluation versus the yen near 40% and versus the euro near 17%, capping any sustained upside.** As [previously identified](/i/89), the dollar's safe-haven role creates episodic demand that cannot overcome the weight of structural excess. The dollar deviation from PPP advanced by 10 years has already turned lower, projecting continued dollar depreciation through the decade. **The flight-to-liquidity bid is fading, and the structural overhang is reasserting control.**",
   "chartPath": "/charts/Currencies/dxy_ppp_structural_overvaluation_2026-04-18.svg",
   "chartHeight": "700"
 },
@@ -1092,10 +1092,9 @@
   "category": "Currencies",
   "categoryColor": "bg-sky-600",
   "title": "Resistance Holds, Differentials Compress — Dollar Weakness Resumes",
-  "summary": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread compressed toward 1%, with Germany near 3.05% and Japan near 2.45% — the rate differential that sustained the dollar for three years is dissolving.**",
-  "fullContent": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread compressed toward 1%, with Germany near 3.05% and Japan near 2.45% — the rate differential that sustained the dollar for three years is dissolving.** [Structural overvaluation](/i/96) was always the ceiling. Now the floor is eroding too, as non-US yields rise under their own inflation pressures while the geopolitical safe-haven bid unwinds with de-escalation pricing. Deutsche Bank, JPMorgan, and Wells Fargo have turned simultaneously bearish. Consensus targets DXY in the low-to-mid 90s by late 2026. Resistance held. Dollar weakness resumes.",
+  "summary": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread fell below 1%, with Germany near 3.05% and Japan near 2.45%, dissolving the rate differential that sustained the dollar for three years.**",
+  "fullContent": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread fell below 1%, with Germany near 3.05% and Japan near 2.45%, dissolving the rate differential that sustained the dollar for three years.** [Structural overvaluation](/i/96) was always the ceiling. Now the floor is eroding too, as non-US yields rise under their own inflation pressures while the geopolitical safe-haven bid unwinds with de-escalation pricing. Deutsche Bank, JPMorgan, and Wells Fargo have turned simultaneously bearish, with consensus targets placing DXY in the low-to-mid 90s by late 2026. **Resistance held, rate differentials are compressing, and dollar weakness resumes.**",
   "chartPath": "/charts/Currencies/dxy_rate_differential_2026-04-18.svg",
   "chartHeight": "700"
 }
-
 ]
