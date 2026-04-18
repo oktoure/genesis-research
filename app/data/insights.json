@@ -1073,6 +1073,29 @@
   "fullContent": "**With CAPE approaching dot-com levels and the excess real CAPE yield collapsing near zero, CPI surging from 2.4% to 3.3% and the 10-year yield holding at 4.31% have erased the equity risk premium — the AI supercycle has priced the next decade to perfection.**\n\nThe [Hormuz bear thesis](/i/94) never triggered the reversal we anticipated — not because it was wrong, but because AI euphoria rendered it irrelevant. What the dot-com boom did from 1997 to 1999, the AI supercycle is doing now: a fundamentally credible earnings story built around Nvidia, Microsoft, and the infrastructure buildout behind them overwhelmed every valuation warning in succession. When geopolitical risk collided with that conviction, conviction won.\n\nThe macro beneath it, however, is quietly turning hostile. CPI's single-print surge has trapped the Fed near zero probability of cuts, while the 10-year at 4.31% now competes directly with equity returns in a way last seen at the prior bubble's peak. A dividend yield at 1.14% — a generational low — confirms investors are paying purely for price appreciation with no income cushion left.\n\nValuation alone never kills a bull market. But it guarantees that when the catalyst finally arrives, the unwind is violent. Yields are the truth-teller. Until they fall, this rally is borrowed time.",
   "chartPath": "/charts/Equities/PE, CAPE, EXCESS CAPE2.svg",
   "chartHeight": "700"
+},
+{
+  "id": 96,
+  "date": "18-04-2026",
+  "category": "Currencies",
+  "categoryColor": "bg-sky-600",
+  "title": "Dollar's Geopolitical Bid Collides With Structural Gravity",
+  "summary": "**The dollar's Iran-shock rally ran straight into structural gravity — DXY near 100 sits roughly 15% above PPP fair value, with overvaluation versus the yen near 40% and versus the euro near 17%, capping any sustained upside.**",
+  "fullContent": "**The dollar's Iran-shock rally ran straight into structural gravity — DXY near 100 sits roughly 15% above PPP fair value, with overvaluation versus the yen near 40% and versus the euro near 17%, capping any sustained upside.** As [previously identified](/i/89), the dollar's safe-haven role creates episodic demand that cannot overcome the weight of structural excess. The PPP advanced indicator has already turned lower, projecting continued dollar depreciation through the decade. The flight-to-liquidity bid is fading, and the structural overhang is reasserting control.",
+  "chartPath": "/charts/Currencies/dxy_ppp_structural_overvaluation_2026-04-18.svg",
+  "chartHeight": "700"
+},
+
+{
+  "id": 97,
+  "date": "18-04-2026",
+  "category": "Currencies",
+  "categoryColor": "bg-sky-600",
+  "title": "Resistance Holds, Differentials Compress — Dollar Weakness Resumes",
+  "summary": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread compressed toward 1%, with Germany near 3.05% and Japan near 2.45% — the rate differential that sustained the dollar for three years is dissolving.**",
+  "fullContent": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread compressed toward 1%, with Germany near 3.05% and Japan near 2.45% — the rate differential that sustained the dollar for three years is dissolving.** [Structural overvaluation](/i/96) was always the ceiling. Now the floor is eroding too, as non-US yields rise under their own inflation pressures while the geopolitical safe-haven bid unwinds with de-escalation pricing. Deutsche Bank, JPMorgan, and Wells Fargo have turned simultaneously bearish. Consensus targets DXY in the low-to-mid 90s by late 2026. Resistance held. Dollar weakness resumes.",
+  "chartPath": "/charts/Currencies/dxy_rate_differential_2026-04-18.svg",
+  "chartHeight": "700"
 }
 
 ]
