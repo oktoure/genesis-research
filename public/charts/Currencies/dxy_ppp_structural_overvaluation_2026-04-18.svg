@@ -42,7 +42,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.63"
-     inkscape:cx="311.65644"
+     inkscape:cx="220.55215"
      inkscape:cy="242.02454"
      inkscape:window-width="1280"
      inkscape:window-height="1382"
@@ -876,7 +876,7 @@
                x="2"
                y="7"
                style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
-               id="text165">PPP</text>
+               id="text165">PPP*</text>
           </g>
         </g>
       </g>
@@ -1753,7 +1753,7 @@
                x="2"
                y="7"
                style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
-               id="text330">DXY DEVIATION FROM PPP* (ADV.) (INV.)** (LS)</text>
+               id="text330">DXY DEVIATION FROM PPP (ADV.) (INV.)** (LS)</text>
           </g>
         </g>
       </g>
