@@ -42,7 +42,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.63"
-     inkscape:cx="312.57669"
+     inkscape:cx="311.65644"
      inkscape:cy="242.02454"
      inkscape:window-width="1280"
      inkscape:window-height="1382"
@@ -1752,8 +1752,8 @@
                text-anchor="start"
                x="2"
                y="7"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text330">DXY DEVIATION FROM PPP (ADV.) (INV.) (LS)</text>
+               style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text330">DXY DEVIATION FROM PPP* (ADV.) (INV.)** (LS)</text>
           </g>
         </g>
       </g>
@@ -1783,8 +1783,8 @@
                text-anchor="start"
                x="2"
                y="7"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text333">DXY** (RS)</text>
+               style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text333">DXY*** (RS)</text>
           </g>
         </g>
       </g>
@@ -1890,10 +1890,10 @@
                  y="9"
                  id="tspan343">** ADVANCED BY 10 YEARS.</tspan><tspan
                  class="line"
-                 dy="2.6em"
                  x="2"
                  y="9"
-                 id="tspan344">*** 10-YEAR RETURNS.</tspan><tspan
+                 id="tspan344"
+                 dy="2.6em">*** 10-YEAR RETURNS.</tspan><tspan
                  class="line"
                  dy="3.9000000000000004em"
                  x="2"

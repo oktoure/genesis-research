@@ -41,12 +41,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.52"
-     inkscape:cx="298.68421"
-     inkscape:cy="258.88158"
+     inkscape:cx="222.03947"
+     inkscape:cy="256.25"
      inkscape:window-width="1288"
      inkscape:window-height="1382"
-     inkscape:window-x="1280"
-     inkscape:window-y="31"
+     inkscape:window-x="1272"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1011" />
   <svg
@@ -5870,8 +5870,8 @@
                text-anchor="start"
                x="2"
                y="7"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 6px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
-               id="text995">US MINUS NON-US 10-YEAR YIELD* (RS)</text>
+               style="font-size:6px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
+               id="text995">US MINUS NON-US 10-YEAR YIELD** (RS)</text>
           </g>
         </g>
       </g>
