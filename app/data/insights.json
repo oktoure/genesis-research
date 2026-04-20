@@ -1041,6 +1041,17 @@
     "chartHeight": "700"
   },
   {
+  "id": "92.1",
+  "date": "10-04-2026",
+  "category": "Economics",
+  "categoryColor": "bg-emerald-600",
+  "title": "Sentiment Hits a Record Low, GDP and Spending Roll Over",
+  "summary": "**Michigan Consumer Sentiment collapsed to a record low of 47.6 in April from 53.3 in March, well below the 52.0 consensus, as real GDP slowed to just 0.5% annualized in Q4 2025 and personal consumption growth was revised down to 1.9%, its weakest in three quarters.**",
+  "fullContent": "**Michigan Consumer Sentiment collapsed to a record low of 47.6 in April from 53.3 in March, well below the 52.0 consensus, as real GDP slowed to just 0.5% annualized in Q4 2025 and personal consumption growth was revised down to 1.9%, its weakest in three quarters.** Consumer Expectations fell to 46.1, the lowest since 1980, with households across every income and demographic group citing rising prices and weakening asset values. The chart confirms the transmission: expectations are leading spending lower, and the consumption revision validates what sentiment had already been signaling. Building on the [stagflation signal](/i/92) from ISM Services, the growth leg of that thesis is now confirmed in the hard data. **Confidence and spending are rolling over together, and the macro is moving from fragile to contractionary.**",
+  "chartPath": "/charts/Economics/michigan_sentiment_gdp_spending_2026-04-10.svg",
+  "chartHeight": "700"
+},
+  {
     "id": 93,
     "date": "12-04-2026",
     "category": "Economics",
