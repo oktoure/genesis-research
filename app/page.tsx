@@ -4,6 +4,7 @@
 import React, { Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import rawInsights from './data/insights.json';
+import ChartZoom from './components/ChartZoom';
 
 export const dynamic = 'force-static';
 
@@ -241,18 +242,10 @@ function ClientHome() {
                   {/* Chart */}
                   <div>
                     {insight.chartPath ? (
-                      <img
-                        src={encodeURI(insight.chartPath)}
+                      <ChartZoom
+                        src={insight.chartPath}
                         alt={insight.title}
-                        className="w-full"
-                        style={
-                          insight.chartHeight
-                            ? {
-                                height: insight.chartHeight,
-                                objectFit: 'contain'
-                              }
-                            : {}
-                        }
+                        height={insight.chartHeight}
                       />
                     ) : (
                       <div className="w-full aspect-[16/9] border border-slate-200 rounded-lg grid place-items-center text-slate-400 text-xs">

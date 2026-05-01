@@ -4,6 +4,7 @@ import insights from '../../data/insights.json';
 import type { Metadata, ResolvingMetadata } from 'next';
 import { absoluteUrl } from '../../lib/site';
 import BackLink from '../../components/BackLink';
+import ChartZoom from '../../components/ChartZoom';
 import React from 'react';
 
 type Insight = {
@@ -151,11 +152,10 @@ export default async function InsightPage({
         {/* Chart */}
         <div className="mb-6">
           {chartSrc ? (
-            <img
-              src={encodeURI(chartSrc)}
+            <ChartZoom
+              src={chartSrc}
               alt={post.title}
-              className="w-full h-auto"
-              style={post.chartHeight ? { height: post.chartHeight, objectFit: 'contain' } : {}}
+              height={post.chartHeight}
             />
           ) : (
             <div className="w-full aspect-[16/9] border border-slate-200 rounded-lg grid place-items-center text-slate-400 text-xs">
