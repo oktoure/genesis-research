@@ -6,7 +6,7 @@
    preserveAspectRatio="xMidYMid meet"
    version="1.1"
    id="svg972"
-   sodipodi:docname="stacked_600x460.svg"
+   sodipodi:docname="2026-05-28_US_Labour_Market_Resilience_Higher_For_Longer.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,10 +26,10 @@
      inkscape:zoom="1.4233333"
      inkscape:cx="304.21546"
      inkscape:cy="219.55504"
-     inkscape:window-width="976"
+     inkscape:window-width="1176"
      inkscape:window-height="1186"
-     inkscape:window-x="226"
-     inkscape:window-y="83"
+     inkscape:window-x="244"
+     inkscape:window-y="55"
      inkscape:window-maximized="0"
      inkscape:current-layer="g826" />
   <svg
@@ -6540,18 +6540,6 @@
         </g>
         <g
            class="shape-group"
-           data-index="1"
-           clip-path="url(#clip48dc81y)"
-           id="g820">
-          <path
-             data-index="1"
-             fill-rule="evenodd"
-             d="M40,197.87L564,197.87"
-             style="opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0; stroke-width: 0.6px;"
-             id="path819" />
-        </g>
-        <g
-           class="shape-group"
            data-index="3"
            clip-path="url(#clip48dc81y)"
            id="g822">
@@ -6751,23 +6739,26 @@
                text-anchor="middle"
                x="114.625"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:10px;fill:#455a64;fill-opacity:1;white-space:pre"
                id="text848"><tspan
                  class="line"
                  dy="0em"
                  x="114.625"
                  y="11"
-                 id="tspan846">NONFARM PAYROLLS DELIVERED A BLOWOUT</tspan><tspan
+                 id="tspan846"
+                 style="fill:#455a64;fill-opacity:1">NONFARM PAYROLLS DELIVERED A BLOWOUT</tspan><tspan
                  class="line"
                  dy="1.3em"
                  x="114.625"
                  y="11"
-                 id="tspan847">BEAT, COMING IN MORE THAN TWICE AS</tspan><tspan
+                 id="tspan847"
+                 style="fill:#455a64;fill-opacity:1">BEAT, COMING IN MORE THAN TWICE AS</tspan><tspan
                  class="line"
                  dy="2.6em"
                  x="114.625"
                  y="11"
-                 id="tspan848">STRONG AS EXPECTED.</tspan></text>
+                 id="tspan848"
+                 style="fill:#455a64;fill-opacity:1">STRONG AS EXPECTED.</tspan></text>
           </g>
         </g>
       </g>
@@ -7541,18 +7532,20 @@
                text-anchor="middle"
                x="103.328125"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:10px;fill:#455a64;fill-opacity:1;white-space:pre"
                id="text965"><tspan
                  class="line"
                  dy="0em"
                  x="103.328125"
                  y="11"
-                 id="tspan964">THE U.S. LABOR MARKET REMAINS A KEY</tspan><tspan
+                 id="tspan964"
+                 style="fill:#455a64;fill-opacity:1">THE U.S. LABOR MARKET REMAINS A KEY</tspan><tspan
                  class="line"
                  dy="1.3em"
                  x="103.328125"
                  y="11"
-                 id="tspan965">SOURCE OF ECONOMIC STRENGTH.</tspan></text>
+                 id="tspan965"
+                 style="fill:#455a64;fill-opacity:1">SOURCE OF ECONOMIC STRENGTH.</tspan></text>
           </g>
         </g>
       </g>
@@ -7591,13 +7584,13 @@
     </g>
   </svg>
   <path
-     d="m 476.43939,283.49281 39.78679,0.89932 -0.0333,1.00137 -39.79942,-0.89707 z m 38.59369,-1.62827 7.64488,3.17465 -7.8754,2.81857 z"
+     d="m 488.36355,282.47349 39.79626,0.23488 -0.0166,1.00178 -39.80885,-0.23242 z m 38.56113,-2.27244 7.69682,3.04656 -7.82724,2.94967 z"
      fill="#0d383f"
      id="path44-3"
      style="stroke-width:1.1379" />
   <path
-     d="m 501.45108,126.92804 39.78679,0.89932 -0.0333,1.00137 -39.79942,-0.89707 z m 38.59369,-1.62827 7.64488,3.17465 -7.8754,2.81857 z"
+     d="m 490.27041,125.84855 39.79626,0.23488 -0.0166,1.00178 -39.80885,-0.23242 z m 38.56113,-2.27244 7.69682,3.04656 -7.82724,2.94967 z"
      fill="#0d383f"
-     id="path44-3-0"
+     id="path44-3-7"
      style="stroke-width:1.1379" />
 </svg>
