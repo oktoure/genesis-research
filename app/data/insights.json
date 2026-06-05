@@ -1105,5 +1105,17 @@
     "fullContent": "**DXY failed at 100-101 resistance as the US-to-non-US 10-year yield spread fell below 1%, with Germany near 3.05% and Japan near 2.45%, dissolving the rate differential that sustained the dollar for three years.** [Structural overvaluation](/i/96) was always the ceiling. Now the floor is eroding too, as non-US yields rise under their own inflation pressures while the geopolitical safe-haven bid unwinds with de-escalation pricing. Deutsche Bank, JPMorgan, and Wells Fargo have turned simultaneously bearish, with consensus targets placing DXY in the low-to-mid 90s by late 2026. **Resistance held, rate differentials are compressing, and dollar weakness resumes.**",
     "chartPath": "/charts/Currencies/dxy_rate_differential_2026-04-18.svg",
     "chartHeight": "700"
-  }
+  },
+{
+  "id": 98,
+  "date": "28-05-2026",
+  "category": "Macro",
+  "categoryColor": "bg-amber-600",
+  "title": "Labor Resilience Keeps the Higher-for-Longer Trade Alive",
+  "summary": "**The U.S. labor market continues to show resilience, with claims still contained and employment conditions holding firm, reinforcing higher-for-longer Fed pricing as sticky inflation keeps upward pressure on yields.**",
+  "fullContent": "**The U.S. labor market continues to show resilience, with claims still contained and employment conditions holding firm, reinforcing higher-for-longer Fed pricing as sticky inflation keeps upward pressure on yields.** Since the beginning of the year, labor data has refused to confirm a hard-landing narrative, giving the Fed limited room to pivot dovish while inflation pressures remain present.",
+  "chartPath": "/charts/Economics/2026-05-28_US_Labour_Market_Resilience_Higher_For_Longer.svg",
+  "chartHeight": "700"
+}
+
 ]
