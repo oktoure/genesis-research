@@ -1138,6 +1138,18 @@
   "fullContent": "**The short end of the curve is signaling the Fed may be behind the curve, forcing Kevin Warsh into a hawkish corner despite being chosen as a politically dovish chair.**",
   "chartPath": "/charts/Economics/2026-05-06_Monetary_Policy_Short_End_Fed_Behind_Curve.svg",
   "chartHeight": "350"
+},
+{
+  "id": 101,
+  "date": "05-05-2026",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "AI Weakness Exposes the Rate-Sensitivity Gap",
+  "summary": "**The equity decline was driven by AI weakness and higher-for-longer Fed pricing, while value’s lower rate sensitivity allowed it to outperform as strong data and higher yields weighed on the broader market.**",
+  "fullContent": "**The equity decline was driven by AI weakness and higher-for-longer Fed pricing, while value’s lower rate sensitivity allowed it to outperform as strong data and higher yields weighed on the broader market.**",
+  "chartPath": "/charts/Equities/2026-05-05_Equities_AI_Selloff_Value_Outperformance_Higher_For_Longer.svg",
+  "chartHeight": "350"
 }
+
 
 ]
