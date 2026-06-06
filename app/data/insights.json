@@ -1149,6 +1149,17 @@
   "fullContent": "**The equity decline was driven by AI weakness and higher-for-longer Fed pricing, while value’s lower rate sensitivity allowed it to outperform as strong data and higher yields weighed on the broader market.**",
   "chartPath": "/charts/Equities/2026-05-05_Equities_AI_Selloff_Value_Outperformance_Higher_For_Longer.svg",
   "chartHeight": "350"
+},
+{
+  "id": 102,
+  "date": "29-05-2026",
+  "category": "Precious Metals",
+  "categoryColor": "bg-yellow-600",
+  "title": "Gold Breaks the 200-Day as Inflation Risk Lifts Yields",
+  "summary": "**Rising geopolitical risk premiums, higher inflation expectations, and strong U.S. data have pushed gold below its 200-day moving average as yields and the dollar overpower the safe-haven bid.**",
+  "fullContent": "**Rising geopolitical risk premiums, higher inflation expectations, and strong U.S. data have pushed gold below its 200-day moving average as yields and the dollar overpower the safe-haven bid.**",
+  "chartPath": "/charts/Precious_Metals/2026-05-29_Gold_Breaks_200DMA_Geopolitical_Inflation_Yield_Shock.svg",
+  "chartHeight": "350"
 }
 
 
