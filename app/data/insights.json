@@ -237,7 +237,7 @@
 {
   "id": 23,
   "date": "29-10-2025",
-  "category": "Economics",
+  "category": "Monetary Policy",
   "categoryColor": "bg-emerald-600",
   "title": "FOMC: The Cut Was Dovish, The Read Was Hawkish",
   "summary": "**The Fed cut 25 bp to 3.75–4.00 %, but markets priced it hawkish: DXY firmed, the 10-year rebounded toward 4 %, and December cut odds slid to ~67 % from ~90 %.**",
@@ -899,7 +899,7 @@
 {
   "id": 80,
   "date": "10-12-2025",
-  "category": "Economics",
+  "category": "Monetary Policy",
   "categoryColor": "bg-emerald-600",
   "title": "Hawkish Cut — Pause Signaled; Gold Bid, USD Capped",
   "summary": "**Fed cut 25 bps to 3.50–3.75 (9–3) and signaled a pause—hawkish easing that caps USD, supports gold, and keeps equities range-bound.**",
@@ -1010,7 +1010,7 @@
   {
     "id": 90,
     "date": "16-03-2026",
-    "category": "Economics",
+    "category": "Fixed Income",
     "categoryColor": "bg-emerald-600",
     "title": "Oil Shock and the Bear-Flattening Playbook",
     "summary": "**A sustained rise in oil prices generates an inflation shock while weakening growth expectations, producing a classic bear flattening of the yield curve.**",
