@@ -1160,6 +1160,18 @@
   "fullContent": "**Rising geopolitical risk premiums, higher inflation expectations, and strong U.S. data have pushed gold below its 200-day moving average as yields and the dollar overpower the safe-haven bid.**",
   "chartPath": "/charts/Commodities/2026-05-29_Gold_Breaks_200DMA_Geopolitical_Inflation_Yield_Shock.svg",
   "chartHeight": "350"
+},
+{
+  "id": 103,
+  "date": "29-05-2026",
+  "category": "Equities",
+  "categoryColor": "bg-purple-600",
+  "title": "AI Momentum Fades as Volatility Risk Builds",
+  "summary": "**Fading AI momentum and hawkish economic signals could trigger an equity pullback, while rising Nasdaq volatility, accelerating VVIX, and geopolitical risk threaten to extend the move.**",
+  "fullContent": "**Fading AI momentum and hawkish economic signals could trigger an equity pullback, while rising Nasdaq volatility, accelerating VVIX, and geopolitical risk threaten to extend the move.**",
+  "chartPath": "/charts/Equities/2026-05-29_Equities_AI_Momentum_Fades_Volatility_Risk_Pullback.svg",
+  "chartHeight": "350"
+  
 }
 
 
