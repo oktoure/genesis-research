@@ -22,12 +22,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4233333"
-     inkscape:cx="328.10304"
-     inkscape:cy="186.53396"
-     inkscape:window-width="1176"
-     inkscape:window-height="1186"
-     inkscape:window-x="244"
+     inkscape:zoom="2.67"
+     inkscape:cx="316.10487"
+     inkscape:cy="194.94382"
+     inkscape:window-width="1280"
+     inkscape:window-height="1382"
+     inkscape:window-x="1280"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg12151" />
@@ -124,6 +124,22 @@
          clip-rule="evenodd"
          id="path20" />
     </clipPath>
+    <clipPath
+       id="clip_437-2-1-8">
+      <path
+         transform="matrix(1.32185,0,0,-1.319109,0,357.57)"
+         d="M 26.246,18.363 H 245.95601 V 99.622 H 26.246 Z"
+         clip-rule="evenodd"
+         id="path13-3-8-2" />
+    </clipPath>
+    <clipPath
+       id="clip_437-2-1-8-3">
+      <path
+         transform="matrix(1.32185,0,0,-1.319109,0,357.57)"
+         d="M 26.246,18.363 H 245.95601 V 99.622 H 26.246 Z"
+         clip-rule="evenodd"
+         id="path13-3-8-2-7" />
+    </clipPath>
   </defs>
   <g
      class="bglayer"
@@ -137,6 +153,46 @@
        style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke-width: 0;"
        id="rect10" />
   </g>
+  <g
+     clip-path="url(#clip_437-2-1-8)"
+     id="g76-0-9-8-7"
+     transform="matrix(0.00102074,0.55897765,0.32758272,-0.00174176,266.57664,23.089028)">
+    <path
+       transform="matrix(1.32185,0,0,-1.319109,0,357.57)"
+       stroke-width="0.37567"
+       stroke-linecap="butt"
+       stroke-dasharray="1.127, 1.127"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8b0000"
+       d="M 26.246,60.153 H 245.96"
+       id="path76-7-7-4" />
+  </g>
+  <g
+     clip-path="url(#clip_437-2-1-8-3)"
+     id="g76-0-9-8-7-8"
+     transform="matrix(0.00102074,0.55897765,0.32758272,-0.00174176,395.21227,73.976156)">
+    <path
+       transform="matrix(1.32185,0,0,-1.319109,0,357.57)"
+       stroke-width="0.37567"
+       stroke-linecap="butt"
+       stroke-dasharray="1.127, 1.127"
+       stroke-miterlimit="10"
+       stroke-linejoin="miter"
+       fill="none"
+       stroke="#8b0000"
+       d="M 26.246,60.153 H 245.96"
+       id="path76-7-7-4-3" />
+  </g>
+  <path
+     stroke-width="1.25"
+     stroke-linecap="butt"
+     stroke-linejoin="round"
+     fill="none"
+     stroke="#ac4525"
+     d="m 358.83028,105.95985 c 3.432,0 6.215,-2.783 6.215,-6.214999 0,-3.431995 -2.783,-6.214995 -6.215,-6.214995 -3.432,0 -6.215,2.783 -6.215,6.214995 0,3.431999 2.783,6.214999 6.215,6.214999 z"
+     id="path6923-0-3" />
   <path
      stroke-width="1.25"
      stroke-linecap="butt"
@@ -60947,11 +61003,11 @@
     <g
        class="annotation"
        data-index="4"
-       style="opacity: 1;"
-       id="g12147">
+       style="opacity:1"
+       id="g12147"
+       transform="translate(-314.05153,2.1077284)">
       <g
          class="annotation-text-g"
-         transform="rotate(0,463.916,96.0022857142857)"
          id="g12146">
         <g
            class="cursor-pointer"
@@ -60963,14 +61019,14 @@
              y="0.5"
              width="173"
              height="66"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
              id="rect12141" />
           <text
              class="annotation-text"
              text-anchor="middle"
              x="86.828125"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(43, 43, 43); fill-opacity: 1; white-space: pre;"
+             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#2b2b2b;fill-opacity:1"
              id="text12145"><tspan
                class="line"
                dy="0em"
@@ -60983,20 +61039,96 @@
                y="11"
                id="tspan12142">PREMIUMS, HIGHER INFLATION</tspan><tspan
                class="line"
-               dy="2.6em"
+               dy="2.5999999em"
                x="86.828125"
                y="11"
                id="tspan12143">EXPECTATIONS, AND STRONG U.S.</tspan><tspan
                class="line"
-               dy="3.9000000000000004em"
+               dy="3.9000001em"
                x="86.828125"
                y="11"
                id="tspan12144">DATA HAVE PUSHED GOLD BELOW</tspan><tspan
                class="line"
-               dy="5.2em"
+               dy="5.1999998em"
                x="86.828125"
                y="11"
                id="tspan12145">ITS 200-DAY MOVING AVERAGE.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       class="annotation"
+       data-index="4"
+       id="g12147-0"
+       transform="translate(16.169678,-147.42314)">
+      <g
+         class="annotation-text-g"
+         id="g12146-2">
+        <g
+           class="cursor-pointer"
+           transform="translate(377,63)"
+           id="g12145-4">
+          <rect
+             class="bg"
+             x="0.5"
+             y="0.5"
+             width="173"
+             height="66"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+             id="rect12141-8" />
+          <text
+             class="annotation-text"
+             text-anchor="middle"
+             x="-0.29131499"
+             y="150.11008"
+             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#2b2b2b;fill-opacity:1"
+             id="text12145-3"><tspan
+               sodipodi:role="line"
+               id="tspan1"
+               x="-0.29131499"
+               y="150.11008">STARTING OF</tspan><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               x="-0.29131499"
+               y="162.61008"> THE IRAN WAR</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       class="annotation"
+       data-index="4"
+       id="g12147-0-9"
+       transform="translate(145.44919,-62.494382)">
+      <g
+         class="annotation-text-g"
+         id="g12146-2-3">
+        <g
+           class="cursor-pointer"
+           transform="translate(377,63)"
+           id="g12145-4-8">
+          <rect
+             class="bg"
+             x="0.5"
+             y="0.5"
+             width="173"
+             height="66"
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
+             id="rect12141-8-0" />
+          <text
+             class="annotation-text"
+             text-anchor="middle"
+             x="-8.9055471"
+             y="152.7318"
+             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#2b2b2b;fill-opacity:1"
+             id="text12145-3-2"><tspan
+               sodipodi:role="line"
+               x="-8.9055471"
+               y="152.7318"
+               id="tspan3">INFLATION </tspan><tspan
+               sodipodi:role="line"
+               x="-8.9055471"
+               y="165.2318"
+               id="tspan4">BITES</tspan></text>
         </g>
       </g>
     </g>
