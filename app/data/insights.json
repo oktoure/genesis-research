@@ -1172,6 +1172,17 @@
   "chartPath": "/charts/Equities/2026-05-29_Equities_AI_Momentum_Fades_Volatility_Risk_Pullback.svg",
   "chartHeight": "350"
   
+},
+{
+  "id": 104,
+  "date": "12-06-2026",
+  "category": "Monetary Policy",
+  "categoryColor": "bg-red-600",
+  "title": "European Rate Pressure Challenges Dollar Strength",
+  "summary": "**The BOE hike and firmer European rate pressure weaken the dollar’s tactical edge, while Iran de-escalation supports risk appetite, creating a tailwind for equities and gold as markets question the Fed’s next move.**",
+  "fullContent": "**The BOE hike and firmer European rate pressure weaken the dollar’s tactical edge, while Iran de-escalation supports risk appetite, creating a tailwind for equities and gold as markets question the Fed’s next move.**",
+  "chartPath": "/charts/Economics/2026-06-12_Monetary_Policy_BOE_Hike_European_Rates_Dollar_Relief.svg",
+  "chartHeight": "350"
 }
 
 
