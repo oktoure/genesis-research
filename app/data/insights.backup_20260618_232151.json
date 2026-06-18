@@ -1252,16 +1252,5 @@
     "fullContent": "**Retail sales remain resilient while sentiment rebounds and inflation expectations ease. Consumers still feel pressure, but spending behavior is holding up, supporting risk assets and softening the Fed’s hawkish inflation narrative.**",
     "chartPath": "/charts/Economics/consumers-spend-through-weak-sentiment-as-inflation-expectations-ease_11-06-2026.svg",
     "chartHeight": "700"
-  },
-  {
-    "id": 112,
-    "date": "11-06-2026",
-    "category": "Commodities",
-    "categoryColor": "bg-yellow-600",
-    "title": "Oil Relief Revives the Transitory Inflation Narrative",
-    "summary": "**Trump’s de-escalation signal and oil back near pre-war levels support the view that the inflation spike was transitory, easing yield pressure and creating a tactical tailwind for equities and gold ahead of an on-hold FOMC.**",
-    "fullContent": "**Trump’s de-escalation signal and oil back near pre-war levels support the view that the inflation spike was transitory, easing yield pressure and creating a tactical tailwind for equities and gold ahead of an on-hold FOMC.**",
-    "chartPath": "/charts/Commodities/oil-relief-revives-the-transitory-inflation-narrative_11-06-2026.svg",
-    "chartHeight": "350"
   }
 ]
