@@ -1100,7 +1100,7 @@
     "chartHeight": "700"
   },
     {
-    "id": 97.1,
+    "id": 98,
     "date": "04-06-2026",
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
@@ -1111,7 +1111,7 @@
     "chartHeight": "700"
   },
   {
-    "id": 97.2,
+    "id": 99,
     "date": "05-06-2026",
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
@@ -1122,7 +1122,7 @@
     "chartHeight": "700"
   },
   {
-    "id": 98,
+    "id": 100,
     "date": "05-06-2026",
     "category": "Macro",
     "categoryColor": "bg-amber-600",
@@ -1133,7 +1133,7 @@
     "chartHeight": "700"
   },
   {
-    "id": 99,
+    "id": 101,
     "date": "05-06-2026",
     "category": "Macro",
     "categoryColor": "bg-amber-600",
@@ -1144,7 +1144,7 @@
     "chartHeight": "700"
   },
   {
-    "id": 100,
+    "id": 102,
     "date": "05-06-2026",
     "category": "Monetary Policy",
     "categoryColor": "bg-red-600",
@@ -1155,7 +1155,7 @@
     "chartHeight": "350"
   },
   {
-    "id": 101,
+    "id": 103,
     "date": "05-06-2026",
     "category": "Equities",
     "categoryColor": "bg-purple-600",
@@ -1166,7 +1166,7 @@
     "chartHeight": "350"
   },
   {
-    "id": 102,
+    "id": 104,
     "date": "07-06-2026",
     "category": "Precious Metals",
     "categoryColor": "bg-yellow-600",
@@ -1177,7 +1177,7 @@
     "chartHeight": "350"
   },
   {
-    "id": 103,
+    "id": 105,
     "date": "07-06-2026",
     "category": "Equities",
     "categoryColor": "bg-purple-600",
@@ -1188,7 +1188,7 @@
     "chartHeight": "350"
   },
   {
-    "id": 104,
+    "id": 106,
     "date": "11-06-2026",
     "category": "Monetary Policy",
     "categoryColor": "bg-red-600",
@@ -1197,7 +1197,6 @@
     "fullContent": "**The BOE hike and firmer European rate pressure weaken the dollar’s tactical edge, while Iran de-escalation supports risk appetite, creating a tailwind for equities and gold as markets question the Fed’s next move.**",
     "chartPath": "charts/Economics/Monetary Policy_GLOBAL_INTEREST_RATE_2026-01-04_edited.svg",
     "chartHeight": "350"
-  },
-      
+  }
 
 ]
