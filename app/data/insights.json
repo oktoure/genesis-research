@@ -1099,9 +1099,20 @@
     "chartPath": "/charts/Currencies/dxy_rate_differential_2026-04-18.svg",
     "chartHeight": "700"
   },
+    {
+    "id": 97.1,
+    "date": "04-06-2026",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Labor Demand Holds Firm as Layoffs Stay Contained",
+    "summary": "**Openings and claims show labor demand remains firm and layoffs are contained, so the cycle has not rolled into recession.**",
+    "fullContent": "**Openings and claims show labor demand remains firm and layoffs are contained, so the cycle has not rolled into recession.**",
+    "chartPath": "/charts/Economics/labor-demand-holds-firm-as-layoffs-stay-contained_18-06-2026.svg",
+    "chartHeight": "700"
+  },
   {
     "id": 98,
-    "date": "5-06-2026",
+    "date": "05-06-2026",
     "category": "Macro",
     "categoryColor": "bg-amber-600",
     "title": "Labor Resilience Keeps the Higher-for-Longer Trade Alive",
@@ -1176,15 +1187,5 @@
     "chartPath": "charts/Economics/Monetary Policy_GLOBAL_INTEREST_RATE_2026-01-04_edited.svg",
     "chartHeight": "350"
   },
-  {
-    "id": 105,
-    "date": "18-06-2026",
-    "category": "Economics",
-    "categoryColor": "bg-emerald-600",
-    "title": "Labor Demand Holds Firm as Layoffs Stay Contained",
-    "summary": "**Openings and claims show labor demand remains firm and layoffs are contained, so the cycle has not rolled into recession.**",
-    "fullContent": "**Openings and claims show labor demand remains firm and layoffs are contained, so the cycle has not rolled into recession.**",
-    "chartPath": "/charts/Economics/labor-demand-holds-firm-as-layoffs-stay-contained_18-06-2026.svg",
-    "chartHeight": "700"
-  }
+
 ]
