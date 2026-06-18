@@ -1240,17 +1240,6 @@
     "summary": "**May PPI reinforces the Fed’s hawkish bias, with headline producer prices rising 1.1% m/m and 6.5% y/y while core pipeline inflation also accelerated. The report signals that upstream price pressures remain elevated, making it difficult for the Fed to justify a dovish pivot until clearer disinflation emerges in PCE inflation.**",
     "fullContent": "**May PPI reinforces the Fed’s hawkish bias, with headline producer prices rising 1.1% m/m and 6.5% y/y while core pipeline inflation also accelerated. The report signals that upstream price pressures remain elevated, making it difficult for the Fed to justify a dovish pivot until clearer disinflation emerges in PCE inflation.**",
     "chartPath": "/charts/Economics/insufficient-disinflation-keeps-the-fed-from-pivoting-dovish_11-06-2026.svg",
-    "chartHeight": "350"
-  },
-  {
-    "id": 111,
-    "date": "11-06-2026",
-    "category": "Economics",
-    "categoryColor": "bg-emerald-600",
-    "title": "Consumers Spend Through Weak Sentiment as Inflation Expectations Ease",
-    "summary": "**Retail sales remain resilient while sentiment rebounds and inflation expectations ease. Consumers still feel pressure, but spending behavior is holding up, supporting risk assets and softening the Fed’s hawkish inflation narrative.**",
-    "fullContent": "**Retail sales remain resilient while sentiment rebounds and inflation expectations ease. Consumers still feel pressure, but spending behavior is holding up, supporting risk assets and softening the Fed’s hawkish inflation narrative.**",
-    "chartPath": "/charts/Economics/consumers-spend-through-weak-sentiment-as-inflation-expectations-ease_11-06-2026.svg",
     "chartHeight": "700"
   }
 ]
