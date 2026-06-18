@@ -1099,7 +1099,7 @@
     "chartPath": "/charts/Currencies/dxy_rate_differential_2026-04-18.svg",
     "chartHeight": "700"
   },
-  {
+    {
     "id": 98,
     "date": "04-06-2026",
     "category": "Economics",
@@ -1197,16 +1197,6 @@
     "fullContent": "**The BOE hike and firmer European rate pressure weaken the dollar’s tactical edge, while Iran de-escalation supports risk appetite, creating a tailwind for equities and gold as markets question the Fed’s next move.**",
     "chartPath": "charts/Economics/Monetary Policy_GLOBAL_INTEREST_RATE_2026-01-04_edited.svg",
     "chartHeight": "350"
-  },
-  {
-    "id": 107,
-    "date": "05-06-2026",
-    "category": "Economics",
-    "categoryColor": "bg-emerald-600",
-    "title": "ock Eases as Short-Term Inflation Stress Starts to Rec",
-    "summary": "**Iran-driven oil risk shifted energy into an inflation-expectations shock, keeping yields and policy uncertainty elevated.**",
-    "fullContent": "**Iran-driven oil risk shifted energy into an inflation-expectations shock, keeping yields and policy uncertainty elevated.**",
-    "chartPath": "/charts/Economics/ock-eases-as-short-term-inflation-stress-starts-to-rec_05-06-2026.svg",
-    "chartHeight": "700"
   }
+
 ]
