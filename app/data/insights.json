@@ -1263,16 +1263,5 @@
     "fullContent": "**Oil back near pre-war levels supports the view that the inflation spike may be transitory, easing pressure on yields, gold, and equities.** If the next two months confirm lower energy pass-through, the Fed can preserve the easing-cycle option; if not, higher-for-longer returns quickly.",
     "chartPath": "/charts/Commodities/oil-relief-revives-the-transitory-inflation-narrative_11-06-2026.svg",
     "chartHeight": "350"
-  },
-  {
-    "id": 113,
-    "date": "10-08-2026",
-    "category": "Precious Metals",
-    "categoryColor": "bg-yellow-600",
-    "title": "Gold Defies Rising Yields",
-    "summary": "**Gold rose despite higher yields as haven demand and soft jobs sustained cut hopes. Persistent yields risk a pullback; falling yields could extend gains.**",
-    "fullContent": "**Gold rose despite higher yields as haven demand and soft jobs sustained cut hopes. Persistent yields risk a pullback; falling yields could extend gains.**",
-    "chartPath": "/charts/Precious Metals/gold-defies-rising-yields_10-08-2026.svg",
-    "chartHeight": "350"
   }
 ]
