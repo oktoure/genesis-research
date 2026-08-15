@@ -1280,10 +1280,21 @@
     "date": "15-08-2026",
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
-    "title": "Higher for Longer Meets a Cooling, Not Breaking, Labour Market",
-    "summary": "**Long yields remain elevated while DXY eases, keeping policy transmission restrictive. Claims are contained rather than breaking higher, but the labour backdrop is cooling beneath the surface. The economy has less growth support without the rate relief needed to offset it.**",
-    "fullContent": "**Long yields remain elevated while DXY eases, keeping policy transmission restrictive. Claims are contained rather than breaking higher, but the labour backdrop is cooling beneath the surface. The economy has less growth support without the rate relief needed to offset it.**",
-    "chartPath": "/charts/Economics/higher-for-longer-meets-a-cooling-not-breaking-labour-market_15-08-2026.svg",
+    "title": "Labor Softens as Yield Pressure Persists",
+    "summary": "**Payroll momentum is softening while long-end yields remain elevated. The labor market is cooling, not breaking, but restrictive financing conditions leave the economy with less cushion against a broader slowdown.**",
+    "fullContent": "**Payroll momentum is softening while long-end yields remain elevated. The labor market is cooling, not breaking, but restrictive financing conditions leave the economy with less cushion against a broader slowdown.**",
+    "chartPath": "/charts/Economics/labor-softens-as-yield-pressure-persists_15-08-2026.svg",
+    "chartHeight": "700"
+  },
+  {
+    "id": 115,
+    "date": "15-08-2026",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Labor Tightness Eases as Claims Stay Contained",
+    "summary": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signalling less labor-market tightness. Claims remain contained, however, so the adjustment is a cooling in demand rather than a layoff cycle.**",
+    "fullContent": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signalling less labor-market tightness. Claims remain contained, however, so the adjustment is a cooling in demand rather than a layoff cycle.**",
+    "chartPath": "/charts/Economics/labor-tightness-eases-as-claims-stay-contained_15-08-2026.svg",
     "chartHeight": "700"
   }
 ]
