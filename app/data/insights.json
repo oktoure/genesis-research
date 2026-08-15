@@ -1274,5 +1274,16 @@
     "fullContent": "**Growth momentum has softened since June, pulling DXY lower. But long-end yields remain elevated, offsetting the dollar’s relief and keeping financial conditions restrictive. Until yields fall decisively, the tightening loop remains in place and the growth slowdown has not earned a clean financial easing.**",
     "chartPath": "/charts/Macro/yield-pressure-persists-as-growth-momentum-fades_15-08-2026.svg",
     "chartHeight": "700"
+  },
+  {
+    "id": 114,
+    "date": "15-08-2026",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Higher for Longer Meets a Cooling, Not Breaking, Labour Market",
+    "summary": "**Long yields remain elevated while DXY eases, keeping policy transmission restrictive. Claims are contained rather than breaking higher, but the labour backdrop is cooling beneath the surface. The economy has less growth support without the rate relief needed to offset it.**",
+    "fullContent": "**Long yields remain elevated while DXY eases, keeping policy transmission restrictive. Claims are contained rather than breaking higher, but the labour backdrop is cooling beneath the surface. The economy has less growth support without the rate relief needed to offset it.**",
+    "chartPath": "/charts/Economics/higher-for-longer-meets-a-cooling-not-breaking-labour-market_15-08-2026.svg",
+    "chartHeight": "700"
   }
 ]
