@@ -1296,5 +1296,38 @@
     "fullContent": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signalling less labor-market tightness. Claims remain contained, however, so the adjustment is a cooling in demand rather than a layoff cycle.**",
     "chartPath": "/charts/Economics/labor-tightness-eases-as-claims-stay-contained_15-08-2026.svg",
     "chartHeight": "700"
+  },
+  {
+    "id": 116,
+    "date": "15-08-2026",
+    "category": "Precious Metals",
+    "categoryColor": "bg-yellow-600",
+    "title": "Gold Breaks Higher as Dollar Relief Meets Yield Constraint",
+    "summary": "**Gold is pushing higher as softer-growth signals erode dollar support, even with nominal and real yields elevated. The divergence is constructive, but the next labor and inflation prints must validate the easing path.**",
+    "fullContent": "**Gold is pushing higher as softer-growth signals erode dollar support, even with nominal and real yields elevated. The divergence is constructive, but the next labor and inflation prints must validate the easing path.**",
+    "chartPath": "/charts/Precious Metals/gold-breaks-higher-as-dollar-relief-meets-yield-constraint_15-08-2026.svg",
+    "chartHeight": "700"
+  },
+  {
+    "id": 117,
+    "date": "15-08-2026",
+    "category": "Commodities",
+    "categoryColor": "bg-yellow-600",
+    "title": "Oil Rebounds Without Unanchoring Inflation",
+    "summary": "**Oil has rebounded from July’s lows, rebuilding near-term inflation risk. Long-run inflation pricing remains contained, however, leaving the Fed with a supply-risk constraint rather than a new inflation regime.**",
+    "fullContent": "**Oil has rebounded from July’s lows, rebuilding near-term inflation risk. Long-run inflation pricing remains contained, however, leaving the Fed with a supply-risk constraint rather than a new inflation regime.**",
+    "chartPath": "/charts/Commodities/oil-rebounds-without-unanchoring-inflation_15-08-2026.svg",
+    "chartHeight": "700"
+  },
+  {
+    "id": 118,
+    "date": "15-08-2026",
+    "category": "Monetary Policy",
+    "categoryColor": "bg-red-600",
+    "title": "September FOMC Under a Long-End Constraint",
+    "summary": "**The Fed is on hold, the dollar has softened, and the long end remains restrictive. September turns on whether growth slows enough to outweigh lingering inflation risk; until then, easing remains conditional.**",
+    "fullContent": "**The Fed is on hold, the dollar has softened, and the long end remains restrictive. September turns on whether growth slows enough to outweigh lingering inflation risk; until then, easing remains conditional.**",
+    "chartPath": "/charts/Monetary Policy/september-fomc-under-a-long-end-constraint_15-08-2026.svg",
+    "chartHeight": "700"
   }
 ]
