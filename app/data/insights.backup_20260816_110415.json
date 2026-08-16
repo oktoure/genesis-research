@@ -1296,16 +1296,5 @@
     "fullContent": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signalling less labor-market tightness. Claims remain contained, however, so the adjustment is a cooling in demand rather than a layoff cycle.**",
     "chartPath": "/charts/Economics/labor-tightness-eases-as-claims-stay-contained_15-08-2026.svg",
     "chartHeight": "700"
-  },
-  {
-    "id": 116,
-    "date": "16-08-2026",
-    "category": "Economics",
-    "categoryColor": "bg-emerald-600",
-    "title": "Risk Premium Fades, but Fed Easing Remains Conditional",
-    "summary": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar.\n\nAs the geopolitical risk premium fades, the safe-haven bid in DXY is weakening. Soft payrolls reinforce the case for eventual easing, while cooling inflation gives that repricing room to develop. But this is not a clean Fed pivot: energy risk, still-elevated long yields, and inflation uncertainty keep policy conditional. The next phase depends on whether labour weakness broadens without a renewed inflation impulse.**",
-    "fullContent": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar.\n\nAs the geopolitical risk premium fades, the safe-haven bid in DXY is weakening. Soft payrolls reinforce the case for eventual easing, while cooling inflation gives that repricing room to develop. But this is not a clean Fed pivot: energy risk, still-elevated long yields, and inflation uncertainty keep policy conditional. The next phase depends on whether labour weakness broadens without a renewed inflation impulse.**",
-    "chartPath": "/charts/Economics/risk-premium-fades-but-fed-easing-remains-conditional_16-08-2026.svg",
-    "chartHeight": "350"
   }
 ]
