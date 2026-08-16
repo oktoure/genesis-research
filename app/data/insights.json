@@ -1303,9 +1303,20 @@
     "category": "Economics",
     "categoryColor": "bg-emerald-600",
     "title": "Risk Premium Fades, but Fed Easing Remains Conditional",
-    "summary": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar.\n\nAs the geopolitical risk premium fades, the safe-haven bid in DXY is weakening. Soft payrolls reinforce the case for eventual easing, while cooling inflation gives that repricing room to develop. But this is not a clean Fed pivot: energy risk, still-elevated long yields, and inflation uncertainty keep policy conditional. The next phase depends on whether labour weakness broadens without a renewed inflation impulse.**",
-    "fullContent": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar.\n\nAs the geopolitical risk premium fades, the safe-haven bid in DXY is weakening. Soft payrolls reinforce the case for eventual easing, while cooling inflation gives that repricing room to develop. But this is not a clean Fed pivot: energy risk, still-elevated long yields, and inflation uncertainty keep policy conditional. The next phase depends on whether labour weakness broadens without a renewed inflation impulse.**",
+    "summary": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar. Inflation is cooling, but easing remains conditional.**",
+    "fullContent": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar. Inflation is cooling, but easing remains conditional.**",
     "chartPath": "/charts/Economics/risk-premium-fades-but-fed-easing-remains-conditional_16-08-2026.svg",
     "chartHeight": "350"
+  },
+  {
+    "id": 117,
+    "date": "16-08-2026",
+    "category": "Economics",
+    "categoryColor": "bg-emerald-600",
+    "title": "Inflation Relief Reopens Fed Optionality",
+    "summary": "**Near-term inflation risk has eased toward long-run expectations, reopening policy flexibility. Energy uncertainty keeps the Fed’s easing path conditional.**",
+    "fullContent": "**Near-term inflation risk has eased toward long-run expectations, reopening policy flexibility. Energy uncertainty keeps the Fed’s easing path conditional.**",
+    "chartPath": "/charts/Economics/inflation-relief-reopens-fed-optionality_16-08-2026.svg",
+    "chartHeight": "700"
   }
 ]
