@@ -1318,38 +1318,5 @@
     "fullContent": "**Near-term inflation risk has eased toward long-run expectations, reopening policy flexibility. Energy uncertainty keeps the Fed’s easing path conditional.**",
     "chartPath": "/charts/Economics/inflation-relief-reopens-fed-optionality_16-08-2026.svg",
     "chartHeight": "700"
-  },
-  {
-    "id": 118,
-    "date": "20-08-2026",
-    "category": "Currencies",
-    "categoryColor": "bg-sky-600",
-    "title": "US YIELD CURVE: BULL STEEPENING SIGNALS POLICY EASING",
-    "summary": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
-    "fullContent": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
-    "chartPath": "/charts/Currencies/us-yield-curve-bull-steepening-signals-policy-easing_20-08-2026.svg",
-    "chartHeight": "350"
-  },
-  {
-    "id": 119,
-    "date": "20-08-2026",
-    "category": "Currencies",
-    "categoryColor": "bg-sky-600",
-    "title": "US YIELD CURVE: BULL STEEPENING SIGNALS POLICY EASING",
-    "summary": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
-    "fullContent": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
-    "chartPath": "/charts/Currencies/us-yield-curve-bull-steepening-signals-policy-easing_20-08-2026.svg",
-    "chartHeight": "350"
-  },
-  {
-    "id": 120,
-    "date": "20-08-2026",
-    "category": "Currencies",
-    "categoryColor": "bg-sky-600",
-    "title": "US YIELD CURVE: BULL STEEPENING SIGNALS POLICY EASING",
-    "summary": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
-    "fullContent": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
-    "chartPath": "/charts/Currencies/us-yield-curve-bull-steepening-signals-policy-easing_20-08-2026.svg",
-    "chartHeight": "700"
   }
 ]
