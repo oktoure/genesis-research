@@ -29,6 +29,14 @@
          clip-rule="evenodd"
          id="path20-7-2" />
     </clipPath>
+    <clipPath
+       id="clip_235-9">
+      <path
+         transform="matrix(1,0,0,-1,0,405)"
+         d="M -9.1553e-5,405 H 720 V -1.2207e-4 L -6.1035e-5,-3.0518e-5"
+         clip-rule="evenodd"
+         id="path20-7-7" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview248"
@@ -41,14 +49,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.71"
-     inkscape:cx="300"
+     inkscape:cx="299.7076"
      inkscape:cy="222.51462"
-     inkscape:window-width="2560"
+     inkscape:window-width="2320"
      inkscape:window-height="1382"
-     inkscape:window-x="0"
+     inkscape:window-x="244"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g247" />
+     inkscape:current-layer="g248" />
   <rect
      x="0"
      y="0"
@@ -1454,8 +1462,8 @@
          id="g230">
         <g
            class="annotation-text-g"
-           transform="rotate(0,173,32.550000000000004)"
-           id="g229">
+           id="g229"
+           transform="rotate(0,173,32.550000000000004)">
           <g
              class="cursor-pointer"
              transform="translate(106,28)"
@@ -1485,8 +1493,8 @@
          id="g233">
         <g
            class="annotation-text-g"
-           transform="rotate(0,120.5,38.92000000000001)"
-           id="g232">
+           id="g232"
+           transform="rotate(0,120.5,38.92000000000001)">
           <g
              class="cursor-pointer"
              transform="translate(106,34)"
@@ -1516,8 +1524,8 @@
          id="g236">
         <g
            class="annotation-text-g"
-           transform="rotate(0,51,21.5)"
-           id="g235">
+           id="g235"
+           transform="rotate(0,51,21.5)">
           <g
              class="cursor-pointer"
              transform="translate(42,15)"
@@ -1547,8 +1555,8 @@
          id="g239">
         <g
            class="annotation-text-g"
-           transform="rotate(0,552,21.5)"
-           id="g238">
+           id="g238"
+           transform="rotate(0,552,21.5)">
           <g
              class="cursor-pointer"
              transform="translate(542,15)"
@@ -1624,8 +1632,8 @@
          id="g246">
         <g
            class="annotation-text-g"
-           transform="rotate(0,304,230.50000000000003)"
-           id="g245">
+           id="g245"
+           transform="rotate(0,304,230.50000000000003)">
           <g
              class="cursor-pointer"
              transform="translate(40,219)"
