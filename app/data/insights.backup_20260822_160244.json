@@ -1329,16 +1329,5 @@
     "fullContent": "**Deteriorating growth is driving a bull steepening as markets price out further hikes and a prolonged higher-for-longer stance, reinforcing downside pressure on the dollar.**",
     "chartPath": "/charts/Currencies/us-yield-curve-bull-steepening-signals-policy-easing_20-08-2026.svg",
     "chartHeight": "350"
-  },
-  {
-    "id": 120,
-    "date": "21-08-2026",
-    "category": "Fixed Income",
-    "categoryColor": "bg-emerald-600",
-    "title": "US RATES: RISING TERM PREMIUM MASKS THE DOVISH SHIFT",
-    "summary": "**Deteriorating growth is pulling real and short-term yields lower, but rising term-premium compensation is keeping the 10-year yield relatively elevated. The result is a bull steepening increasingly driven by easing policy expectations at the front end and persistent fiscal and policy risk at the long end.**",
-    "fullContent": "**Deteriorating growth is pulling real and short-term yields lower, but rising term-premium compensation is keeping the 10-year yield relatively elevated. The result is a bull steepening increasingly driven by easing policy expectations at the front end and persistent fiscal and policy risk at the long end.**",
-    "chartPath": "/charts/Fixed Income/us-rates-rising-term-premium-masks-the-dovish-shift_21-08-2026.svg",
-    "chartHeight": "700"
   }
 ]
