@@ -1364,18 +1364,5 @@
     "chartPath": "/charts/Fixed Income/elevated-yield-rising-term-premium-and-inflation-expectation-are-still-elevated_21-08-2026.svg",
     "chartHeight": "700",
     "storyType": "Financial conditions"
-  },
-  {
-    "id": 120,
-    "date": "03-07-2026",
-    "category": "Story Line",
-    "categoryColor": "bg-slate-800",
-    "title": "Dollar weakens, Yield curve Bull steepens",
-    "summary": "**While the unemployment rate continue to show amelioration, NFP Suggests that Hiring momentum is softening.**",
-    "fullContent": "**While the unemployment rate continue to show amelioration, NFP Suggests that Hiring momentum is softening.**",
-    "chartPath": "/charts/Story Line/dollar-weakens-yield-curve-bull-steepens_2026-07-03.svg",
-    "chartHeight": "700",
-    "publishedAt": "2026-07-03T09:30-04:00",
-    "storyType": "Unscheduled"
   }
 ]
