@@ -1138,14 +1138,14 @@
   {
     "id": 101,
     "date": "05-06-2026",
-    "category": "Story Line",
+    "category": "Macro",
     "categoryColor": "bg-amber-600",
     "title": "Resilient Growth Reprices Yields and Rebuilds Dollar Support",
     "summary": "**Positive U.S. data and geopolitical risk lifted yields, giving the dollar tactical support even as DXY remains structurally capped near resistance.**",
     "fullContent": "**Positive U.S. data and geopolitical risk lifted yields, giving the dollar tactical support even as DXY remains structurally capped near resistance.** A stronger dollar completes the tightening loop, pressuring gold and equities if the move extends beyond a temporary oil-shock repricing.",
     "chartPath": "/charts/Economics/2026-05-05_US_Dollar_Yields_Economic_Momentum_Tighter_Financial_Conditions.svg",
     "chartHeight": "700",
-    "storyType": "Financial conditions"
+    "storyType": "Synthesis · Financial conditions"
   },
   {
     "id": 102,
@@ -1157,7 +1157,7 @@
     "fullContent": "**The short end signals the Fed may be behind the inflation cycle, forcing policy to stay restrictive despite political pressure for easier rates.** Unless inflation relief becomes persistent, markets will keep pricing a reaction function more hawkish than the easing narrative wants.",
     "chartPath": "/charts/Economics/2026-05-06_Monetary_Policy_Short_End_Fed_Behind_Curve.svg",
     "chartHeight": "350",
-    "storyType": "FOMC"
+    "storyType": "Fact · FOMC"
   },
   {
     "id": 103,
@@ -1205,7 +1205,7 @@
     "fullContent": "**Iran-driven oil risk shifted from a geopolitical shock into an inflation-expectations shock, lifting yields and tightening financial conditions.** The key transmission was not war risk alone, but oil-driven inflation risk feeding Fed pricing, the dollar, gold, and equities.",
     "chartPath": "/charts/Economics/ock-eases-as-short-term-inflation-stress-starts-to-rec_05-06-2026.svg",
     "chartHeight": "700",
-    "storyType": "Inflation"
+    "storyType": "Fact · Inflation"
   },
   {
     "id": 107,
@@ -1217,19 +1217,19 @@
     "fullContent": "**Breakevens have eased from stress highs, suggesting markets are starting to test whether the oil-driven inflation shock is transitory.** The inflation term structure remains elevated, but its compression shows the market is no longer pricing a straight inflation spiral.",
     "chartPath": "/charts/Economics/breakeven-relief-suggests-the-shock-may-be-transitory-long-term-inflation-expectations-hold-steady-as-breakevens_05-06-2026.svg",
     "chartHeight": "700",
-    "storyType": "Inflation"
+    "storyType": "Fact · Inflation"
   },
   {
     "id": 108,
     "date": "10-06-2026",
-    "category": "Story Line",
+    "category": "Macro",
     "categoryColor": "bg-amber-600",
     "title": "Headline Inflation Stays Hot, But Core Relief Appears",
     "summary": "**Headline inflation rose, but softer monthly core readings showed limited energy pass-through, keeping the transitory-shock thesis alive.**",
     "fullContent": "**Headline inflation rose, but softer monthly core readings showed limited energy pass-through, keeping the transitory-shock thesis alive.** The release is not dovish, but it reduces the risk of an immediate hawkish reset unless oil rises again or core inflation re-accelerates.",
     "chartPath": "/charts/Economics/headline-inflation-stays-hot-but-inflation-relief-appears-at-the-margin_05-06-2026.svg",
     "chartHeight": "700",
-    "storyType": "Inflation"
+    "storyType": "Fact · Inflation"
   },
   {
     "id": 111,
@@ -1241,7 +1241,7 @@
     "fullContent": "**Retail sales and sentiment show the consumer is resilient, giving the Fed room to stay hawkish even as inflation expectations ease.** This is not a dovish signal by itself: demand is holding, so the Fed needs clearer evidence that lower oil and softer core inflation will persist.",
     "chartPath": "/charts/Economics/consumers-spend-through-weak-sentiment-as-inflation-expectations-ease_11-06-2026.svg",
     "chartHeight": "700",
-    "storyType": "Financial conditions"
+    "storyType": "Synthesis · Financial conditions"
   },
   {
     "id": 111.1,
@@ -1266,7 +1266,7 @@
     "fullContent": "**Oil back near pre-war levels supports the view that the inflation spike may be transitory, easing pressure on yields, gold, and equities.** If the next two months confirm lower energy pass-through, the Fed can preserve the easing-cycle option; if not, higher-for-longer returns quickly.",
     "chartPath": "/charts/Commodities/oil-relief-revives-the-transitory-inflation-narrative_11-06-2026.svg",
     "chartHeight": "350",
-    "storyType": "Unscheduled"
+    "storyType": "Fact · Unscheduled"
   },
   {
     "id": 112.1,
@@ -1339,7 +1339,7 @@
     "fullContent": "**Near-term inflation risk has eased toward long-run expectations, reopening policy flexibility while energy uncertainty keeps the path conditional.** This supports lower front-end yields if disinflation persists, but does not remove the need for confirmation from upcoming PCE and CPI data.",
     "chartPath": "/charts/Economics/inflation-relief-reopens-fed-optionality_16-08-2026.svg",
     "chartHeight": "700",
-    "storyType": "Inflation"
+    "storyType": "Fact · Inflation"
   },
   {
     "id": 118,
@@ -1363,19 +1363,6 @@
     "fullContent": "**Deteriorating growth is pulling real and short-term yields lower, while rising term premium keeps the 10-year yield elevated.** The curve is bull steepening through easing expectations at the front end, but fiscal and policy risk still limit the long-end rally.",
     "chartPath": "/charts/Fixed Income/elevated-yield-rising-term-premium-and-inflation-expectation-are-still-elevated_21-08-2026.svg",
     "chartHeight": "700",
-    "storyType": "Financial conditions"
-  },
-  {
-    "id": 120,
-    "date": "03-07-2026",
-    "category": "Story Line",
-    "categoryColor": "bg-slate-800",
-    "title": "Dollar weakens, Yield curve Bull steepens",
-    "summary": "**While the unemployment rate continue to show amelioration, NFP Suggests that Hiring momentum is softening.**",
-    "fullContent": "**While the unemployment rate continue to show amelioration, NFP Suggests that Hiring momentum is softening.**",
-    "chartPath": "/charts/Story Line/dollar-weakens-yield-curve-bull-steepens_2026-07-03.svg",
-    "chartHeight": "700",
-    "publishedAt": "2026-07-03T09:30-04:00",
-    "storyType": "Unscheduled"
+    "storyType": "Synthesis · Financial conditions"
   }
 ]
