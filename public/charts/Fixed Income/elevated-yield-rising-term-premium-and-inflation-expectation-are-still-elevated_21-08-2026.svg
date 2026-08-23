@@ -34,7 +34,7 @@
      inkscape:zoom="1.4233333"
      inkscape:cx="302.8103"
      inkscape:cy="219.55504"
-     inkscape:window-width="976"
+     inkscape:window-width="1176"
      inkscape:window-height="1186"
      inkscape:window-x="244"
      inkscape:window-y="30"
@@ -220598,9 +220598,9 @@
                text-anchor="start"
                x="2"
                y="9"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;"
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#000000;fill-opacity:1"
                clip-path="url(#clip84683e_ann3_bottom)"
-               id="text27608">SOURCES: GENESIS RESEARCH, GENESOS RESEARCH.</text>
+               id="text27608">SOURCES: GENESIS RESEARCH.</text>
           </g>
         </g>
       </g>
