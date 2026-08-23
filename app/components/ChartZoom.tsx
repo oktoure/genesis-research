@@ -34,6 +34,7 @@ export default function ChartZoom({ src, alt, height }: ChartZoomProps) {
   }, [open]);
 
   const encodedSrc = encodeURI(src);
+  const chartHeight = height && /^\d+(?:\.\d+)?$/.test(height.trim()) ? `${height.trim()}px` : height;
 
   return (
     <>
@@ -48,9 +49,9 @@ export default function ChartZoom({ src, alt, height }: ChartZoomProps) {
           alt={alt}
           className="w-full rounded-lg transition-transform duration-200 group-hover:scale-[1.01]"
           style={
-            height
+            chartHeight
               ? {
-                  height,
+                  height: chartHeight,
                   objectFit: 'contain',
                 }
               : {}

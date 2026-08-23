@@ -11,8 +11,10 @@ export const dynamic = 'force-static';
 interface Insight {
   id: number;
   date?: string;
+  publishedAt?: string;
   category: string;
   categoryColor?: string;
+  storyType?: string;
   title: string;
   summary?: string;
   fullContent?: string;
@@ -72,6 +74,29 @@ function renderInline(text?: string): React.ReactNode {
   return <>{out}</>;
 }
 
+function insightTimeValue(insight: Insight): number {
+  if (insight.publishedAt) {
+    const exact = Date.parse(insight.publishedAt);
+    if (!Number.isNaN(exact)) return exact;
+  }
+  const match = insight.date?.match(/^(\d{2})-(\d{2})-(\d{4})$/);
+  if (match) return Date.UTC(Number(match[3]), Number(match[2]) - 1, Number(match[1]), 12);
+  return 0;
+}
+
+function formatInsightTime(insight: Insight): string {
+  if (!insight.publishedAt) return insight.date || '';
+  const parsed = new Date(insight.publishedAt);
+  if (Number.isNaN(parsed.getTime())) return insight.date || insight.publishedAt;
+  const parts = new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'America/Toronto',
+    day: '2-digit', month: '2-digit', year: 'numeric',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }).formatToParts(parsed);
+  const part = (type: Intl.DateTimeFormatPartTypes) => parts.find(item => item.type === type)?.value || '';
+  return `${part('day')}-${part('month')}-${part('year')} · ${part('hour')}:${part('minute')} ET`;
+}
+
 /* ---------------------------------------------------- */
 
 function ClientHome() {
@@ -80,17 +105,24 @@ function ClientHome() {
 
   const activeCatParam = searchParams.get('cat') || 'Insights';
 
-  // Newest-first by ID
+  // Newest-first by exact event/post time when available; legacy dates remain supported.
   const sortedInsights: Insight[] = React.useMemo(
-    () => [...rawInsights].sort((a, b) => b.id - a.id),
+    () => [...rawInsights].sort((a, b) => insightTimeValue(b) - insightTimeValue(a) || b.id - a.id),
     []
   );
 
-  // Category list INCLUDING "Insights"
+  // Keep the recurring editorial spine visible even before a backfill post
+  // exists. Remaining research categories continue to come from the data.
   const categories = React.useMemo(() => {
-    const set = new Set<string>();
-    rawInsights.forEach(i => i.category && set.add(i.category));
-    return ['Insights', ...Array.from(set)];
+    const editorialSpine = [
+      'Story Line',
+      'Trading Ideas',
+    ];
+    const dynamic = new Set<string>();
+    rawInsights.forEach(i => {
+      if (i.category && !editorialSpine.includes(i.category)) dynamic.add(i.category);
+    });
+    return ['Insights', ...editorialSpine, ...Array.from(dynamic)];
   }, []);
 
   // Filter posts
@@ -220,10 +252,16 @@ function ClientHome() {
                       {insight.category}
                     </span>
 
-                    {insight.date && (
+                    {(insight.date || insight.publishedAt) && (
                       <time className="text-slate-500 text-xs font-bold">
-                        {insight.date}
+                        {formatInsightTime(insight)}
                       </time>
+                    )}
+
+                    {insight.storyType && (
+                      <span className="text-slate-500 text-[10px] font-semibold uppercase tracking-wider border border-slate-200 rounded px-2 py-0.5">
+                        {insight.storyType}
+                      </span>
                     )}
                   </div>
 

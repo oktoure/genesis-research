@@ -10,8 +10,10 @@ import React from 'react';
 type Insight = {
   id: number;
   date?: string;
+  publishedAt?: string;
   category: string;
   categoryColor?: string;
+  storyType?: string;
   title: string;
   summary?: string;
   fullContent?: string;
@@ -41,6 +43,19 @@ function normalizeSrc(path?: string): string | undefined {
   if (!path) return undefined;
   if (path.startsWith('http')) return path;
   return path.startsWith('/') ? path : `/${path}`;
+}
+
+function formatInsightTime(post: Insight): string {
+  if (!post.publishedAt) return post.date || '';
+  const parsed = new Date(post.publishedAt);
+  if (Number.isNaN(parsed.getTime())) return post.date || post.publishedAt;
+  const parts = new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'America/Toronto',
+    day: '2-digit', month: '2-digit', year: 'numeric',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }).formatToParts(parsed);
+  const part = (type: Intl.DateTimeFormatPartTypes) => parts.find(item => item.type === type)?.value || '';
+  return `${part('day')}-${part('month')}-${part('year')} · ${part('hour')}:${part('minute')} ET`;
 }
 
 /** Keep **bold** behavior */
@@ -128,9 +143,9 @@ export default async function InsightPage({
   const chartSrc = normalizeSrc(post.chartPath);
 
   return (
-    <div className="min-h-screen bg-white">
-      <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-3xl mx-auto px-6 py-6">
+    <div className="min-h-screen w-full bg-white">
+      <header className="w-full bg-slate-900 border-b border-slate-800">
+        <div className="w-full max-w-3xl mx-auto px-6 py-6">
           {/* Single Back button, always visible on dark header */}
           <BackLink fallback="/" variant="solidOnDark" />
 
@@ -141,14 +156,19 @@ export default async function InsightPage({
             >
               {post.category}
             </span>
-            {post.date && (
-              <time className="text-slate-400 text-xs font-bold">{post.date}</time>
+            {(post.date || post.publishedAt) && (
+              <time className="text-slate-400 text-xs font-bold">{formatInsightTime(post)}</time>
+            )}
+            {post.storyType && (
+              <span className="text-slate-300 text-[10px] font-semibold uppercase tracking-wider border border-slate-600 rounded px-2 py-0.5">
+                {post.storyType}
+              </span>
             )}
           </div>
         </div>
       </header>
 
-      <main className="max-w-3xl mx-auto px-6 py-8">
+      <main className="w-full max-w-3xl mx-auto px-6 py-8">
         {/* Chart */}
         <div className="mb-6">
           {chartSrc ? (
@@ -172,8 +192,8 @@ export default async function InsightPage({
         </article>
       </main>
 
-      <footer className="border-t border-slate-100 mt-12">
-        <div className="max-w-3xl mx-auto px-6 py-6">
+      <footer className="w-full border-t border-slate-100 mt-12">
+        <div className="w-full max-w-3xl mx-auto px-6 py-6">
           <p className="text-slate-400 text-xs text-center">
             © {new Date().getFullYear()} Genesis Research
           </p>
