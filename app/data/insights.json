@@ -1174,7 +1174,7 @@
   {
     "id": 104,
     "date": "07-06-2026",
-    "category": "Precious Metals",
+    "category": "Story Line",
     "categoryColor": "bg-yellow-600",
     "title": "Gold Breaks the 200-Day as Real Yields Dominate",
     "summary": "**Gold failed to play its safe-haven role as inflation risk, higher yields, and dollar strength overpowered geopolitical demand.**",
@@ -1230,30 +1230,6 @@
     "chartPath": "/charts/Economics/headline-inflation-stays-hot-but-inflation-relief-appears-at-the-margin_05-06-2026.svg",
     "chartHeight": "700",
     "storyType": "Fact · Inflation"
-  },
-  {
-    "id": 109,
-    "category": "Currencies",
-    "categoryColor": "bg-sky-600",
-    "storyType": "Fact · FOMC",
-    "date": "11-06-2026",
-    "title": "European Rate Pressure Dilutes the Dollar’s Edge",
-    "summary": "**Firmer European rate pressure challenges dollar strength, while Iran de-escalation supports risk appetite and eases the inflation shock.**",
-    "fullContent": "**Firmer European rate pressure challenges dollar strength, while Iran de-escalation supports risk appetite and eases the inflation shock.** This creates a tactical tailwind for equities and gold, but the Fed question remains unresolved until inflation relief is confirmed in hard data.",
-    "chartPath": "/charts/Economics/Monetary Policy_GLOBAL_INTEREST_RATE_2026-01-04_edited.svg",
-    "chartHeight": "350"
-  },
-  {
-    "id": 110,
-    "category": "Macro",
-    "categoryColor": "bg-amber-600",
-    "storyType": "Fact · Inflation",
-    "date": "11-06-2026",
-    "title": "Pipeline Inflation Keeps the Fed From Turning Dovish",
-    "summary": "**PPI keeps the Fed cautious: upstream inflation remains elevated, even as CPI and PCE show early relief at the margin.**",
-    "fullContent": "**PPI keeps the Fed cautious: upstream inflation remains elevated, even as CPI and PCE show early relief at the margin.** The Fed can pause, but it cannot credibly pivot dovish until pipeline pressure fades and PCE confirms that the inflation shock is transitory.",
-    "chartPath": "/charts/Economics/insufficient-disinflation-keeps-the-fed-from-pivoting-dovish_11-06-2026.svg",
-    "chartHeight": "350"
   },
   {
     "id": 112,
@@ -1376,4 +1352,5 @@
     "chartHeight": "700",
     "storyType": "Synthesis · Financial conditions"
   }
+
 ]
