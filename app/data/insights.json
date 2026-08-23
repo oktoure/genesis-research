@@ -1295,7 +1295,7 @@
     "storyType": "Positioning"
   },
   {
-    "id": 113,
+    "id": 114,
     "date": "15-08-2026",
     "category": "Story Line",
     "categoryColor": "bg-slate-800",
@@ -1307,11 +1307,11 @@
     "chartHeight": "700"
   },
   {
-    "id": 114,
-    "date": "15-08-2026",
+    "id": 113,
+    "publishedAt": "2026-08-03T09:30-04:00",
     "category": "Story Line",
     "categoryColor": "bg-slate-800",
-    "storyType": "Fact · Labor",
+    "storyType": "Labor",
     "title": "Labor Softens as Yield Pressure Persists",
     "summary": "**Payroll momentum is softening while long-end yields remain elevated, leaving the economy with less cushion against a broader slowdown.**",
     "fullContent": "**Payroll momentum is softening while long-end yields remain elevated, leaving the economy with less cushion against a broader slowdown.** The labor market is cooling, not breaking, but restrictive financing conditions make the next phase more sensitive to downside growth surprises.",
@@ -1322,13 +1322,13 @@
     "id": 115,
     "category": "Macro",
     "categoryColor": "bg-amber-600",
-    "storyType": "Fact · Labor",
+    "storyType": "Labor",
     "title": "Labor Tightness Eases as Claims Stay Contained",
     "summary": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signaling less labor tightness without a layoff cycle.**",
     "fullContent": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signaling less labor tightness without a layoff cycle.** Claims remain contained, so the adjustment still looks like cooling demand rather than recessionary labor stress.",
     "chartPath": "/charts/Economics/labor-tightness-eases-as-claims-stay-contained_15-08-2026.svg",
     "chartHeight": "700",
-    "date": "15-08-2026"
+    "date": "07-08-2026"
   },
   {
     "id": 116,
