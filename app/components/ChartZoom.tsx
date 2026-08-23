@@ -34,7 +34,11 @@ export default function ChartZoom({ src, alt, height }: ChartZoomProps) {
   }, [open]);
 
   const encodedSrc = encodeURI(src);
-  const chartHeight = height && /^\d+(?:\.\d+)?$/.test(height.trim()) ? `${height.trim()}px` : height;
+  // chartHeight is legacy publishing metadata, not a fixed CSS height. Most
+  // stored values are bare strings such as "700" or "350"; treating them as
+  // pixels letterboxes the SVG and makes it appear vertically displaced.
+  // Preserve the SVG's intrinsic aspect ratio and center it in its slot.
+  void height;
 
   return (
     <>
@@ -47,15 +51,7 @@ export default function ChartZoom({ src, alt, height }: ChartZoomProps) {
         <img
           src={encodedSrc}
           alt={alt}
-          className="w-full rounded-lg transition-transform duration-200 group-hover:scale-[1.01]"
-          style={
-            chartHeight
-              ? {
-                  height: chartHeight,
-                  objectFit: 'contain',
-                }
-              : {}
-          }
+          className="block h-auto w-full mx-auto rounded-lg transition-transform duration-200 group-hover:scale-[1.01]"
         />
 
         <span className="absolute bottom-2 right-2 rounded-full bg-slate-900/80 px-2.5 py-1 text-[10px] font-bold uppercase tracking-wide text-white opacity-0 transition-opacity group-hover:opacity-100">
