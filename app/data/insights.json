@@ -1124,7 +1124,7 @@
   {
     "id": 100,
     "date": "05-06-2026",
-    "category": "Macro",
+    "category": "Labor market",
     "categoryColor": "bg-amber-600",
     "title": "Labor Resilience Gives the Fed Room to Stay Hawkish",
     "summary": "**Resilient labor keeps the economy away from recession, giving the Fed flexibility to remain hawkish while inflation is still above target.**",
@@ -1278,7 +1278,7 @@
   {
     "id": 114,
     "date": "15-08-2026",
-    "category": "Economics",
+    "category": "Labor Market",
     "categoryColor": "bg-emerald-600",
     "title": "Labor Softens as Yield Pressure Persists",
     "summary": "**Payroll momentum is softening while long-end yields remain elevated. The labor market is cooling, not breaking, but restrictive financing conditions leave the economy with less cushion against a broader slowdown.**",
@@ -1289,7 +1289,7 @@
   {
     "id": 115,
     "date": "15-08-2026",
-    "category": "Economics",
+    "category": "Labor Market",
     "categoryColor": "bg-emerald-600",
     "title": "Labor Tightness Eases as Claims Stay Contained",
     "summary": "**The job-openings-to-unemployment ratio has eased from its post-pandemic extreme, signalling less labor-market tightness. Claims remain contained, however, so the adjustment is a cooling in demand rather than a layoff cycle.**",
@@ -1300,7 +1300,7 @@
   {
     "id": 116,
     "date": "16-08-2026",
-    "category": "Economics",
+    "category": "Currencies",
     "categoryColor": "bg-emerald-600",
     "title": "Risk Premium Fades, but Fed Easing Remains Conditional",
     "summary": "**Falling uncertainty and softer labour data have reopened dovish market pricing, removing an important source of support for the dollar. Inflation is cooling, but easing remains conditional.**",
@@ -1311,7 +1311,7 @@
   {
     "id": 117,
     "date": "16-08-2026",
-    "category": "Economics",
+    "category": "Fixed Income",
     "categoryColor": "bg-emerald-600",
     "title": "Inflation Relief Reopens Fed Optionality",
     "summary": "**Near-term inflation risk has eased toward long-run expectations, reopening policy flexibility. Energy uncertainty keeps the Fed’s easing path conditional.**",
