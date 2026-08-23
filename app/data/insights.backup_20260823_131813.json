@@ -1348,7 +1348,7 @@
     "chartHeight": "700"
   },
   {
-    "id": 112.1,
+    "id": 120,
     "date": "28-07-2026",
     "category": "Story Line",
     "categoryColor": "bg-slate-800",
@@ -1356,7 +1356,7 @@
     "summary": "**The dollar weakness coupled with a bull steepening of the yield curve prompt us to position ourselves long gold.**",
     "fullContent": "**The dollar weakness coupled with a bull steepening of the yield curve prompt us to position ourselves long gold.**",
     "chartPath": "/charts/Story Line/dollar-weakens-yield-curve-bull-steepens_2026-07-28.svg",
-    "chartHeight": "700",
+    "chartHeight": "350",
     "publishedAt": "2026-07-28T09:30-04:00",
     "storyType": "Unscheduled"
   }

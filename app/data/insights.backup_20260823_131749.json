@@ -1346,18 +1346,5 @@
     "fullContent": "**Deteriorating growth is pulling real and short-term yields lower, but rising term-premium compensation is keeping the 10-year yield relatively elevated. The result is a bull steepening increasingly driven by easing policy expectations at the front end and persistent fiscal and policy risk at the long end.**",
     "chartPath": "/charts/Fixed Income/elevated-yield-rising-term-premium-and-inflation-expectation-are-still-elevated_21-08-2026.svg",
     "chartHeight": "700"
-  },
-  {
-    "id": 112.1,
-    "date": "28-07-2026",
-    "category": "Story Line",
-    "categoryColor": "bg-slate-800",
-    "title": "Dollar weakens, Yield curve Bull steepens",
-    "summary": "**The dollar weakness coupled with a bull steepening of the yield curve prompt us to position ourselves long gold.**",
-    "fullContent": "**The dollar weakness coupled with a bull steepening of the yield curve prompt us to position ourselves long gold.**",
-    "chartPath": "/charts/Story Line/dollar-weakens-yield-curve-bull-steepens_2026-07-28.svg",
-    "chartHeight": "700",
-    "publishedAt": "2026-07-28T09:30-04:00",
-    "storyType": "Unscheduled"
   }
 ]
