@@ -1295,18 +1295,6 @@
     "storyType": "Positioning"
   },
   {
-    "id": 113,
-    "publishedAt": "2026-08-03T09:30-04:00",
-    "category": "Story Line",
-    "categoryColor": "bg-slate-800",
-    "storyType": "Labor",
-    "title": "Labor Softens as Yield Pressure Persists",
-    "summary": "**Payroll momentum is softening while long-end yields remain elevated, leaving the economy with less cushion against a broader slowdown.**",
-    "fullContent": "**Payroll momentum is softening while long-end yields remain elevated, leaving the economy with less cushion against a broader slowdown.** The labor market is cooling, not breaking, but restrictive financing conditions make the next phase more sensitive to downside growth surprises.",
-    "chartPath": "/charts/Economics/labor-softens-as-yield-pressure-persists_15-08-2026.svg",
-    "chartHeight": "700"
-  },
-  {
     "id": 114,
     "date": "15-08-2026",
     "category": "Story Line",
@@ -1316,6 +1304,18 @@
     "summary": "**Growth momentum softened while DXY pressure eased, but positive 10-year yield momentum kept financial conditions from fully loosening.**",
     "fullContent": "**Growth momentum softened while DXY pressure eased, but positive 10-year yield momentum kept financial conditions from fully loosening.** Clean easing requires both the yield impulse and the dollar to turn lower together; until then, risk assets remain exposed to residual tightening.",
     "chartPath": "/charts/Macro/yield-pressure-persists-as-growth-momentum-fades_15-08-2026.svg",
+    "chartHeight": "700"
+  },
+  {
+    "id": 113,
+    "publishedAt": "2026-08-03T09:30-04:00",
+    "category": "Story Line",
+    "categoryColor": "bg-slate-800",
+    "storyType": "Labor",
+    "title": "Labor Softens as Yield Pressure Persists",
+    "summary": "**Payroll momentum is softening while long-end yields remain elevated, leaving the economy with less cushion against a broader slowdown.**",
+    "fullContent": "**Payroll momentum is softening while long-end yields remain elevated, leaving the economy with less cushion against a broader slowdown.** The labor market is cooling, not breaking, but restrictive financing conditions make the next phase more sensitive to downside growth surprises.",
+    "chartPath": "/charts/Economics/labor-softens-as-yield-pressure-persists_15-08-2026.svg",
     "chartHeight": "700"
   },
   {
@@ -1377,18 +1377,5 @@
     "chartPath": "/charts/Fixed Income/elevated-yield-rising-term-premium-and-inflation-expectation-are-still-elevated_21-08-2026.svg",
     "chartHeight": "700",
     "storyType": "Financial conditions"
-  },
-  {
-    "id": 120,
-    "date": "24-08-2026",
-    "category": "Commodities",
-    "categoryColor": "bg-yellow-600",
-    "title": "Despite tight financial condition, Gold Resume Higher",
-    "summary": "**During Q1 and Q2, Gold has corrected along with higher bond yield which pushed Gold Yield correlation negative, while Yield stays elevated, Gold resume Higher with a softer dollar due to deteriorating economic conditions and the debasements narrative.**",
-    "fullContent": "**During Q1 and Q2, Gold has corrected along with higher bond yield which pushed Gold Yield correlation negative, while Yield stays elevated, Gold resume Higher with a softer dollar due to deteriorating economic conditions and the debasements narrative.**",
-    "chartPath": "/charts/Commodities/despite-tight-financial-condition-gold-resume-higher_2026-08-24.svg",
-    "chartHeight": "700",
-    "publishedAt": "2026-08-24T18:12-04:00",
-    "storyType": "Unscheduled"
   }
 ]
