@@ -1378,17 +1378,17 @@
     "chartHeight": "700",
     "storyType": "Financial conditions"
   },
-  {
-    "id": 120,
-    "date": "24-08-2026",
-    "category": "Commodities",
-    "categoryColor": "bg-yellow-600",
-    "title": "Despite tight financial condition, Gold Resume Higher",
-    "summary": "**During Q1 and Q2, Gold has corrected along with higher bond yield which pushed Gold Yield correlation negative, while Yield stays elevated, Gold resume Higher with a softer dollar due to deteriorating economic conditions and the debasements narrative.**",
-    "fullContent": "**During Q1 and Q2, Gold has corrected along with higher bond yield which pushed Gold Yield correlation negative, while Yield stays elevated, Gold resume Higher with a softer dollar due to deteriorating economic conditions and the debasements narrative.**",
-    "chartPath": "/charts/Commodities/despite-tight-financial-condition-gold-resume-higher_2026-08-24.svg",
-    "chartHeight": "700",
-    "publishedAt": "2026-08-24T18:12-04:00",
-    "storyType": "Unscheduled"
-  }
+{
+  "id": 120,
+  "date": "24-08-2026",
+  "category": "Precious Metals",
+  "categoryColor": "bg-yellow-600",
+  "storyType": "Positioning",
+  "title": "Gold Resumes Higher as Debasement Risk Overpowers Real Yields",
+  "summary": "**Gold is rising despite elevated real yields as the market shifts from a pure rates framework toward debasement, Treasury-liquidity risk, softer dollar conditions, and long-term fiscal uncertainty.**",
+  "fullContent": "**Gold is rising despite elevated real yields as the market shifts from a pure rates framework toward debasement, Treasury-liquidity risk, softer dollar conditions, and long-term fiscal uncertainty.** In Q1 and Q2, Iran-driven geopolitical risk was a headwind rather than a tailwind for gold because it lifted oil, inflation expectations, the dollar, and real yields. That pushed the gold-yield correlation back into negative territory and forced gold to trade like a non-yielding asset under tight financial conditions. Now the setup is changing: geopolitical risk premium is fading, the dollar is softening as growth deteriorates and rate-hike expectations ease, while Treasury buyback and foreign-selling concerns reinforce the debasement narrative. Yields remain elevated because term premium is still rising, but gold is beginning to look through that pressure as investors reprice reserve-risk, fiscal dominance, and currency debasement. **The tactical risk is still elevated yields; the strategic signal is that gold can continue higher as the debasement narrative takes control.**",
+  "chartPath": "/charts/Commodities/despite-tight-financial-condition-gold-resume-higher_2026-08-24.svg",
+  "chartHeight": "700",
+  "publishedAt": "2026-08-24T18:12-04:00"
+}
 ]
