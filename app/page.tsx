@@ -117,6 +117,7 @@ function ClientHome() {
     const editorialSpine = [
       'Story Line',
       'Trading Ideas',
+      'Trading Execution',
     ];
     const dynamic = new Set<string>();
     rawInsights.forEach(i => {

@@ -1298,12 +1298,24 @@
     "publishedAt": "2026-07-28T09:30-04:00",
     "category": "Trading Ideas",
     "categoryColor": "bg-indigo-600",
-    "storyType": "Positioning",
+    "storyType": "Trade Idea",
     "title": "Dollar Weakness and Bull Steepening Favor Long Gold",
     "summary": "**Dollar weakness coupled with bull steepening prompts a long-gold position as policy easing expectations begin to dominate the regime.**",
     "fullContent": "**Dollar weakness coupled with bull steepening prompts a long-gold position as policy easing expectations begin to dominate the regime.** The trade follows directly from [disinflation relief](/i/112.1): as yields soften, the dollar weakens, and Fed optionality reopens, gold shifts from the tactical pressure described in [the 200-day break](/i/104) toward a constructive long setup.",
     "chartPath": "/charts/Story Line/dollar-weakens-yield-curve-bull-steepens_2026-07-28.svg",
     "chartHeight": "700"
+  },
+  {
+    "id": 112.3,
+    "date": "30-07-2026",
+    "category": "Trading Execution",
+    "categoryColor": "bg-cyan-700",
+    "title": "Long Gold Positioning Targets the Q2 Retracement",
+    "summary": "**Gold is held long from the late-July base, with the Q2 bearish retracement defining the upside path toward 61.8% and 78.6%.**",
+    "fullContent": "**Gold is held long from the late-July base, with the Q2 bearish retracement defining the upside path toward 61.8% and 78.6%.** Following the [long-gold thesis](/i/112.2), lower-rate expectations and dollar weakness support the position, but persistent inflation uncertainty and a still-hawkish Federal Reserve argue for trading the retracement rather than assuming an immediate structural breakout.",
+    "chartPath": "/charts/Trading Execution/long-gold-positioning-targets-the-q2-retracement_2026-07-30.svg",
+    "chartHeight": "900",
+    "storyType": "Positioning"
   },
   {
     "id": 113,
