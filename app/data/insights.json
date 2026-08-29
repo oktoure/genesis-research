@@ -1459,5 +1459,18 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-26T08:30-04:00",
     "storyType": "Unscheduled"
+  },
+  {
+    "id": 124,
+    "date": "18-08-2026",
+    "category": "Trading Execution",
+    "categoryColor": "bg-cyan-700",
+    "title": "Gold Roars on a lower dollar despite elevated yield",
+    "summary": "**Gold has soared on the labor market impact, with labor market softening even more as NFP data has signalled, however the unemployment rate is still improving while labor market indicators remain constructive on subsequent positive economic momentum which might create volatility on gold. We remain constructive on gold however, current level mark a take profit. We will position ourselves accordingly if market price action offers it while our thesis remain. We expect a retracement from the 61.8 or the 78,6 which offer another round for buyers, considering the fact that our hypothesis holds..**",
+    "fullContent": "**Gold has soared on the labor market impact, with labor market softening even more as NFP data has signalled, however the unemployment rate is still improving while labor market indicators remain constructive on subsequent positive economic momentum which might create volatility on gold. We remain constructive on gold however, current level mark a take profit. We will position ourselves accordingly if market price action offers it while our thesis remain. We expect a retracement from the 61.8 or the 78,6 which offer another round for buyers, considering the fact that our hypothesis holds..**",
+    "chartPath": "/charts/Trading Execution/gold-roars-on-a-lower-dollar-despite-elevated-yield_2026-08-18.svg",
+    "chartHeight": "700",
+    "publishedAt": "2026-08-18T10:00-04:00",
+    "storyType": "Target Reached"
   }
 ]
