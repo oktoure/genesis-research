@@ -1220,19 +1220,18 @@
              id="g153">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="171"
+               x="25.7"
+               y="-2.5"
+               width="121"
                height="27"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect152" />
-            <text
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect152"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="86.195312"
                y="11"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text153">UNCERTAINTY SUPPORTS THE DOLLAR’S HAVEN ROLE</text>
+               id="text153"><tspan x="86.195312" y="8.5">UNCERTAINTY SUPPORTS</tspan><tspan x="86.195312" dy="10">THE DOLLAR’S HAVEN ROLE</tspan></text>
           </g>
         </g>
       </g>
@@ -2677,19 +2676,18 @@
              id="g331">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="159"
+               x="16.5"
+               y="-2.5"
+               width="121"
                height="27"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect330" />
-            <text
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect330"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="76.95327"
                y="8.1563978"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text331">VALUATION METRICS STILL PLACE THE CURRENCY</text>
+               id="text331"><tspan x="76.95327" y="8.5">VALUATION METRICS STILL</tspan><tspan x="76.95327" dy="10">PLACE THE CURRENCY</tspan></text>
           </g>
         </g>
       </g>

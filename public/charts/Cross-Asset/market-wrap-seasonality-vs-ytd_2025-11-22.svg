@@ -1160,13 +1160,12 @@
          style="fill:#073984">
         <rect
            class="bg"
-           x="0.5"
-           y="0.5"
-           width="117"
-           height="33"
-           style="fill:#073984;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect160-89" />
-        <text
+           x="34.8"
+           y="-1.5"
+           width="48"
+           height="18"
+           style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+           id="rect160-89"  rx="2.5" ry="2.5"/><text
            class="annotation-text"
            text-anchor="middle"
            x="58.820312"
@@ -2226,19 +2225,18 @@
            style="fill:#073984">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="117"
-             height="33"
-             style="fill:#073984;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect160-8" />
-          <text
+             x="10.3"
+             y="-2.5"
+             width="97"
+             height="27"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect160-8"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="58.820312"
              y="9"
              style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#073984;fill-opacity:1"
-             id="text162">LATE-NOV DIP OFTEN PRECEDES DEC RALLY</text>
+             id="text162"><tspan x="58.820312" y="8.5">LATE-NOV DIP OFTEN</tspan><tspan x="58.820312" dy="10">PRECEDES DEC RALLY</tspan></text>
         </g>
       </g>
     </g>

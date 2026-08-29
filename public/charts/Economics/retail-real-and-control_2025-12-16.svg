@@ -157,13 +157,12 @@
            id="g173-7">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="197"
-             height="40"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect171" />
-          <text
+             x="43.5"
+             y="-1.5"
+             width="111"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect171"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="98.960938"
@@ -2394,13 +2393,12 @@
          id="g169-9">
         <rect
            class="bg"
-           x="0.5"
-           y="0.5"
-           width="191"
-           height="40"
-           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect167" />
-        <text
+           x="51.8"
+           y="-1.5"
+           width="88"
+           height="18"
+           style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+           id="rect167"  rx="2.5" ry="2.5"/><text
            class="annotation-text"
            text-anchor="middle"
            x="95.828125"

@@ -220626,19 +220626,18 @@
          id="g102-5">
         <rect
            class="bg"
-           x="0.5"
-           y="0.5"
-           width="124"
-           height="22"
-           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect101" />
-        <text
+           x="14.1"
+           y="-2.5"
+           width="97"
+           height="27"
+           style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+           id="rect101"  rx="2.5" ry="2.5"/><text
            class="annotation-text"
            text-anchor="middle"
            x="62.601562"
            y="9"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-           id="text102">TERM PREMIUM KEEPS YIELDS ELEVATED</text>
+           id="text102"><tspan x="62.601562" y="8.5">TERM PREMIUM KEEPS</tspan><tspan x="62.601562" dy="10">YIELDS ELEVATED</tspan></text>
       </g>
     </g>
   </g>
@@ -220656,19 +220655,18 @@
          id="g106-1">
         <rect
            class="bg"
-           x="0.5"
-           y="0.5"
-           width="107"
-           height="33"
-           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect104" />
-        <text
+           x="5.6"
+           y="-2.5"
+           width="97"
+           height="27"
+           style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+           id="rect104"  rx="2.5" ry="2.5"/><text
            class="annotation-text"
            text-anchor="middle"
            x="54.09375"
            y="9"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-           id="text106">FISCAL UNCERTAINTY LIFTS TERM PREMIUM</text>
+           id="text106"><tspan x="54.09375" y="8.5">FISCAL UNCERTAINTY</tspan><tspan x="54.09375" dy="10">LIFTS TERM PREMIUM</tspan></text>
       </g>
     </g>
   </g>
@@ -220686,19 +220684,18 @@
          id="g234-5">
         <rect
            class="bg"
-           x="0.5"
-           y="0.5"
-           width="107"
-           height="33"
-           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect232" />
-        <text
+           x="5.6"
+           y="-2.5"
+           width="97"
+           height="27"
+           style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+           id="rect232"  rx="2.5" ry="2.5"/><text
            class="annotation-text"
            text-anchor="middle"
            x="54.09375"
            y="9"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-           id="text234">FISCAL UNCERTAINTY LIFTS TERM PREMIUM</text>
+           id="text234"><tspan x="54.09375" y="8.5">FISCAL UNCERTAINTY</tspan><tspan x="54.09375" dy="10">LIFTS TERM PREMIUM</tspan></text>
       </g>
     </g>
   </g>
@@ -220716,19 +220713,18 @@
          id="g237-7">
         <rect
            class="bg"
-           x="0.5"
-           y="0.5"
-           width="122"
-           height="22"
-           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect236" />
-        <text
+           x="13.1"
+           y="-2.5"
+           width="97"
+           height="27"
+           style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+           id="rect236"  rx="2.5" ry="2.5"/><text
            class="annotation-text"
            text-anchor="middle"
            x="61.578125"
            y="9"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-           id="text237">WEAKER GROWTH LOWERS REAL YIELDS</text>
+           id="text237"><tspan x="61.578125" y="8.5">WEAKER GROWTH</tspan><tspan x="61.578125" dy="10">LOWERS REAL YIELDS</tspan></text>
       </g>
     </g>
   </g>

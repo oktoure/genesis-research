@@ -1181,19 +1181,18 @@
              id="g163">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="334"
-               height="33"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect161" />
-            <text
+               x="112.2"
+               y="-2.5"
+               width="111"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect161"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="167.72656"
                y="9"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text163">CORE INFLATION COOLED FURTHER TO 3.0%</text>
+               id="text163"><tspan x="167.72656" y="8.5">CORE INFLATION COOLED</tspan><tspan x="167.72656" dy="10">FURTHER TO 3.0%</tspan></text>
           </g>
         </g>
       </g>
@@ -2417,19 +2416,18 @@
              id="g322">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="239"
-               height="43"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect319" />
-            <text
+               x="52.6"
+               y="-2.5"
+               width="135"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect319"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="120.09375"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text322">SHORT-TERM INFLATION EXPECTATIONS HAVE STEADIED</text>
+               id="text322"><tspan x="120.09375" y="8.5">SHORT-TERM INFLATION</tspan><tspan x="120.09375" dy="10">EXPECTATIONS HAVE STEADIED</tspan></text>
           </g>
         </g>
       </g>
@@ -3545,19 +3543,18 @@
              id="g469">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="237"
-               height="43"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect466" />
-            <text
+               x="54.0"
+               y="-2.5"
+               width="130"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect466"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="119.00390625"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text469">MARKET-BASED EXPECTATIONS EASED FROM 2.4% TO</text>
+               id="text469"><tspan x="119.00390625" y="8.5">MARKET-BASED EXPECTATIONS</tspan><tspan x="119.00390625" dy="10">EASED FROM 2.4% TO</tspan></text>
           </g>
         </g>
       </g>

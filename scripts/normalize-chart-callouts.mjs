@@ -34,6 +34,7 @@ const excludedPrefix = /^(?:SOURCE|SOURCES|NOTE|NOTES|DATA THROUGH|ANN % CHG|STD
 const legendMarker = /(?:\((?:LS|RS|INV\.?|LHS|RHS)\)|\bMA\s*\d+\b|\bMOVING AVERAGE\b|^US:|^GOLD\*?$)/i;
 const pureBlack = /^(?:rgb\(0,\s*0,\s*0\)|#000(?:000)?|black)$/i;
 const textPattern = /<((?:[\w]+:)?text)\b([^>]*class="annotation-text"[^>]*)>([\s\S]*?)<\/\1>/g;
+const protectedCalloutPattern = /<rect\b([^>]*class="bg"[^>]*)\/>\s*<((?:[\w]+:)?text)\b([^>]*class="annotation-text"[^>]*)>([\s\S]*?)<\/\2>/g;
 
 function decodeText(inner) {
   return inner.replace(/<[^>]+>/g, " ").replaceAll("&amp;", "&").replaceAll("&gt;", ">").replaceAll("&lt;", "<").replace(/\s+/g, " ").trim();
@@ -61,6 +62,61 @@ function concise(text) {
   return clause.split(/\s+/).filter(Boolean).slice(0, 6).join(" ").replace(/[,:;.]+$/, "").toUpperCase();
 }
 
+function balancedLines(text) {
+  const words = text.split(/\s+/).filter(Boolean);
+  if (words.length < 5 && text.length <= 28) return [text];
+
+  let best = [text];
+  let bestScore = Number.POSITIVE_INFINITY;
+  for (let split = 1; split < words.length; split += 1) {
+    const left = words.slice(0, split).join(" ");
+    const right = words.slice(split).join(" ");
+    const score = Math.max(left.length, right.length) + Math.abs(left.length - right.length) * 0.35;
+    if (score < bestScore) {
+      best = [left, right];
+      bestScore = score;
+    }
+  }
+  return best;
+}
+
+function setAttribute(attributes, name, value) {
+  const pattern = new RegExp(`\\b${name}="[^"]*"`);
+  if (pattern.test(attributes)) return attributes.replace(pattern, `${name}="${value}"`);
+  return `${attributes} ${name}="${value}"`;
+}
+
+function protectedRectAttributes(rectAttributes, textAttributes, lines) {
+  const textX = Number(textAttributes.match(/\bx="([\d.-]+)"/)?.[1] ?? 0);
+  const anchor = textAttributes.match(/\btext-anchor="([^"]+)"/)?.[1] ?? "middle";
+  const width = Math.max(48, Math.ceil(Math.max(...lines.map((line) => line.length)) * 4.7 + 12));
+  const height = lines.length === 1 ? 18 : 27;
+  const x = anchor === "start" ? textX - 5 : anchor === "end" ? textX - width + 5 : textX - width / 2;
+
+  let next = rectAttributes;
+  next = setAttribute(next, "x", x.toFixed(1));
+  next = setAttribute(next, "y", lines.length === 1 ? "-1.5" : "-2.5");
+  next = setAttribute(next, "width", String(width));
+  next = setAttribute(next, "height", String(height));
+  next = setAttribute(next, "rx", "2.5");
+  next = setAttribute(next, "ry", "2.5");
+
+  const protectedStyle = "fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94";
+  if (/\bstyle="[^"]*"/.test(next)) next = next.replace(/\bstyle="[^"]*"/, `style="${protectedStyle}"`);
+  else next += ` style="${protectedStyle}"`;
+  return next;
+}
+
+function wrappedText(text, textAttributes) {
+  const lines = balancedLines(text);
+  if (lines.length === 1) return { lines, inner: lines[0] };
+  const x = textAttributes.match(/\bx="([^"]+)"/)?.[1] ?? "0";
+  return {
+    lines,
+    inner: `<tspan x="${x}" y="8.5">${lines[0]}</tspan><tspan x="${x}" dy="10">${lines[1]}</tspan>`,
+  };
+}
+
 const insights = JSON.parse(fs.readFileSync("app/data/insights.json", "utf8"));
 const chartFiles = [...new Set(insights.map((insight) => path.join("public", insight.chartPath ?? "")).filter((file) => fs.existsSync(file)))];
 let changedFiles = 0;
@@ -68,15 +124,25 @@ let changedCallouts = 0;
 
 for (const file of chartFiles) {
   const original = fs.readFileSync(file, "utf8");
-  const updated = original.replace(textPattern, (match, tag, attributes, inner) => {
+  const normalizedText = original.replace(textPattern, (match, tag, attributes, inner) => {
     const plainText = decodeText(inner);
     if (!isNarrativeCallout(attributes, plainText)) return match;
     const replacement = concise(plainText);
     const nextAttributes = attributes.replace(/font-size:\s*[\d.]+px/, "font-size: 8px");
     const escaped = replacement.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
-    const next = `<${tag}${nextAttributes}>${escaped}</${tag}>`;
+    const wrapped = wrappedText(escaped, nextAttributes);
+    const next = `<${tag}${nextAttributes}>${wrapped.inner}</${tag}>`;
     if (next !== match) changedCallouts += 1;
     return next;
+  });
+  const updated = normalizedText.replace(protectedCalloutPattern, (match, rectAttributes, tag, textAttributes, inner) => {
+    const plainText = decodeText(inner);
+    if (!isNarrativeCallout(textAttributes, plainText)) return match;
+    const lines = balancedLines(plainText);
+    const nextRectAttributes = protectedRectAttributes(rectAttributes, textAttributes, lines);
+    const escaped = plainText.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
+    const wrapped = wrappedText(escaped, textAttributes);
+    return `<rect${nextRectAttributes}/><${tag}${textAttributes}>${wrapped.inner}</${tag}>`;
   });
   if (updated !== original) {
     fs.writeFileSync(file, updated);

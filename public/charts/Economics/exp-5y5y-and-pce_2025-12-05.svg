@@ -2394,7 +2394,7 @@
            x="415.08813"
            y="-67.68853"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-           id="text403-4-7-1">PCE AND CORE PCE AT 2.8%ON</text>
+           id="text403-4-7-1"><tspan x="415.08813" y="8.5">PCE AND CORE</tspan><tspan x="415.08813" dy="10">PCE AT 2.8%ON</tspan></text>
       </g>
     </g>
   </g>
@@ -2420,14 +2420,14 @@
            x="415.08813"
            y="15.238299"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-           id="text403-4-7-1-0">1-YEAR EXPECTATIONS DROP TO 4.1% (FROM</text>
+           id="text403-4-7-1-0"><tspan x="415.08813" y="8.5">1-YEAR EXPECTATIONS</tspan><tspan x="415.08813" dy="10">DROP TO 4.1% (FROM</tspan></text>
         <text
            class="annotation-text"
            text-anchor="middle"
            x="427.36316"
            y="131.51472"
            style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-           id="text403-4-7-1-0-3">5-YEAR SLIP TO 3.2% (FROM 3.4%)</text>
+           id="text403-4-7-1-0-3"><tspan x="427.36316" y="8.5">5-YEAR SLIP TO</tspan><tspan x="427.36316" dy="10">3.2% (FROM 3.4%)</tspan></text>
       </g>
     </g>
   </g>
@@ -4415,13 +4415,12 @@
              id="g410">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="172"
-               height="40"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect107" />
-            <text
+               x="45.1"
+               y="-1.5"
+               width="83"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect107"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="86.59375"
@@ -4445,13 +4444,12 @@
              id="g413">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="155"
-               height="40"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect111" />
-            <text
+               x="17.4"
+               y="-1.5"
+               width="121"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect111"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="77.851562"

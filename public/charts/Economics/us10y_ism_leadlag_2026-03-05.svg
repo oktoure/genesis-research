@@ -1303,19 +1303,18 @@
            id="g163">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="198"
+             x="46.5"
+             y="-2.5"
+             width="106"
              height="27"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect162" />
-          <text
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect162"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="99.5078125"
              y="11"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text163">ISM MANUFACTURING IS STARTING THE YEAR</text>
+             id="text163"><tspan x="99.5078125" y="8.5">ISM MANUFACTURING</tspan><tspan x="99.5078125" dy="10">IS STARTING THE YEAR</tspan></text>
         </g>
       </g>
     </g>
@@ -1334,19 +1333,18 @@
            id="g167">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="197"
-             height="40"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect165" />
-          <text
+             x="47.8"
+             y="-2.5"
+             width="102"
+             height="27"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect165"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="98.78125"
              y="11"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text167">THE BOND MARKET HAD ALREADY SIGNALED</text>
+             id="text167"><tspan x="98.78125" y="8.5">THE BOND MARKET HAD</tspan><tspan x="98.78125" dy="10">ALREADY SIGNALED</tspan></text>
         </g>
       </g>
     </g>
@@ -1365,13 +1363,12 @@
            id="g170">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="102"
-             height="27"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect169" />
-          <text
+             x="-20.5"
+             y="-1.5"
+             width="144"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect169"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="51.453125"
@@ -1396,13 +1393,12 @@
            id="g173">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="98"
-             height="27"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect172" />
-          <text
+             x="-17.9"
+             y="-1.5"
+             width="135"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect172"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="49.609375"

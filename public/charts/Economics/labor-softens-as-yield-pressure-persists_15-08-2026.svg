@@ -6396,19 +6396,18 @@
              id="g816">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="151"
-               height="14"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect815" />
-            <text
+               x="8.4"
+               y="-2.5"
+               width="135"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect815"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="75.890625"
                y="11"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text815">HIRING MOMENTUM SUGGEST LABOR MARKET DETERIORATION</text>
+               id="text815"><tspan x="75.890625" y="8.5">HIRING MOMENTUM SUGGEST</tspan><tspan x="75.890625" dy="10">LABOR MARKET DETERIORATION</tspan></text>
           </g>
         </g>
       </g>
@@ -7174,13 +7173,12 @@
              id="g934">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="142"
-               height="14"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect933" />
-            <text
+               x="16.7"
+               y="-1.5"
+               width="125"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect933"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="79.19709"

@@ -1219,19 +1219,18 @@
              id="g155">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="211"
-               height="40"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect153" />
-            <text
+               x="67.2"
+               y="-2.5"
+               width="78"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect153"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="106.1943359375"
                y="11"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(71, 85, 105); fill-opacity: 1; white-space: pre;"
-               id="text155">THE DECLINE IS US STOCKS WAS</text>
+               id="text155"><tspan x="106.1943359375" y="8.5">THE DECLINE IS</tspan><tspan x="106.1943359375" dy="10">US STOCKS WAS</tspan></text>
           </g>
         </g>
       </g>
@@ -2008,19 +2007,18 @@
              id="g273">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="145"
+               x="26.8"
+               y="-2.5"
+               width="92"
                height="27"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect272" />
-            <text
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect272"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="72.84375"
                y="11"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(71, 85, 105); fill-opacity: 1; white-space: pre;"
-               id="text273">GROWTH REGIME REWARDS GOOD NEWS</text>
+               id="text273"><tspan x="72.84375" y="8.5">GROWTH REGIME</tspan><tspan x="72.84375" dy="10">REWARDS GOOD NEWS</tspan></text>
           </g>
         </g>
       </g>
@@ -2039,19 +2037,18 @@
              id="g276">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="148"
+               x="26.2"
+               y="-2.5"
+               width="97"
                height="27"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect275" />
-            <text
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect275"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="74.6953125"
                y="11"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(71, 85, 105); fill-opacity: 1; white-space: pre;"
-               id="text276">INFLATION REGIME PUNISHES GOOD NEWS</text>
+               id="text276"><tspan x="74.6953125" y="8.5">INFLATION REGIME</tspan><tspan x="74.6953125" dy="10">PUNISHES GOOD NEWS</tspan></text>
           </g>
         </g>
       </g>
@@ -2070,19 +2067,18 @@
              id="g281">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="213"
-               height="53"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect278" />
-            <text
+               x="49.0"
+               y="-2.5"
+               width="116"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect278"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="107.0234375"
                y="11"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(71, 85, 105); fill-opacity: 1; white-space: pre;"
-               id="text281">VALUE'S LOWER RATE SENSITIVITY IS DRIVING</text>
+               id="text281"><tspan x="107.0234375" y="8.5">VALUE'S LOWER RATE</tspan><tspan x="107.0234375" dy="10">SENSITIVITY IS DRIVING</tspan></text>
           </g>
         </g>
       </g>

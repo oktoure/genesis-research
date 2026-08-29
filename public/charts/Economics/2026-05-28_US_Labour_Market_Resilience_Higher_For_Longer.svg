@@ -6728,19 +6728,18 @@
              id="g848">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="228"
-               height="40"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect846" />
-            <text
+               x="52.1"
+               y="-2.5"
+               width="125"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect846"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="114.625"
                y="11"
                style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#455a64;fill-opacity:1;white-space:pre"
-               id="text848">NONFARM PAYROLLS DELIVERED A BLOWOUT BEAT</text>
+               id="text848"><tspan x="114.625" y="8.5">NONFARM PAYROLLS</tspan><tspan x="114.625" dy="10">DELIVERED A BLOWOUT BEAT</tspan></text>
           </g>
         </g>
       </g>
@@ -7503,13 +7502,12 @@
              id="g965">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="206"
-               height="27"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect964" />
-            <text
+               x="79.3"
+               y="-1.5"
+               width="48"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect964"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="103.328125"

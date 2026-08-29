@@ -61070,19 +61070,18 @@
            id="g12145-4">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="173"
-             height="66"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect12141-8" />
-          <text
+             x="-34.8"
+             y="-2.5"
+             width="69"
+             height="27"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect12141-8"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="-0.29131499"
              y="150.11008"
              style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#2b2b2b;fill-opacity:1"
-             id="text12145-3">STARTING OF THE IRAN WAR</text>
+             id="text12145-3"><tspan x="-0.29131499" y="8.5">STARTING OF</tspan><tspan x="-0.29131499" dy="10">THE IRAN WAR</tspan></text>
         </g>
       </g>
     </g>
@@ -61100,13 +61099,12 @@
            id="g12145-4-8">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="173"
-             height="66"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect12141-8-0" />
-          <text
+             x="-50.4"
+             y="-1.5"
+             width="83"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect12141-8-0"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="-8.9055471"

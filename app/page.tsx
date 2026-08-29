@@ -74,6 +74,14 @@ function renderInline(text?: string): React.ReactNode {
   return <>{out}</>;
 }
 
+function plainText(text?: string): string {
+  return (text || '')
+    .replace(/\*\*/g, '')
+    .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function insightTimeValue(insight: Insight): number {
   if (insight.publishedAt) {
     const exact = Date.parse(insight.publishedAt);
@@ -132,6 +140,34 @@ function ClientHome() {
       ? sortedInsights
       : sortedInsights.filter(i => i.category === activeCatParam);
 
+  const researchFrame = React.useMemo(() => {
+    const lanes = [
+      {
+        category: 'Story Line',
+        eyebrow: 'Macro Regime',
+        description: 'What changed in growth, inflation, and policy.',
+        accent: 'border-emerald-500',
+      },
+      {
+        category: 'Trading Ideas',
+        eyebrow: 'Portfolio Expression',
+        description: 'How the macro view transmits into an asset.',
+        accent: 'border-blue-500',
+      },
+      {
+        category: 'Trading Execution',
+        eyebrow: 'Execution & Risk',
+        description: 'Entry, target, invalidation, and position updates.',
+        accent: 'border-cyan-500',
+      },
+    ];
+
+    return lanes.map(lane => ({
+      ...lane,
+      insight: sortedInsights.find(insight => insight.category === lane.category),
+    }));
+  }, [sortedInsights]);
+
   // Expand toggle
   const [expandedId, setExpandedId] = React.useState<number | null>(null);
   const toggleExpand = (id: number) =>
@@ -155,13 +191,16 @@ function ClientHome() {
       {/* HEADER */}
       {/* ------------------------------------------- */}
       <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
+        <div className="max-w-7xl mx-auto px-6 py-7 flex items-center justify-between gap-8">
           <div>
             <h1 className="text-2xl font-bold text-white tracking-tight">
               Genesis Research
             </h1>
-            <p className="text-slate-400 mt-1 text-xs">
-              Research, timely insights, and transparent trade ideas
+            <p className="text-slate-300 mt-1 text-sm">
+              Global macro research translated into cross-asset positioning
+            </p>
+            <p className="text-slate-500 mt-2 text-xs">
+              Facts → reaction function → market transmission → trade → execution
             </p>
           </div>
 
@@ -200,7 +239,7 @@ function ClientHome() {
         {/* CATEGORY TABS */}
         {/* ------------------------------------------- */}
         <div className="mb-8 border-b border-slate-200">
-          <nav className="flex flex-wrap gap-6">
+          <nav className="flex flex-nowrap gap-5 overflow-x-auto pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
             {categories.map(cat => {
               const isActive = cat === activeCatParam;
 
@@ -208,7 +247,7 @@ function ClientHome() {
                 <button
                   key={cat}
                   onClick={() => goToCategory(cat)}
-                  className={`relative py-2 text-sm font-semibold ${
+                  className={`relative shrink-0 py-2 text-sm font-semibold ${
                     isActive
                       ? 'text-slate-900'
                       : 'text-slate-500 hover:text-slate-700'
@@ -224,10 +263,68 @@ function ClientHome() {
           </nav>
         </div>
 
+        {activeCatParam === 'Insights' && (
+          <section className="mb-10 rounded-2xl border border-slate-200 bg-slate-50 p-5 sm:p-6">
+            <div className="flex flex-col gap-3 border-b border-slate-200 pb-5 sm:flex-row sm:items-end sm:justify-between">
+              <div>
+                <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-emerald-700">
+                  Current Research Frame
+                </p>
+                <h3 className="mt-1 text-xl font-bold tracking-tight text-slate-900">
+                  One view, carried from evidence to execution
+                </h3>
+                <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-600">
+                  The latest post in each lane updates automatically, preserving the chain between the macro regime, the portfolio expression, and the live trade record.
+                </p>
+              </div>
+              <div className="flex shrink-0 flex-wrap gap-2 text-[10px] font-bold uppercase tracking-wide text-slate-500">
+                <span className="rounded-full border border-slate-200 bg-white px-2.5 py-1">Daily Insight</span>
+                <span className="rounded-full border border-slate-200 bg-white px-2.5 py-1">Weekly View</span>
+                <span className="rounded-full border border-slate-200 bg-white px-2.5 py-1">Macro Thesis</span>
+              </div>
+            </div>
+
+            <div className="mt-5 grid gap-4 lg:grid-cols-3">
+              {researchFrame.map(({ category, eyebrow, description, accent, insight }) => (
+                <article key={category} className={`rounded-xl border border-slate-200 border-t-4 ${accent} bg-white p-4 shadow-sm`}>
+                  <div className="flex items-center justify-between gap-3">
+                    <p className="text-[10px] font-bold uppercase tracking-[0.16em] text-slate-500">{eyebrow}</p>
+                    {insight?.storyType && (
+                      <span className="rounded border border-slate-200 px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide text-slate-500">
+                        {insight.storyType}
+                      </span>
+                    )}
+                  </div>
+                  {insight ? (
+                    <>
+                      <h4 className="mt-3 text-base font-bold leading-snug text-slate-900">
+                        <a className="hover:underline hover:underline-offset-4" href={`/i/${insight.id}?from=%2F`}>
+                          {insight.title}
+                        </a>
+                      </h4>
+                      <p className="mt-2 line-clamp-3 text-xs leading-relaxed text-slate-600">
+                        {plainText(insight.summary || insight.fullContent)}
+                      </p>
+                      <div className="mt-4 flex items-center justify-between gap-3">
+                        <time className="text-[10px] font-semibold text-slate-400">{formatInsightTime(insight)}</time>
+                        <a href={`/i/${insight.id}?from=%2F`} className="text-[10px] font-bold uppercase tracking-wide text-blue-600 hover:text-blue-700">
+                          Open view →
+                        </a>
+                      </div>
+                    </>
+                  ) : (
+                    <p className="mt-3 text-xs leading-relaxed text-slate-500">{description}</p>
+                  )}
+                </article>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* ------------------------------------------- */}
         {/* INSIGHTS FEED (unchanged) */}
         {/* ------------------------------------------- */}
-        <div className="space-y-10">
+        <div className="space-y-6">
           {shownInsights.map(insight => {
             const isExpanded = expandedId === insight.id;
             const textToShow = isExpanded
@@ -241,7 +338,7 @@ function ClientHome() {
             return (
               <article
                 key={insight.id}
-                className="relative border-b border-slate-100 pb-8 last:border-0"
+                className="relative rounded-2xl border border-slate-200 bg-white p-5 shadow-sm sm:p-6"
               >
                 {/* Meta */}
                 <div className="mb-5">
@@ -277,7 +374,7 @@ function ClientHome() {
                 </div>
 
                 {/* Content */}
-                <div className="grid md:grid-cols-2 gap-6 items-start">
+                <div className="grid gap-6 items-start md:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)]">
                   {/* Chart */}
                   <div>
                     {insight.chartPath ? (
@@ -295,7 +392,10 @@ function ClientHome() {
 
                   {/* Text */}
                   <div className="flex flex-col">
-                    <div className="text-slate-700 leading-relaxed text-[15px] mb-4 text-justify">
+                    <p className="mb-2 text-[10px] font-bold uppercase tracking-[0.16em] text-emerald-700">
+                      Investment conclusion
+                    </p>
+                    <div className="text-slate-700 leading-relaxed text-[15px] mb-4">
                       {renderInline(textToShow?.trim())}
                     </div>
 

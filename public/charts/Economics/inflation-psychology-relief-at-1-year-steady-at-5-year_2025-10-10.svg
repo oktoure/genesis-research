@@ -1343,19 +1343,18 @@
              id="g165">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="116"
-               height="44"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect162" />
-            <text
+               x="-20.6"
+               y="-2.5"
+               width="158"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect162"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="58.375"
                y="10"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text165">TARIFF-RELATED PRESSURES HAVE STIRRED SHORT-TERM EXPECTATIONS</text>
+               id="text165"><tspan x="58.375" y="8.5">TARIFF-RELATED PRESSURES HAVE</tspan><tspan x="58.375" dy="10">STIRRED SHORT-TERM EXPECTATIONS</tspan></text>
           </g>
         </g>
       </g>
@@ -1374,19 +1373,18 @@
              id="g170">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="178"
-               height="44"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect167" />
-            <text
+               x="21.8"
+               y="-2.5"
+               width="135"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect167"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="89.34375"
                y="10"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text170">1-YEAR AND 5-YEAR MICHIGAN INFLATION EXPECTATIONS</text>
+               id="text170"><tspan x="89.34375" y="8.5">1-YEAR AND 5-YEAR MICHIGAN</tspan><tspan x="89.34375" dy="10">INFLATION EXPECTATIONS</tspan></text>
           </g>
         </g>
       </g>
@@ -1405,19 +1403,18 @@
              id="g173">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="428"
-               height="23"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect172" />
-            <text
+               x="156.3"
+               y="-2.5"
+               width="116"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect172"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="214.3359375"
                y="10"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text173">MEANWHILE, CONSUMER INFLATION EXPECTATIONS</text>
+               id="text173"><tspan x="214.3359375" y="8.5">MEANWHILE, CONSUMER</tspan><tspan x="214.3359375" dy="10">INFLATION EXPECTATIONS</tspan></text>
           </g>
         </g>
       </g>
@@ -2150,19 +2147,18 @@
              id="g286">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="144"
-               height="34"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect284" />
-            <text
+               x="-20.5"
+               y="-2.5"
+               width="186"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect284"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="72.453125"
                y="10"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text286">LONG-TERM EXPECTATIONS REMAINANCHORED DESPITE SHORT- TERMVOLATILITY</text>
+               id="text286"><tspan x="72.453125" y="8.5">LONG-TERM EXPECTATIONS REMAINANCHORED</tspan><tspan x="72.453125" dy="10">DESPITE SHORT- TERMVOLATILITY</tspan></text>
           </g>
         </g>
       </g>
@@ -2180,19 +2176,18 @@
              id="g291">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="318"
-               height="44"
-               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect288" />
-            <text
+               x="80.6"
+               y="-2.5"
+               width="158"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect288"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="159.64062"
                y="10"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text291">SINCE APRIL, THE 5-YEAR-FORWARD INFLATION RATECLIMBED</text>
+               id="text291"><tspan x="159.64062" y="8.5">SINCE APRIL, THE 5-YEAR-FORWARD</tspan><tspan x="159.64062" dy="10">INFLATION RATECLIMBED</tspan></text>
           </g>
         </g>
       </g>

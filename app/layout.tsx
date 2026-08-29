@@ -14,8 +14,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL || "https://genesis-research.vercel.app"
+  ),
   title: "Genesis Research",
-  description: "Research, timely insights, and transparent trade ideas.",
+  description: "Global macro research translated into cross-asset positioning and transparent trade execution.",
 };
 
 export default function RootLayout({

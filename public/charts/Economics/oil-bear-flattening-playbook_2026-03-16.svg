@@ -1006,19 +1006,18 @@
            id="g141">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="128"
-             height="40"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect139" />
-          <text
+             x="20.7"
+             y="-2.5"
+             width="88"
+             height="27"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect139"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="64.703125"
              y="11"
              style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text141">A SUSTAINED RISE IN OIL PRICES</text>
+             id="text141"><tspan x="64.703125" y="8.5">A SUSTAINED RISE</tspan><tspan x="64.703125" dy="10">IN OIL PRICES</tspan></text>
         </g>
       </g>
     </g>
@@ -1037,19 +1036,18 @@
            id="g145">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="126"
-             height="40"
-             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-             id="rect143" />
-          <text
+             x="1.2"
+             y="-2.5"
+             width="125"
+             height="27"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect143"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="63.679688"
              y="11"
              style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text145">SIMULTANEOUSLY WEAKENING GROWTH EXPECTATIONS</text>
+             id="text145"><tspan x="63.679688" y="8.5">SIMULTANEOUSLY WEAKENING</tspan><tspan x="63.679688" dy="10">GROWTH EXPECTATIONS</tspan></text>
         </g>
       </g>
     </g>

@@ -1114,13 +1114,12 @@
              id="g156">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="182"
-               height="22"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect155" />
-            <text
+               x="57.2"
+               y="-1.5"
+               width="69"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect155"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="91.71875"
@@ -1145,19 +1144,18 @@
              id="g160">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="139"
-               height="33"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect158" />
-            <text
+               x="12.2"
+               y="-2.5"
+               width="116"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect158"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="70.1640625"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(2, 119, 189); fill-opacity: 1; white-space: pre;"
-               id="text160">LEAD-LAG HOLDS: CONFIDENCE TURNS FIRST</text>
+               id="text160"><tspan x="70.1640625" y="8.5">LEAD-LAG HOLDS:</tspan><tspan x="70.1640625" dy="10">CONFIDENCE TURNS FIRST</tspan></text>
           </g>
         </g>
       </g>
@@ -2298,19 +2296,18 @@
              style="fill:#083a42">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="186"
-               height="22"
-               style="stroke-width:1px;stroke:rgb(0, 0, 0);stroke-opacity:0;fill:#083a42;fill-opacity:0"
-               id="rect157" />
-            <text
+               x="44.9"
+               y="-2.5"
+               width="97"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect157"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="93.3515625"
                y="9"
                style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#083a42;fill-opacity:1;white-space:pre"
-               id="text158">CURRENT CONDITIONS EBB EVEN AS GDI</text>
+               id="text158"><tspan x="93.3515625" y="8.5">CURRENT CONDITIONS</tspan><tspan x="93.3515625" dy="10">EBB EVEN AS GDI</tspan></text>
           </g>
         </g>
       </g>
@@ -2331,13 +2328,12 @@
              style="fill:#073984">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="117"
-               height="33"
-               style="stroke-width:1px;stroke:rgb(0, 0, 0);stroke-opacity:0;fill:#073984;fill-opacity:0"
-               id="rect160" />
-            <text
+               x="7.8"
+               y="-1.5"
+               width="102"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect160"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="58.8203125"
@@ -2364,19 +2360,18 @@
              style="fill:#073984">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="125"
-               height="43"
-               style="stroke-width:1px;stroke:rgb(0, 0, 0);stroke-opacity:0;fill:#073984;fill-opacity:0"
-               id="rect319" />
-            <text
+               x="12.0"
+               y="-2.5"
+               width="102"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect319"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="62.9765625"
                y="9"
                style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#073984;fill-opacity:1;white-space:pre"
-               id="text167">BASE CASE: GDI DECELERATES INTO Q4</text>
+               id="text167"><tspan x="62.9765625" y="8.5">BASE CASE: GDI</tspan><tspan x="62.9765625" dy="10">DECELERATES INTO Q4</tspan></text>
           </g>
         </g>
       </g>
@@ -3621,19 +3616,18 @@
              style="fill:#083a42">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="144"
-               height="33"
-               style="stroke-width:1px;stroke:rgb(0, 0, 0);stroke-opacity:0;fill:#083a42;fill-opacity:0"
-               id="rect474" />
-            <text
+               x="19.5"
+               y="-2.5"
+               width="106"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect474"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="72.4609375"
                y="9"
                style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#083a42;fill-opacity:1;white-space:pre"
-               id="text157">EXPECTATIONS TICK UP BUT REMAIN SUBDUED</text>
+               id="text157"><tspan x="72.4609375" y="8.5">EXPECTATIONS TICK UP</tspan><tspan x="72.4609375" dy="10">BUT REMAIN SUBDUED</tspan></text>
           </g>
         </g>
       </g>
@@ -3654,19 +3648,18 @@
              style="fill:#094bac">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="100"
-               height="43"
-               style="fill:#094bac;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-               id="rect159" />
-            <text
+               x="11.4"
+               y="-2.5"
+               width="78"
+               height="27"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect159"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="50.382812"
                y="9"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#094bac;fill-opacity:1"
-               id="text481">SPENDING COOLS WITH A LAG</text>
+               id="text481"><tspan x="50.382812" y="8.5">SPENDING COOLS</tspan><tspan x="50.382812" dy="10">WITH A LAG</tspan></text>
           </g>
         </g>
       </g>

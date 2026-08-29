@@ -1277,13 +1277,12 @@
            id="g162">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="148"
-             height="56"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect158" />
-          <text
+             x="18.9"
+             y="-1.5"
+             width="111"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect158"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="74.359375"
@@ -1308,13 +1307,12 @@
            id="g165">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="22"
-             height="14"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect164" />
-          <text
+             x="-12.8"
+             y="-1.5"
+             width="48"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect164"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="11.203125"
@@ -1339,13 +1337,12 @@
            id="g168">
           <rect
              class="bg"
-             x="0.5"
-             y="0.5"
-             width="34"
-             height="14"
-             style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-             id="rect167" />
-          <text
+             x="-6.6"
+             y="-1.5"
+             width="48"
+             height="18"
+             style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+             id="rect167"  rx="2.5" ry="2.5"/><text
              class="annotation-text"
              text-anchor="middle"
              x="17.421875"

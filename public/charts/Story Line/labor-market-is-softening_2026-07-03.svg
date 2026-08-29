@@ -6383,13 +6383,12 @@
              id="g818">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="151"
-               height="14"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect817" />
-            <text
+               x="15.4"
+               y="-1.5"
+               width="121"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect817"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="75.890625"
@@ -7153,13 +7152,12 @@
              id="g940">
             <rect
                class="bg"
-               x="0.5"
-               y="0.5"
-               width="142"
-               height="14"
-               style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"
-               id="rect939" />
-            <text
+               x="11.0"
+               y="-1.5"
+               width="121"
+               height="18"
+               style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
+               id="rect939"  rx="2.5" ry="2.5"/><text
                class="annotation-text"
                text-anchor="middle"
                x="71.46875"
