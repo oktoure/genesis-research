@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
+    "validate:insights": "node scripts/validate-insight-links.mjs",
+    "prebuild": "npm run validate:insights",
     "build": "next build --turbopack",
     "start": "next start"
   },
