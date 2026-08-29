@@ -1433,5 +1433,18 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-25T21:28-04:00",
     "storyType": "Unscheduled"
+  },
+  {
+    "id": 122,
+    "date": "25-08-2026",
+    "category": "Story Line",
+    "categoryColor": "bg-slate-800",
+    "title": "Equities remain weak as uncertainty and tight financial condition remains",
+    "summary": "**While growth shows resiliency, PCE remains elevated and has not decelerated as expected. This creates uncertainty regarding the monetary policy which might re-awaken hawks**",
+    "fullContent": "**While growth shows resiliency, PCE remains elevated and has not decelerated as expected. This creates uncertainty regarding the monetary policy which might re-awaken hawks**",
+    "chartPath": "/charts/Story Line/equities-remain-weak-as-uncertainty-and-tight-financial-condition-remains_2026-08-25.svg",
+    "chartHeight": "700",
+    "publishedAt": "2026-08-25T08:30-04:00",
+    "storyType": "Inflation"
   }
 ]
