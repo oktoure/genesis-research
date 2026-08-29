@@ -6739,26 +6739,8 @@
                text-anchor="middle"
                x="114.625"
                y="11"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:10px;fill:#455a64;fill-opacity:1;white-space:pre"
-               id="text848"><tspan
-                 class="line"
-                 dy="0em"
-                 x="114.625"
-                 y="11"
-                 id="tspan846"
-                 style="fill:#455a64;fill-opacity:1">NONFARM PAYROLLS DELIVERED A BLOWOUT</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="114.625"
-                 y="11"
-                 id="tspan847"
-                 style="fill:#455a64;fill-opacity:1">BEAT, COMING IN MORE THAN TWICE AS</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="114.625"
-                 y="11"
-                 id="tspan848"
-                 style="fill:#455a64;fill-opacity:1">STRONG AS EXPECTED.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#455a64;fill-opacity:1;white-space:pre"
+               id="text848">NONFARM PAYROLLS DELIVERED A BLOWOUT BEAT</text>
           </g>
         </g>
       </g>
@@ -7532,20 +7514,8 @@
                text-anchor="middle"
                x="103.328125"
                y="11"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:10px;fill:#455a64;fill-opacity:1;white-space:pre"
-               id="text965"><tspan
-                 class="line"
-                 dy="0em"
-                 x="103.328125"
-                 y="11"
-                 id="tspan964"
-                 style="fill:#455a64;fill-opacity:1">THE U.S. LABOR MARKET REMAINS A KEY</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="103.328125"
-                 y="11"
-                 id="tspan965"
-                 style="fill:#455a64;fill-opacity:1">SOURCE OF ECONOMIC STRENGTH.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#455a64;fill-opacity:1;white-space:pre"
+               id="text965">THE U.S</text>
           </g>
         </g>
       </g>

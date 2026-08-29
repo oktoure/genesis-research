@@ -649,33 +649,8 @@
                text-anchor="middle"
                x="93.28125"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text110"><tspan
-                 class="line"
-                 dy="0em"
-                 x="93.28125"
-                 y="9"
-                 id="tspan106">S&amp;P 500 FELL SHARPLY FOLLOWING TRUMP’S</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="93.28125"
-                 y="9"
-                 id="tspan107">TARIFF THREAT, ERASING ALL GAINS SINCE</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="93.28125"
-                 y="9"
-                 id="tspan108">THE SEPTEMBER 17 FOMC MEETING AND</tspan><tspan
-                 class="line"
-                 dy="3.9000001em"
-                 x="93.28125"
-                 y="9"
-                 id="tspan109">MARKING ONE OF THE STEEPEST DAILY</tspan><tspan
-                 class="line"
-                 dy="5.1999998em"
-                 x="93.28125"
-                 y="9"
-                 id="tspan110">DECLINES SINCE THE LIBERATION DAY SHOCK</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text110">S&amp;P 500 FELL SHARPLY FOLLOWING TRUMP’S</text>
           </g>
         </g>
       </g>
@@ -706,8 +681,8 @@
            text-anchor="middle"
            x="3.5740633"
            y="43.021076"
-           style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif;white-space:pre;fill:#7c2d12;fill-opacity:1"
-           id="text165">FOMC </text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text165">FOMC</text>
       </g>
     </g>
   </g>
@@ -1452,22 +1427,8 @@
                text-anchor="middle"
                x="161.28906"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text227"><tspan
-                 class="line"
-                 x="161.28906"
-                 y="9"
-                 id="tspan225">U.S.–CHINA TARIFF AGREEMENT BY NOVEMBER 10 PROBABILITY COLLAPSED</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="161.28906"
-                 y="9"
-                 id="tspan226">FROM NEAR CERTAINTY TO A COIN FLIP AFTER THE POST, BEFORE REBOUNDING</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="161.28906"
-                 y="9"
-                 id="tspan227">OVER THE WEEKEND AS TRADERS REASSESSED THE RISK.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text227">U.S</text>
           </g>
         </g>
       </g>

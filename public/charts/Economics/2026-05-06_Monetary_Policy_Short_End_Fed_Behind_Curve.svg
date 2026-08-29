@@ -974,26 +974,8 @@
              text-anchor="middle"
              x="85.7265625"
              y="11"
-             style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:10px;fill:#455a64;fill-opacity:1;white-space:pre"
-             id="text136"><tspan
-               class="line"
-               dy="0em"
-               x="85.7265625"
-               y="11"
-               id="tspan134"
-               style="fill:#455a64;fill-opacity:1">THE SHORT END OF THE CURVE</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="85.7265625"
-               y="11"
-               id="tspan135"
-               style="fill:#455a64;fill-opacity:1">SIGNALS THAT THE FED MIGHT BE</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="85.7265625"
-               y="11"
-               id="tspan136"
-               style="fill:#455a64;fill-opacity:1">BEHING THE CURVE.</tspan></text>
+             style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#455a64;fill-opacity:1;white-space:pre"
+             id="text136">THE SHORT END OF THE CURVE</text>
         </g>
       </g>
     </g>

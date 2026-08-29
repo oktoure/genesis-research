@@ -1171,24 +1171,8 @@
            text-anchor="middle"
            x="58.820312"
            y="9"
-           style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#073984;fill-opacity:1"
-           id="text162-4"><tspan
-             sodipodi:role="line"
-             id="tspan157"
-             x="58.820312"
-             y="9"> GOLD ↑; GDX ↑↑</tspan><tspan
-             sodipodi:role="line"
-             x="58.820312"
-             y="19"
-             id="tspan160"> NASDAQ/S&amp;P ↓ FROM HIGHS;</tspan><tspan
-             sodipodi:role="line"
-             id="tspan158"
-             x="58.820312"
-             y="29"> 10-YEAR NOTE ~FLAT</tspan><tspan
-             sodipodi:role="line"
-             x="58.820312"
-             y="39"
-             id="tspan159"> BITCOIN ↓ (ONLY NEGATIVE).</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#073984;fill-opacity:1"
+           id="text162-4">GOLD ↑</text>
       </g>
     </g>
   </g>
@@ -2253,20 +2237,8 @@
              text-anchor="middle"
              x="58.820312"
              y="9"
-             style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#073984;fill-opacity:1"
-             id="text162"><tspan
-               sodipodi:role="line"
-               id="tspan161"
-               x="58.820312"
-               y="9">LATE-NOV DIP OFTEN PRECEDES</tspan><tspan
-               sodipodi:role="line"
-               id="tspan162"
-               x="58.820312"
-               y="19"> DEC RALLY;2025 TRACK CONVERGING</tspan><tspan
-               sodipodi:role="line"
-               x="58.820312"
-               y="29"
-               id="tspan163"> TOWARD 2021/2024 CORRIDOR.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#073984;fill-opacity:1"
+             id="text162">LATE-NOV DIP OFTEN PRECEDES DEC RALLY</text>
         </g>
       </g>
     </g>

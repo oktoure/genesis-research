@@ -1351,23 +1351,8 @@
              text-anchor="middle"
              x="95.828125"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(69, 90, 100); fill-opacity: 1; white-space: pre;"
-             id="text169"><tspan
-               class="line"
-               dy="0em"
-               x="95.828125"
-               y="11"
-               id="tspan167">BACK TO −3.9 FROM 18.7 — REBOUND</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="95.828125"
-               y="11"
-               id="tspan168">STALLS AS SHIPMENTS FALL, ORDERS</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="95.828125"
-               y="11"
-               id="tspan169">FLAT.</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(69, 90, 100); fill-opacity: 1; white-space: pre;"
+             id="text169">FACTORY REBOUND STALLS</text>
         </g>
       </g>
     </g>
@@ -1397,23 +1382,8 @@
              text-anchor="middle"
              x="98.9609375"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text173"><tspan
-               class="line"
-               dy="0em"
-               x="98.9609375"
-               y="11"
-               id="tspan171">PRICES COOL FURTHER; EMPLOYMENT</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="98.9609375"
-               y="11"
-               id="tspan172">EDGES UP — STABILIZATION, NOT</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="98.9609375"
-               y="11"
-               id="tspan173">REACCELERATION.</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text173">PRICES COOL FURTHER</text>
         </g>
       </g>
     </g>

@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "validate:insights": "node scripts/validate-insight-links.mjs",
-    "prebuild": "npm run validate:insights",
+    "validate:charts": "node scripts/validate-chart-callouts.mjs",
+    "normalize:charts": "node scripts/normalize-chart-callouts.mjs",
+    "prebuild": "npm run validate:insights && npm run validate:charts",
     "build": "next build --turbopack",
     "start": "next start"
   },

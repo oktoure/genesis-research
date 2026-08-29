@@ -1249,28 +1249,8 @@
              text-anchor="middle"
              x="109.6171875"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text159"><tspan
-               class="line"
-               dy="0em"
-               x="109.6171875"
-               y="11"
-               id="tspan156">UNLIKE PREVIOUS RECESSIONS WHERE</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="109.6171875"
-               y="11"
-               id="tspan157">BOTH METRICS ROSE TOGETHER, JOBLESS</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="109.6171875"
-               y="11"
-               id="tspan158">CLAIMS HAVE REMAINED RELATIVELY LOW</tspan><tspan
-               class="line"
-               dy="3.9000000000000004em"
-               x="109.6171875"
-               y="11"
-               id="tspan159">WHILE UNEMPLOYMENT INCREASES...</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text159">UNLIKE PREVIOUS RECESSIONS WHERE BOTH METRICS</text>
         </g>
       </g>
     </g>
@@ -1300,28 +1280,8 @@
              text-anchor="middle"
              x="117.9375"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text164"><tspan
-               class="line"
-               dy="0em"
-               x="117.9375"
-               y="11"
-               id="tspan161">THIS SUGGESTS CORPORATIONS HAVE</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="117.9375"
-               y="11"
-               id="tspan162">IMPLEMENTED HIRING FREEZES RATHER THAN</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="117.9375"
-               y="11"
-               id="tspan163">LAYOFFS, ALLOWING THE STOCK MARKET TO</tspan><tspan
-               class="line"
-               dy="3.9000000000000004em"
-               x="117.9375"
-               y="11"
-               id="tspan164">THRIVE DESPITE RISING UNEMPLOYMENT</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text164">THIS SUGGESTS CORPORATIONS HAVE IMPLEMENTED HIRING</text>
         </g>
       </g>
     </g>

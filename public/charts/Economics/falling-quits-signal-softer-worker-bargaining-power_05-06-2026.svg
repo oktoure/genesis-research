@@ -1099,23 +1099,8 @@
                text-anchor="middle"
                x="60.8125"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text139"><tspan
-                 class="line"
-                 dy="0em"
-                 x="60.8125"
-                 y="11"
-                 id="tspan137">FALLING QUITS AND</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="60.8125"
-                 y="11"
-                 id="tspan138">WEAKER REAL ATLANTA</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="60.8125"
-                 y="11"
-                 id="tspan139">WAGE GROWTH…</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text139">FALLING QUITS AND WEAKER REAL ATLANTA</text>
           </g>
         </g>
       </g>
@@ -2317,23 +2302,8 @@
                text-anchor="middle"
                x="79.7890625"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text294"><tspan
-                 class="line"
-                 dy="0em"
-                 x="79.7890625"
-                 y="11"
-                 id="tspan292">…SHOW THAT WORKER</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="79.7890625"
-                 y="11"
-                 id="tspan293">BARGAINING POWER IS FADING</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="79.7890625"
-                 y="11"
-                 id="tspan294">BENEATH THE SURFACE.</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text294">…SHOW THAT WORKER BARGAINING POWER IS</text>
           </g>
         </g>
       </g>

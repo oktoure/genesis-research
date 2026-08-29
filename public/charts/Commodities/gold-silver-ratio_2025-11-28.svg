@@ -751,18 +751,8 @@
              text-anchor="middle"
              x="86.5546875"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text109"><tspan
-               class="line"
-               dy="0em"
-               x="86.5546875"
-               y="11"
-               id="tspan108">GOLD/SILVER RATIO DROPS FROM</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="86.5546875"
-               y="11"
-               id="tspan109">~100 → ~70—SILVER LEADS...</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text109">GOLD/SILVER RATIO DROPS FROM ~100 →</text>
         </g>
       </g>
     </g>
@@ -792,23 +782,8 @@
              text-anchor="middle"
              x="86.734375"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text113"><tspan
-               class="line"
-               dy="0em"
-               x="86.734375"
-               y="11"
-               id="tspan111">...HISTORICALLY THIS</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="86.734375"
-               y="11"
-               id="tspan112">COMPRESSION OFTEN PRECEDES</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="86.734375"
-               y="11"
-               id="tspan113">GOLD CATCH-UP.</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text113">HISTORICALLY THIS COMPRESSION OFTEN PRECEDES GOLD</text>
         </g>
       </g>
     </g>

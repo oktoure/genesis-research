@@ -1323,33 +1323,8 @@
              text-anchor="middle"
              x="78.6875"
              y="11"
-             style="font-size:8px;font-family:'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text166"><tspan
-               class="line"
-               dy="0em"
-               x="78.6875"
-               y="11"
-               id="tspan162">MANUFACTURING COOLS, RELIEF UNEVEN.</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="78.6875"
-               y="11"
-               id="tspan163">PRICES ARE EASING FROM 70 TO 60,</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="78.6875"
-               y="11"
-               id="tspan164">BUT EMPLOYMENT AT 45 STILL SIGNALS</tspan><tspan
-               class="line"
-               dy="3.9000001em"
-               x="78.6875"
-               y="11"
-               id="tspan165">CONTRACTION — INFLATION FADING,</tspan><tspan
-               class="line"
-               dy="5.1999998em"
-               x="78.6875"
-               y="11"
-               id="tspan166">GROWTH NOT YET RECOVERED.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text166">MANUFACTURING COOLS, RELIEF UNEVEN</text>
         </g>
       </g>
     </g>

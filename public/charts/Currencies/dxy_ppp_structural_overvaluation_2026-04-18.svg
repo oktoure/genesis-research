@@ -999,27 +999,15 @@
                text-anchor="middle"
                x="79.796875"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:0.96470588"
-               id="text178"><tspan
-                 class="line"
-                 dy="0em"
-                 x="79.796875"
-                 y="11"
-                 id="tspan177"
-                 style="fill:#455a64;fill-opacity:0.96470588">THE US DOLLAR REMAIN OVER-</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="79.796875"
-                 y="11"
-                 id="tspan178"
-                 style="fill:#455a64;fill-opacity:0.96470588">VALUED...</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:0.96470588"
+               id="text178">THE US DOLLAR REMAIN OVER- VALUED</text>
             <text
                class="annotation-text"
                text-anchor="middle"
                x="73.936424"
                y="210.38023"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:0.94117647"
-               id="text178-1">ACCORDING TO PPP.</text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:0.94117647"
+               id="text178-1">ACCORDING TO PPP</text>
           </g>
         </g>
       </g>

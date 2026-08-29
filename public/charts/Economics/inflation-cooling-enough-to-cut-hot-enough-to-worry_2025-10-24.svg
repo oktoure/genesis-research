@@ -1192,23 +1192,8 @@
                text-anchor="middle"
                x="167.72656"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text163"><tspan
-                 class="line"
-                 dy="0em"
-                 x="167.72656"
-                 y="9"
-                 id="tspan161">CORE INFLATION COOLED FURTHER TO 3.0%, WHILE HEADLINE EDGED UP TO 3.0%</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="167.72656"
-                 y="9"
-                 id="tspan162">ONLY ON BASE EFFECTS. THE MONTHLY PACE SLOWED, CONFIRMING DISINFLATION</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="167.72656"
-                 y="9"
-                 id="tspan163">BENEATH THE SURFACE EVEN AS CONSUMERS STILL “FEEL” PRICES HIGH.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text163">CORE INFLATION COOLED FURTHER TO 3.0%</text>
           </g>
         </g>
       </g>
@@ -2444,27 +2429,7 @@
                x="120.09375"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text322"><tspan
-                 class="line"
-                 dy="0em"
-                 x="120.09375"
-                 y="9"
-                 id="tspan319">SHORT-TERM INFLATION EXPECTATIONS HAVE STEADIED,</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="120.09375"
-                 y="9"
-                 id="tspan320">BUT THE 5-YEAR MICHIGAN MEASURE IS CREEPING HIGHER</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="120.09375"
-                 y="9"
-                 id="tspan321">— SHOWING THAT HOUSEHOLD INFLATION ANXIETY HASN’T</tspan><tspan
-                 class="line"
-                 dy="3.9000000000000004em"
-                 x="120.09375"
-                 y="9"
-                 id="tspan322">FULLY FADED DESPITE DISINFLATION PROGRESS.</tspan></text>
+               id="text322">SHORT-TERM INFLATION EXPECTATIONS HAVE STEADIED</text>
           </g>
         </g>
       </g>
@@ -3592,27 +3557,7 @@
                x="119.00390625"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text469"><tspan
-                 class="line"
-                 dy="0em"
-                 x="119.00390625"
-                 y="9"
-                 id="tspan466">MARKET-BASED EXPECTATIONS EASED FROM 2.4% TO</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="119.00390625"
-                 y="9"
-                 id="tspan467">2.18%, CONFIRMING THE FED’S INFLATION CREDIBILITY</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="119.00390625"
-                 y="9"
-                 id="tspan468">AND SIGNALING THAT INVESTORS SEE THE RECENT TARIFF</tspan><tspan
-                 class="line"
-                 dy="3.9000000000000004em"
-                 x="119.00390625"
-                 y="9"
-                 id="tspan469">AND ENERGY SHOCKS AS CYCLICAL, NOT STRUCTURAL.</tspan></text>
+               id="text469">MARKET-BASED EXPECTATIONS EASED FROM 2.4% TO</text>
           </g>
         </g>
       </g>

@@ -6407,20 +6407,8 @@
                text-anchor="middle"
                x="75.890625"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text815"><tspan
-                 sodipodi:role="line"
-                 id="tspan941"
-                 x="75.890625"
-                 y="11">HIRING MOMENTUM </tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan942"
-                 x="75.890625"
-                 y="23.5">SUGGEST LABOR MARKET </tspan><tspan
-                 sodipodi:role="line"
-                 x="75.890625"
-                 y="36"
-                 id="tspan943">DETERIORATION</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text815">HIRING MOMENTUM SUGGEST LABOR MARKET DETERIORATION</text>
           </g>
         </g>
       </g>
@@ -7197,16 +7185,8 @@
                text-anchor="middle"
                x="79.19709"
                y="-22.723654"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text933"><tspan
-                 sodipodi:role="line"
-                 id="tspan944"
-                 x="79.19709"
-                 y="-22.723654">AS THE YIELD CURVE</tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan945"
-                 x="79.19709"
-                 y="-10.223654"> STEEPENS</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text933">THE YIELD CURVE STEEPENS</text>
           </g>
         </g>
       </g>

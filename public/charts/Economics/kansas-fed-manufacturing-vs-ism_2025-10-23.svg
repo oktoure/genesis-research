@@ -1137,18 +1137,8 @@
                  text-anchor="middle"
                  x="194.25781"
                  y="9"
-                 style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-                 id="text151"><tspan
-                   class="line"
-                   dy="0em"
-                   x="194.25781"
-                   y="9"
-                   id="tspan150">KANSAS PRODUCTION REBOUNDED SHARPLY, RUNNING ABOVE THE ISM MANUFACTURING INDEX</tspan><tspan
-                   class="line"
-                   dy="1.3em"
-                   x="194.25781"
-                   y="9"
-                   id="tspan151">— SIGNALING REGIONAL OUTPERFORMANCE AND A LOCALIZED PICKUP IN FACTORY MOMENTUM.</tspan></text>
+                 style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+                 id="text151">KANSAS PRODUCTION REBOUNDED SHARPLY</text>
             </g>
           </g>
         </g>
@@ -2368,22 +2358,7 @@
                x="193.3671875"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text309"><tspan
-                 class="line"
-                 dy="0em"
-                 x="193.3671875"
-                 y="9"
-                 id="tspan307">THE COMPOSITE INDEX IMPROVED BUT LAGGED PURE PRODUCTION GAINS, SHOWING THAT</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="193.3671875"
-                 y="9"
-                 id="tspan308">OUTPUT STRENGTH HAS YET TO BROADEN ACROSS ORDERS AND EMPLOYMENT — CONSISTENT</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="193.3671875"
-                 y="9"
-                 id="tspan309">WITH UNEVEN MANUFACTURING NORMALIZATION.</tspan></text>
+               id="text309">THE COMPOSITE INDEX IMPROVED BUT LAGGED</text>
           </g>
         </g>
       </g>

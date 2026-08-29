@@ -923,28 +923,8 @@
              text-anchor="middle"
              x="93.4921875"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text136"><tspan
-               class="line"
-               dy="0em"
-               x="93.4921875"
-               y="11"
-               id="tspan133">HAWKISH INTEREST RATE CUT,</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="93.4921875"
-               y="11"
-               id="tspan134">WITH THE BOND MARKET THAT DOES</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="93.4921875"
-               y="11"
-               id="tspan135">NOT WANT TO LISTEN, WHERE THE</tspan><tspan
-               class="line"
-               dy="3.9000000000000004em"
-               x="93.4921875"
-               y="11"
-               id="tspan136">DOLLAR IS FALLING.</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text136">HAWKISH INTEREST RATE CUT</text>
         </g>
       </g>
     </g>

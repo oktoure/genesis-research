@@ -1439,13 +1439,13 @@
     "date": "26-08-2026",
     "category": "Story Line",
     "categoryColor": "bg-slate-800",
-    "title": "Firm Private Demand and Sticky PCE Preserve Hawkish Risk",
-    "summary": "**Resilient private demand and above-target PCE inflation reduce the Fed's urgency to ease and keep the reaction function tilted toward price stability.**",
-    "fullContent": "**Resilient private demand and above-target PCE inflation reduce the Fed's urgency to ease and keep the reaction function tilted toward price stability.** Q2 GDP slowed to 1.5%, but private domestic final sales rose 4.2%, while July headline and core PCE both increased 0.2% and remained 3.7% and 3.3% higher year over year. That mix is not outright overheating, but it leaves insufficient disinflation for a clean dovish pivot. The result is greater short-rate sensitivity, with near-term pressure on [gold](/i/120) and duration-sensitive equities.",
-    "chartPath": "/charts/Story Line/Consutrutive_Growth_Elevated_PCE_2026-08-25.svg",
+    "title": "Weak Confidence Has Not Yet Broken Demand",
+    "summary": "**Depressed confidence has not yet translated into contraction: GDP and real consumer spending remain positive.**",
+    "fullContent": "**Depressed confidence has not yet translated into contraction: GDP and real consumer spending remain positive.** Sentiment and expectations warn that households are becoming more cautious, but the hard activity data still show resilience rather than recession behavior. This divergence gives the Fed room to remain patient and makes the next labor and spending releases more important than confidence alone. A bearish growth view requires the soft surveys to transmit into weaker consumption and output first.",
+    "chartPath": "/charts/Story Line/weak-confidence-has-not-yet-broken-demand_2026-08-26.svg",
     "chartHeight": "700",
     "publishedAt": "2026-08-26T08:30-04:00",
-    "storyType": "Inflation"
+    "storyType": "Growth"
   },
   {
     "id": 123,
@@ -1454,7 +1454,7 @@
     "categoryColor": "bg-slate-800",
     "title": "Warsh's Inflation Focus Triggers a Bear Flattening",
     "summary": "**Warsh's emphasis on firm growth and insufficient disinflation repriced the front end hawkishly, creating a tactical headwind for gold.**",
-    "fullContent": "**Warsh's emphasis on firm growth and insufficient disinflation repriced the front end hawkishly, creating a tactical headwind for gold.** He described labor as consistent with full employment, inflation as still too high, and the 2% PCE objective as firm. Treasury yields rose across the curve, but the 2-year increased 14 bp versus 6 bp for the 10-year, narrowing 10s2s by 8 bp: a bear flattening. This confirms the policy risk embedded in the [growth-PCE mix](/i/122). It can extend gold's retracement after our [target was reached](/i/124), but it does not yet overturn the [strategic long thesis](/i/120); that would require sustained dollar strength, rising real yields, and failure of the summer base.",
+    "fullContent": "**Warsh's emphasis on firm growth and insufficient disinflation repriced the front end hawkishly, creating a tactical headwind for gold.** He described labor as consistent with full employment, inflation as still too high, and the 2% PCE objective as firm. Treasury yields rose across the curve, but the 2-year increased 14 bp versus 6 bp for the 10-year, narrowing 10s2s by 8 bp: a bear flattening. This confirms the policy risk embedded in [resilient demand](/i/122) and [sticky PCE](/i/125). It can extend gold's retracement after our [target was reached](/i/124), but it does not yet overturn the [strategic long thesis](/i/120); that would require sustained dollar strength, rising real yields, and failure of the summer base.",
     "chartPath": "/charts/Story Line/monetary-policy-guidance-tailored-hawkish-expectations_2026-08-26.svg",
     "chartHeight": "700",
     "publishedAt": "2026-08-28T10:00-04:00",
@@ -1472,5 +1472,18 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-18T10:00-04:00",
     "storyType": "Target Reached"
+  },
+  {
+    "id": 125,
+    "date": "26-08-2026",
+    "publishedAt": "2026-08-26T08:35-04:00",
+    "category": "Story Line",
+    "categoryColor": "bg-slate-800",
+    "storyType": "Inflation",
+    "title": "Sticky PCE Keeps Policy Risk Hawkish",
+    "summary": "**Above-target PCE inflation limits the Fed's freedom to ease despite softer headline growth.**",
+    "fullContent": "**Above-target PCE inflation limits the Fed's freedom to ease despite softer headline growth.** July headline and core PCE both increased 0.2% and remained 3.7% and 3.3% higher year over year. Combined with [demand that is still holding](/i/122), inflation has not weakened enough to justify a clean dovish pivot. The near-term transmission is firmer short-rate expectations, greater dollar support, and pressure on gold and duration-sensitive equities until disinflation becomes broader and persistent.",
+    "chartPath": "/charts/Story Line/sticky-pce-keeps-policy-risk-hawkish_2026-08-26.svg",
+    "chartHeight": "700"
   }
 ]

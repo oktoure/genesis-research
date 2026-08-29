@@ -988,23 +988,8 @@
              text-anchor="middle"
              x="103.21875"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text155"><tspan
-               class="line"
-               dy="0em"
-               x="103.21875"
-               y="11"
-               id="tspan153">FLOW UP, STOCK DOWN — MIXED LABOR</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="103.21875"
-               y="11"
-               id="tspan154">SIGNAL; WATCH 240–250K (INITIAL)</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="103.21875"
-               y="11"
-               id="tspan155">AND 2.0M (CONTINUING) GUARDRAILS.</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text155">FLOW UP, STOCK DOWN</text>
         </g>
       </g>
     </g>

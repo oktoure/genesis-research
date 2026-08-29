@@ -731,72 +731,15 @@
                text-anchor="middle"
                x="68.023438"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text156" />
-          </g>
-        </g>
-      </g>
-      <g
-         class="annotation"
-         data-index="4"
-         style="opacity:1"
-         id="g162" />
-    </g>
-  </svg>
-  <g
-     class="annotation"
-     data-index="2"
-     id="g158-4"
-     transform="translate(7.124025,-107)">
-    <g
-       class="annotation-text-g"
-       id="g157-8">
-      <g
-         class="cursor-pointer"
-         transform="translate(204,144)"
-         id="g156-0">
-        <rect
-           class="bg"
-           x="0.5"
-           y="0.5"
-           width="199"
-           height="40"
-           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1px;stroke-opacity:0"
-           id="rect154-4" />
-        <text
-           class="annotation-text"
-           text-anchor="middle"
-           x="104.27014"
-           y="140.274"
-           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-           id="text156-0"><tspan
-             sodipodi:role="line"
-             x="104.27014"
-             y="140.274"
-             id="tspan6">SERVICES BUSINESS ACTIVITY</tspan><tspan
-             sodipodi:role="line"
-             x="104.27014"
-             y="152.774"
-             id="tspan7"> AT54.5 MATCHED FORECAST </tspan><tspan
-             sodipodi:role="line"
-             x="104.27014"
-             y="165.274"
-             id="tspan8">AND INCREASED FROM 54.3</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text156" />SERVICES BUSINESS ACTIVITY AT54.5 MATCHED FORECAST</text>
         <text
            class="annotation-text"
            text-anchor="middle"
            x="117.72289"
            y="218.36224"
-           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-           id="text156-0-3"><tspan
-             sodipodi:role="line"
-             x="117.72289"
-             y="218.36224"
-             id="tspan8-3">PRICES DROPPED ↓ 4.6PTS — </tspan><tspan
-             sodipodi:role="line"
-             x="117.72289"
-             y="230.86224"
-             id="tspan10">POINTS TO COOLER PCE IF SUSTAINED.</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text156-0-3">PRICES DROPPED ↓ 4.6PTS</text>
       </g>
     </g>
   </g>

@@ -927,23 +927,8 @@
                text-anchor="middle"
                x="112.29688"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text125"><tspan
-                 class="line"
-                 dy="0em"
-                 x="112.29688"
-                 y="11"
-                 id="tspan123">TREASURIES ARE PLAYING ON OIL-</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="112.29688"
-                 y="11"
-                 id="tspan124">DRIVEN INFLATIONARY, WHERE VALUE IS</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="112.29688"
-                 y="11"
-                 id="tspan125">UNDERPERFORMING THE OVERALL MARKET.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text125">TREASURIES ARE PLAYING ON OIL- DRIVEN</text>
           </g>
         </g>
       </g>
@@ -2359,18 +2344,8 @@
                text-anchor="middle"
                x="93.976562"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#0277bd;fill-opacity:1"
-               id="text322"><tspan
-                 class="line"
-                 dy="0em"
-                 x="93.976562"
-                 y="11"
-                 id="tspan321">LABOUR MARKET SUPPORT A EASIER</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="93.976562"
-                 y="11"
-                 id="tspan322">MONETARY POLICY…</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#0277bd;fill-opacity:1"
+               id="text322">LABOUR MARKET SUPPORT A EASIER MONETARY</text>
           </g>
         </g>
       </g>
@@ -2401,23 +2376,8 @@
                text-anchor="middle"
                x="102.10938"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#ffb300;fill-opacity:1"
-               id="text326"><tspan
-                 class="line"
-                 dy="0em"
-                 x="102.10938"
-                 y="11"
-                 id="tspan324">WHILE THE STRONGER THAN EXPECTED</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="102.10938"
-                 y="11"
-                 id="tspan325">US ECONOMY ARGUE FOR A POTENTIAL</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="102.10938"
-                 y="11"
-                 id="tspan326">INFLATIONARY RESURGENCE.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#ffb300;fill-opacity:1"
+               id="text326">THE STRONGER THAN EXPECTED US ECONOMY</text>
           </g>
         </g>
       </g>

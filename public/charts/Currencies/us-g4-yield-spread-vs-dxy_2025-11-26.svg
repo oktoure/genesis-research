@@ -1230,16 +1230,8 @@
            text-anchor="middle"
            x="156.17552"
            y="22.348946"
-           style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-           id="text172"><tspan
-             sodipodi:role="line"
-             id="tspan12102"
-             x="156.17552"
-             y="22.348946">US–EX-US 10Y SPREAD COMPRESSES TOWARD ~1PP—</tspan><tspan
-             sodipodi:role="line"
-             id="tspan12103"
-             x="156.17552"
-             y="32.348946">NARROWING RATE DIFFERENTIALS USUALLY WEIGH ON USD.</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text172">US</text>
       </g>
     </g>
   </g>

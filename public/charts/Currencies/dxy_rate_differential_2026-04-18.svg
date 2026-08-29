@@ -4662,26 +4662,8 @@
                text-anchor="middle"
                x="64.148438"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text842"><tspan
-                 class="line"
-                 dy="0em"
-                 x="64.148438"
-                 y="11"
-                 id="tspan840"
-                 style="fill:#455a64;fill-opacity:1">RESISTANCE HIT, EASING</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="64.148438"
-                 y="11"
-                 id="tspan841"
-                 style="fill:#455a64;fill-opacity:1">GEOPOLITICS, USD</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="64.148438"
-                 y="11"
-                 id="tspan842"
-                 style="fill:#455a64;fill-opacity:1">DECLINING.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text842">RESISTANCE HIT, EASING GEOPOLITICS, USD DECLINING</text>
           </g>
         </g>
       </g>
@@ -5932,16 +5914,8 @@
                text-anchor="middle"
                x="61.085938"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#4a5e68;fill-opacity:1"
-               id="text1002"><tspan
-                 sodipodi:role="line"
-                 id="tspan11"
-                 x="61.085938"
-                 y="11">RATES DIFFERENTIAL</tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan12"
-                 x="61.085938"
-                 y="23.5"> DO NOT FAVOR USD</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#4a5e68;fill-opacity:1"
+               id="text1002">RATES DIFFERENTIAL DO NOT FAVOR USD</text>
           </g>
         </g>
       </g>

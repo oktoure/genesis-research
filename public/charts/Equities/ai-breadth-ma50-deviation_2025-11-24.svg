@@ -1185,23 +1185,8 @@
              text-anchor="middle"
              x="70.640625"
              y="9"
-             style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text166"><tspan
-               class="line"
-               dy="0em"
-               x="70.640625"
-               y="9"
-               id="tspan164">BREADTH THINS: EQUAL-WEIGHT &lt;</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="70.640625"
-               y="9"
-               id="tspan165">SPX, DOW ≈ 0% → RALLY NEEDS</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="70.640625"
-               y="9"
-               id="tspan166">BROADER PARTICIPATION.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text166">BREADTH THINS: EQUAL-WEIGHT &lt; SPX</text>
         </g>
       </g>
     </g>

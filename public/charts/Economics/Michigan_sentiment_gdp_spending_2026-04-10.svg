@@ -1145,26 +1145,8 @@
                text-anchor="middle"
                x="106.64844"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-               id="text145"><tspan
-                 class="line"
-                 dy="0em"
-                 x="106.64844"
-                 y="11"
-                 id="tspan143"
-                 style="fill:#083a42">CONSUMER SENTIMENT IS EXPERIENCING</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="106.64844"
-                 y="11"
-                 id="tspan144"
-                 style="fill:#083a42">A NEW LOW WITH US GROWTH</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="106.64844"
-                 y="11"
-                 id="tspan145"
-                 style="fill:#083a42">CONTRACTING.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+               id="text145">CONSUMER SENTIMENT IS EXPERIENCING A NEW</text>
           </g>
         </g>
       </g>
@@ -2455,20 +2437,8 @@
                text-anchor="middle"
                x="64.789062"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-               id="text305"><tspan
-                 class="line"
-                 dy="0em"
-                 x="64.789062"
-                 y="11"
-                 id="tspan304"
-                 style="fill:#083a42">CONSUMER SPENDING IS</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="64.789062"
-                 y="11"
-                 id="tspan305"
-                 style="fill:#083a42">ROLLING OVER</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+               id="text305">CONSUMER SPENDING IS ROLLING OVER</text>
           </g>
         </g>
       </g>

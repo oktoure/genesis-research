@@ -1081,28 +1081,8 @@
                text-anchor="middle"
                x="62.421875"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text151"><tspan
-                 class="line"
-                 dy="0em"
-                 x="62.421875"
-                 y="9"
-                 id="tspan148">DALLAS HEADLINE ↓ TO</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="62.421875"
-                 y="9"
-                 id="tspan149">−10.4WHILE PRODUCTION ↑ TO</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="62.421875"
-                 y="9"
-                 id="tspan150">20.5 →OUTPUT FIRMING EVEN</tspan><tspan
-                 class="line"
-                 dy="3.9000001em"
-                 x="62.421875"
-                 y="9"
-                 id="tspan151">ASSENTIMENT SOFTENS.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text151">DALLAS HEADLINE ↓ TO −10.4WHILE PRODUCTION</text>
           </g>
         </g>
       </g>
@@ -2306,27 +2286,7 @@
                x="66.75"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text153"><tspan
-                 class="line"
-                 dy="0em"
-                 x="66.75"
-                 y="9"
-                 id="tspan287">DALLAS PRICES PAID ↑ AS ISM</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="66.75"
-                 y="9"
-                 id="tspan288">PRICES STABILIZE → GOODS</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="66.75"
-                 y="9"
-                 id="tspan152">DISINFLATION CONTINUES, PACE</tspan><tspan
-                 class="line"
-                 dy="3.9000000000000004em"
-                 x="66.75"
-                 y="9"
-                 id="tspan153">SLOWS.</tspan></text>
+               id="text153">DALLAS PRICES PAID ↑ AS ISM</text>
           </g>
         </g>
       </g>

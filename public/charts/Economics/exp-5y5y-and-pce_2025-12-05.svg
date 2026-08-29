@@ -2393,16 +2393,8 @@
            text-anchor="middle"
            x="415.08813"
            y="-67.68853"
-           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-           id="text403-4-7-1"><tspan
-             sodipodi:role="line"
-             x="415.08813"
-             y="-67.68853"
-             id="tspan413-6">PCE AND CORE PCE AT 2.8%ON A YEARLY BASIS —</tspan><tspan
-             sodipodi:role="line"
-             x="415.08813"
-             y="-55.18853"
-             id="tspan415">DISINFLATION PAUSES, NOTREVERSES.</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+           id="text403-4-7-1">PCE AND CORE PCE AT 2.8%ON</text>
       </g>
     </g>
   </g>
@@ -2427,31 +2419,15 @@
            text-anchor="middle"
            x="415.08813"
            y="15.238299"
-           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-           id="text403-4-7-1-0"><tspan
-             sodipodi:role="line"
-             x="415.08813"
-             y="15.238299"
-             id="tspan415-4">1-YEAR EXPECTATIONS DROP TO 4.1% (FROM 4.5%)</tspan><tspan
-             sodipodi:role="line"
-             x="415.08813"
-             y="27.738298"
-             id="tspan1"> — NEAR-TERM PRESSURE EASES.</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+           id="text403-4-7-1-0">1-YEAR EXPECTATIONS DROP TO 4.1% (FROM</text>
         <text
            class="annotation-text"
            text-anchor="middle"
            x="427.36316"
            y="131.51472"
-           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
-           id="text403-4-7-1-0-3"><tspan
-             sodipodi:role="line"
-             x="427.36316"
-             y="131.51472"
-             id="tspan1-0">5-YEAR SLIP TO 3.2% (FROM 3.4%) — LONG-</tspan><tspan
-             sodipodi:role="line"
-             x="427.36316"
-             y="144.01472"
-             id="tspan2">RUN STILL ANCHORED FOR CUTS.</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#083a42;fill-opacity:1"
+           id="text403-4-7-1-0-3">5-YEAR SLIP TO 3.2% (FROM 3.4%)</text>
       </g>
     </g>
   </g>
@@ -4450,23 +4426,8 @@
                text-anchor="middle"
                x="86.59375"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text400"><tspan
-                 class="line"
-                 dy="0em"
-                 x="86.59375"
-                 y="11"
-                 id="tspan107">5Y5Y NEAR 2.19% — DOWN SINCE</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="86.59375"
-                 y="11"
-                 id="tspan108">JULY ON DISINFLATION + GROWTH</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="86.59375"
-                 y="11"
-                 id="tspan109">JITTERS.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text400">5Y5Y NEAR 2.19%</text>
           </g>
         </g>
       </g>
@@ -4495,23 +4456,8 @@
                text-anchor="middle"
                x="77.851562"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text403"><tspan
-                 class="line"
-                 dy="0em"
-                 x="77.851562"
-                 y="11"
-                 id="tspan111">EASIER CONDITIONS AHEAD —</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="77.851562"
-                 y="11"
-                 id="tspan112">TAILWIND FOR GOLD, MILD</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="77.851562"
-                 y="11"
-                 id="tspan113">HEADWIND FOR USD.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text403">EASIER CONDITIONS AHEAD</text>
           </g>
         </g>
       </g>

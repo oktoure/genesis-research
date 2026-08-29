@@ -6443,22 +6443,8 @@
              text-anchor="middle"
              x="79.530273"
              y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text800"><tspan
-               class="line"
-               x="79.530273"
-               y="11"
-               id="tspan798">NFP 3-MONTH</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="79.530273"
-               y="11"
-               id="tspan799">AVERAGE NEAR FLAT — HIRING</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="79.530273"
-               y="11"
-               id="tspan800">MOMENTUM COOLING.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text800">NFP 3-MONTH AVERAGE NEAR FLAT</text>
         </g>
       </g>
     </g>
@@ -6488,23 +6474,8 @@
              text-anchor="middle"
              x="77.6640625"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text804"><tspan
-               class="line"
-               dy="0em"
-               x="77.6640625"
-               y="11"
-               id="tspan802">ONE-MONTH REBOUND TO 64K</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="77.6640625"
-               y="11"
-               id="tspan803">DOESN’T ALTER THE TREND —</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="77.6640625"
-               y="11"
-               id="tspan804">LATE-CYCLE LABOR SLOWING.</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text804">ONE-MONTH REBOUND TO 64K DOESN’T ALTER</text>
         </g>
       </g>
     </g>

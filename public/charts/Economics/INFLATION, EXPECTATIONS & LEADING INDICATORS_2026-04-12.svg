@@ -1209,18 +1209,8 @@
                text-anchor="middle"
                x="65.2578125"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text149"><tspan
-                 class="line"
-                 dy="0em"
-                 x="65.2578125"
-                 y="11"
-                 id="tspan148">CPI IS RESSURGING ON</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="65.2578125"
-                 y="11"
-                 id="tspan149">HIGHER ENERGY PRICES.</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text149">CPI IS RESSURGING ON HIGHER ENERGY</text>
           </g>
         </g>
       </g>
@@ -2412,18 +2402,8 @@
                text-anchor="middle"
                x="116"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text304"><tspan
-                 class="line"
-                 dy="0em"
-                 x="116"
-                 y="11"
-                 id="tspan303">LEADING INDICTORS &amp; INFLATION</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="116"
-                 y="11"
-                 id="tspan304">EXPECTATIONS POINTS TO HIGHER INFLATION</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text304">LEADING INDICTORS &amp; INFLATION EXPECTATIONS POINTS</text>
           </g>
         </g>
       </g>

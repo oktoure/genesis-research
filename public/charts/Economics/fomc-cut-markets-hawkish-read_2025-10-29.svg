@@ -1368,23 +1368,8 @@
                text-anchor="middle"
                x="99.148438"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text171"><tspan
-                 class="line"
-                 dy="0em"
-                 x="99.148438"
-                 y="9"
-                 id="tspan169">FED FUNDS, 10-YEAR YIELD, AND DXY: THE CUT</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="99.148438"
-                 y="9"
-                 id="tspan170">DELIVERED, BUT YIELDS AND THE DOLLAR ROSE,</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="99.148438"
-                 y="9"
-                 id="tspan171">REFLECTING A HAWKISH INTERPRETATION.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text171">FED FUNDS, 10-YEAR YIELD, AND DXY</text>
           </g>
         </g>
       </g>
@@ -2620,22 +2605,7 @@
                x="91.1328125"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text331"><tspan
-                 class="line"
-                 dy="0em"
-                 x="91.1328125"
-                 y="9"
-                 id="tspan329">OUTPUT GAP (1.68 %) VS CORE PCE (2.74 %)</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="91.1328125"
-                 y="9"
-                 id="tspan330">THE ECONOMY STILL RUNS HOT, EXPLAINING</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="91.1328125"
-                 y="9"
-                 id="tspan331">WHY MARKETS FADED THE DOVISH READ.</tspan></text>
+               id="text331">OUTPUT GAP (1.68 %) VS CORE</text>
           </g>
         </g>
       </g>

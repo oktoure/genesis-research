@@ -1332,33 +1332,8 @@
              text-anchor="middle"
              x="112.0234375"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text168"><tspan
-               class="line"
-               dy="0em"
-               x="112.0234375"
-               y="11"
-               id="tspan164">THE YIELD CURVE AND UNEMPLOYMENT</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="112.0234375"
-               y="11"
-               id="tspan165">RATE HISTORICALLY MOVE TOGETHER—THE</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="112.0234375"
-               y="11"
-               id="tspan166">FED MAKES THE CURVE STEEP WHEN</tspan><tspan
-               class="line"
-               dy="3.9000000000000004em"
-               x="112.0234375"
-               y="11"
-               id="tspan167">UNEMPLOYMENT IS HIGH TO STIMULATE</tspan><tspan
-               class="line"
-               dy="5.2em"
-               x="112.0234375"
-               y="11"
-               id="tspan168">RECOVERY</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text168">THE YIELD CURVE AND UNEMPLOYMENT RATE</text>
         </g>
       </g>
     </g>

@@ -1282,26 +1282,8 @@
                text-anchor="middle"
                x="85.359375"
                y="11"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:10px;fill:#455a64;fill-opacity:1;white-space:pre"
-               id="text160"><tspan
-                 class="line"
-                 dy="0em"
-                 x="85.359375"
-                 y="11"
-                 id="tspan158"
-                 style="fill:#455a64;fill-opacity:1">STICKY INFLATION RISKS AND</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="85.359375"
-                 y="11"
-                 id="tspan159"
-                 style="fill:#455a64;fill-opacity:1">SOLID DATA ARE PUSHING YIELDS</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="85.359375"
-                 y="11"
-                 id="tspan160"
-                 style="fill:#455a64;fill-opacity:1">AND THE DOLLAR HIGHER.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#455a64;fill-opacity:1;white-space:pre"
+               id="text160">STICKY INFLATION RISKS AND SOLID DATA</text>
           </g>
         </g>
       </g>
@@ -2104,26 +2086,8 @@
                text-anchor="middle"
                x="81.525337"
                y="3.9742389"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#5d6f78;fill-opacity:1"
-               id="text279"><tspan
-                 class="line"
-                 dy="0"
-                 x="81.525337"
-                 y="3.9742389"
-                 id="tspan277"
-                 style="fill:#5d6f78;fill-opacity:1">ECONOMIC DATA ARE</tspan><tspan
-                 class="line"
-                 dy="13"
-                 x="81.525337"
-                 y="3.9742389"
-                 id="tspan278"
-                 style="fill:#5d6f78;fill-opacity:1">SUPPORTIVE FOR A</tspan><tspan
-                 class="line"
-                 dy="26"
-                 x="81.525337"
-                 y="3.9742389"
-                 id="tspan279"
-                 style="fill:#5d6f78;fill-opacity:1">TACTICAL LONG DOLLAR.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#5d6f78;fill-opacity:1"
+               id="text279">ECONOMIC DATA ARE SUPPORTIVE FOR A</text>
             <path
                d="m 121.90861,-83.1385 7.67557,-30.56695 1.9262,0.48498 -7.68854,30.564492 z"
                fill="#8b0000"

@@ -115,24 +115,8 @@
            text-anchor="middle"
            x="148.04576"
            y="422.71426"
-           style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-           id="text5145-6"><tspan
-             sodipodi:role="line"
-             id="tspan5208-2"
-             x="148.04576"
-             y="429.92029" /><tspan
-             sodipodi:role="line"
-             id="tspan5209-7"
-             x="148.04576"
-             y="439.92029">3966.87; LONGS: 3966.87 (PARTIAL 4020) AND</tspan><tspan
-             sodipodi:role="line"
-             x="148.04576"
-             y="449.92029"
-             id="tspan5210-0"> 3984.28 (FULL 4020);HOLD CORE, NEXT PARTIAL 4050</tspan><tspan
-             sodipodi:role="line"
-             x="148.04576"
-             y="459.92029"
-             id="tspan5212" /></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+           id="text5145-6">3966.87</text>
       </g>
     </g>
   </g>

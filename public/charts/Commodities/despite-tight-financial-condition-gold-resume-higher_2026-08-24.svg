@@ -1213,18 +1213,8 @@
                text-anchor="middle"
                x="97.859375"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(69, 90, 100); fill-opacity: 1; white-space: pre;"
-               id="text152"><tspan
-                 class="line"
-                 dy="0em"
-                 x="97.859375"
-                 y="11"
-                 id="tspan151">GOLD CONTINUE TO RISE WHILE YIELD</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="97.859375"
-                 y="11"
-                 id="tspan152">STAYS ELEVATED</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(69, 90, 100); fill-opacity: 1; white-space: pre;"
+               id="text152">GOLD RISES DESPITE ELEVATED YIELDS</text>
           </g>
         </g>
       </g>
@@ -2334,40 +2324,8 @@
                text-anchor="middle"
                x="-186.90262"
                y="-92.278687"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text296"><tspan
-                 sodipodi:role="line"
-                 id="tspan2"
-                 x="-186.90262"
-                 y="-92.278687">GOLD BOND YIELD</tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-79.778687"
-                 id="tspan9">CORRELATION</tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-67.278687"
-                 id="tspan10">HAD REVERTED IN</tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-54.778687"
-                 id="tspan12">NEGATIVE</tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-42.278687"
-                 id="tspan11">TERRITORY </tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-29.778687"
-                 id="tspan13">WHICH MAY NOT LAST</tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-17.278687"
-                 id="tspan7"> </tspan><tspan
-                 sodipodi:role="line"
-                 x="-186.90262"
-                 y="-4.7786875"
-                 id="tspan8" /></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text296">GOLD-YIELD CORRELATION TURNS NEGATIVE</text>
           </g>
         </g>
       </g>

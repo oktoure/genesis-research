@@ -168,20 +168,8 @@
              text-anchor="middle"
              x="98.960938"
              y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text173"><tspan
-               sodipodi:role="line"
-               id="tspan293"
-               x="98.960938"
-               y="11">+0.8% M/M (−0.1 PRIOR; 0.4 CONS);</tspan><tspan
-               sodipodi:role="line"
-               id="tspan294"
-               x="98.960938"
-               y="23.5"> IMPROVING EXPECTATIONS →</tspan><tspan
-               sodipodi:role="line"
-               x="98.960938"
-               y="36"
-               id="tspan295"> CORE SPENDING FIRMS.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text173">+0.8% M/M (−0.1 PRIOR</text>
         </g>
       </g>
     </g>
@@ -2417,20 +2405,8 @@
            text-anchor="middle"
            x="95.828125"
            y="11"
-           style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-           id="text169"><tspan
-             sodipodi:role="line"
-             id="tspan296"
-             x="95.828125"
-             y="11">3.5% (4.2 PRIOR);</tspan><tspan
-             sodipodi:role="line"
-             id="tspan297"
-             x="95.828125"
-             y="23.5"> SOFTER CURRENT CONDITIONS →</tspan><tspan
-             sodipodi:role="line"
-             x="95.828125"
-             y="36"
-             id="tspan298"> HEADLINE COOLS.</tspan></text>
+           style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+           id="text169">3.5% (4.2 PRIOR)</text>
       </g>
     </g>
   </g>

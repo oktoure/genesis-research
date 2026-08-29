@@ -685,16 +685,8 @@
                text-anchor="middle"
                x="111.47656"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text104"><tspan
-                 sodipodi:role="line"
-                 id="tspan267"
-                 x="111.47656"
-                 y="11">THE 5-YEAR BREAKEVEN HAS MOVED</tspan><tspan
-                 sodipodi:role="line"
-                 x="111.47656"
-                 y="23.5"
-                 id="tspan268"> LOWERSINCE EARLY JUNE</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text104">THE 5-YEAR BREAKEVEN HAS MOVED LOWERSINCE</text>
           </g>
         </g>
       </g>
@@ -724,16 +716,8 @@
                text-anchor="middle"
                x="124.24219"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text109"><tspan
-                 sodipodi:role="line"
-                 id="tspan269"
-                 x="124.24219"
-                 y="11">INFLATION TERM STRUCUTURE HAS RECOVERED</tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan270"
-                 x="124.24219"
-                 y="23.5"> BUT IT MIGHT BE SHORT LIVED</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text109">INFLATION TERM STRUCUTURE HAS RECOVERED BUT</text>
           </g>
         </g>
       </g>
@@ -1884,7 +1868,7 @@
                text-anchor="middle"
                x="60.625"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
                id="text254">NEAR-TERM PRESSURE</text>
           </g>
         </g>
@@ -1915,7 +1899,7 @@
                text-anchor="middle"
                x="41.7265625"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
                id="text257">LONG-RUN RISK</text>
           </g>
         </g>

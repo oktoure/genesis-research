@@ -1266,28 +1266,8 @@
                text-anchor="middle"
                x="102.5859375"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text161"><tspan
-                 class="line"
-                 dy="0em"
-                 x="102.5859375"
-                 y="11"
-                 id="tspan158">CPI ROSE TO 4.2% YOY, CONFIRMING</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="102.5859375"
-                 y="11"
-                 id="tspan159">THE OIL/GEOPOLITICAL SHOCK LIFTED</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="102.5859375"
-                 y="11"
-                 id="tspan160">HEADLINE INFLATION, BUT THE RELEASE</tspan><tspan
-                 class="line"
-                 dy="3.9000000000000004em"
-                 x="102.5859375"
-                 y="11"
-                 id="tspan161">WAS NOT WORSE THAN EXPECTED.</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text161">CPI ROSE TO 4.2% YOY</text>
           </g>
         </g>
       </g>
@@ -2247,23 +2227,8 @@
                text-anchor="middle"
                x="113.6953125"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text306"><tspan
-                 class="line"
-                 dy="0em"
-                 x="113.6953125"
-                 y="11"
-                 id="tspan304">CORE CPI AT 0.2% MOM WAS THE KEY RELIEF</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="113.6953125"
-                 y="11"
-                 id="tspan305">SIGNAL, SHOWING LIMITED PASS-THROUGH</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="113.6953125"
-                 y="11"
-                 id="tspan306">BEYOND HEADLINE ENERGY PRESSURE.</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text306">CORE CPI AT 0.2% MOM WAS</text>
           </g>
         </g>
       </g>

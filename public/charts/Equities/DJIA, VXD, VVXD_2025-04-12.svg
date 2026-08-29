@@ -4662,18 +4662,8 @@
                text-anchor="middle"
                x="101.1015625"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text869"><tspan
-                 class="line"
-                 dy="0em"
-                 x="101.1015625"
-                 y="11"
-                 id="tspan868">CEASEFIRE CONDITIONAL, TRUST</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="101.1015625"
-                 y="11"
-                 id="tspan869">DEFICIT MAKES RALLY UNSUSTAINABLE.</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text869">CEASEFIRE CONDITIONAL, TRUST DEFICIT MAKES RALLY</text>
           </g>
         </g>
       </g>
@@ -5271,25 +5261,8 @@
                text-anchor="middle"
                x="87.960938"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text970"><tspan
-                 sodipodi:role="line"
-                 id="tspan1097"
-                 x="87.960938"
-                 y="11"><tspan
-                   class="line"
-                   x="87.960938"
-                   y="11"
-                   id="tspan969">VOL CRUSHED, BUT OIL ABOVE $80</tspan></tspan><tspan
-                 sodipodi:role="line"
-                 id="tspan1098"
-                 x="87.960938"
-                 y="11"><tspan
-                   class="line"
-                   dy="1.3em"
-                   x="87.960938"
-                   y="11"
-                   id="tspan1099">KEEPS RISK ALIVE.</tspan></tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text970">VOL CRUSHED, BUT OIL ABOVE $80</text>
           </g>
         </g>
       </g>
@@ -6095,18 +6068,8 @@
                text-anchor="middle"
                x="104.70312"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text1089"><tspan
-                 class="line"
-                 dy="0em"
-                 x="104.70312"
-                 y="11"
-                 id="tspan1088">VOL OF VOL IS DECOMPRESSING, WHERE</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="104.70312"
-                 y="11"
-                 id="tspan1089">HORMUZ REOPENING HOLDS THE KEY.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text1089">VOL OF VOL IS DECOMPRESSING</text>
           </g>
         </g>
       </g>

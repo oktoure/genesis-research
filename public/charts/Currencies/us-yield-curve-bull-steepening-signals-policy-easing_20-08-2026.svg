@@ -792,23 +792,8 @@
                text-anchor="middle"
                x="77.9375"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text117"><tspan
-                 class="line"
-                 dy="0em"
-                 x="77.9375"
-                 y="11"
-                 id="tspan115">INTEREST RATE DIFFERENTIAL</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="77.9375"
-                 y="11"
-                 id="tspan116">IS REFLECTING A HEADWIND</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="77.9375"
-                 y="11"
-                 id="tspan117">FOR THE DOLLAR.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text117">RATE DIFFERENTIALS PRESSURE THE DOLLAR</text>
           </g>
         </g>
       </g>
@@ -1605,23 +1590,8 @@
                text-anchor="middle"
                x="105.80469"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text241"><tspan
-                 class="line"
-                 dy="0em"
-                 x="105.80469"
-                 y="11"
-                 id="tspan239">DETERIORATING GROWTH REDUCES HIKE</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="105.80469"
-                 y="11"
-                 id="tspan240">EXPECTATIONS, DRIVING A BULL</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="105.80469"
-                 y="11"
-                 id="tspan241">STEEPENING.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text241">WEAKER GROWTH DRIVES BULL STEEPENING</text>
           </g>
         </g>
       </g>

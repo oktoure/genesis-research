@@ -1017,23 +1017,8 @@
              text-anchor="middle"
              x="64.703125"
              y="11"
-             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-             id="text141"><tspan
-               class="line"
-               dy="0em"
-               x="64.703125"
-               y="11"
-               id="tspan139">A SUSTAINED RISE IN OIL</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="64.703125"
-               y="11"
-               id="tspan140">PRICES CAN TRIGGER AN</tspan><tspan
-               class="line"
-               dy="2.6em"
-               x="64.703125"
-               y="11"
-               id="tspan141">INFLATION SHOCK…</tspan></text>
+             style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+             id="text141">A SUSTAINED RISE IN OIL PRICES</text>
         </g>
       </g>
     </g>
@@ -1063,23 +1048,8 @@
              text-anchor="middle"
              x="63.679688"
              y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text145"><tspan
-               class="line"
-               dy="0em"
-               x="63.679688"
-               y="11"
-               id="tspan143">WHILE SIMULTANEOUSLY</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="63.679688"
-               y="11"
-               id="tspan144">WEAKENING GROWTH</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="63.679688"
-               y="11"
-               id="tspan145">EXPECTATIONS</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text145">SIMULTANEOUSLY WEAKENING GROWTH EXPECTATIONS</text>
         </g>
       </g>
     </g>

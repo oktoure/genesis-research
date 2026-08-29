@@ -1293,28 +1293,8 @@
              text-anchor="middle"
              x="61.9375"
              y="9"
-             style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text163"><tspan
-               class="line"
-               dy="0em"
-               x="61.9375"
-               y="9"
-               id="tspan160">LONG-RATE EASING LEADS</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="61.9375"
-               y="9"
-               id="tspan161">SERVICES UP — THE 10-YEAR</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="61.9375"
-               y="9"
-               id="tspan162">YIELD (INV., ADV. 18 M) STILL</tspan><tspan
-               class="line"
-               dy="3.9000001em"
-               x="61.9375"
-               y="9"
-               id="tspan163">DRIVES ACTIVITY MOMENTUM.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text163">LONG-RATE EASING LEADS SERVICES UP</text>
         </g>
       </g>
     </g>

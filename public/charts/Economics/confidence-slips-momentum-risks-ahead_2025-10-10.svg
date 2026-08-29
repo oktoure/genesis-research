@@ -1169,18 +1169,8 @@
                text-anchor="middle"
                x="75.5"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text151"><tspan
-                 class="line"
-                 dy="0em"
-                 x="75.5"
-                 y="9"
-                 id="tspan150">LOWER SENTIMENT LEVELS TEND TO</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="75.5"
-                 y="9"
-                 id="tspan151">PRECEDE COOLER GDP GROWTH</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text151">LOWER SENTIMENT LEVELS TEND TO PRECEDE</text>
           </g>
         </g>
       </g>
@@ -1209,28 +1199,8 @@
                text-anchor="middle"
                x="58.679688"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text156"><tspan
-                 class="line"
-                 dy="0em"
-                 x="58.679688"
-                 y="9"
-                 id="tspan153">RESILIENT OUTPUT FOR</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="58.679688"
-                 y="9"
-                 id="tspan154">NOW, BUT WEAKER</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="58.679688"
-                 y="9"
-                 id="tspan155">CONFIDENCE SIGNALS LOSS</tspan><tspan
-                 class="line"
-                 dy="3.9000001em"
-                 x="58.679688"
-                 y="9"
-                 id="tspan156">OF MOMENTUM AHEAD</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text156">RESILIENT OUTPUT FOR NOW</text>
           </g>
         </g>
       </g>
@@ -2429,22 +2399,7 @@
                x="75.6328125"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text310"><tspan
-                 class="line"
-                 dy="0em"
-                 x="75.6328125"
-                 y="9"
-                 id="tspan308">FALLING EXPECTATIONS SUGGEST</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="75.6328125"
-                 y="9"
-                 id="tspan309">SPENDING MOMENTUM WILL SOFTEN</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="75.6328125"
-                 y="9"
-                 id="tspan310">IN COMING MONTHS</tspan></text>
+               id="text310">FALLING EXPECTATIONS SUGGEST SPENDING MOMENTUM WILL</text>
           </g>
         </g>
       </g>
@@ -2475,17 +2430,7 @@
                x="73.34375"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text313"><tspan
-                 class="line"
-                 dy="0em"
-                 x="73.34375"
-                 y="9"
-                 id="tspan312">DIMMING JOB OPTIMISM ARE</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="73.34375"
-                 y="9"
-                 id="tspan313">PRESSURING HOUSEHOLD DEMAND</tspan></text>
+               id="text313">DIMMING JOB OPTIMISM ARE PRESSURING HOUSEHOLD</text>
           </g>
         </g>
       </g>

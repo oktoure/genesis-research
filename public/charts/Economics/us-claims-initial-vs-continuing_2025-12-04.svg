@@ -986,33 +986,8 @@
              text-anchor="middle"
              x="101.28906"
              y="11"
-             style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-             id="text157"><tspan
-               class="line"
-               dy="0em"
-               x="101.28906"
-               y="11"
-               id="tspan153">INITIAL CLAIMS DROPPED TO 191K, AND</tspan><tspan
-               class="line"
-               dy="1.3em"
-               x="101.28906"
-               y="11"
-               id="tspan154">CONTINUING CLAIMS SLIPPED TO</tspan><tspan
-               class="line"
-               dy="2.5999999em"
-               x="101.28906"
-               y="11"
-               id="tspan155">1.939M—FLOW AND STOCK EASED THIS</tspan><tspan
-               class="line"
-               dy="3.9000001em"
-               x="101.28906"
-               y="11"
-               id="tspan156">WEEK, POINTING TO LABOR RESILIENCE</tspan><tspan
-               class="line"
-               dy="5.1999998em"
-               x="101.28906"
-               y="11"
-               id="tspan157">AHEAD OF NFP DESPITE ADP’S −32K.</tspan></text>
+             style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+             id="text157">INITIAL CLAIMS DROPPED TO 191K</text>
         </g>
       </g>
     </g>

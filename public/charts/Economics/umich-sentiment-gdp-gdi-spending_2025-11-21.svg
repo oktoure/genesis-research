@@ -1126,17 +1126,7 @@
                x="91.71875"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(69, 90, 100); fill-opacity: 1; white-space: pre;"
-               id="text156"><tspan
-                 class="line"
-                 dy="0em"
-                 x="91.71875"
-                 y="9"
-                 id="tspan155">SENTIMENT INCHES OFF LOWS WHILE GDP</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="91.71875"
-                 y="9"
-                 id="tspan156">STAYS FIRM — GROWTH LIKELY COOLS NEXT.</tspan></text>
+               id="text156">GROWTH HOLDS</text>
           </g>
         </g>
       </g>
@@ -1167,22 +1157,7 @@
                x="70.1640625"
                y="9"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(2, 119, 189); fill-opacity: 1; white-space: pre;"
-               id="text160"><tspan
-                 class="line"
-                 dy="0em"
-                 x="70.1640625"
-                 y="9"
-                 id="tspan158">LEAD-LAG HOLDS: CONFIDENCE</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="70.1640625"
-                 y="9"
-                 id="tspan159">TURNS FIRST; GDP FOLLOWS ON A</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="70.1640625"
-                 y="9"
-                 id="tspan160">GLIDE PATH.</tspan></text>
+               id="text160">LEAD-LAG HOLDS: CONFIDENCE TURNS FIRST</text>
           </g>
         </g>
       </g>
@@ -2334,20 +2309,8 @@
                text-anchor="middle"
                x="93.3515625"
                y="9"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:8px;fill:#083a42;fill-opacity:1;white-space:pre"
-               id="text158"><tspan
-                 class="line"
-                 dy="0em"
-                 x="93.3515625"
-                 y="9"
-                 id="tspan157"
-                 style="fill:#083a42">CURRENT CONDITIONS EBB EVEN AS GDI WAS</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="93.3515625"
-                 y="9"
-                 id="tspan315"
-                 style="fill:#083a42">STRONG — ROLLOVER RISK RISING.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#083a42;fill-opacity:1;white-space:pre"
+               id="text158">CURRENT CONDITIONS EBB EVEN AS GDI</text>
           </g>
         </g>
       </g>
@@ -2379,26 +2342,8 @@
                text-anchor="middle"
                x="58.8203125"
                y="9"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:8px;fill:#073984;fill-opacity:1;white-space:pre"
-               id="text162"><tspan
-                 class="line"
-                 dy="0em"
-                 x="58.8203125"
-                 y="9"
-                 id="tspan317"
-                 style="fill:#073984">HIRING FLOW SOFTENS;</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="58.8203125"
-                 y="9"
-                 id="tspan161"
-                 style="fill:#073984">LONGER JOB-FINDING TIMES</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="58.8203125"
-                 y="9"
-                 id="tspan162"
-                 style="fill:#073984">SLOW INCOME.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#073984;fill-opacity:1;white-space:pre"
+               id="text162">HIRING FLOW SOFTENS</text>
           </g>
         </g>
       </g>
@@ -2430,32 +2375,8 @@
                text-anchor="middle"
                x="62.9765625"
                y="9"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:8px;fill:#073984;fill-opacity:1;white-space:pre"
-               id="text167"><tspan
-                 class="line"
-                 dy="0em"
-                 x="62.9765625"
-                 y="9"
-                 id="tspan164"
-                 style="fill:#073984">BASE CASE: GDI</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="62.9765625"
-                 y="9"
-                 id="tspan165"
-                 style="fill:#073984">DECELERATES INTO Q4–Q1</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="62.9765625"
-                 y="9"
-                 id="tspan166"
-                 style="fill:#073984">BARRING A WAGES/HOURS RE-</tspan><tspan
-                 class="line"
-                 dy="3.9000000000000004em"
-                 x="62.9765625"
-                 y="9"
-                 id="tspan167"
-                 style="fill:#073984">LIFT.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#073984;fill-opacity:1;white-space:pre"
+               id="text167">BASE CASE: GDI DECELERATES INTO Q4</text>
           </g>
         </g>
       </g>
@@ -3711,26 +3632,8 @@
                text-anchor="middle"
                x="72.4609375"
                y="9"
-               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size:8px;fill:#083a42;fill-opacity:1;white-space:pre"
-               id="text157"><tspan
-                 class="line"
-                 dy="0em"
-                 x="72.4609375"
-                 y="9"
-                 id="tspan474"
-                 style="fill:#083a42">EXPECTATIONS TICK UP BUT</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="72.4609375"
-                 y="9"
-                 id="tspan475"
-                 style="fill:#083a42">REMAIN SUBDUED — HOUSEHOLDS</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="72.4609375"
-                 y="9"
-                 id="tspan476"
-                 style="fill:#083a42">STILL CAUTIOUS.</tspan></text>
+               style="font-family:'Segoe UI Semibold', 'Segoe UI', Arial;font-size: 8px;fill:#083a42;fill-opacity:1;white-space:pre"
+               id="text157">EXPECTATIONS TICK UP BUT REMAIN SUBDUED</text>
           </g>
         </g>
       </g>
@@ -3762,32 +3665,8 @@
                text-anchor="middle"
                x="50.382812"
                y="9"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#094bac;fill-opacity:1"
-               id="text481"><tspan
-                 class="line"
-                 dy="0em"
-                 x="50.382812"
-                 y="9"
-                 id="tspan478"
-                 style="fill:#094bac">SPENDING COOLS WITH</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="50.382812"
-                 y="9"
-                 id="tspan479"
-                 style="fill:#094bac">A LAG; SERVICES</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="50.382812"
-                 y="9"
-                 id="tspan480"
-                 style="fill:#094bac">RESILIENCE SLOWS THE</tspan><tspan
-                 class="line"
-                 dy="3.9000001em"
-                 x="50.382812"
-                 y="9"
-                 id="tspan481"
-                 style="fill:#094bac">DESCENT.</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#094bac;fill-opacity:1"
+               id="text481">SPENDING COOLS WITH A LAG</text>
           </g>
         </g>
       </g>

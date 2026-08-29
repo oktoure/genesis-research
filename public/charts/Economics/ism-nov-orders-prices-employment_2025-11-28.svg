@@ -1115,23 +1115,8 @@
                text-anchor="middle"
                x="100.05469"
                y="11"
-               style="font-size:10px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
-               id="text156"><tspan
-                 class="line"
-                 dy="0em"
-                 x="100.05469"
-                 y="11"
-                 id="tspan154">NINE MONTHS OF CONTRACTION—NEW</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="100.05469"
-                 y="11"
-                 id="tspan155">ORDERS AT 47.4 SIGNAL DEMAND</tspan><tspan
-                 class="line"
-                 dy="2.5999999em"
-                 x="100.05469"
-                 y="11"
-                 id="tspan156">ISN'T COMING BACK SOON...</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#7c2d12;fill-opacity:1"
+               id="text156">NINE MONTHS OF CONTRACTION</text>
           </g>
         </g>
       </g>
@@ -2346,23 +2331,8 @@
                text-anchor="middle"
                x="112.5625"
                y="11"
-               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 10px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
-               id="text152"><tspan
-                 class="line"
-                 dy="0em"
-                 x="112.5625"
-                 y="11"
-                 id="tspan150">...COSTS STAY HOT, JOBS DISAPPEAR:</tspan><tspan
-                 class="line"
-                 dy="1.3em"
-                 x="112.5625"
-                 y="11"
-                 id="tspan151">MANUFACTURING CAUGHT BETWEEN TARIFF</tspan><tspan
-                 class="line"
-                 dy="2.6em"
-                 x="112.5625"
-                 y="11"
-                 id="tspan152">INFLATION AND DEMAND DESTRUCTION.</tspan></text>
+               style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(124, 45, 18); fill-opacity: 1; white-space: pre;"
+               id="text152">COSTS STAY HOT</text>
           </g>
         </g>
       </g>
