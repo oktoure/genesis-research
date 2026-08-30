@@ -19,6 +19,13 @@ type Insight = {
   fullContent?: string;
   chartPath?: string;
   chartHeight?: string;
+  relatedIds?: number[];
+  actionView?: {
+    horizon: string;
+    stance: string;
+    catalyst: string;
+    invalidation: string;
+  };
 };
 
 export const dynamic = 'force-static';
@@ -141,6 +148,9 @@ export default async function InsightPage({
   if (!post) return notFound();
 
   const chartSrc = normalizeSrc(post.chartPath);
+  const relatedPosts = (post.relatedIds || [])
+    .map(relatedId => (insights as Insight[]).find(candidate => candidate.id === relatedId))
+    .filter((candidate): candidate is Insight => Boolean(candidate));
 
   return (
     <div className="min-h-screen w-full bg-white">
@@ -148,6 +158,9 @@ export default async function InsightPage({
         <div className="w-full max-w-3xl mx-auto px-6 py-6">
           {/* Single Back button, always visible on dark header */}
           <BackLink fallback="/" variant="solidOnDark" />
+          <a href="/about" className="float-right text-xs font-semibold text-slate-300 hover:text-white">
+            About
+          </a>
 
           <h1 className="text-2xl font-bold text-white tracking-tight mt-3">{post.title}</h1>
           <div className="flex items-center gap-3 mt-2">
@@ -190,6 +203,52 @@ export default async function InsightPage({
             {renderInline((post.fullContent || post.summary || '').trim())}
           </p>
         </article>
+
+        {post.actionView && (
+          <section className="mt-8 rounded-xl border border-slate-200 bg-slate-50 p-5">
+            <div className="flex flex-col gap-2 border-b border-slate-200 pb-4 sm:flex-row sm:items-start sm:justify-between">
+              <div>
+                <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-emerald-700">Actionable View</p>
+                <p className="mt-2 text-base font-bold leading-snug text-slate-900">{post.actionView.stance}</p>
+              </div>
+              <span className="w-fit rounded-full border border-slate-200 bg-white px-3 py-1 text-[10px] font-bold uppercase tracking-wide text-slate-500">
+                {post.actionView.horizon}
+              </span>
+            </div>
+            <dl className="mt-4 grid gap-4 sm:grid-cols-2">
+              <div>
+                <dt className="text-[10px] font-bold uppercase tracking-[0.16em] text-slate-500">Catalyst</dt>
+                <dd className="mt-1 text-sm leading-relaxed text-slate-700">{post.actionView.catalyst}</dd>
+              </div>
+              <div>
+                <dt className="text-[10px] font-bold uppercase tracking-[0.16em] text-slate-500">Invalidation</dt>
+                <dd className="mt-1 text-sm leading-relaxed text-slate-700">{post.actionView.invalidation}</dd>
+              </div>
+            </dl>
+          </section>
+        )}
+
+        {relatedPosts.length > 0 && (
+          <section className="mt-8 border-t border-slate-200 pt-6">
+            <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-slate-500">Related Research</p>
+            <div className="mt-3 grid gap-3 sm:grid-cols-2">
+              {relatedPosts.map(related => (
+                <a
+                  key={related.id}
+                  href={`/i/${related.id}`}
+                  className="rounded-lg border border-slate-200 p-4 transition hover:border-slate-400 hover:bg-slate-50"
+                >
+                  <div className="flex items-center gap-2 text-[9px] font-bold uppercase tracking-wide text-slate-500">
+                    <span>{related.category}</span>
+                    <span aria-hidden="true">·</span>
+                    <time>{formatInsightTime(related)}</time>
+                  </div>
+                  <p className="mt-2 text-sm font-bold leading-snug text-slate-900">{related.title}</p>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
       </main>
 
       <footer className="w-full border-t border-slate-100 mt-12">

@@ -14,9 +14,20 @@ function publicationTime(insight) {
 
 for (const source of insights) {
   const content = [source.summary, source.fullContent].filter(Boolean).join(" ");
-  const targetIds = new Set(
+  const inlineTargetIds = new Set(
     [...content.matchAll(/\]\(\/i\/([^)]+)\)/g)].map((match) => match[1]),
   );
+  const relatedIds = Array.isArray(source.relatedIds) ? source.relatedIds.map(String) : [];
+  const targetIds = new Set([...inlineTargetIds, ...relatedIds]);
+
+  if (publicationTime(source) >= new Date("2026-07-01T00:00:00-04:00")) {
+    if (relatedIds.length < 2 || relatedIds.length > 4) {
+      failures.push(`Post ${source.id} must expose 2-4 related research links; found ${relatedIds.length}.`);
+    }
+    if (new Set(relatedIds).size !== relatedIds.length) {
+      failures.push(`Post ${source.id} contains duplicate related research links.`);
+    }
+  }
 
   for (const targetId of targetIds) {
     const target = byId.get(targetId);
@@ -40,4 +51,4 @@ if (failures.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${insights.length} insights: all internal links are chronological.`);
+console.log(`Validated ${insights.length} insights: links are chronological and July-August posts expose 2-4 related views.`);

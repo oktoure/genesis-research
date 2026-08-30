@@ -20,6 +20,13 @@ interface Insight {
   fullContent?: string;
   chartPath?: string;
   chartHeight?: string;
+  relatedIds?: number[];
+  actionView?: {
+    horizon: string;
+    stance: string;
+    catalyst: string;
+    invalidation: string;
+  };
 }
 
 export default function Page() {
@@ -191,27 +198,29 @@ function ClientHome() {
       {/* HEADER */}
       {/* ------------------------------------------- */}
       <header className="bg-slate-900 border-b border-slate-800">
-        <div className="max-w-7xl mx-auto px-6 py-7 flex items-center justify-between gap-8">
+        <div className="max-w-7xl mx-auto px-6 py-7 flex items-start justify-between gap-4 sm:items-center sm:gap-8">
           <div>
-            <h1 className="text-2xl font-bold text-white tracking-tight">
+            <a href="/" className="text-2xl font-bold text-white tracking-tight hover:text-slate-200">
               Genesis Research
-            </h1>
+            </a>
             <p className="text-slate-300 mt-1 text-sm">
               Global macro research translated into cross-asset positioning
             </p>
-            <p className="text-slate-500 mt-2 text-xs">
-              Facts → reaction function → market transmission → trade → execution
-            </p>
           </div>
 
-          <div className="text-right">
-            <div className="text-slate-400 text-xs">Last Updated</div>
-            <div className="text-white text-sm font-bold">
-              {new Date().toLocaleDateString('en-US', {
-                month: 'short',
-                day: 'numeric',
-                year: 'numeric'
-              })}
+          <div className="flex items-center gap-6">
+            <a href="/about" className="text-sm font-semibold text-slate-300 hover:text-white">
+              About
+            </a>
+            <div className="hidden text-right sm:block">
+              <div className="text-slate-400 text-xs">Last Updated</div>
+              <div className="text-white text-sm font-bold">
+                {new Date().toLocaleDateString('en-US', {
+                  month: 'short',
+                  day: 'numeric',
+                  year: 'numeric'
+                })}
+              </div>
             </div>
           </div>
         </div>
@@ -273,9 +282,6 @@ function ClientHome() {
                 <h3 className="mt-1 text-xl font-bold tracking-tight text-slate-900">
                   One view, carried from evidence to execution
                 </h3>
-                <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-600">
-                  The latest post in each lane updates automatically, preserving the chain between the macro regime, the portfolio expression, and the live trade record.
-                </p>
               </div>
               <div className="flex shrink-0 flex-wrap gap-2 text-[10px] font-bold uppercase tracking-wide text-slate-500">
                 <span className="rounded-full border border-slate-200 bg-white px-2.5 py-1">Daily Insight</span>
@@ -398,6 +404,19 @@ function ClientHome() {
                     <div className="text-slate-700 leading-relaxed text-[15px] mb-4">
                       {renderInline(textToShow?.trim())}
                     </div>
+
+                    {insight.actionView && (
+                      <div className="mb-4 border-l-2 border-emerald-500 pl-3">
+                        <div className="flex items-center gap-2 text-[9px] font-bold uppercase tracking-[0.14em] text-slate-500">
+                          <span>Positioning</span>
+                          <span aria-hidden="true">·</span>
+                          <span>{insight.actionView.horizon}</span>
+                        </div>
+                        <p className="mt-1 text-xs font-semibold leading-relaxed text-slate-800">
+                          {insight.actionView.stance}
+                        </p>
+                      </div>
+                    )}
 
                     <button
                       onClick={() => toggleExpand(insight.id)}

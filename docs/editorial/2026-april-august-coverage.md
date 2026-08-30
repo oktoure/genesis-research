@@ -1,6 +1,6 @@
 # Genesis editorial coverage: April-August 2026
 
-Updated: 23 August 2026
+Updated: 29 August 2026
 
 ## Purpose
 
@@ -53,15 +53,15 @@ The August 19 Treasury notice did not state an intraday publication time. The Tr
 
 ## Current website inventory
 
-The local website data contains 122 insights. Coverage in the target window is uneven:
+The local website data contains 130 insights. Coverage in the target window is uneven:
 
 | Month | Existing posts | What exists | Priority gaps |
 |---|---:|---|---|
 | April | 7 | economics, equities, DXY / currencies | release-specific NFP; CPI release read; March minutes; Apr FOMC decision; all precision trading expressions |
 | May | 0 | none | complete month: NFP, CPI, Apr minutes, normal asset reads, and defensible trading expressions |
-| June | 15 | three Story Line labor posts, CPI/inflation work, monetary-policy context, Gold | Jun FOMC decision pair; explicit DXY and US 10Y asset reads; precision trading expressions |
-| July | 0 | none | complete month: NFP, Jun minutes, CPI, Jul FOMC decision, Gold/DXY/US 10Y reads, and defensible trading expressions |
-| August | 7 | labor context, DXY, yield curve, fixed income | release-specific NFP and CPI; Jul minutes; Treasury intervention; Gold normal chart; all precision trading expressions |
+| June | 13 | labor, CPI/inflation, growth, monetary-policy context, Gold and equities | Jun FOMC decision pair; explicit DXY and US 10Y asset reads; precision trading expressions |
+| July | 4 | labor softening, CPI/disinflation, long-Gold idea, and initial execution | Jun minutes; explicit Jul FOMC decision; supporting DXY and curve facts before the trade |
+| August | 13 | labor, inflation/PCE, dollar, yield curve, term premium, equities, Gold thesis, target reached, and Warsh policy update | release-specific CPI/NFP audit; Jul minutes; Treasury intervention; any missing no-trade decisions |
 
 An SVG existing in `public/charts` does not count as published coverage unless it is referenced by `app/data/insights.json`.
 
@@ -69,9 +69,9 @@ An SVG existing in `public/charts` does not count as published coverage unless i
 
 ### P0 — restore the macro spine
 
-- May: NFP, CPI, April FOMC minutes.
-- July: NFP, June FOMC minutes, CPI, July FOMC decision.
-- August: July NFP release read, July CPI release read, July FOMC minutes, August 19 Treasury intervention.
+- May: NFP, CPI, April FOMC minutes. This is the largest completely empty month.
+- July: add the June FOMC minutes and explicit July FOMC decision around the existing labor, CPI, Gold idea, and execution chain.
+- August: audit the release-specific NFP and CPI coverage, then add July FOMC minutes and the August 19 Treasury intervention where they change the view.
 - June: add the missing hawkish FOMC decision read and retain the paired negative/positive asset transmission already restored in the Trading Platform calendar.
 - April: add a release-specific NFP read and explicit April FOMC decision read; decide whether the existing inflation-pipeline post is sufficient as the CPI anchor or needs a dedicated release article.
 

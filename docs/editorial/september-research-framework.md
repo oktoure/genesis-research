@@ -99,6 +99,8 @@ One bold sentence containing the investable conclusion.
 3. **Transmission:** rates, curve, dollar, equities, commodities, and volatility.
 4. **Action:** stance, horizon, catalyst, and invalidation.
 
+Each post should expose two to four related research links. Links must point backward in publication time and should connect the current fact to the most relevant prior regime evidence, trade idea, or execution update.
+
 Avoid unsupported certainty. Distinguish observed facts, interpretation, and forecast.
 
 ## September operating rhythm
@@ -131,11 +133,13 @@ The homepage should expose three live lanes:
 
 The chronological feed remains the evidence archive. New posts update the live lanes automatically without rewriting older history.
 
+The About page explains the platform's purpose, intended audience, founder, and investment process. It should remain professional and concise rather than duplicating a full résumé.
+
 ## Next engineering priorities
 
-1. Add structured post fields for horizon, stance, conviction, catalyst, and invalidation.
+1. Add conviction and position-size state to the existing horizon, stance, catalyst, and invalidation fields.
 2. Add a weekly recommendation matrix and changes-versus-prior view.
 3. Add chart templates for the six chart families.
 4. Add automatic series-to-callout collision measurement during SVG export.
-5. Add a publishing checklist that blocks missing sources, mismatched dates, or non-chronological links.
+5. Expand the publishing checklist beyond chronological links to block missing sources and mismatched chart dates.
 6. Add a scenario and trade-state model shared by the dashboard, Telegram interface, and website.
