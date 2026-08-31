@@ -39,7 +39,7 @@
      inkscape:window-x="244"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg303" />
+     inkscape:current-layer="g302" />
   <rect
      x="0"
      y="0"
@@ -1207,13 +1207,22 @@
                width="97"
                height="27"
                style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
-               id="rect151"  rx="2.5" ry="2.5"/><text
+               id="rect151"
+               rx="2.5"
+               ry="2.5" />
+            <text
                class="annotation-text"
                text-anchor="middle"
                x="97.859375"
                y="11"
                style="font-family: 'Segoe UI Semibold', 'Segoe UI', Arial; font-size: 8px; fill: rgb(69, 90, 100); fill-opacity: 1; white-space: pre;"
-               id="text152"><tspan x="97.859375" y="8.5">GOLD RISES DESPITE</tspan><tspan x="97.859375" dy="10">ELEVATED YIELDS</tspan></text>
+               id="text152"><tspan
+                 x="97.859375"
+                 y="8.5"
+                 id="tspan1">GOLD RISES DESPITE</tspan><tspan
+                 x="97.859375"
+                 dy="10"
+                 id="tspan2">ELEVATED YIELDS</tspan></text>
           </g>
         </g>
       </g>
@@ -2302,7 +2311,7 @@
          data-index="1"
          style="opacity:1"
          id="g298"
-         transform="translate(0,16.861827)">
+         transform="translate(236.06558,32.318502)">
         <g
            class="annotation-text-g"
            id="g297">
@@ -2312,18 +2321,27 @@
              id="g296">
             <rect
                class="bg"
-               x="-244.9"
+               x="-244.89999"
                y="-2.5"
                width="116"
                height="27"
                style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
-               id="rect292"  rx="2.5" ry="2.5"/><text
+               id="rect292"
+               rx="2.5"
+               ry="2.5" />
+            <text
                class="annotation-text"
                text-anchor="middle"
                x="-186.90262"
                y="-92.278687"
-               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text296"><tspan x="-186.90262" y="8.5">GOLD-YIELD CORRELATION</tspan><tspan x="-186.90262" dy="10">TURNS NEGATIVE</tspan></text>
+               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text296"><tspan
+                 x="-186.90262"
+                 y="8.5"
+                 id="tspan3">GOLD-YIELD CORRELATION</tspan><tspan
+                 x="-186.90262"
+                 dy="10"
+                 id="tspan4">TURNS NEGATIVE</tspan></text>
           </g>
         </g>
       </g>
