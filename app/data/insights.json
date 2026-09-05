@@ -1550,5 +1550,105 @@
       "catalyst": "The next CPI, payroll, and ISM releases altering the expected short-rate path.",
       "invalidation": "Broad downside inflation surprises that reopen a sustained front-end rally and weaken the dollar."
     }
+  },
+  {
+    "id": 126,
+    "date": "01-09-2026",
+    "publishedAt": "2026-09-01T10:00-04:00",
+    "category": "Story Line",
+    "categoryColor": "bg-slate-800",
+    "storyType": "Inflation",
+    "title": "Oil Shock Keeps Manufacturing Prices Hot",
+    "summary": "**Manufacturing remained expansionary while elevated input prices and $90 oil preserved the inflation risk behind a higher-for-longer Fed.**",
+    "fullContent": "**Manufacturing remained expansionary while elevated input prices and $90 oil preserved the inflation risk behind a higher-for-longer Fed.** The August manufacturing PMI held at 54.6, with new orders at 53.7, production at 58.3, employment at 51.2, and prices at 71.1. Renewed Iran escalation lifted oil and reinforced the cost channel already visible in [sticky PCE](/i/125). This is not a clean stagflation signal: activity is still expanding. It is a restrictive mix in which the Fed has less room to ease, extending the policy risk established by [Warsh's inflation focus](/i/123) and limiting the safe-haven benefit of geopolitics for [strategic long gold](/i/120).",
+    "chartPath": "/charts/Story Line/oil-shock-keeps-manufacturing-prices-hot_2026-09-01.svg",
+    "chartHeight": "700",
+    "relatedIds": [123, 125, 120, 121],
+    "actionView": {
+      "horizon": "1-4 weeks",
+      "stance": "Keep gold and duration exposure tactical while oil and manufacturing prices sustain inflation risk.",
+      "catalyst": "Oil remaining above $90 or another firm price survey extending higher-for-longer rate expectations.",
+      "invalidation": "A reversal in oil and broad disinflation that pulls expected short rates and the dollar lower."
+    }
+  },
+  {
+    "id": 127,
+    "date": "03-09-2026",
+    "publishedAt": "2026-09-03T10:00-04:00",
+    "category": "Story Line",
+    "categoryColor": "bg-slate-800",
+    "storyType": "Inflation",
+    "title": "Services Strength Extends the Hawkish Mix",
+    "summary": "**Stronger services demand and a 72.6 prices index broadened the inflation signal beyond oil and manufacturing.**",
+    "fullContent": "**Stronger services demand and a 72.6 prices index broadened the inflation signal beyond oil and manufacturing.** The services PMI rose to 55.4, while business activity reached 61.7 and new orders 60.9. Employment remained soft at 47.8, but that weakness was not enough to offset accelerating demand and the strongest services-prices reading since October 2022. Combined with the [manufacturing and oil shock](/i/126), the release confirms that price pressure is not confined to energy. The next payroll report therefore becomes the deciding link between [hawkish policy risk](/i/123) and market pricing: resilient labor would give the Fed room to respond to inflation; renewed labor weakness would reopen the easing path.",
+    "chartPath": "/charts/Story Line/services-strength-extends-the-hawkish-mix_2026-09-03.svg",
+    "chartHeight": "700",
+    "relatedIds": [126, 123, 125, 122],
+    "actionView": {
+      "horizon": "Days to 3 weeks",
+      "stance": "Maintain a hawkish data bias into payrolls, with limited appetite for duration-sensitive risk.",
+      "catalyst": "Payroll strength confirming that the Fed can prioritize the renewed services inflation signal.",
+      "invalidation": "A material labor deterioration that overwhelms the survey-strength and price data."
+    }
+  },
+  {
+    "id": 128,
+    "date": "04-09-2026",
+    "publishedAt": "2026-09-04T08:30-04:00",
+    "category": "Story Line",
+    "categoryColor": "bg-slate-800",
+    "storyType": "Labor Market",
+    "title": "Payroll Rebound Reopens Hike Risk",
+    "summary": "**A 162k payroll gain and positive revisions removed the labor weakness that had protected markets from persistent inflation.**",
+    "fullContent": "**A 162k payroll gain and positive revisions removed the labor weakness that had protected markets from persistent inflation.** Unemployment held at 4.1%, wages increased 0.3% month over month and 3.1% year over year, and June-July payrolls were revised up by a combined 55k. The result reverses the policy implication of [July's labor break](/i/115): labor is no longer weak enough to force the Fed to look through the [oil and manufacturing price shock](/i/126) or [strong services prices](/i/127). Strong labor is good economic news, but in this inflation regime it is bad news for rate-sensitive assets because it raises the probability of a hike and keeps the dollar and front-end yields supported.",
+    "chartPath": "/charts/Story Line/payroll-rebound-reopens-hike-risk_2026-09-04.svg",
+    "chartHeight": "620",
+    "relatedIds": [127, 126, 123, 115],
+    "actionView": {
+      "horizon": "1-3 weeks",
+      "stance": "Trade the renewed hawkish impulse through caution on equities and patience on fresh gold longs.",
+      "catalyst": "Further front-end yield increases or Fed communication validating the rise in hike probability.",
+      "invalidation": "A rapid reversal in payroll momentum, wages, ISM prices, or oil that restores easing optionality."
+    }
+  },
+  {
+    "id": 129,
+    "date": "04-09-2026",
+    "publishedAt": "2026-09-04T08:35-04:00",
+    "category": "Trading Ideas",
+    "categoryColor": "bg-indigo-600",
+    "storyType": "Cross-Asset View",
+    "title": "Good News Turns Bad as Yields Reprice",
+    "summary": "**Equities corrected as stronger labor lifted yields, confirming that inflation and discount rates—not growth relief—are driving the near-term regime.**",
+    "fullContent": "**Equities corrected as stronger labor lifted yields, confirming that inflation and discount rates—not growth relief—are driving the near-term regime.** The [payroll rebound](/i/128) arrived after consecutive upside signals from [manufacturing](/i/126) and [services](/i/127). With the Dow's rolling return correlation to yield changes negative, a rise in yields now transmits directly into lower equity prices: good macro news becomes bad market news. The portfolio implication is to reduce unhedged duration and expensive equity beta, while preserving dry powder for gold only after the initial dollar and yield shock stabilizes. This updates the correction risk already identified in [equities](/i/121) from a warning into an active transmission channel.",
+    "chartPath": "/charts/Equities/good-news-turns-bad-as-yields-reprice_2026-09-04.svg",
+    "chartHeight": "700",
+    "relatedIds": [128, 127, 126, 121],
+    "actionView": {
+      "horizon": "Days to 4 weeks",
+      "stance": "Reduce rate-sensitive equity exposure and avoid adding duration until the yield impulse peaks.",
+      "catalyst": "A further rise in the 2-year or 10-year yield while the stock-yield correlation remains negative.",
+      "invalidation": "Equities absorbing higher yields through stronger earnings revisions or yields reversing lower without a growth break."
+    }
+  },
+  {
+    "id": 130,
+    "date": "04-09-2026",
+    "publishedAt": "2026-09-04T10:15-04:00",
+    "category": "Trading Execution",
+    "categoryColor": "bg-cyan-700",
+    "storyType": "Execution Signal",
+    "title": "Gold Flush Finds 61.8% Support",
+    "summary": "**Gold fell almost $100 across the opening five-minute NFP bar, then rebounded as the 61.8% support zone held and the dollar spike faded.**",
+    "fullContent": "**Gold fell almost $100 across the opening five-minute NFP bar, then rebounded as the 61.8% support zone held and the dollar spike faded.** The release-bar high-to-low move was $99.82; Gold later tested $4,365 before recovering roughly $70 by 10:00 ET. The first impulse validated the [hawkish payroll signal](/i/128) and the equity-rate transmission in [the cross-asset view](/i/129). The recovery does not erase that macro headwind, but it makes the 61.8% reaction useful as an execution filter. A long re-entry requires the price rejection to hold while DXY and front-end yields stop advancing; the technical level alone is not sufficient. That keeps the [strategic gold thesis](/i/120) intact without confusing a rebound with a completed macro reversal.",
+    "chartPath": "/charts/Trading Execution/gold-flush-finds-61-8-support_2026-09-04.svg",
+    "chartHeight": "760",
+    "relatedIds": [129, 128, 123, 120],
+    "actionView": {
+      "horizon": "Intraday to 2 weeks",
+      "stance": "Preserve the strategic long bias, but use the 61.8% rejection only as a conditional re-entry trigger.",
+      "catalyst": "Gold holding above the $4,360-$4,380 support zone as DXY and front-end yields lose momentum.",
+      "invalidation": "A decisive break below $4,360 accompanied by renewed dollar and 2-year yield strength."
+    }
   }
 ]
