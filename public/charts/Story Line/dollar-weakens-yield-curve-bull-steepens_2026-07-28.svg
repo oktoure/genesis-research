@@ -1154,27 +1154,20 @@
              id="g151">
             <rect
                class="bg"
-               x="50.200001"
+               x="50.2"
                y="-2.5"
                width="106"
                height="27"
                style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
                id="rect148"
                rx="2.5"
-               ry="2.5" />
-            <text
+               ry="2.5" /><text
                class="annotation-text"
                text-anchor="middle"
                x="103.22656"
                y="11"
-               style="font-size:8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text151"><tspan
-                 x="103.22656"
-                 y="8.5"
-                 id="tspan1">WEAKER GROWTH DRIVES</tspan><tspan
-                 x="103.22656"
-                 dy="10"
-                 id="tspan2">BULL STEEPENING</tspan></text>
+               style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
+               id="text151"><tspan x="103.22656" y="8.5">WEAKER GROWTH DRIVES</tspan><tspan x="103.22656" dy="10">BULL STEEPENING</tspan></text>
           </g>
         </g>
       </g>
@@ -1200,20 +1193,13 @@
                style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
                id="rect153"
                rx="2.5"
-               ry="2.5" />
-            <text
+               ry="2.5" /><text
                class="annotation-text"
                text-anchor="middle"
                x="72.484375"
                y="11"
                style="font-size: 8px;font-family:'Segoe UI Semibold', 'Segoe UI', Arial;white-space:pre;fill:#455a64;fill-opacity:1"
-               id="text156"><tspan
-                 x="72.484375"
-                 y="8.5"
-                 id="tspan3">DOLLAR WEAKNESS</tspan><tspan
-                 x="72.484375"
-                 dy="10"
-                 id="tspan4">SUPPORTS GOLD</tspan></text>
+               id="text156"><tspan x="72.484375" y="8.5">DOLLAR WEAKNESS</tspan><tspan x="72.484375" dy="10">SUPPORTS GOLD</tspan></text>
           </g>
         </g>
       </g>
@@ -1932,8 +1918,7 @@
                style="fill:#ffffff;fill-opacity:0.9;stroke:#ffffff;stroke-width:2px;stroke-opacity:0.94"
                id="rect273"
                rx="2.5"
-               ry="2.5" />
-            <text
+               ry="2.5" /><text
                class="annotation-text"
                text-anchor="middle"
                x="114.70312"
