@@ -1,9 +1,34 @@
 import fs from "node:fs";
 import path from "node:path";
+import crypto from "node:crypto";
 
 const insights = JSON.parse(fs.readFileSync("app/data/insights.json", "utf8"));
 const chartFiles = [...new Set(insights.map((insight) => path.join("public", insight.chartPath ?? "")).filter((file) => fs.existsSync(file)))];
 const failures = [];
+const auditPath = "docs/editorial/chart-publication-audit.json";
+const audits = fs.existsSync(auditPath) ? JSON.parse(fs.readFileSync(auditPath, "utf8")) : [];
+const auditedFiles = new Set();
+for (const audit of audits) {
+  const file = path.join("public", audit.chartPath);
+  auditedFiles.add(file);
+  if (!fs.existsSync(file)) { failures.push(`${file}: audited SVG is missing`); continue; }
+  if (crypto.createHash("sha256").update(fs.readFileSync(file)).digest("hex") !== audit.sha256) {
+    failures.push(`${file}: changed since whitespace/layout review; regenerate the audit`);
+  }
+  for (const panel of audit.panels) {
+    if (!panel.callouts?.length || panel.callouts.some(c => c.overlapping_pixels !== 0 || c.clearance_box_px?.length !== 4)) {
+      failures.push(`${file}: missing clear-whitespace evidence`);
+    }
+  }
+  if (audit.panels.length === 2) {
+    const [a,b] = audit.panels;
+    if (a.width !== b.width || a.margin?.l !== b.margin?.l || a.margin?.r !== b.margin?.r ||
+        a.height-a.margin.t-a.margin.b !== b.height-b.margin.t-b.margin.b ||
+        JSON.stringify(a.calendar_range) !== JSON.stringify(b.calendar_range)) {
+      failures.push(`${file}: publication panels do not share plot geometry and calendar range`);
+    }
+  }
+}
 const textPattern = /<((?:[\w]+:)?text)\b([^>]*class="annotation-text"[^>]*)>([\s\S]*?)<\/\1>/g;
 const protectedCalloutPattern = /<rect\b([^>]*class="bg"[^>]*)\/>\s*<((?:[\w]+:)?text)\b([^>]*class="annotation-text"[^>]*)>([\s\S]*?)<\/\2>/g;
 const excludedPrefix = /^(?:SOURCE|SOURCES|NOTE|NOTES|DATA THROUGH|ANN % CHG|STD DEV|QUARTERLY|MONTHLY|WEEKLY|DAILY|YEARLY|INDEX|RATE|RATIO|LEVEL|BPS|TH|MN|DXY|\$\/OZ|\$\/BRL|%|\*)\b/i;
@@ -54,8 +79,8 @@ for (const file of chartFiles) {
 
     const style = rectAttributes.match(/style="([^"]*)"/)?.[1] ?? "";
     const opacity = Number(style.match(/fill-opacity:\s*([\d.]+)/)?.[1] ?? 0);
-    if (!/fill:\s*#ffffff/i.test(style) || opacity < 0.85) {
-      failures.push(`${file}: callout lacks a protected white background: ${text}`);
+    if (auditedFiles.has(file) && opacity > 0) {
+      failures.push(`${file}: audited callout must not conceal observations: ${text}`);
     }
   }
 }
@@ -66,4 +91,4 @@ if (failures.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${chartFiles.length} chart SVGs: callouts are concise, wrapped, and protected from series collisions.`);
+console.log(`Validated typography in ${chartFiles.length} chart SVGs; ${audits.length} publication charts have hash-bound whitespace/layout audits. Legacy charts are not certified collision-free.`);

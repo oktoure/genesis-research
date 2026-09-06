@@ -20,6 +20,7 @@ interface Insight {
   fullContent?: string;
   chartPath?: string;
   chartHeight?: string;
+  chartNote?: string;
   relatedIds?: number[];
   actionView?: {
     horizon: string;
@@ -394,6 +395,7 @@ function ClientHome() {
                         Chart coming soon
                       </div>
                     )}
+                    {insight.chartNote && <p className="mt-2 text-xs leading-relaxed text-slate-500">{insight.chartNote}</p>}
                   </div>
 
                   {/* Text */}

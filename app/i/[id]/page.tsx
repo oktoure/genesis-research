@@ -19,6 +19,8 @@ type Insight = {
   fullContent?: string;
   chartPath?: string;
   chartHeight?: string;
+  chartNote?: string;
+  sources?: { label: string; url: string }[];
   relatedIds?: number[];
   actionView?: {
     horizon: string;
@@ -198,11 +200,19 @@ export default async function InsightPage({
         </div>
 
         {/* Body */}
+        {post.chartNote && <p className="mb-6 text-xs leading-relaxed text-slate-500">{post.chartNote}</p>}
         <article className="prose prose-slate max-w-none">
           <p className="text-[15px] leading-relaxed text-slate-800 text-justify">
             {renderInline((post.fullContent || post.summary || '').trim())}
           </p>
         </article>
+        {Boolean(post.sources?.length) && (
+          <p className="mt-4 text-xs leading-relaxed text-slate-500">
+            Sources: {post.sources!.map((source, index) => <React.Fragment key={source.url}>
+              {index > 0 ? ' · ' : ''}<a href={source.url} className="underline underline-offset-2">{source.label}</a>
+            </React.Fragment>)}
+          </p>
+        )}
 
         {post.actionView && (
           <section className="mt-8 rounded-xl border border-slate-200 bg-slate-50 p-5">

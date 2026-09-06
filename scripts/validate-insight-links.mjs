@@ -9,7 +9,7 @@ const failures = [];
 function publicationTime(insight) {
   if (insight.publishedAt) return new Date(insight.publishedAt);
   const [day, month, year] = String(insight.date).split("-");
-  return new Date(`${year}-${month}-${day}T00:00:00`);
+  return new Date(`${year}-${month}-${day}T00:00:00-04:00`);
 }
 
 for (const source of insights) {
@@ -20,7 +20,7 @@ for (const source of insights) {
   const relatedIds = Array.isArray(source.relatedIds) ? source.relatedIds.map(String) : [];
   const targetIds = new Set([...inlineTargetIds, ...relatedIds]);
 
-  if (publicationTime(source) >= new Date("2026-07-01T00:00:00-04:00")) {
+  if (publicationTime(source) >= new Date("2026-06-01T00:00:00-04:00")) {
     if (relatedIds.length < 2 || relatedIds.length > 4) {
       failures.push(`Post ${source.id} must expose 2-4 related research links; found ${relatedIds.length}.`);
     }
@@ -51,4 +51,4 @@ if (failures.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${insights.length} insights: links are chronological and July-August posts expose 2-4 related views.`);
+console.log(`Validated ${insights.length} insights: links are chronological and June onward posts expose 2-4 related views.`);
