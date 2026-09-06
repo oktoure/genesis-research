@@ -1721,8 +1721,7 @@
         "label": "ISM · August manufacturing",
         "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/"
       }
-    ],
-    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
+    ]
   },
   {
     "id": 127,
@@ -1785,8 +1784,7 @@
         "label": "BLS · August employment report",
         "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm"
       }
-    ],
-    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
+    ]
   },
   {
     "id": 129,
@@ -1811,8 +1809,7 @@
       "stance": "Reduce rate-sensitive equity exposure and avoid adding duration until the yield impulse peaks.",
       "catalyst": "A further rise in the 2-year or 10-year yield while the stock-yield correlation remains negative.",
       "invalidation": "Equities absorbing higher yields through stronger earnings revisions or yields reversing lower without a growth break."
-    },
-    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
+    }
   },
   {
     "id": 130,
@@ -1837,7 +1834,6 @@
       "stance": "Preserve the strategic long bias, but use the 61.8% rejection only as a conditional re-entry trigger.",
       "catalyst": "Gold holding above the $4,360-$4,380 support zone as DXY and front-end yields lose momentum.",
       "invalidation": "A decisive break below $4,360 accompanied by renewed dollar and 2-year yield strength."
-    },
-    "chartNote": "Genesis Trading replay: completed 15-minute bars through 10:15 ET, 4 September. Pre-release anchors; conditional setup, not a recorded fill."
+    }
   }
 ]
