@@ -1,0 +1,384 @@
+[
+  {
+    "postId": 126,
+    "chartPath": "/charts/Story Line/oil-shock-keeps-manufacturing-prices-hot_2026-09-01.svg",
+    "sha256": "896a31cfb173ef6c2d6a44f5462f0c2dab45c207563bfd88ce620f5b09a911d1",
+    "referencePost": 106,
+    "asOf": "2026-09-01T10:00:00",
+    "panels": [
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US: OIL YEARLY RETURN (%)",
+          "US: ISM MANUFACTURING PRICE (MOM)"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y2"
+        },
+        "callouts": [
+          {
+            "text": "OIL SUSTAINS<br>PRICE PRESSURE",
+            "x": 0.662604204421892,
+            "y": 0.798034468024498,
+            "clearance_box_px": [
+              338.5,
+              58.0,
+              431.0,
+              94.5
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2000-01-01T00:00:00",
+          "2026-09-01T10:00:00"
+        ]
+      },
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US: ISM PRICES TRACKER*",
+          "US: REGIONAL MFG PRICES PAID TRACKER*",
+          "US: INFLATION EXPECTATIONS TRACKER*"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y",
+          "2": "y"
+        },
+        "callouts": [
+          {
+            "text": "DISINFLATION REMAINS<br>INCOMPLETE",
+            "x": 0.6246488764044945,
+            "y": 0.1357356501922803,
+            "clearance_box_px": [
+              303.0,
+              215.5,
+              428.5,
+              252.0
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2000-01-01T00:00:00",
+          "2026-09-01T10:00:00"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": 127,
+    "chartPath": "/charts/Story Line/services-strength-extends-the-hawkish-mix_2026-09-03.svg",
+    "sha256": "f75ebbe88f4e962f7f539188e887607654f14a9d95cc2b0ae7ebbe3755708524",
+    "referencePost": 34,
+    "asOf": "2026-09-03T10:00:00",
+    "panels": [
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US: 10-YEAR TREASURY YIELD YEARLY CHANGE (bp) (ADV. 15)",
+          "US: ISM NON-MANUFACTURING BUSINESS ACTIVITY INDEX (MOM)"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y2"
+        },
+        "callouts": [
+          {
+            "text": "SERVICES DEMAND<br>REMAINS FIRM",
+            "x": 0.6518326386371873,
+            "y": 0.8907563025210083,
+            "clearance_box_px": [
+              330.5,
+              36.0,
+              428.0,
+              72.5
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2000-01-01T00:00:00",
+          "2026-09-03T10:00:00"
+        ]
+      },
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US: ISM MANUFACTURING NON-MANUFACTURING PRICES (MOM)",
+          "US: ISM MANUFACTURING NON-MANUFACTURING EMPLOYMENT (MOM)"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y"
+        },
+        "callouts": [
+          {
+            "text": "PRICES OUTRUN<br>SERVICE HIRING",
+            "x": 0.6538147879666546,
+            "y": 0.1754735792622134,
+            "clearance_box_px": [
+              334.0,
+              206.0,
+              426.5,
+              242.5
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2000-01-01T00:00:00",
+          "2026-09-03T10:00:00"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": 128,
+    "chartPath": "/charts/Story Line/payroll-rebound-reopens-hike-risk_2026-09-04.svg",
+    "sha256": "7aa450f8fdb0adbe98e562f027c5cc854b6b33dd2cf1054b58581b71575a59ad",
+    "referencePost": 113,
+    "asOf": "2026-09-04T08:30:00",
+    "panels": [
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US: NONFARM PAYROLLS (MoM)",
+          "US: ADP EMPLOYMENT CHANGE (MoM)",
+          "US: NONFARM PAYROLLS (MoM) 3M MA"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y",
+          "2": "y"
+        },
+        "callouts": [
+          {
+            "text": "HIRING REBOUNDS",
+            "x": 0.7212418448713301,
+            "y": 0.803161942743199,
+            "clearance_box_px": [
+              365.0,
+              62.5,
+              462.5,
+              87.0
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2023-01-01T00:00:00",
+          "2026-09-04T08:30:00"
+        ]
+      },
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US: 10Y2Y SPREAD",
+          "US: UNEMPLOYMENT RATE (MOM%)"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y2"
+        },
+        "callouts": [
+          {
+            "text": "LABOR RESILIENCE<br>COMPLICATES EASING",
+            "x": 0.7197127582457412,
+            "y": 0.20196553197550204,
+            "clearance_box_px": [
+              355.5,
+              199.5,
+              470.0,
+              236.0
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2023-01-01T00:00:00",
+          "2026-09-04T08:30:00"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": 129,
+    "chartPath": "/charts/Equities/good-news-turns-bad-as-yields-reprice_2026-09-04.svg",
+    "sha256": "1bd78c02385075f3c97bd2d0d887966bd0b88a78254a5654f146fe0d12c955ba",
+    "referencePost": 121,
+    "asOf": "2026-09-04T08:35:00",
+    "panels": [
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "US30 [1D] LOG",
+          "US: 10-YEAR TREASURY YIELD"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y2"
+        },
+        "callouts": [
+          {
+            "text": "YIELD PRESSURE<br>TESTS EQUITIES",
+            "x": 0.6538147879666546,
+            "y": 0.8907563025210083,
+            "clearance_box_px": [
+              334.0,
+              36.0,
+              426.5,
+              72.5
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2023-01-01T00:00:00",
+          "2026-09-04T08:35:00"
+        ]
+      },
+      {
+        "renderer": "Genesis Viewer",
+        "series": [
+          "SPX vs US10Y Yield Corr 21D",
+          "US30 vs US10Y Yield Corr 21D"
+        ],
+        "axis_map": {
+          "0": "y",
+          "1": "y"
+        },
+        "callouts": [
+          {
+            "text": "RATE SENSITIVITY<br>REMAINS THE RISK",
+            "x": 0.7177759151866617,
+            "y": 0.20196553197550204,
+            "clearance_box_px": [
+              360.5,
+              199.5,
+              464.0,
+              236.0
+            ],
+            "overlapping_pixels": 0
+          }
+        ],
+        "width": 600,
+        "height": 365,
+        "margin": {
+          "b": 99,
+          "l": 56,
+          "r": 48,
+          "t": 28,
+          "autoexpand": false
+        },
+        "calendar_range": [
+          "2023-01-01T00:00:00",
+          "2026-09-04T08:35:00"
+        ]
+      }
+    ]
+  },
+  {
+    "postId": 130,
+    "chartPath": "/charts/Trading Execution/gold-flush-finds-61-8-support_2026-09-04.svg",
+    "sha256": "5280930de72832e131b93599dc75d00e5f76b8c6b39a42db43a604b38f8aedde",
+    "referencePost": 124,
+    "asOf": "2026-09-04T10:15:00",
+    "panels": [
+      {
+        "renderer": "Genesis Trading V4",
+        "callouts": [
+          {
+            "text": "NFP SHOCK<br>TESTS SUPPORT",
+            "x": 0.2510748220672712,
+            "y": 0.7043630962781757,
+            "clearance_box_px": [
+              161.0,
+              255.0,
+              247.5,
+              291.5
+            ],
+            "overlapping_pixels": 0
+          },
+          {
+            "text": "61.8% REJECTION<br>NEEDS CONFIRMATION",
+            "x": 0.6999710972217205,
+            "y": 0.47797658570679713,
+            "clearance_box_px": [
+              426.0,
+              431.0,
+              540.5,
+              467.5
+            ],
+            "overlapping_pixels": 0
+          }
+        ]
+      }
+    ]
+  }
+]

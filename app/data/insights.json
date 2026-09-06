@@ -1109,7 +1109,11 @@
     "summary": "**Openings and claims show labor demand remains resilient, with no evidence yet that the cycle has rolled into a layoff-driven slowdown.**",
     "fullContent": "**Openings and claims show labor demand remains resilient, with no evidence yet that the cycle has rolled into a layoff-driven slowdown.** For traders, recession hedges remain premature and the Fed still has room to stay restrictive if inflation refuses to cool.",
     "chartPath": "/charts/Economics/labor-demand-holds-firm-as-layoffs-stay-contained_18-06-2026.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      92,
+      92.1
+    ]
   },
   {
     "id": 99,
@@ -1121,7 +1125,11 @@
     "summary": "**Falling quits and weaker real wage growth show labor is resilient but no longer overheating, reducing wage-price spiral risk beneath the surface.**",
     "fullContent": "**Falling quits and weaker real wage growth show labor is resilient but no longer overheating, reducing wage-price spiral risk beneath the surface.** The labor market is cooling through lower worker bargaining power, not through a layoff shock.",
     "chartPath": "/charts/Economics/falling-quits-signal-softer-worker-bargaining-power_05-06-2026.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      98,
+      92.1
+    ]
   },
   {
     "id": 100,
@@ -1134,7 +1142,11 @@
     "summary": "**Resilient labor keeps recession risk contained, giving the Fed flexibility to remain hawkish while inflation is still above target.**",
     "fullContent": "**Resilient labor keeps recession risk contained, giving the Fed flexibility to remain hawkish while inflation is still above target.** This is the first pillar of the regime: the economy is not weak enough to force cuts, so yields and the dollar can stay tactically supported. It sets the frame for short-end repricing, keeps pressure on gold, and leaves equities exposed to valuation risk until inflation relief becomes persistent.",
     "chartPath": "/charts/Economics/2026-05-28_US_Labour_Market_Resilience_Higher_For_Longer.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      98,
+      99
+    ]
   },
   {
     "id": 101,
@@ -1147,7 +1159,11 @@
     "summary": "**Positive U.S. data and geopolitical risk lifted yields, rebuilding tactical dollar support even as DXY remains structurally capped.**",
     "fullContent": "**Positive U.S. data and geopolitical risk lifted yields, rebuilding tactical dollar support even as DXY remains structurally capped.** After [labor resilience](/i/100), the market had to price a tighter financial-conditions loop: stronger data supports yields, yields support the dollar, and a stronger dollar pressures gold and risk assets. The risk is whether this remains a temporary oil-shock repricing or turns into a broader tightening regime.",
     "chartPath": "/charts/Economics/2026-05-05_US_Dollar_Yields_Economic_Momentum_Tighter_Financial_Conditions.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      100,
+      97
+    ]
   },
   {
     "id": 102,
@@ -1160,7 +1176,11 @@
     "summary": "**The short end signals the Fed may be behind the inflation cycle, forcing policy to stay restrictive despite political pressure for easier rates.**",
     "fullContent": "**The short end signals the Fed may be behind the inflation cycle, forcing policy to stay restrictive despite political pressure for easier rates.** With [labor](/i/100) and [growth momentum](/i/101) still resilient, the Fed cannot pivot dovish unless inflation relief becomes persistent. This is the policy link between higher yields, tactical dollar strength, pressure on gold, and fragility in equities.",
     "chartPath": "/charts/Economics/2026-05-06_Monetary_Policy_Short_End_Fed_Behind_Curve.svg",
-    "chartHeight": "350"
+    "chartHeight": "350",
+    "relatedIds": [
+      100,
+      101
+    ]
   },
   {
     "id": 103,
@@ -1173,7 +1193,11 @@
     "summary": "**AI weakness and higher-for-longer pricing pressured equities, while value’s lower rate sensitivity helped it outperform as yields rose.**",
     "fullContent": "**AI weakness and higher-for-longer pricing pressured equities, while value’s lower rate sensitivity helped it outperform as yields rose.** The equity market is no longer trading only the AI growth story; it is now reacting to the [Fed reaction function](/i/102) and the financial-conditions loop described in [resilient growth and dollar support](/i/101). Good data can become bad news when it pushes yields higher.",
     "chartPath": "/charts/Equities/2026-05-05_Equities_AI_Selloff_Value_Outperformance_Higher_For_Longer.svg",
-    "chartHeight": "350"
+    "chartHeight": "350",
+    "relatedIds": [
+      102,
+      101
+    ]
   },
   {
     "id": 104,
@@ -1184,9 +1208,20 @@
     "storyType": "Trade Update",
     "title": "Gold Breaks the 200-Day as Real Yields Dominate",
     "summary": "**Gold failed to play its safe-haven role as inflation risk, higher yields, and dollar strength overpowered geopolitical demand.**",
-    "fullContent": "**Gold failed to play its safe-haven role as inflation risk, higher yields, and dollar strength overpowered geopolitical demand.** This confirmed that the Iran shock was a headwind for gold in Q1–Q2 because it lifted oil, inflation expectations, the dollar, and real yields. The tactical bias stayed negative until the market could validate the transitory inflation thesis and later build a long-gold setup.",
+    "fullContent": "**Gold failed to play its safe-haven role as inflation risk, higher yields, and dollar strength overpowered geopolitical demand.** The break below the 200-day average is consistent with the [tighter financial-conditions regime](/i/101) and [hawkish short-end repricing](/i/102). Geopolitical demand alone is not enough while the oil shock raises gold's opportunity cost. The tactical bias remains defensive; a constructive reversal requires the dollar and real yields to ease alongside a repair in price structure.",
     "chartPath": "/charts/Commodities/2026-05-29_Gold_Breaks_200DMA_Geopolitical_Inflation_Yield_Shock.svg",
-    "chartHeight": "350"
+    "chartHeight": "350",
+    "relatedIds": [
+      101,
+      102,
+      103
+    ],
+    "actionView": {
+      "horizon": "Days to several weeks",
+      "stance": "Remain tactically defensive on gold while price stays below the broken structure.",
+      "catalyst": "Persistent dollar and real-yield pressure alongside failure to reclaim the 200-day average.",
+      "invalidation": "A sustained structural reclaim confirmed by weaker dollar and real-yield pressure."
+    }
   },
   {
     "id": 105,
@@ -1199,7 +1234,12 @@
     "summary": "**Fading AI momentum, rising volatility, and hawkish macro signals leave equities neutral but exposed to correction risk.**",
     "fullContent": "**Fading AI momentum, rising volatility, and hawkish macro signals leave equities neutral but exposed to correction risk.** Without AI leadership, the market becomes more sensitive to [higher yields](/i/101), [Fed repricing](/i/102), and oil-driven inflation pressure. This keeps the equity stance neutral rather than bullish: upside requires breadth repair, while downside risk rises if yields stay firm.",
     "chartPath": "/charts/Equities/2026-05-29_Equities_AI_Momentum_Fades_Volatility_Risk_Pullback.svg",
-    "chartHeight": "350"
+    "chartHeight": "350",
+    "relatedIds": [
+      103,
+      101,
+      102
+    ]
   },
   {
     "id": 106,
@@ -1212,7 +1252,12 @@
     "summary": "**Iran-driven oil risk shifted from a geopolitical shock into an inflation-expectations shock, lifting yields and tightening financial conditions.**",
     "fullContent": "**Iran-driven oil risk shifted from a geopolitical shock into an inflation-expectations shock, lifting yields and tightening financial conditions.** The key transmission was not war risk alone: oil pushed inflation pricing higher, inflation pricing fed [Fed repricing](/i/102), and tighter financial conditions pressured [gold](/i/104) and [equities](/i/105). That makes oil the central macro switch for the next phase.",
     "chartPath": "/charts/Economics/ock-eases-as-short-term-inflation-stress-starts-to-rec_05-06-2026.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      102,
+      104,
+      105
+    ]
   },
   {
     "id": 107,
@@ -1225,7 +1270,11 @@
     "summary": "**Breakevens eased from stress highs, suggesting markets were starting to test whether the oil-driven inflation shock was transitory.**",
     "fullContent": "**Breakevens eased from stress highs, suggesting markets were starting to test whether the oil-driven inflation shock was transitory.** The inflation term structure remained elevated, but compression showed the market was no longer pricing a straight inflation spiral. This became the bridge between the [oil shock](/i/106), the next CPI test, and a possible oil-relief regime.",
     "chartPath": "/charts/Economics/breakeven-relief-suggests-the-shock-may-be-transitory-long-term-inflation-expectations-hold-steady-as-breakevens_05-06-2026.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      106,
+      102
+    ]
   },
   {
     "id": 108,
@@ -1238,7 +1287,11 @@
     "summary": "**Headline inflation rose, but softer monthly core readings showed limited energy pass-through, keeping the transitory-shock thesis alive.**",
     "fullContent": "**Headline inflation rose, but softer monthly core readings showed limited energy pass-through, keeping the transitory-shock thesis alive.** This was not a dovish report: inflation was still elevated. But it reduced the risk of an immediate hawkish reset unless oil rose again or core inflation re-accelerated. The result supported the [breakeven-relief signal](/i/107) without invalidating the Fed caution from [labor resilience](/i/100).",
     "chartPath": "/charts/Economics/headline-inflation-stays-hot-but-inflation-relief-appears-at-the-margin_05-06-2026.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      107,
+      100
+    ]
   },
   {
     "id": 111,
@@ -1251,7 +1304,12 @@
     "summary": "**Retail sales and sentiment show the consumer is resilient, giving the Fed room to stay hawkish even as inflation expectations ease.**",
     "fullContent": "**Retail sales and sentiment show the consumer is resilient, giving the Fed room to stay hawkish even as inflation expectations ease.** This is not dovish by itself: demand is holding, so the Fed needs clearer evidence that lower oil and softer core inflation will persist. The post links the [labor-resilience regime](/i/100) with the [core inflation relief](/i/108) and the [oil-relief thesis](/i/112).",
     "chartPath": "/charts/Economics/consumers-spend-through-weak-sentiment-as-inflation-expectations-ease_11-06-2026.svg",
-    "chartHeight": "700"
+    "chartHeight": "700",
+    "relatedIds": [
+      100,
+      108,
+      112
+    ]
   },
   {
     "id": 111.1,
@@ -1265,7 +1323,11 @@
     "fullContent": "**Payroll momentum softened even as unemployment stayed contained, shifting labor from a hawkish driver toward a conditional easing signal.** This did not confirm recession, but it changed the balance of risks after [labor resilience](/i/100). If inflation keeps cooling, softer hiring gives the Fed more flexibility; if inflation returns, the economy has less cushion against tight financial conditions.",
     "chartPath": "/charts/Story Line/labor-market-is-softening_2026-07-03.svg",
     "chartHeight": "700",
-    "relatedIds": [100, 98, 99]
+    "relatedIds": [
+      100,
+      98,
+      99
+    ]
   },
   {
     "id": 112,
@@ -1278,7 +1340,12 @@
     "summary": "**Oil back near pre-war levels supports the view that the inflation spike may be transitory, easing pressure on yields, gold, and equities.**",
     "fullContent": "**Oil back near pre-war levels supports the view that the inflation spike may be transitory, easing pressure on yields, gold, and equities.** This is the reversal of the [oil-shock regime](/i/106): if lower energy prices feed through the next two inflation prints, the Fed can preserve the easing-cycle option. If not, the higher-for-longer regime from [short-end repricing](/i/102) returns quickly.",
     "chartPath": "/charts/Commodities/oil-relief-revives-the-transitory-inflation-narrative_11-06-2026.svg",
-    "chartHeight": "350"
+    "chartHeight": "350",
+    "relatedIds": [
+      106,
+      108,
+      102
+    ]
   },
   {
     "id": 112.1,
@@ -1289,10 +1356,14 @@
     "storyType": "Inflation",
     "title": "Disinflation Broadens as Oil Remains Contained",
     "summary": "**Headline and core CPI softened as oil stayed contained, confirming that disinflation was broadening beyond the initial energy reversal.**",
-    "fullContent": "**Headline and core CPI softened as oil stayed contained, confirming that disinflation was broadening beyond the initial energy reversal.** This validated the [oil-relief thesis](/i/112) and reduced real-rate pressure, creating a cleaner macro backdrop for gold, equities, and EURUSD. It also prepared the ground for a possible long-gold positioning setup.",
+    "fullContent": "**Headline and core CPI softened as oil stayed contained, supporting the case that disinflation is broadening beyond the initial energy reversal.** This strengthens the [oil-relief thesis](/i/112) and extends the [core inflation improvement](/i/108). The opportunity for gold depends on transmission: easing expectations must weaken the dollar or real yields, and price must confirm. Inflation relief improves the backdrop; it is not an entry signal by itself.",
     "chartPath": "/charts/Story Line/disinflation-relief-as-oil-remain-contained_2026-07-14.svg",
     "chartHeight": "350",
-    "relatedIds": [112, 108, 106]
+    "relatedIds": [
+      112,
+      108,
+      106
+    ]
   },
   {
     "id": 112.2,
@@ -1302,11 +1373,15 @@
     "categoryColor": "bg-indigo-600",
     "storyType": "Trade Idea",
     "title": "Dollar Weakness and Bull Steepening Favor Long Gold",
-    "summary": "**Dollar weakness coupled with bull steepening prompts a long-gold position as policy easing expectations begin to dominate the regime.**",
-    "fullContent": "**Dollar weakness coupled with bull steepening prompts a long-gold position as policy easing expectations begin to dominate the regime.** The trade follows directly from [disinflation relief](/i/112.1): as yields soften, the dollar weakens, and Fed optionality reopens, gold shifts from the tactical pressure described in [the 200-day break](/i/104) toward a constructive long setup.",
+    "summary": "**Dollar weakness and bull steepening favor a long-gold idea while gold has yet to confirm the cross-asset shift.**",
+    "fullContent": "**Dollar weakness and bull steepening favor a long-gold idea while gold has yet to confirm the cross-asset shift.** [Disinflation relief](/i/112.1) and [softer hiring momentum](/i/111.1) reopen Fed easing optionality. The divergence matters: a weaker dollar and easing front-end pressure improve gold's backdrop even while elevated long-end yields restrain price. This differs from [June's 200-day break](/i/104). We look for a confirmed base and a defined-risk long rather than chase an unconfirmed macro forecast. Persistent dollar strength or failure of the base would challenge the idea.",
     "chartPath": "/charts/Story Line/dollar-weakens-yield-curve-bull-steepens_2026-07-28.svg",
     "chartHeight": "700",
-    "relatedIds": [112.1, 104, 111.1],
+    "relatedIds": [
+      112.1,
+      104,
+      111.1
+    ],
     "actionView": {
       "horizon": "1-3 months",
       "stance": "Long gold on confirmation from a weaker dollar and lower front-end yields.",
@@ -1325,7 +1400,11 @@
     "chartPath": "/charts/Trading Execution/long-gold-positioning-targets-the-q2-retracement_2026-07-30.svg",
     "chartHeight": "900",
     "storyType": "Positioning",
-    "relatedIds": [112.2, 112.1, 104],
+    "relatedIds": [
+      112.2,
+      112.1,
+      104
+    ],
     "actionView": {
       "horizon": "Open position",
       "stance": "Hold the long-gold position toward the 61.8%-78.6% Q2 retracement zone.",
@@ -1345,7 +1424,11 @@
     "fullContent": "**Payroll momentum softened while long-end yields stayed elevated, leaving the economy with less cushion against a broader slowdown.** The labor market is cooling, not breaking, but the balance of risk has shifted since [labor resilience](/i/100). The next phase depends on whether easing expectations can pull yields lower or whether term premium keeps financial conditions restrictive.",
     "chartPath": "/charts/Economics/labor-softens-as-yield-pressure-persists_15-08-2026.svg",
     "chartHeight": "700",
-    "relatedIds": [111.1, 100, 112.2]
+    "relatedIds": [
+      111.1,
+      100,
+      112.2
+    ]
   },
   {
     "id": 114,
@@ -1359,7 +1442,11 @@
     "fullContent": "**Growth momentum softened while DXY pressure eased, but positive 10-year yield momentum kept financial conditions from fully loosening.** This is why the [long-gold setup](/i/112.2) required confirmation: dollar weakness helped, but residual yield pressure still mattered. Clean easing required both the dollar and yield impulses to turn lower together.",
     "chartPath": "/charts/Macro/yield-pressure-persists-as-growth-momentum-fades_15-08-2026.svg",
     "chartHeight": "700",
-    "relatedIds": [113, 115, 112.2]
+    "relatedIds": [
+      113,
+      115,
+      112.2
+    ]
   },
   {
     "id": 115,
@@ -1373,7 +1460,11 @@
     "fullContent": "**The job-openings-to-unemployment ratio eased from its post-pandemic extreme, signaling less labor tightness without a layoff cycle.** Claims remained contained, so the adjustment looked like cooling demand rather than recessionary labor stress. This reinforced [labor softening](/i/113), but did not yet justify a full risk-off recession trade.",
     "chartPath": "/charts/Economics/labor-tightness-eases-as-claims-stay-contained_15-08-2026.svg",
     "chartHeight": "700",
-    "relatedIds": [113, 111.1, 98]
+    "relatedIds": [
+      113,
+      111.1,
+      98
+    ]
   },
   {
     "id": 116,
@@ -1387,7 +1478,12 @@
     "fullContent": "**Falling uncertainty and softer labor data reopened dovish pricing, removing an important source of support for the dollar.** Inflation was cooling, but easing remained conditional, so dollar downside had to be traded with sensitivity to the next inflation prints. This connected the [labor-softening signal](/i/113), emerging inflation relief, and the [long-gold position](/i/112.2).",
     "chartPath": "/charts/Economics/risk-premium-fades-but-fed-easing-remains-conditional_16-08-2026.svg",
     "chartHeight": "350",
-    "relatedIds": [113, 115, 114, 112.2]
+    "relatedIds": [
+      113,
+      115,
+      114,
+      112.2
+    ]
   },
   {
     "id": 117,
@@ -1401,7 +1497,12 @@
     "fullContent": "**Near-term inflation risk eased toward long-run expectations, reopening policy flexibility while energy uncertainty kept the path conditional.** This supported lower front-end yields if disinflation persisted, but it did not eliminate the need for confirmation from upcoming CPI and PCE data. The result strengthened the easing logic behind [dollar downside](/i/116) and [long gold](/i/112.2).",
     "chartPath": "/charts/Economics/inflation-relief-reopens-fed-optionality_16-08-2026.svg",
     "chartHeight": "700",
-    "relatedIds": [116, 112.1, 113, 112.2]
+    "relatedIds": [
+      116,
+      112.1,
+      113,
+      112.2
+    ]
   },
   {
     "id": 118,
@@ -1415,7 +1516,12 @@
     "fullContent": "**Deteriorating growth is driving bull steepening as markets price out further hikes and a prolonged higher-for-longer stance.** The shift reinforces downside pressure on the dollar and supports the transition from tactical USD strength to structural weakness. This is the FX confirmation of [Fed optionality](/i/117) and a key support for [long-gold positioning](/i/112.2).",
     "chartPath": "/charts/Currencies/us-yield-curve-bull-steepening-signals-policy-easing_20-08-2026.svg",
     "chartHeight": "350",
-    "relatedIds": [117, 116, 112.2, 124]
+    "relatedIds": [
+      117,
+      116,
+      112.2,
+      124
+    ]
   },
   {
     "id": 119,
@@ -1429,7 +1535,12 @@
     "fullContent": "**Deteriorating growth is pulling real and short-term yields lower, while rising term premium keeps the 10-year yield elevated.** The curve is bull steepening through easing expectations at the front end, but fiscal and policy risk still limit the long-end rally. This creates a potentially supportive environment for gold even while elevated term premium prevents a clean duration rally.",
     "chartPath": "/charts/Fixed Income/elevated-yield-rising-term-premium-and-inflation-expectation-are-still-elevated_21-08-2026.svg",
     "chartHeight": "700",
-    "relatedIds": [118, 117, 114, 124]
+    "relatedIds": [
+      118,
+      117,
+      114,
+      124
+    ]
   },
   {
     "id": 120,
@@ -1443,7 +1554,12 @@
     "fullContent": "**Gold is rising despite elevated real yields as the market shifts from a pure rates framework toward debasement, Treasury-liquidity risk, softer dollar conditions, and long-term fiscal uncertainty.** In Q1 and Q2, Iran-driven geopolitical risk was a headwind rather than a tailwind for gold because it lifted oil, inflation expectations, the dollar, and real yields, as flagged in [Gold Breaks the 200-Day](/i/104). Now the setup is different: the geopolitical risk premium is fading, the dollar is softening through [bull steepening](/i/118), and foreign-selling concerns plus Treasury buybacks are pushing investors to reprice reserve-risk and fiscal dominance. [Term-premium risk](/i/119) keeps yields elevated, so the tactical risk has not disappeared. But the strategic signal has changed: gold is beginning to look through real-yield pressure because the debasement narrative is taking control. **We remain constructive on gold as long as the dollar weakens, Fed easing optionality remains alive, and fiscal/liquidity risks continue to support reserve diversification.**",
     "chartPath": "/charts/Commodities/despite-tight-financial-condition-gold-resume-higher_2026-08-24.svg",
     "chartHeight": "700",
-    "relatedIds": [118, 119, 104, 124],
+    "relatedIds": [
+      118,
+      119,
+      104,
+      124
+    ],
     "actionView": {
       "horizon": "1-3 quarters",
       "stance": "Remain strategically long gold, adding selectively on technically confirmed pullbacks.",
@@ -1463,7 +1579,12 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-25T21:28-04:00",
     "storyType": "Unscheduled",
-    "relatedIds": [120, 119, 118, 117],
+    "relatedIds": [
+      120,
+      119,
+      118,
+      117
+    ],
     "actionView": {
       "horizon": "1-3 months",
       "stance": "Stay selective in equities and reduce risk where valuation is unsupported by earnings delivery.",
@@ -1483,7 +1604,12 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-26T08:30-04:00",
     "storyType": "Growth",
-    "relatedIds": [115, 113, 121, 117],
+    "relatedIds": [
+      115,
+      113,
+      121,
+      117
+    ],
     "actionView": {
       "horizon": "2-6 weeks",
       "stance": "Do not position for recession until weaker confidence appears in spending, payrolls, or output.",
@@ -1503,7 +1629,12 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-28T10:00-04:00",
     "storyType": "Monetary Policy",
-    "relatedIds": [122, 125, 124, 120],
+    "relatedIds": [
+      122,
+      125,
+      124,
+      120
+    ],
     "actionView": {
       "horizon": "1-2 weeks",
       "stance": "Expect tactical gold pressure while preserving the strategic long thesis and waiting for re-entry confirmation.",
@@ -1523,7 +1654,12 @@
     "chartHeight": "700",
     "publishedAt": "2026-08-18T10:00-04:00",
     "storyType": "Target Reached",
-    "relatedIds": [112.3, 112.2, 117, 116],
+    "relatedIds": [
+      112.3,
+      112.2,
+      117,
+      116
+    ],
     "actionView": {
       "horizon": "Position closed",
       "stance": "Profit taken in the 61.8%-78.6% target zone; do not chase an automatic re-entry.",
@@ -1543,7 +1679,12 @@
     "fullContent": "**Above-target PCE inflation limits the Fed's freedom to ease despite softer headline growth.** July headline and core PCE both increased 0.2% and remained 3.7% and 3.3% higher year over year. Combined with [demand that is still holding](/i/122), inflation has not weakened enough to justify a clean dovish pivot. The near-term transmission is firmer short-rate expectations, greater dollar support, and pressure on gold and duration-sensitive equities until disinflation becomes broader and persistent.",
     "chartPath": "/charts/Story Line/sticky-pce-keeps-policy-risk-hawkish_2026-08-26.svg",
     "chartHeight": "700",
-    "relatedIds": [122, 117, 120, 121],
+    "relatedIds": [
+      122,
+      117,
+      120,
+      121
+    ],
     "actionView": {
       "horizon": "1-4 weeks",
       "stance": "Keep duration and gold exposure tactical until disinflation broadens beyond the headline data.",
@@ -1559,17 +1700,29 @@
     "categoryColor": "bg-slate-800",
     "storyType": "Inflation",
     "title": "Oil Shock Keeps Manufacturing Prices Hot",
-    "summary": "**Manufacturing remained expansionary while elevated input prices and $90 oil preserved the inflation risk behind a higher-for-longer Fed.**",
-    "fullContent": "**Manufacturing remained expansionary while elevated input prices and $90 oil preserved the inflation risk behind a higher-for-longer Fed.** The August manufacturing PMI held at 54.6, with new orders at 53.7, production at 58.3, employment at 51.2, and prices at 71.1. Renewed Iran escalation lifted oil and reinforced the cost channel already visible in [sticky PCE](/i/125). This is not a clean stagflation signal: activity is still expanding. It is a restrictive mix in which the Fed has less room to ease, extending the policy risk established by [Warsh's inflation focus](/i/123) and limiting the safe-haven benefit of geopolitics for [strategic long gold](/i/120).",
+    "summary": "**Expanding manufacturing and elevated input prices keep the Fed's inflation constraint intact.**",
+    "fullContent": "**Expanding manufacturing and elevated input prices keep the Fed's inflation constraint intact.** August's manufacturing PMI eased to 54.6, but prices held at 71.1. Growth is slowing within expansion, not collapsing. Oil adds a supply-side risk to the [sticky inflation backdrop](/i/125), recalling [June's energy-to-rates transmission](/i/106). Our inference is that the Fed has less urgency to ease, not that a hike is inevitable. For gold, geopolitical demand can be offset by firmer yields and the dollar; fresh longs still need confirmation against the [strategic thesis](/i/120).",
     "chartPath": "/charts/Story Line/oil-shock-keeps-manufacturing-prices-hot_2026-09-01.svg",
     "chartHeight": "700",
-    "relatedIds": [123, 125, 120, 121],
+    "relatedIds": [
+      125,
+      123,
+      106,
+      120
+    ],
     "actionView": {
       "horizon": "1-4 weeks",
       "stance": "Keep gold and duration exposure tactical while oil and manufacturing prices sustain inflation risk.",
       "catalyst": "Oil remaining above $90 or another firm price survey extending higher-for-longer rate expectations.",
       "invalidation": "A reversal in oil and broad disinflation that pulls expected short rates and the dollar lower."
-    }
+    },
+    "sources": [
+      {
+        "label": "ISM · August manufacturing",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/august/"
+      }
+    ],
+    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
   },
   {
     "id": 127,
@@ -1579,17 +1732,29 @@
     "categoryColor": "bg-slate-800",
     "storyType": "Inflation",
     "title": "Services Strength Extends the Hawkish Mix",
-    "summary": "**Stronger services demand and a 72.6 prices index broadened the inflation signal beyond oil and manufacturing.**",
-    "fullContent": "**Stronger services demand and a 72.6 prices index broadened the inflation signal beyond oil and manufacturing.** The services PMI rose to 55.4, while business activity reached 61.7 and new orders 60.9. Employment remained soft at 47.8, but that weakness was not enough to offset accelerating demand and the strongest services-prices reading since October 2022. Combined with the [manufacturing and oil shock](/i/126), the release confirms that price pressure is not confined to energy. The next payroll report therefore becomes the deciding link between [hawkish policy risk](/i/123) and market pricing: resilient labor would give the Fed room to respond to inflation; renewed labor weakness would reopen the easing path.",
+    "summary": "**Firm services activity and elevated prices keep policy risk hawkish despite softer survey employment.**",
+    "fullContent": "**Firm services activity and elevated prices keep policy risk hawkish despite softer survey employment.** The services PMI rose to 55.4, business activity reached 61.7, and prices climbed to 72.6; employment remained below 50 at 47.8. That split matters: demand and price pressure are firm, but hiring is not uniformly strong. Alongside [manufacturing prices](/i/126), the report argues against an uncomplicated dovish pivot. Payrolls are the next test of [the Fed's inflation constraint](/i/123), while [resilient hard demand](/i/122) keeps recession positioning conditional. We wait for the labor release and the dollar/yield response rather than trade the survey in isolation.",
     "chartPath": "/charts/Story Line/services-strength-extends-the-hawkish-mix_2026-09-03.svg",
     "chartHeight": "700",
-    "relatedIds": [126, 123, 125, 122],
+    "relatedIds": [
+      126,
+      123,
+      125,
+      122
+    ],
     "actionView": {
       "horizon": "Days to 3 weeks",
       "stance": "Maintain a hawkish data bias into payrolls, with limited appetite for duration-sensitive risk.",
       "catalyst": "Payroll strength confirming that the Fed can prioritize the renewed services inflation signal.",
       "invalidation": "A material labor deterioration that overwhelms the survey-strength and price data."
-    }
+    },
+    "sources": [
+      {
+        "label": "ISM · August services",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/august/"
+      }
+    ],
+    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
   },
   {
     "id": 128,
@@ -1599,17 +1764,29 @@
     "categoryColor": "bg-slate-800",
     "storyType": "Labor Market",
     "title": "Payroll Rebound Reopens Hike Risk",
-    "summary": "**A 162k payroll gain and positive revisions removed the labor weakness that had protected markets from persistent inflation.**",
-    "fullContent": "**A 162k payroll gain and positive revisions removed the labor weakness that had protected markets from persistent inflation.** Unemployment held at 4.1%, wages increased 0.3% month over month and 3.1% year over year, and June-July payrolls were revised up by a combined 55k. The result reverses the policy implication of [July's labor break](/i/115): labor is no longer weak enough to force the Fed to look through the [oil and manufacturing price shock](/i/126) or [strong services prices](/i/127). Strong labor is good economic news, but in this inflation regime it is bad news for rate-sensitive assets because it raises the probability of a hike and keeps the dollar and front-end yields supported.",
+    "summary": "**A payroll rebound reduces the urgency to ease while persistent inflation keeps hawkish policy risk alive.**",
+    "fullContent": "**A payroll rebound reduces the urgency to ease while persistent inflation keeps hawkish policy risk alive.** August payrolls rose 162k, unemployment held at 4.1%, and June–July revisions added 55k. The rebound challenges the earlier [soft-labor narrative](/i/113), but concentration in hospitality and local education argues against declaring a broad acceleration from one print. With [services prices](/i/127) and [manufacturing costs](/i/126) still elevated, good labor news can pressure rate-sensitive assets if markets price a firmer policy path. That is a conditional transmission, not proof that a hike is certain. Watch whether front-end yields and DXY sustain the initial repricing.",
     "chartPath": "/charts/Story Line/payroll-rebound-reopens-hike-risk_2026-09-04.svg",
     "chartHeight": "620",
-    "relatedIds": [127, 126, 123, 115],
+    "relatedIds": [
+      127,
+      126,
+      123,
+      113
+    ],
     "actionView": {
       "horizon": "1-3 weeks",
       "stance": "Trade the renewed hawkish impulse through caution on equities and patience on fresh gold longs.",
       "catalyst": "Further front-end yield increases or Fed communication validating the rise in hike probability.",
       "invalidation": "A rapid reversal in payroll momentum, wages, ISM prices, or oil that restores easing optionality."
-    }
+    },
+    "sources": [
+      {
+        "label": "BLS · August employment report",
+        "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm"
+      }
+    ],
+    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
   },
   {
     "id": 129,
@@ -1619,17 +1796,23 @@
     "categoryColor": "bg-indigo-600",
     "storyType": "Cross-Asset View",
     "title": "Good News Turns Bad as Yields Reprice",
-    "summary": "**Equities corrected as stronger labor lifted yields, confirming that inflation and discount rates—not growth relief—are driving the near-term regime.**",
-    "fullContent": "**Equities corrected as stronger labor lifted yields, confirming that inflation and discount rates—not growth relief—are driving the near-term regime.** The [payroll rebound](/i/128) arrived after consecutive upside signals from [manufacturing](/i/126) and [services](/i/127). With the Dow's rolling return correlation to yield changes negative, a rise in yields now transmits directly into lower equity prices: good macro news becomes bad market news. The portfolio implication is to reduce unhedged duration and expensive equity beta, while preserving dry powder for gold only after the initial dollar and yield shock stabilizes. This updates the correction risk already identified in [equities](/i/121) from a warning into an active transmission channel.",
+    "summary": "**Stronger labor raises the risk that discount-rate pressure outweighs growth support for equities.**",
+    "fullContent": "**Stronger labor raises the risk that discount-rate pressure outweighs growth support for equities.** The [payroll rebound](/i/128) follows firm [services prices](/i/127) and renews the sensitivity identified in [August's equity warning](/i/121). Our existing index–yield and rolling-correlation panels frame the exposure; correlation alone does not establish causation or predict every session. If yields and DXY keep advancing while equity breadth weakens, the tactical response is less rate-sensitive equity risk. If earnings expectations absorb higher yields, that defensive view loses force. The same distinction was important in [June's rate-sensitive selloff](/i/103).",
     "chartPath": "/charts/Equities/good-news-turns-bad-as-yields-reprice_2026-09-04.svg",
     "chartHeight": "700",
-    "relatedIds": [128, 127, 126, 121],
+    "relatedIds": [
+      128,
+      127,
+      121,
+      103
+    ],
     "actionView": {
       "horizon": "Days to 4 weeks",
       "stance": "Reduce rate-sensitive equity exposure and avoid adding duration until the yield impulse peaks.",
       "catalyst": "A further rise in the 2-year or 10-year yield while the stock-yield correlation remains negative.",
       "invalidation": "Equities absorbing higher yields through stronger earnings revisions or yields reversing lower without a growth break."
-    }
+    },
+    "chartNote": "Historical view rebuilt 5 September 2026 using Genesis. Observation cutoffs are shown; source series may include later revisions."
   },
   {
     "id": 130,
@@ -1637,18 +1820,24 @@
     "publishedAt": "2026-09-04T10:15-04:00",
     "category": "Trading Execution",
     "categoryColor": "bg-cyan-700",
-    "storyType": "Execution Signal",
+    "storyType": "Setup Review",
     "title": "Gold Flush Finds 61.8% Support",
-    "summary": "**Gold fell almost $100 across the opening five-minute NFP bar, then rebounded as the 61.8% support zone held and the dollar spike faded.**",
-    "fullContent": "**Gold fell almost $100 across the opening five-minute NFP bar, then rebounded as the 61.8% support zone held and the dollar spike faded.** The release-bar high-to-low move was $99.82; Gold later tested $4,365 before recovering roughly $70 by 10:00 ET. The first impulse validated the [hawkish payroll signal](/i/128) and the equity-rate transmission in [the cross-asset view](/i/129). The recovery does not erase that macro headwind, but it makes the 61.8% reaction useful as an execution filter. A long re-entry requires the price rejection to hold while DXY and front-end yields stop advancing; the technical level alone is not sufficient. That keeps the [strategic gold thesis](/i/120) intact without confusing a rebound with a completed macro reversal.",
+    "summary": "**Gold's payroll-driven selloff tested the 61.8% zone before rebounding, creating a conditional setup rather than an automatic long.**",
+    "fullContent": "**Gold's payroll-driven selloff tested the 61.8% zone before rebounding, creating a conditional setup rather than an automatic long.** The Genesis intraday record shows an almost $100 high-to-low range in the initial five-minute bar, followed by a test near $4,365 and a recovery. Using the pre-release September swing, the 61.8% retracement is approximately $4,370. This is a price-action response to the [hawkish labor impulse](/i/128), not evidence that the macro risk has disappeared. As in the [late-July execution](/i/112.3), entry requires a defensible structure and cross-asset confirmation. We retain the [strategic gold bias](/i/120), but wait for support to hold and dollar/front-end pressure to stabilize. This chart reconstructs the setup; it does not assert a broker fill.",
     "chartPath": "/charts/Trading Execution/gold-flush-finds-61-8-support_2026-09-04.svg",
     "chartHeight": "760",
-    "relatedIds": [129, 128, 123, 120],
+    "relatedIds": [
+      128,
+      129,
+      112.3,
+      120
+    ],
     "actionView": {
       "horizon": "Intraday to 2 weeks",
       "stance": "Preserve the strategic long bias, but use the 61.8% rejection only as a conditional re-entry trigger.",
       "catalyst": "Gold holding above the $4,360-$4,380 support zone as DXY and front-end yields lose momentum.",
       "invalidation": "A decisive break below $4,360 accompanied by renewed dollar and 2-year yield strength."
-    }
+    },
+    "chartNote": "Genesis Trading replay: completed 15-minute bars through 10:15 ET, 4 September. Pre-release anchors; conditional setup, not a recorded fill."
   }
 ]
