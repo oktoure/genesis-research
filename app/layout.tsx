@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -33,6 +34,7 @@ export default function RootLayout({
         <Suspense fallback={<div className="p-6 text-sm text-slate-500">Loading…</div>}>
           {children}
         </Suspense>
+        <Analytics />
       </body>
     </html>
   );
